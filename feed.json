@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-07-14T13:53:23.062346+00:00",
+  "items": [
+    {
+      "id": "56b495f05d20544a",
+      "title": "littledivy/mimic",
+      "summary_nl": "Mimic: elke app een Python-bibliotheek\n\nMimic onderschept aanroepen van een willekeurige applicatie en maakt die vervolgens vanuit Python aanroepbaar alsof het een gewone library is. In plaats van een API te bouwen of te wachten tot een programma die aanbiedt, haakt Mimic in op de bestaande applicatie en legt de functionaliteit bloot als Python-functies. Dat opent de deur om tools waar je normaal alleen op kunt klikken, te scripten, automatiseren of te combineren met andere Python-code. Inspirerend omdat het de scheiding tussen \"app met interface\" en \"programmeerbare functie\" opheft, zonder dat de originele ontwikkelaar daar iets voor hoeft te doen. Wat je nodig hebt: basiskennis Python, affiniteit met het intercepten of instrumenteren van processen, en de bereidheid om te experimenteren, want dit is duidelijk een tool voor wie verder wil kijken dan standaard API's; zie github.com/littledivy/mimic.",
+      "url": "https://github.com/littledivy/mimic",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.86,
+      "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "16aa4320e3dd052d",
+      "title": "Show HN: PDF to Markdown with a side-by-side check so you can see what broke",
+      "summary_nl": "Nooit meer blind vertrouwen op een conversietool: deze webapp zet PDF's om naar Markdown en toont daarbij direct het origineel naast het resultaat, zodat je in één oogopslag ziet waar de opmaak, tabellen of tekstvolgorde de mist ingaan. Het idee is simpel maar precies wat vaak ontbreekt bij dit soort tools: geen losse controlestap nodig, je ziet meteen wat er \"brak\" tijdens de conversie. Inspirerend omdat dit een klein maar praktisch ontwerpprobleem oplost dat veel mensen met documentation-, notitie- of RAG-workflows herkennen. Wat je nodig hebt: een PDF om te testen, een browser, en verder geen technische kennis of installatie, dit is direct te proberen via https://pdfmarkdown.app/.",
+      "url": "https://pdfmarkdown.app/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.99,
+      "published_at": "2026-07-14T12:27:01+00:00"
+    },
+    {
+      "id": "322930b634f9932d",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "summary_nl": "Een taal die AI-code leesbaar maakt voor mensen: Jacquard pakt een probleem aan dat steeds vaker opduikt nu AI-assistenten grote hoeveelheden code schrijven. Het idee is dat Jacquard, genoemd naar het weefgetouw dat met vaste patronen werkt, een strikte en voorspelbare syntax hanteert waardoor AI-gegenereerde code overzichtelijker en makkelijker te controleren is voor de menselijke reviewer. De slimme vondst is dat de taal niet probeert AI te vervangen of te verbeteren, maar het menselijke controleproces vereenvoudigt door structuur en leesbaarheid voorop te stellen boven flexibiliteit. Inspirerend omdat het een andere invalshoek biedt in de discussie over AI en programmeren: niet sneller code genereren, maar de mens beter in staat stellen die code te begrijpen en te vertrouwen. Wat je nodig heb",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.91,
+      "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "7b2e51a7ccf0c8c0",
+      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "summary_nl": "Waar lekt je omzet weg voordat je het zelf doorhebt? Rejourney is een open-source tool die gebruikersgedrag op web- en mobiele apps analyseert om zogeheten \"revenue leaks\" te voorspellen, momenten waarop klanten afhaken of minder besteden dan verwacht. Het systeem combineert gedragsdata met voorspellende modellen, zodat je niet achteraf in dashboards moet zoeken naar wat er misging, maar vooraf gewaarschuwd wordt. Wat je nodig hebt: basiskennis van data-analyse of analytics-tools, enige ervaring met het integreren van tracking in een web- of mobiele app, en tijd om de tool op te zetten en de voorspellingen te interpreteren binnen je eigen productcontext. Bron: https://github.com/rejourneyco/rejourney",
+      "url": "https://github.com/rejourneyco/rejourney",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.99,
+      "published_at": "2026-07-14T11:06:09+00:00"
+    },
+    {
+      "id": "9fbe8936ed2a34ee",
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "summary_nl": "Wegwerp-VM voor je AI-coding-agent: nooit meer op je eigen laptop klooien. Clawk is een tool waarmee je coding agents zoals Claude of andere AI-assistenten laat draaien in een disposable Linux VM in plaats van rechtstreeks op je systeem, zodat experimentele code, installaties en agent-acties netjes geïsoleerd blijven. Het idee is simpel maar effectief: je start een schone virtuele machine op, laat de agent daarin zijn gang gaan, en gooit hem daarna gewoon weg zonder sporen op je eigen machine achter te laten. Inspirerend omdat het een praktisch antwoord biedt op een reëel ongemak bij het werken met autonome coding agents, namelijk de angst dat ze iets stukmaken of rommelig gedrag vertonen op je hoofdsysteem. Wat je nodig heb je: basiskennis van virtualisatie en de command line, en de bereidheid om een relatief nieuw open-sourceproject uit te proberen, zoals",
+      "url": "https://github.com/clawkwork/clawk",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.9,
+      "published_at": "2026-07-13T14:02:03+00:00"
+    },
+    {
+      "id": "d1b99f33d37bbcfa",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "summary_nl": "Van HTML naar Word zonder gedoe\n\nDOM-docx zet HTML rechtstreeks om naar een native, bewerkbaar .docx-bestand, zonder tussenstap via een PDF-printer of externe conversieservice. De tool leest de DOM-structuur en vertaalt opmaak zoals koppen, lijsten en tabellen naar de bijbehorende Word-elementen, zodat het resultaat in Word gewoon aanpasbaar blijft in plaats van een platte afbeelding of vastgezette layout te zijn. Het project is MIT-gelicentieerd, dus vrij te gebruiken en aan te passen in eigen software. Wat je nodig hebt: basiskennis van JavaScript/Node om de library in te bouwen, en een use case waarbij gebruikers rapporten of documenten vanuit een webapp als Word-bestand willen exporteren. Bron: https://github.com/floodtide/dom-docx",
+      "url": "https://github.com/floodtide/dom-docx",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.89,
+      "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "8ec874c15e3bf9b7",
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "summary_nl": "Xcode overslaan, toch naar de App Store: kan dat echt?\n\nScott Willsey beschrijft hoe hij Mac- en iOS-apps bouwt en uitrolt zonder ooit Xcode te openen, door te leunen op command-line tools zoals xcodebuild, Fastlane en scripts die het hele build- en signeerproces automatiseren. De slimme vondst zit hem erin dat je zo je eigen workflow en editor kunt gebruiken, terwijl Xcode alleen op de achtergrond wordt aangeroepen voor compilatie en distributie. Wat je nodig hebt: een macOS-machine met Xcode command-line tools geïnstalleerd, ervaring met terminal en scripting, en geduld om certificaten en provisioning profiles goed te configureren. Bron: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.92,
+      "published_at": "2026-07-13T18:22:16+00:00"
+    },
+    {
+      "id": "7b7a7f99daf4625d",
+      "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+      "summary_nl": "Excel als brug tussen mens en AI-agent: Nobie maakt het mogelijk. Nobie is een runtime die Excel-compatibel is, zodat spreadsheets die mensen al kennen ook direct door AI-agents gelezen en bewerkt kunnen worden zonder dat er een aparte databaselaag of custom formaat nodig is. De slimme vondst is dat je niet je hele workflow hoeft om te gooien voor agentic AI, maar het bestaande spreadsheetformaat als gedeelde taal gebruikt tussen mens en machine. Inspirerend omdat het een pragmatische tussenweg biedt in een tijd waarin veel AI-tools juist vragen om nieuwe, gesloten formats. Wat je nodig hebt: basiskennis van Excel en spreadsheets, een uur om de werking te verkennen, en interesse in hoe agents met bestaande bestandsformaten kunnen samenwerken (bron: https://nobie.com).",
+      "url": "https://nobie.com",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.92,
+      "published_at": "2026-07-13T18:26:04+00:00"
+    },
+    {
+      "id": "6562e70676ff8a70",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "summary_nl": "Een agent die andere modellen leert trainen: dit project draait de gebruikelijke volgorde om. In plaats van dat een mens de reinforcement learning-pijplijn opzet, hyperparameters kiest en experimenten monitort, is hier juist een agent zelf met RL getraind om precies dat werk te doen: het trainen van andere modellen. De maker deelt op GitHub hoe dit is aangepakt en wat het aan compute heeft gekost, namelijk zo'n 1.300 dollar, wat het een behapbaar experiment maakt in plaats van een project met een onbeperkt budget. Inspirerend omdat het laat zien dat je met een bescheiden budget al kunt experimenteren met \"meta-RL\", waarbij het trainingsproces zelf onderwerp van optimalisatie wordt. Wat je nodig heb je: gedegen kennis van reinforcement learning en de bijbehorende tooling, ervaring met het opzetten en debuggen van trainingspipelines, en een budget van ruwweg 1.000 tot 1.500 dollar aan compute om het na te bouwen of uit te breiden. Bron: https://github.com/Danau5tin/ai-trains-ai",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 7.0,
+      "published_at": "2026-07-14T12:41:25+00:00"
+    },
+    {
+      "id": "894f8896e67e52f5",
+      "title": "The git history command",
+      "summary_nl": "Waarom git blame je nooit het hele verhaal vertelt: Lalit Maganti beschrijft in dit artikel een 'git history' commando dat verder kijkt dan de standaard git log en git blame, door de evolutie van een specifiek stuk code te volgen over commits, hernoemingen en refactors heen. Het idee is dat je met een paar regels of een functie als uitgangspunt automatisch de relevante geschiedenis reconstrueert, zonder handmatig door tientallen commits te spitten. Inspirerend omdat het laat zien hoe je met slimme scripting rond bestaande git-tools een",
+      "url": "https://lalitm.com/post/git-history/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.95,
+      "published_at": "2026-07-14T00:57:11+00:00"
+    },
+    {
+      "id": "03099091347f925a",
+      "title": "Building Food Metadata with LLM Juries",
+      "summary_nl": "Slimme jury tegen valse zekerheid: hoe DoorDash menu's leert begrijpen\n\nDoorDash gebruikt geen los AI-model meer om menu-items te classificeren (denkt dit gerecht pittig, vegetarisch of bevat het noten), maar laat meerdere LLM's als een soort jury onafhankelijk oordelen over dezelfde vraag. Door de uitkomsten te vergelijken en context zoals foto's, beschrijvingen en restaurantcategorie te optimaliseren, ontstaat metadata die betrouwbaarder is dan wat één model alleen zou concluderen. Inspirerend omdat het laat zien hoe je onzekerheid in AI-oordelen serieus neemt in plaats van te verbergen achter één stellig antwoord, iets waar veel praktische AI-toepassingen aan voorbijgaan. Wat je nodig hebt: ervaring met LLM-prompting en multimodale modellen, en gevoel voor het opzetten van evaluatiepijplijnen; dit is materiaal voor wie al met AI-systemen in productie werkt, niet voor beginners. Meer details in het artikel van DoorDash: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.95,
+      "published_at": "2026-07-14T01:41:49+00:00"
+    },
+    {
+      "id": "2676c016c6c62d55",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "summary_nl": "Apple's spraakherkenning krijgt een flinke upgrade, maar is het ook beter dan de concurrentie? Deze benchmark zet de nieuwe SpeechAnalyzer API, geïntroduceerd in de laatste macOS- en iOS-releases, naast zowel voorganger SFSpeechRecognizer als OpenAI's Whisper, en meet snelheid en nauwkeurigheid op vergelijkbare audiofragmenten. De vondst zit hem erin dat Apple's eigen framework nu dicht in de buurt komt van Whisper qua kwaliteit, terwijl het volledig on-device draait, zonder cloudverbinding of API-kosten. Inspirerend omdat dit laat zien dat lokale, privacy-vriendelijke spraakherkenning een serieus alternatief wordt voor cloud-gebaseerde oplossingen, wat relevant is voor iedereen die apps bouwt met audiotranscriptie. Wat je nodig hebt: een Mac of iOS-apparaat met een recente OS-versie, basiskennis van Swift en API-integratie, en een paar uur om de benchmarkresultaten te doorgronden en zelf te testen. Bron: https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.91,
+      "published_at": "2026-07-13T16:06:08+00:00"
+    },
+    {
+      "id": "b22933702201646f",
+      "title": "Kappaemme-git/codex-first-customer-finder-skill",
+      "summary_nl": "Op zoek naar je eerste klanten zonder eindeloos zelf te scrollen door LinkedIn en fora: deze Codex-skill doet het speurwerk voor je. Codex-first-customer-finder-skill spoort recente publieke signalen op (denk aan posts, vragen of klachten online) en filtert daaruit potentiële eerste klanten die onderbouwd zijn met concreet bewijs, in plaats van een losse lijst met giswerk. Het idee is dat je zo sneller met de juiste mensen in gesprek raakt, omdat je al weet waarom ze relevant zijn voordat je ze benadert. Wat je nodig hebt: toegang tot Codex om de skill te draaien, een duidelijk beeld van je doelgroep of niche, en een uurtje om de eerste resultaten te bekijken en te verifiëren voordat je ze gebruikt. Zie github.com/Kappaemme-git/codex-first-customer-finder-skill voor de code en werking.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.8,
+      "published_at": "2026-07-12T14:24:33+00:00"
+    },
+    {
+      "id": "48757b3ecc9f4c5c",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "summary_nl": "CUDA zonder Nvidia: kan dat eigenlijk? Spectral Compute presenteert zich als alternatief dat CUDA-code laat draaien op niet-Nvidia hardware, zodat ontwikkelaars niet langer vastzitten aan één fabrikant voor hun GPU-workloads. De slimme vondst zit in het compileren en vertalen van bestaande CUDA-kernels naar andere architecturen, zonder dat teams hun code helemaal moeten herschrijven. Inspirerend omdat het laat zien hoe de dominantie van Nvidia in AI- en HPC-omgevingen mogelijk wordt doorbroken door softwarelagen in plaats van nieuwe chips. Wat je nodig hebt: ervaring met CUDA-programmering, GPU-hardware van een andere leverancier om mee te testen, en tijd om te experimenteren met compatibiliteit en performanceverschillen, zoals besproken op https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/.",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.98,
+      "published_at": "2026-07-14T08:24:49+00:00"
+    },
+    {
+      "id": "5eec8078bc3b913f",
+      "title": "ECB selects 36 payment service providers to join digital euro pilot",
+      "summary_nl": "De digitale euro krijgt gezelschap: 36 partijen mogen meebouwen. De ECB heeft dit aantal betalingsdienstverleners geselecteerd om deel te nemen aan een pilot rond de digitale euro, waarbij zij in de praktijk gaan testen hoe betalingen met een centrale bank digitale munt werken voor consumenten en handelaren. De precieze opzet en werking van de pilot worden in de aankondiging niet uitgebreid toegelicht, maar het past in het bredere traject waarin de ECB stap voor stap toewerkt naar een mogelijke introductie van de digitale euro. Inspirerend omdat het laat zien hoe centrale banken en marktpartijen samen infrastructuur voor toekomstig geld beproeven voordat het grootschalig wordt uitgerold. Wat je nodig hebt: geen directe actie vereist, wel is het nuttig om als financieel geïnteresseerde de voortgang te volgen via ECB-publicaties, zeker als je in de betaal- of bankensector werkt. Bron: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
+      "source": "rss:ecb_press",
+      "category": "macro",
+      "score": 6,
+      "final_score": 5.98,
+      "published_at": "2026-07-14T09:00:00+00:00"
+    }
+  ]
+}
