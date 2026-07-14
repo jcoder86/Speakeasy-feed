@@ -1,0 +1,52 @@
+# Bronconfiguratie voor de nieuws-curatiepipeline.
+# type bepaalt welke fetcher (pipeline/fetchers/*.py) gebruikt wordt.
+
+ai_usecase:
+  hackernews:
+    enabled: true
+    type: hn
+    feeds: ["topstories", "showstories"]
+    min_points: 15
+    min_comments: 5
+    max_items_per_feed: 60
+
+  devto:
+    enabled: true
+    type: devto
+    url: "https://dev.to/api/articles?tag=ai&top=7"
+    min_reactions: 15
+
+  github:
+    enabled: true
+    type: github_search
+    days: 7
+    min_stars_per_week: 10
+    max_results: 50
+
+  anthropic_news:
+    enabled: true
+    type: rss
+    url: "https://www.anthropic.com/news/rss.xml"
+    # Skip zonder falen als deze feed niet (meer) bestaat.
+    optional: true
+
+macro:
+  ecb_press:
+    enabled: true
+    type: rss
+    url: "https://www.ecb.europa.eu/rss/press.html"
+    optional: true
+
+  fed_press:
+    enabled: true
+    type: rss
+    url: "https://www.federalreserve.gov/feeds/press_all.xml"
+    optional: true
+
+  reuters_business:
+    enabled: true
+    type: rss
+    url: "https://feeds.reuters.com/reuters/businessNews"
+    # Let op: Reuters heeft publieke RSS-feeds meermaals ingetrokken/verplaatst.
+    # Controleer bij setup of deze URL nog live is; anders overslaan (optional: true voorkomt falen).
+    optional: true
