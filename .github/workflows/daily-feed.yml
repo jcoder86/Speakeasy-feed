@@ -3,7 +3,9 @@ name: Daily feed curation
 on:
   schedule:
     # 06:00 Europe/Amsterdam valt op 04:00 UTC (zomertijd/CEST) of 05:00 UTC (wintertijd/CET).
-    # Beide triggeren; de "check-tijd"-stap zorgt dat de run alleen doorgaat rond 06:00 lokale tijd.
+    # GitHub Actions cron-triggers lopen vaak fors achter op de geplande tijd, dus geen
+    # strikte lokale-tijd-check meer: elke trigger draait gewoon. De pipeline is idempotent
+    # (dedup op url, decay op basis van published_at), dus twee runs per dag is onschadelijk.
     - cron: "0 4 * * *"
     - cron: "0 5 * * *"
   workflow_dispatch: {}
@@ -19,34 +21,20 @@ jobs:
   curate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check lokale tijd (Europe/Amsterdam)
-        id: check-tijd
-        run: |
-          hour=$(TZ=Europe/Amsterdam date +%H)
-          if [ "$hour" = "06" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Checkout
-        if: steps.check-tijd.outputs.run == 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        if: steps.check-tijd.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Installeer dependencies
-        if: steps.check-tijd.outputs.run == 'true'
         run: pip install -r requirements.txt
 
       - name: Haal bestaande feed.json op van gh-pages
-        if: steps.check-tijd.outputs.run == 'true'
         run: |
           if git ls-remote --exit-code --heads origin gh-pages > /dev/null 2>&1; then
             git fetch origin gh-pages
@@ -56,14 +44,12 @@ jobs:
           fi
 
       - name: Draai curatiepipeline
-        if: steps.check-tijd.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m pipeline.main
 
       - name: Commit bijgewerkte state
-        if: steps.check-tijd.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -72,13 +58,11 @@ jobs:
           git push origin HEAD:${{ github.ref_name }}
 
       - name: Voorbereid publish-map
-        if: steps.check-tijd.outputs.run == 'true'
         run: |
           mkdir -p _site
           cp feed.json _site/feed.json
 
       - name: Publiceer feed.json naar gh-pages
-        if: steps.check-tijd.outputs.run == 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
