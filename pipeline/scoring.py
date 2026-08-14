@@ -8,6 +8,8 @@ from typing import List
 import anthropic
 
 from .config import (
+    AI_RELEASE_MIN_REALITEIT,
+    AI_RELEASE_MIN_TOTAL,
     AI_USECASE_MIN_ROI,
     AI_USECASE_MIN_TOTAL,
     ANTHROPIC_API_KEY,
@@ -47,6 +49,20 @@ Scoor elk item op deze rubric, elk als geheel getal binnen de aangegeven range:
 
 Antwoord ALLEEN met geldige JSON: een lijst van objecten in dezelfde volgorde als de input, \
 elk met exact de velden: index, significantie, beursimpact, actualiteit."""
+
+_AI_RELEASE_SYSTEM = """Je scoort nieuwsberichten over AI-tools/modellen voor iemand die AI-tools gebruikt en \
+ermee bouwt. Het gaat hier specifiek om ECHTE, NU BESCHIKBARE releases van labs zoals Anthropic, OpenAI, \
+Google/Gemini en Meta — nieuwe modellen, features, API's of tools die je vandaag kunt gebruiken.
+
+Scoor elk item op deze rubric, elk als geheel getal binnen de aangegeven range:
+- realiteit (0-2): is dit een release die NU beschikbaar/live is? 0 als het een aankondiging is voor de \
+toekomst, een roadmap-item, "coming soon", preview-wachtlijst e.d. 2 als het vandaag te gebruiken is.
+- relevantie (0-3): hoe relevant is dit voor iemand die dagelijks met AI-tools werkt/bouwt (nieuwe \
+capability, prijswijziging, API-verandering, nieuw model)?
+- impact (0-2): hoe groot is de verandering t.o.v. wat er al bestond?
+
+Antwoord ALLEEN met geldige JSON: een lijst van objecten in dezelfde volgorde als de input, \
+elk met exact de velden: index, realiteit, relevantie, impact."""
 
 
 def _client() -> anthropic.Anthropic:
@@ -101,6 +117,7 @@ def score_candidates(candidates: List[Candidate]) -> List[ScoredItem]:
 
     ai_items = [c for c in candidates if c.category == "ai_usecase"]
     macro_items = [c for c in candidates if c.category == "macro"]
+    release_items = [c for c in candidates if c.category == "ai_release"]
 
     for batch in _chunk(ai_items, BATCH_SIZE):
         try:
@@ -144,6 +161,26 @@ def score_candidates(candidates: List[Candidate]) -> List[ScoredItem]:
             }
             total = sum(rubric.values())
             if total >= MACRO_MIN_TOTAL:
+                scored.append(ScoredItem(candidate=c, scores=rubric, score=total))
+
+    for batch in _chunk(release_items, BATCH_SIZE):
+        try:
+            results = _score_batch(client, _AI_RELEASE_SYSTEM, batch)
+        except (anthropic.APIError, ValueError, json.JSONDecodeError) as e:
+            log.warning("ai_release scoring-batch mislukt, batch overgeslagen: %s", e)
+            continue
+        for r in results:
+            idx = r.get("index")
+            if idx is None or idx >= len(batch):
+                continue
+            c = batch[idx]
+            rubric = {
+                "realiteit": r.get("realiteit", 0),
+                "relevantie": r.get("relevantie", 0),
+                "impact": r.get("impact", 0),
+            }
+            total = sum(rubric.values())
+            if total >= AI_RELEASE_MIN_TOTAL and rubric["realiteit"] >= AI_RELEASE_MIN_REALITEIT:
                 scored.append(ScoredItem(candidate=c, scores=rubric, score=total))
 
     return scored

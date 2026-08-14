@@ -13,21 +13,34 @@ from .models import Candidate
 
 log = logging.getLogger(__name__)
 
-# Hard-exclusie vóór scoring, alleen voor ai_usecase (zie opdracht-rubric).
-_EXCLUDE_PATTERNS = [
+# Hard-exclusie vóór scoring voor ai_usecase (zie opdracht-rubric): builder-content,
+# geen productmarketing, listicles of bedrijfsnieuws.
+_AI_USECASE_EXCLUDE_PATTERNS = [
     r"\bacquires?\b",
     r"\bacquisition\b",
     r"\bmerger\b",
     r"\braises? \$",
     r"\bfunding round\b",
     r"\bseries [a-e]\b",
-    r"\blaunches?\b.*\bmodel\b",
-    r"\bannounc(es|ing|ed)\b.*\b(model|release)\b",
     r"^\d+\s+(ways|things|tips|tricks|reasons)\b",
     r"\bwill (change|replace|disrupt|transform)\b",
     r"\bthe future of\b",
 ]
-_EXCLUDE_RE = re.compile("|".join(_EXCLUDE_PATTERNS), re.IGNORECASE)
+_AI_USECASE_EXCLUDE_RE = re.compile("|".join(_AI_USECASE_EXCLUDE_PATTERNS), re.IGNORECASE)
+
+# Hard-exclusie voor ai_release: alleen taal die verraadt dat iets nog NIET beschikbaar is
+# ("later dit jaar", "binnenkort", wachtlijst, roadmap). Echte releases moeten er juist door.
+_AI_RELEASE_EXCLUDE_PATTERNS = [
+    r"\bcoming (soon|later)\b",
+    r"\blater this year\b",
+    r"\bplanned for\b",
+    r"\bwaitlist\b",
+    r"\bwill be available\b",
+    r"\bin the coming (weeks|months)\b",
+    r"\broadmap\b",
+    r"\bpreview access\b",
+]
+_AI_RELEASE_EXCLUDE_RE = re.compile("|".join(_AI_RELEASE_EXCLUDE_PATTERNS), re.IGNORECASE)
 
 
 def load_seen() -> dict:
@@ -48,9 +61,12 @@ def save_seen(seen: dict) -> None:
 
 
 def is_hard_excluded(candidate: Candidate) -> bool:
-    if candidate.category != "ai_usecase":
-        return False
-    return bool(_EXCLUDE_RE.search(candidate.title))
+    text = f"{candidate.title} {candidate.raw_text}"
+    if candidate.category == "ai_usecase":
+        return bool(_AI_USECASE_EXCLUDE_RE.search(text))
+    if candidate.category == "ai_release":
+        return bool(_AI_RELEASE_EXCLUDE_RE.search(text))
+    return False
 
 
 def filter_candidates(candidates: Iterable[Candidate], seen: dict, now: datetime | None = None) -> List[Candidate]:

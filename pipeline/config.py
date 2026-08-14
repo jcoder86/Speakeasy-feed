@@ -20,12 +20,14 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")  # optioneel, verhoogt rate limit 
 
 AGE_FILTER_HOURS = 48
 
-# Rubric-drempels
-AI_USECASE_MIN_TOTAL = 6
-AI_USECASE_MIN_ROI = 1
-MACRO_MIN_TOTAL = 5
+# Rubric-drempels (versoepeld t.o.v. het origineel om meer content door te laten).
+AI_USECASE_MIN_TOTAL = 5
+AI_USECASE_MIN_ROI = 0
+MACRO_MIN_TOTAL = 4
+AI_RELEASE_MIN_TOTAL = 4
+AI_RELEASE_MIN_REALITEIT = 1  # moet een echte, nu beschikbare release zijn, geen aankondiging
 
-FEED_FINAL_SCORE_THRESHOLD = 4
+FEED_FINAL_SCORE_THRESHOLD = 3
 DECAY_PER_DAY = 0.1
 
 

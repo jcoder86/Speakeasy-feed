@@ -6,28 +6,49 @@ ai_usecase:
     enabled: true
     type: hn
     feeds: ["topstories", "showstories"]
-    min_points: 15
-    min_comments: 5
+    min_points: 10
+    min_comments: 3
     max_items_per_feed: 60
 
   devto:
     enabled: true
     type: devto
     url: "https://dev.to/api/articles?tag=ai&top=7"
-    min_reactions: 15
+    min_reactions: 8
 
   github:
     enabled: true
     type: github_search
     days: 7
-    min_stars_per_week: 10
+    min_stars_per_week: 6
     max_results: 50
 
+# Echte, nu beschikbare tool-/model-releases van de grote AI-labs.
+# Géén roadmap/"later dit jaar"-aankondigingen — dat wordt in de scoring hard uitgesloten.
+ai_release:
   anthropic_news:
     enabled: true
     type: rss
     url: "https://www.anthropic.com/news/rss.xml"
-    # Skip zonder falen als deze feed niet (meer) bestaat.
+    optional: true
+
+  openai_news:
+    enabled: true
+    type: rss
+    url: "https://openai.com/news/rss.xml"
+    # Controleer bij setup of dit pad nog klopt; optional:true voorkomt falen.
+    optional: true
+
+  google_ai:
+    enabled: true
+    type: rss
+    url: "https://blog.google/technology/ai/rss/"
+    optional: true
+
+  meta_ai:
+    enabled: true
+    type: rss
+    url: "https://ai.meta.com/blog/rss/"
     optional: true
 
 macro:
