@@ -1,6 +1,226 @@
 {
-  "generated_at": "2026-07-14T13:53:23.062346+00:00",
+  "generated_at": "2026-08-15T04:37:51.960131+00:00",
   "items": [
+    {
+      "id": "426d901f60a12d64",
+      "title": "Show HN: RAGless – similar to RAG, but $0 LLM API costs at runtime",
+      "summary_nl": "RAGless: alle voordelen van RAG, maar zonder de rekening achteraf. Waar traditionele RAG-systemen bij elke vraag opnieuw een LLM aanroepen om documenten te doorzoeken en samen te vatten, verplaatst RAGless dat werk kennelijk naar een voorbereidingsfase, zodat er tijdens gebruik geen API-kosten meer bijkomen. De precieze techniek erachter wordt in de titel niet toegelicht, maar de belofte is duidelijk: dezelfde functionaliteit als retrieval augmented generation, alleen dan met $0 runtime-kosten. Inspirerend omdat het laat zien dat je niet per se afhankelijk hoeft te zijn van doorlopende LLM-aanroepen om kennisgebaseerde antwoorden te bouwen. Wat je nodig heeft: ervaring met",
+      "url": "https://github.com/EmilResearch/RAGless",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.92,
+      "published_at": "2026-08-14T09:51:11+00:00"
+    },
+    {
+      "id": "8137cf7508488ecd",
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "summary_nl": "Een verlaten open-sourceproject weer tot leven wekken op een zaterdagmiddag: dat is precies wat hier gebeurt met Weave Scope, ooit een populaire tool voor het visualiseren van Docker- en Kubernetes-omgevingen. De auteur laat zien hoe je met behulp van Antigravity een verouderde build-pijplijn moderniseert en er multi-platform Docker images uitrolt, geschikt voor zowel x86_64 als ARM64. De aanpak draait om het herkennen van verouderde afhankelijkheden en build-configuraties, en die stap voor stap vervangen zonder de kernfunctionaliteit te breken. Inspirerend omdat het laat zien dat het reanimeren van \"dode\" open-sourcetools haalbaar is binnen een paar uur, in plaats van een project dat je afschrijft. Wat je nodig heb: basiskennis van Docker en containerbuilds, ervaring met het lezen van bestaande codebases, en een middag vrije tijd. Bron: https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.95,
+      "published_at": "2026-08-14T16:36:10+00:00"
+    },
+    {
+      "id": "08315995f7290e31",
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "summary_nl": "Een AI-agent delen via een linkje, zonder server op de achtergrond\n\nHashAgent laat je een AI-agent volledig verpakken in een URL, die vervolgens lokaal in de browser draait dankzij WebGPU. Er is geen backend nodig die het model host of de gesprekken verwerkt: de berekeningen gebeuren op de grafische kaart van de gebruiker zelf. Dat maakt delen simpel, want je stuurt gewoon een link door en de ontvanger kan direct aan de slag zonder installatie of account. Inspirerend omdat het laat zien hoe ver browsertechnologie inmiddels reikt: complete AI-agents draaien zonder cloud-infrastructuur, puur op lokale hardware. Wat je nodig heb: een browser met WebGPU-ondersteuning en een videokaart die dat aankan; verder is geen technische kennis vereist om een gedeelde agent te gebruiken. Bron: https://hashagent.pages.dev/",
+      "url": "https://hashagent.pages.dev/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.93,
+      "published_at": "2026-08-14T12:57:02+00:00"
+    },
+    {
+      "id": "f8a70a0ee900bf29",
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "summary_nl": "Een poortwachter tussen je AI-agent en zijn tools: nodig als je agents write-acties laat uitvoeren. De ontwikkelaar merkte dat AI-agents met toegang tot tools soms ongewenste of onverwachte acties uitvoeren, en besloot daarom zelf een tussenlaag te bouwen die controleert en goedkeurt wat een agent daadwerkelijk mag doen voordat een tool wordt aangeroepen. Het project, agent-tooltrust, is te installeren via pip en op GitHub te vinden, inclusief een field test report waarin het ontwerp en de werking worden toegelicht. Inspirerend omdat het een concreet antwoord biedt op een reëel vertrouwensprobleem bij agentic AI, zonder te vervallen in abstracte theorie. Wat je nodig heb je: basiskennis van Python en AI-agents, ervaring met tool-integraties, en een uur of wat om de documentatie en field test door te nemen (github.com/deghosal-2026/agent-tooltrust, dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb).",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.81,
+      "published_at": "2026-08-13T06:43:24+00:00"
+    },
+    {
+      "id": "5a94dd163bfbe84d",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "summary_nl": "Mole graaft dieper dan je gemiddelde zoekopdracht: een deep research agent die rechtstreeks in je terminal draait. Het idee is dat je een onderzoeksvraag stelt en Mole zelfstandig meerdere bronnen doorzoekt, resultaten combineert en een samenhangend antwoord opbouwt, zonder dat je tussen tien browsertabbladen hoeft te schakelen. Wat je nodig hebt: affiniteit met de command line, een API-key voor het onderliggende taalmodel, en een halfuurtje om het te installeren en uit te proberen op een eigen onderzoeksvraag. Zie de broncode en documentatie op https://github.com/lajosdeme/mole.",
+      "url": "https://github.com/lajosdeme/mole",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-14T18:52:48+00:00"
+    },
+    {
+      "id": "f86f5e472c6acb63",
+      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
+      "summary_nl": "Een AI die eerlijker naar je hond kijkt dan jijzelf. PawWise gebruikt Google AI om vanaf een foto de conditie van een hond te beoordelen, en koppelt daar meteen advies aan over gewicht en gezondheid, iets waar volgens de maker 59% van de hondenbezitters compleet naast zit. Daarnaast helpt de tool bij het duiden van verwarrend gedrag en het inschatten hoe urgent een situatie is, met als luchtige bonus dat de hond \"op proces\" kan bij onschuldige kattenkwaad. Inspirerend omdat het laat zien hoe beeldherkenning, normaal voorbehouden aan serieuze toepassingen, hier heel toegankelijk wordt ingezet voor iets huiselijks als hondenzorg. Wat je nodig heb: geen technische kennis, alleen een foto van je hond en een paar minuten tijd; zie https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89.",
+      "url": "https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-14T18:36:28+00:00"
+    },
+    {
+      "id": "df53bf562276fa1e",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "summary_nl": "Meer uit je AI-programmeerassistent halen: hoe pak je dat aan? Anthropic deelt in dit blog concrete werkwijzen om Claude Code effectiever in te zetten, zoals het slim opbouwen van context, taken opsplitsen en de juiste momenten kiezen om de AI te laten controleren of bijsturen. De kern is dat de kwaliteit van je output sterk samenhangt met hoe doordacht je de sessie structureert, niet alleen met de kracht van het model zelf. Wat je nodig hebt: een Claude Code abonnement, basiservaring met programmeren en werken met AI-coding tools, en een uur om de aanbevolen werkwijzen door te nemen en toe te passen op je eigen project. Bron: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-14T16:15:21+00:00"
+    },
+    {
+      "id": "4135cb0bfc28c0a1",
+      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+      "summary_nl": "Terug naar de basis: notities zonder poespas\n\nMininote is een notitie-app die teruggrijpt naar wat notities ooit waren: gewoon platte tekst, direct beschikbaar, zonder account of tracking. Je opent de app en begint te typen, zonder wachten op synchronisatie of het accepteren van gebruiksvoorwaarden. De slimme vondst zit in wat het niet doet: geen cloud-verplichting, geen dataverzameling en geen proprietary formaat waar je later niet meer vanaf komt. Inspirerend omdat het laat zien dat een tool ook waardevol kan zijn door bewust functies weg te laten in plaats van toe te voegen. Wat je nodig hebt: geen technische kennis, de app installeren en direct aan de slag, vijf minuten om te ontdekken of de eenvoud bij je workflow past (https://mininote.ink/).",
+      "url": "https://mininote.ink/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-14T15:30:29+00:00"
+    },
+    {
+      "id": "e75e5fb5723fbb4a",
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "summary_nl": "ReelCraft: van fotomap naar videoclip met een Python-scriptje\n\nEen ontwikkelaar stuitte per ongeluk op een nieuwe pagina in de Gemini API en bouwde daaruit ReelCraft, een Python-tool die losse foto's en videoclips omzet in korte, gemonteerde video's. Het model (aangeduid als Gemini 3.7 Flash) verzorgt de selectie en montagelogica, zodat je niet zelf handmatig clips hoeft te knippen en te ordenen. Inspirerend omdat het laat zien hoe een toevallige ontdekking in een API-documentatie kan uitgroeien tot een bruikbaar, op maat gebouwd hulpmiddel, zonder dat daar een compleet productteam voor nodig was. Wat je nodig heb: basiskennis van Python en API-gebruik, een Gemini API-key, en een paar uur om het script te installeren en aan te passen aan je eigen foto- en videobestanden. Bron: https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-14T16:55:48+00:00"
+    },
+    {
+      "id": "bae71eb952aa444a",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "summary_nl": "Weg van de telefoon, terug naar papier (nou ja, e-ink): deze ontwikkelaar bouwde een systeem dat zijn RSS-feeds automatisch omzet in een krantlay-out op een e-ink scherm. Het idee is simpel maar effectief: in plaats van eindeloos scrollen op je telefoon, print je feeds worden verzameld en opgemaakt tot iets dat aanvoelt als een ochtendkrant, met vaste secties en een rustig leesritme. Inspirerend omdat het laat zien hoe je met bestaande open technologie (RSS, e-ink-displays) een tegenwicht kunt bieden aan de constante prikkels van een smartphone-interface. Wat je nodig heb je: een e-ink scherm of tablet (denk aan een reMarkable-achtig apparaat of een goedkoper e-inkbord), wat programmeerervaring om de RSS-naar-lay-out pipeline te bouwen of aan te passen, en een paar uur om je eigen feeds en voorkeuren in te richten. Bron: https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-14T14:21:18+00:00"
+    },
+    {
+      "id": "c20565a194fb0267",
+      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+      "summary_nl": "Zelf de regie over je pushmeldingen, ook op iPhone\n\nWie web push notificaties wil sturen zonder afhankelijk te zijn van diensten als Firebase of OneSignal, kan nu terecht bij een self-hosted oplossing die draait op een Cloudflare Worker. Het bijzondere is dat dit ook werkt op iOS, waar Apple pas sinds kort en met de nodige beperkingen web push ondersteunt, wat dit soort losstaande implementaties extra waardevol maakt. Inspirerend omdat je hiermee volledige controle houdt over gebruikersdata en infrastructuurkosten, zonder een externe partij die meeleest of een limiet oplegt aan het aantal verzonden meldingen. Wat je nodig heeft: een Cloudflare-account (het gratis tier volstaat vaak al), basiskennis van JavaScript en Workers, en een uurtje om de code te doorgronden en te deployen. Zie https://kukuroo.cc/ voor de broncode en verdere toelichting.",
+      "url": "https://kukuroo.cc/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-14T15:03:12+00:00"
+    },
+    {
+      "id": "b6711d27f640c286",
+      "title": "Ntfy – open-source Push to Mobile",
+      "summary_nl": "Push-berichten sturen zonder Google of Apple erbij te betrekken: dat is Ntfy. Het is een open-source pub/sub-dienst waarmee je met een simpele HTTP-request (curl of een POST-verzoek) meldingen naar je telefoon of desktop stuurt, bijvoorbeeld vanuit een script, cronjob of thuisserver. Je abonneert je op een zelfgekozen \"topic\" via de app of webbrowser, en alles wat daarnaartoe gepubliceerd wordt komt binnen als notificatie, zonder account of registratie nodig. Inspirerend omdat het laat zien hoe je met minimale infrastructuur toch betrouwbare, realtime meldingen kunt bouwen voor eigen projecten. Wat je nodig hebt: basiskennis van command line of scripting, een telefoon met de ntfy-app (of gewoon een browser), en eventueel een eigen server als je het zelf wilt hosten in plaats van de gratis publieke dienst te gebruiken (https://ntfy.sh/).",
+      "url": "https://ntfy.sh/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.92,
+      "published_at": "2026-08-14T10:35:43+00:00"
+    },
+    {
+      "id": "860e81df2852a5a3",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "summary_nl": "Grote taalmodellen delen zonder een dure GPU-cluster: kan dat? Lumabri laat je Mixture-of-Experts-modellen draaien over een peer-to-peer-netwerk, waarbij de rekenlast via het Colibri-protocol wordt verdeeld over meerdere machines die samen een 'swarm' vormen. Elke deelnemer host een deel van de experts, zodat je gezamenlijk grotere modellen kunt draaien dan één machine aankan. Inspirerend omdat het een concreet antwoord biedt op de vraag hoe je zware AI-modellen toegankelijk houdt zonder centrale infrastructuur of grote investeringen. Wat je nodig hebt: basiskennis van Python en netwerken, een machine met voldoende geheugen om als node mee te draaien, en de bereidheid om te experimenteren met een project in vroege fase; zie de broncode en documentatie op https://github.com/JustVugg/lumabri.",
+      "url": "https://github.com/JustVugg/lumabri",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.88,
+      "published_at": "2026-08-14T00:47:04+00:00"
+    },
+    {
+      "id": "0c5e56b921d04197",
+      "title": "decionis/agent-safe-pipeline",
+      "summary_nl": "Wie mag een AI-agent eigenlijk laten uitvoeren? Deze referentie-architectuur splitst dat expliciet: agents mogen acties voorstellen, maar niet zelf autoriseren. Het voorstel wordt onveranderlijk vastgelegd, een onafhankelijke Decionis policy-check geeft een verdict (ALLOW/ESCALATE/BLOCK), een mens moet geverifieerd goedkeuren, en pas dan mag een SafeExecutor de actie uitvoeren via een eenmalige, aan die specifieke intentie gebonden grant. Inspirerend omdat het een concreet, herbruikbaar patroon biedt voor het scheiden van \"willen\" en \"mogen\" in agent-systemen, iets waar veel praktijkimplementaties nu nog te losjes mee omgaan. Wat je nodig heb je: ervaring met het bouwen van agent-pipelines, basiskennis van policy engines en autorisatiestromen, en een paar uur om de repository door te nemen en te vertalen naar je eigen architectuur. Bron: https://github.com/decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.87,
+      "published_at": "2026-08-13T21:36:19+00:00"
+    },
+    {
+      "id": "f7e973b8e33d7327",
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "summary_nl": "Snel geheugen voor AI-agents zonder zware databases nodig te hebben: dat is de belofte van MCP Memory. Het project combineert Google's Optimized Knowledge Format (OKF) met SQLite's FTS5-zoekfunctionaliteit, waardoor agents snel eerdere gesprekken en feiten kunnen opslaan en terugvinden zonder een externe vector-database of complexe infrastructuur. De slimme vondst zit in het gebruik van SQLite, een lichte, lokale oplossing die volltekstzoeken mogelijk maakt zonder de overhead van typische embedding-gebaseerde geheugensystemen. Inspirerend omdat het laat zien dat je met bestaande, simpele tools als SQLite een praktisch probleem in agent-architecturen kunt oplossen, in plaats van meteen naar zwaardere oplossingen te grijpen. Wat je nodig hebt: basiskennis van het Model Context Protocol (MCP) en SQLite, en een uur of wat om het project te installeren en te testen in je eigen agent-opstelling (github.com/fellowgeek/mcp-memory).",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.84,
+      "published_at": "2026-08-13T13:57:47+00:00"
+    },
+    {
+      "id": "c3041d00b4ad3831",
+      "title": "Leutenegger/book-to-skill",
+      "summary_nl": "Van boekenkast naar werkbank: technische PDF's als directe kennisbron in Claude Code\n\nBook-to-skill zet een technisch boek in PDF-vorm om naar een Claude Code skill, zodat je de inhoud niet alleen leest maar er ook direct mee kunt werken tijdens het coderen. De tool structureert de kennis uit het boek zodanig dat Claude het als naslagwerk kan raadplegen en toepassen op je actuele vraagstukken, in plaats van dat je zelf steeds moet terugbladeren of losse fragmenten moet kopiëren. Inspirerend omdat het een concrete brug slaat tussen traditioneel leren uit een boek en het praktisch toepassen van die kennis binnen je ontwikkelomgeving. Wat je nodig hebt: een technisch boek in PDF-formaat, toegang tot Claude Code, en basiskennis van het werken met skills binnen dat platform; de omzetting zelf kost weinig tijd, het echte rendement zit in het gebruik daarna. Bron: https://github.com/Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.84,
+      "published_at": "2026-08-13T13:15:23+00:00"
+    },
+    {
+      "id": "960c278c839eccc6",
+      "title": "ccch1mneyyy/dsh-TUI",
+      "summary_nl": "Een tekstuele walvis die je terminal leven kleurt: dsh-TUI vult een gat dat DSH zelf nog open liet. De officiële DSH-tool had nog geen fatsoenlijke terminal-interface, en deze community-plugin lost dat op met een volledig scherm vullende TUI in Claude Code-stijl, inclusief een pixel-walvis bovenaan, een live statusregel, uitklappende \"denk\"-stromen, een dubbele Esc-druk om acties terug te draaien, en een voortgangsbalk met TPS-meter voor context. Vooral handig voor wie liever in de command line werkt dan in een browser of app, en niet wil inboeten op visuele feed",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.83,
+      "published_at": "2026-08-13T12:49:31+00:00"
+    },
+    {
+      "id": "9bee5304c19d0f56",
+      "title": "Anionex/dsh-vision-toolkit",
+      "summary_nl": "Zicht voor tekstmodellen: deze plugin geeft DeepSeek Harness ogen\n\nDsh-vision-toolkit is een plugin waarmee een taalmodel dat zelf geen beeld kan verwerken, alsnog visuele taken uitvoert: denk aan beeldvragen met context, OCR op lange screenshots, het reconstrueren van UI's, en pixel-verschillen opsporen. De slimme vondst is dat het model zelf niet hoeft te \"zien\" - de toolkit regelt de beeldverwerking en levert de resultaten in een vorm die het taalmodel kan interpreteren en er verder mee kan redeneren, inclusief een Web UI en Artifacts-ondersteuning. Inspirerend omdat het laat zien hoe je bestaande tekstmodellen kunt uitbreiden zonder ze opnieuw te trainen, puur door slimme tooling eromheen te bouwen. Wat je nodig hebt: ervaring met het opzetten van agent-toolkits of plugins, basiskennis van DeepSeek Harness, en enkele uren om de integratie te configureren en te testen. Bron: https://github.com/Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.83,
+      "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
+      "id": "1f4b5a6f6647514e",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "summary_nl": "Betrouwbare GPU-code van AI: controle in plaats van vertrouwen\n\nSteeds vaker laten ontwikkelaars een LLM GPU-kernels schrijven, maar hoe weet je of zo'n gegenereerde kernel ook daadwerkelijk correct is en zich houdt aan het beoogde contract, bijvoorbeeld qua geheugentoegang, synchronisatie en numerieke precisie? Dit onderzoek presenteert een verifier die LLM-gegenereerde GPU-kernels systematisch toetst tegen formele specificaties, zodat fouten aan het licht komen voordat code in productie draait. De slimme vondst is dat de verificatie niet afhankelijk is van het vertrouwen in de LLM zelf, maar een onafhankelijke, contract-grade controlelaag toevoegt aan de ontwikkelworkflow. Inspirerend omdat het een concreet antwoord geeft op een groeiend praktijkprobleem: AI-code die werkt op het oog, maar onder de motorkap subtiele GPU-bugs bevat die moeilijk te vinden zijn. Wat je nodig hebt: ervaring met GPU-programmeren (bijvoorbeeld CUDA), affiniteit met formele verificatie of contracten, en tijd om de aanpak op eigen kernels toe te passen, zie de paper op https://arxiv.org/abs/2608.12700.",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.95,
+      "published_at": "2026-08-14T16:57:14+00:00"
+    },
+    {
+      "id": "3dd801c3d3192ee8",
+      "title": "alchaincyf/deepseek-harness-orange-book",
+      "summary_nl": "Wat zit er nou echt onder de motorkap van DeepSeek? Dit GitHub-project, het \"orange book\" getiteld Van opstarten tot opengevouwen, deelt de volledige systeemprompt, een checklist van 129 stappen om het model op te starten, en drie ruwe sessielogs die je zelden ergens anders tegenkomt. Het is geen officiële documentatie maar eigen, praktisch onderzoekswerk dat laat zien hoe het model in de praktijk wordt aangestuurd, inclusief de details die fabrikanten meestal weglaten. Inspirerend omdat het transparantie biedt in een veld waar de meeste werking achter gesloten deuren blijft, en omdat het aanzet tot zelf experimenteren en narekenen. Wat je nodig hebt: geen speciale tools, wel wat affiniteit met prompting en AI-systemen om de logs en checklist goed te kunnen duiden; het materiaal is gratis te downloaden als PDF, EPUB of HTML (bron: https://github.com/alchaincyf/deepseek-harness-orange-book).",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.89,
+      "published_at": "2026-08-14T03:14:33+00:00"
+    },
     {
       "id": "56b495f05d20544a",
       "title": "littledivy/mimic",
@@ -9,8 +229,30 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.86,
+      "final_score": 7.7,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "9fdd4584ac44ba48",
+      "title": "AI Driven Testing",
+      "summary_nl": "AI-testen zonder het handwerk: slimmer testen met AI\n\nDeltix.ai presenteert zich als een platform voor AI-gestuurd testen van software, waarbij kunstmatige intelligentie een deel van het traditionele testwerk overneemt: van het genereren van testcases tot het detecteren van regressies. De onderliggende gedachte is dat AI patronen in code en gebruikersgedrag herkent die mensen makkelijk over het hoofd zien, waardoor testdekking toeneemt zonder dat testers alles handmatig hoeven te schrijven. Inspirerend omdat het laat zien hoe AI niet alleen code schrijft, maar ook meehelpt die code te bewaken en kwaliteit te borgen. Wat je nodig hebt: een bestaande testomgeving of CI/CD-pipeline om het platform op aan te sluiten, en basiskennis van softwaretesten om de AI-suggesties te kunnen beoordelen; een concrete tijdsinvestering is niet bekend zonder de tool zelf te proberen. Bron: https://app.deltix",
+      "url": "https://app.deltix.ai",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.99,
+      "published_at": "2026-08-15T02:42:14+00:00"
+    },
+    {
+      "id": "69cbe3169a5b0bf8",
+      "title": "Gemini 3.7 Flash",
+      "summary_nl": "Google's snelle Gemini-lijn krijgt een nieuwe telg: Gemini 3.7 Flash. Zoals de naam al suggereert, is dit de snelle en goedkopere variant binnen de Gemini-familie, bedoeld voor taken waarbij lage latency en kostenefficiëntie zwaarder wegen dan de absolute topprestaties van de grotere modellen. Voor ontwikkelaars die AI willen inbouwen in apps of workflows met veel verzoeken, betekent dit weer een stap in de aanhoudende race tussen aanbieders om snelheid en prijs te verbeteren zonder al te veel in te leveren op kwaliteit. Wat je nodig hebt: een Google AI Studio-",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.85,
+      "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
       "id": "16aa4320e3dd052d",
@@ -20,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.99,
+      "final_score": 6.83,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -31,8 +273,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.91,
+      "final_score": 6.75,
       "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "36730cabd238431e",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "summary_nl": "Eindelijk een oplossing voor een hardnekkig Linux-probleem: onbeheerde toegang op Wayland-sessies. RustDesk, de open-source tegenhanger van TeamViewer, kon tot nu toe op Wayland alleen verbinden als er al iemand ingelogd was, wat het onbruikbaar maakte voor bijvoorbeeld headless servers of afstandsbeheer van een uitgeschakelde machine. Met deze update werkt onbeheerde toegang nu ook echt zonder actieve sessie, wat een lastige beperking van het Wayland-protocol omzeilt. Wat je nodig hebt: RustDesk geïnstalleerd op de Linux-machine die je op afstand wilt bedienen, en enige vertrouwdheid met Linux-systeembeheer om de configuratie in te stellen. Bron: https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.95,
+      "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
       "id": "7b2e51a7ccf0c8c0",
@@ -42,8 +295,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.99,
+      "final_score": 5.83,
       "published_at": "2026-07-14T11:06:09+00:00"
+    },
+    {
+      "id": "890a56b0d2aff0c9",
+      "title": "deepseek-ai/deepseek-harness",
+      "summary_nl": "Alles een plugin: DeepSeek's nieuwe aanpak voor testomgevingen. DeepSeek Harness is een raamwerk waarin losse onderdelen, zoals modellen, evaluatietools en workflows, als plugins worden ingeladen in plaats van hardcoded te zijn, wat het testen en vergelijken van AI-systemen flexibeler maakt. De onderliggende gedachte is dat je zo componenten kunt uitwisselen zonder de kern van het systeem aan te raken, wat experimenteren versnelt. Inspirerend omdat het laat zien hoe een modulaire architectuur complexe AI-evaluaties overzichtelijker kan maken, ook buiten DeepSeek's eigen modellen om. Wat je nodig hebt: ervaring met Python en command-line tools, en enige bekendheid met evaluatieframeworks voor taalmodellen om de documentatie op GitHub goed te kunnen volgen (https://github.com/deepseek-ai/deepseek-harness).",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.83,
+      "published_at": "2026-08-13T11:56:32+00:00"
+    },
+    {
+      "id": "6f8368ac763b7373",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary_nl": "GPT-5.6 wordt slimmer inzetten, niet zomaar het nieuwste model gebruiken. Deze gids laat zien hoe startups met slimme modelselectie en de nieuwe mogelijkheden van de Responses API AI-agents bouwen die zowel sneller als goedkoper draaien. De vondst zit hem in het combineren van verschillende modelvarianten per taak, zodat je niet overal het zwaarste (en duurste) model voor nodig hebt. Wat je nodig hebt: ervaring met de OpenAI API, basiskennis van agentarchitecturen, en een paar uur om de voorbeelden door te nemen en toe te passen op je eigen use case. Bron: https://openai.com/index/builders-guide-to-gpt-5-6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 6,
+      "final_score": 5.83,
+      "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
       "id": "9fbe8936ed2a34ee",
@@ -53,7 +328,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.9,
+      "final_score": 5.74,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -64,8 +339,52 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.89,
+      "final_score": 5.73,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "8f61d72420a82ae5",
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "summary_nl": "Parametrisch ontwerpen met een scriptje in plaats van een muis: LuaCAD maakt dat mogelijk door 3D-modellen te definiëren in Lua-code, die vervolgens wordt omgezet naar een CAD-model. In plaats van te klikken en slepen in een grafische interface, beschrijf je vormen, afmetingen en relaties als code, wat het aanpassen van een ontwerp herleidt tot het wijzigen van een paar variabelen. De slimme vondst is dat Lua, een lichte en makkelijk leesbare scripttaal, hierdoor toegankelijk wordt voor wie liever programmeert dan tekent, zonder de complexiteit van zwaardere CAD-scripttalen. Inspirerend omdat het laat zien hoe je engineering-precisie en reproduceerbaarheid combineert met de flexibiliteit van softwareontwikkeling, inclusief versiebeheer van je ontwerpen. Wat je nodig hebt: basiskennis van programmeren (Lua is snel te leren), een uurtje om de voorbeelden door te nemen, en affiniteit met parametrisch denken over vormen in plaats van vrij tekenen. Bron: https://luacad.ad-si.com",
+      "url": "https://luacad.ad-si.com",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.95,
+      "published_at": "2026-08-14T16:43:22+00:00"
+    },
+    {
+      "id": "93af4f37b4512874",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "summary_nl": "Duizenden AI-modellen in één oogopslag: brengt dat overzicht of vooral chaos?\n\nAI Model Atlas is een interactieve 3D-graaf waarin populaties van machine learning-modellen als verbonden knooppunten worden weergegeven, gebouwd met Cosmograph. De slimme vondst is dat relaties tussen modellen, zoals afgeleide versies, gedeelde architecturen of gemeenschappelijke afkomst, visueel zichtbaar worden gemaakt in plaats van verstopt in tabellen of documentatie. Zo krijg je een landschap te zien van hoe het huidige ML-ecosysteem zich vertakt en met elkaar samenhangt. Wat je nodig hebt: een browser om de visualisatie te verkennen, geen installatie of technische kennis vereist, al helpt affiniteit met ML-terminologie om de patronen te duiden. Bron: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.94,
+      "published_at": "2026-08-14T14:22:39+00:00"
+    },
+    {
+      "id": "8085d320f59fc227",
+      "title": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "summary_nl": "Als je dacht dat je CPU geen geheimen meer voor je had: denk nog eens na. Christopher Domas (bekend van eerdere low-level exploits als sandsifter) laat met dit project zien hoe je via DRAM-scrambling verborgen functionaliteit op de chip kunt vrijspelen, functies die fabrikanten normaal gesproken achter slot en grendel houden. De truc zit in het misbruiken van de manier waarop geheugenadressen door elkaar worden gehusseld, wat toegang geeft tot delen van de processor die niet voor eindgebruikers bedoeld zijn. Inspirerend omdat het laat zien dat zelfs de meest gesloten hardware nog verrassingen herbergt voor wie diep genoeg graaft. Wat je nodig heb: stevige kennis van computerarchitectuur, geheugenbeheer en assembly, plus geduld, dit is onderzoek voor gevorderden, geen weekendklusje. Zie de repository voor de details: https",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.84,
+      "published_at": "2026-08-13T13:50:42+00:00"
+    },
+    {
+      "id": "06494366594c57b9",
+      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
+      "summary_nl": "Schone code, foute aannames: waarom een groene testbalk je gerust stelt terwijl er niets aan de hand lijkt. Het stuk beschrijft hoe AI-gegenereerde code probleemloos compileert, alle tests haalt en zo een PR krijgt goedgekeurd, terwijl de logica onderliggend net iets anders doet dan bedoeld was, iets wat pas dagen later aan het licht komt. De kern is dat tests vaak toetsen of code doet wat er staat, niet of het doet wat je eigenlijk bedoelde, en AI is goed in het overtuigend invullen van die kloof. Inspirerend omdat het een nuchtere waarschuwing is tegen blind vertrouwen op automatisering, juist nu AI-code steeds normaler wordt in dagelijkse workflows. Wat je nodig hebt: ervaring met code reviews en testen, en de bereidheid om ook bij groene checks kritisch naar de bedoeling achter de code te blijven kijken (dev.to, https://dev.to/harsh2644/the-most-dangerous-ai-generated-code-is-the-code-that-passes-all-tests-10nd).",
+      "url": "https://dev.to/harsh2644/the-most-dangerous-ai-generated-code-is-the-code-that-passes-all-tests-10nd",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.82,
+      "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
       "id": "8ec874c15e3bf9b7",
@@ -75,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.92,
+      "final_score": 4.76,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -86,8 +405,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.92,
+      "final_score": 4.76,
       "published_at": "2026-07-13T18:26:04+00:00"
+    },
+    {
+      "id": "d00944e12348f9f2",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary_nl": "Sheets krijgt een nieuw jasje: canvas maakt data behapbaar. Google introduceert Sheets canvas, een visuele laag boven je spreadsheet waarmee ruwe cijfers direct worden omgezet in overzichtelijke, interactieve weergaven zonder dat je de onderliggende data hoeft te verlaten. De slimme vondst is dat je niet meer schakelt tussen aparte tools voor visualisatie en analyse, maar alles binnen Sheets zelf blijft gebeuren. Wat je nodig hebt: een Google Workspace-account met toegang tot Sheets, verder geen specialistische kennis, de functie is bedoeld om laagdrempelig te zijn voor iedereen die al met spreadsheets werkt. Bron: https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "rss:google_ai",
+      "category": "ai_release",
+      "score": 4,
+      "final_score": 3.85,
+      "published_at": "2026-08-13T16:45:00+00:00"
     },
     {
       "id": "6562e70676ff8a70",
@@ -97,19 +427,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 7.0,
+      "final_score": 3.83,
       "published_at": "2026-07-14T12:41:25+00:00"
-    },
-    {
-      "id": "894f8896e67e52f5",
-      "title": "The git history command",
-      "summary_nl": "Waarom git blame je nooit het hele verhaal vertelt: Lalit Maganti beschrijft in dit artikel een 'git history' commando dat verder kijkt dan de standaard git log en git blame, door de evolutie van een specifiek stuk code te volgen over commits, hernoemingen en refactors heen. Het idee is dat je met een paar regels of een functie als uitgangspunt automatisch de relevante geschiedenis reconstrueert, zonder handmatig door tientallen commits te spitten. Inspirerend omdat het laat zien hoe je met slimme scripting rond bestaande git-tools een",
-      "url": "https://lalitm.com/post/git-history/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.95,
-      "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
       "id": "03099091347f925a",
@@ -119,8 +438,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.95,
+      "final_score": 3.79,
       "published_at": "2026-07-14T01:41:49+00:00"
+    },
+    {
+      "id": "894f8896e67e52f5",
+      "title": "The git history command",
+      "summary_nl": "Waarom git blame je nooit het hele verhaal vertelt: Lalit Maganti beschrijft in dit artikel een 'git history' commando dat verder kijkt dan de standaard git log en git blame, door de evolutie van een specifiek stuk code te volgen over commits, hernoemingen en refactors heen. Het idee is dat je met een paar regels of een functie als uitgangspunt automatisch de relevante geschiedenis reconstrueert, zonder handmatig door tientallen commits te spitten. Inspirerend omdat het laat zien hoe je met slimme scripting rond bestaande git-tools een",
+      "url": "https://lalitm.com/post/git-history/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 3.78,
+      "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
       "id": "2676c016c6c62d55",
@@ -130,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.91,
+      "final_score": 3.75,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
@@ -141,30 +471,8 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.8,
+      "final_score": 3.64,
       "published_at": "2026-07-12T14:24:33+00:00"
-    },
-    {
-      "id": "48757b3ecc9f4c5c",
-      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "summary_nl": "CUDA zonder Nvidia: kan dat eigenlijk? Spectral Compute presenteert zich als alternatief dat CUDA-code laat draaien op niet-Nvidia hardware, zodat ontwikkelaars niet langer vastzitten aan één fabrikant voor hun GPU-workloads. De slimme vondst zit in het compileren en vertalen van bestaande CUDA-kernels naar andere architecturen, zonder dat teams hun code helemaal moeten herschrijven. Inspirerend omdat het laat zien hoe de dominantie van Nvidia in AI- en HPC-omgevingen mogelijk wordt doorbroken door softwarelagen in plaats van nieuwe chips. Wat je nodig hebt: ervaring met CUDA-programmering, GPU-hardware van een andere leverancier om mee te testen, en tijd om te experimenteren met compatibiliteit en performanceverschillen, zoals besproken op https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/.",
-      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 6,
-      "final_score": 5.98,
-      "published_at": "2026-07-14T08:24:49+00:00"
-    },
-    {
-      "id": "5eec8078bc3b913f",
-      "title": "ECB selects 36 payment service providers to join digital euro pilot",
-      "summary_nl": "De digitale euro krijgt gezelschap: 36 partijen mogen meebouwen. De ECB heeft dit aantal betalingsdienstverleners geselecteerd om deel te nemen aan een pilot rond de digitale euro, waarbij zij in de praktijk gaan testen hoe betalingen met een centrale bank digitale munt werken voor consumenten en handelaren. De precieze opzet en werking van de pilot worden in de aankondiging niet uitgebreid toegelicht, maar het past in het bredere traject waarin de ECB stap voor stap toewerkt naar een mogelijke introductie van de digitale euro. Inspirerend omdat het laat zien hoe centrale banken en marktpartijen samen infrastructuur voor toekomstig geld beproeven voordat het grootschalig wordt uitgerold. Wat je nodig hebt: geen directe actie vereist, wel is het nuttig om als financieel geïnteresseerde de voortgang te volgen via ECB-publicaties, zeker als je in de betaal- of bankensector werkt. Bron: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-      "source": "rss:ecb_press",
-      "category": "macro",
-      "score": 6,
-      "final_score": 5.98,
-      "published_at": "2026-07-14T09:00:00+00:00"
     }
   ]
 }
