@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T04:37:51.960131+00:00",
+  "generated_at": "2026-08-15T05:17:36.178030+00:00",
   "items": [
+    {
+      "id": "2f7ad7badae3b49f",
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "summary_nl": "Minder tokens verspillen aan zoekresultaten: Graft belooft dat\n\nGraft is een verzameling hooks voor Claude Code die grep-aanroepen slimmer maakt, waardoor het aantal tokens dat naar het taalmodel gaat met 42 procent daalt. De truc zit hem in het filteren en comprimeren van zoekresultaten voordat ze in de context van Claude belanden, zodat je minder betaalt en meer ruimte overhoudt voor daadwerkelijke code-analyse. Inspirerend omdat het laat zien hoe kleine, gerichte aanpassingen in je AI-workflow direct effect hebben op kosten en snelheid, zonder dat je aan de kern van je tooling hoeft te sleutelen. Wat je nodig heb: Claude Code geïnstalleerd, wat vertrouwdheid met hooks en configuratiebestanden, en een halfuurtje om de setup te doorlopen en te testen op je eigen repository. Meer details en de code staan op https://github.com/NanoNets/Gra",
+      "url": "https://github.com/NanoNets/Graft",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.94,
+      "published_at": "2026-08-14T15:22:02+00:00"
+    },
     {
       "id": "426d901f60a12d64",
       "title": "Show HN: RAGless – similar to RAG, but $0 LLM API costs at runtime",
@@ -79,17 +90,6 @@
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
-      "id": "4135cb0bfc28c0a1",
-      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
-      "summary_nl": "Terug naar de basis: notities zonder poespas\n\nMininote is een notitie-app die teruggrijpt naar wat notities ooit waren: gewoon platte tekst, direct beschikbaar, zonder account of tracking. Je opent de app en begint te typen, zonder wachten op synchronisatie of het accepteren van gebruiksvoorwaarden. De slimme vondst zit in wat het niet doet: geen cloud-verplichting, geen dataverzameling en geen proprietary formaat waar je later niet meer vanaf komt. Inspirerend omdat het laat zien dat een tool ook waardevol kan zijn door bewust functies weg te laten in plaats van toe te voegen. Wat je nodig hebt: geen technische kennis, de app installeren en direct aan de slag, vijf minuten om te ontdekken of de eenvoud bij je workflow past (https://mininote.ink/).",
-      "url": "https://mininote.ink/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 8.95,
-      "published_at": "2026-08-14T15:30:29+00:00"
-    },
-    {
       "id": "e75e5fb5723fbb4a",
       "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
       "summary_nl": "ReelCraft: van fotomap naar videoclip met een Python-scriptje\n\nEen ontwikkelaar stuitte per ongeluk op een nieuwe pagina in de Gemini API en bouwde daaruit ReelCraft, een Python-tool die losse foto's en videoclips omzet in korte, gemonteerde video's. Het model (aangeduid als Gemini 3.7 Flash) verzorgt de selectie en montagelogica, zodat je niet zelf handmatig clips hoeft te knippen en te ordenen. Inspirerend omdat het laat zien hoe een toevallige ontdekking in een API-documentatie kan uitgroeien tot een bruikbaar, op maat gebouwd hulpmiddel, zonder dat daar een compleet productteam voor nodig was. Wat je nodig heb: basiskennis van Python en API-gebruik, een Gemini API-key, en een paar uur om het script te installeren en aan te passen aan je eigen foto- en videobestanden. Bron: https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
@@ -99,6 +99,17 @@
       "score": 9,
       "final_score": 8.95,
       "published_at": "2026-08-14T16:55:48+00:00"
+    },
+    {
+      "id": "4135cb0bfc28c0a1",
+      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+      "summary_nl": "Terug naar de basis: notities zonder poespas\n\nMininote is een notitie-app die teruggrijpt naar wat notities ooit waren: gewoon platte tekst, direct beschikbaar, zonder account of tracking. Je opent de app en begint te typen, zonder wachten op synchronisatie of het accepteren van gebruiksvoorwaarden. De slimme vondst zit in wat het niet doet: geen cloud-verplichting, geen dataverzameling en geen proprietary formaat waar je later niet meer vanaf komt. Inspirerend omdat het laat zien dat een tool ook waardevol kan zijn door bewust functies weg te laten in plaats van toe te voegen. Wat je nodig hebt: geen technische kennis, de app installeren en direct aan de slag, vijf minuten om te ontdekken of de eenvoud bij je workflow past (https://mininote.ink/).",
+      "url": "https://mininote.ink/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
       "id": "bae71eb952aa444a",
@@ -174,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.83,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -273,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.75,
+      "final_score": 6.74,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -288,17 +299,6 @@
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
-      "id": "7b2e51a7ccf0c8c0",
-      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "summary_nl": "Waar lekt je omzet weg voordat je het zelf doorhebt? Rejourney is een open-source tool die gebruikersgedrag op web- en mobiele apps analyseert om zogeheten \"revenue leaks\" te voorspellen, momenten waarop klanten afhaken of minder besteden dan verwacht. Het systeem combineert gedragsdata met voorspellende modellen, zodat je niet achteraf in dashboards moet zoeken naar wat er misging, maar vooraf gewaarschuwd wordt. Wat je nodig hebt: basiskennis van data-analyse of analytics-tools, enige ervaring met het integreren van tracking in een web- of mobiele app, en tijd om de tool op te zetten en de voorspellingen te interpreteren binnen je eigen productcontext. Bron: https://github.com/rejourneyco/rejourney",
-      "url": "https://github.com/rejourneyco/rejourney",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 5.83,
-      "published_at": "2026-07-14T11:06:09+00:00"
-    },
-    {
       "id": "890a56b0d2aff0c9",
       "title": "deepseek-ai/deepseek-harness",
       "summary_nl": "Alles een plugin: DeepSeek's nieuwe aanpak voor testomgevingen. DeepSeek Harness is een raamwerk waarin losse onderdelen, zoals modellen, evaluatietools en workflows, als plugins worden ingeladen in plaats van hardcoded te zijn, wat het testen en vergelijken van AI-systemen flexibeler maakt. De onderliggende gedachte is dat je zo componenten kunt uitwisselen zonder de kern van het systeem aan te raken, wat experimenteren versnelt. Inspirerend omdat het laat zien hoe een modulaire architectuur complexe AI-evaluaties overzichtelijker kan maken, ook buiten DeepSeek's eigen modellen om. Wat je nodig hebt: ervaring met Python en command-line tools, en enige bekendheid met evaluatieframeworks voor taalmodellen om de documentatie op GitHub goed te kunnen volgen (https://github.com/deepseek-ai/deepseek-harness).",
@@ -310,6 +310,17 @@
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
+      "id": "7b2e51a7ccf0c8c0",
+      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "summary_nl": "Waar lekt je omzet weg voordat je het zelf doorhebt? Rejourney is een open-source tool die gebruikersgedrag op web- en mobiele apps analyseert om zogeheten \"revenue leaks\" te voorspellen, momenten waarop klanten afhaken of minder besteden dan verwacht. Het systeem combineert gedragsdata met voorspellende modellen, zodat je niet achteraf in dashboards moet zoeken naar wat er misging, maar vooraf gewaarschuwd wordt. Wat je nodig hebt: basiskennis van data-analyse of analytics-tools, enige ervaring met het integreren van tracking in een web- of mobiele app, en tijd om de tool op te zetten en de voorspellingen te interpreteren binnen je eigen productcontext. Bron: https://github.com/rejourneyco/rejourney",
+      "url": "https://github.com/rejourneyco/rejourney",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 5.82,
+      "published_at": "2026-07-14T11:06:09+00:00"
+    },
+    {
       "id": "6f8368ac763b7373",
       "title": "The builder’s guide to GPT‑5.6",
       "summary_nl": "GPT-5.6 wordt slimmer inzetten, niet zomaar het nieuwste model gebruiken. Deze gids laat zien hoe startups met slimme modelselectie en de nieuwe mogelijkheden van de Responses API AI-agents bouwen die zowel sneller als goedkoper draaien. De vondst zit hem in het combineren van verschillende modelvarianten per taak, zodat je niet overal het zwaarste (en duurste) model voor nodig hebt. Wat je nodig hebt: ervaring met de OpenAI API, basiskennis van agentarchitecturen, en een paar uur om de voorbeelden door te nemen en toe te passen op je eigen use case. Bron: https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -317,7 +328,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.82,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -394,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.76,
+      "final_score": 4.75,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -405,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.76,
+      "final_score": 4.75,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
