@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:41:24.930062+00:00",
+  "generated_at": "2026-08-16T05:20:09.396132+00:00",
   "items": [
     {
       "id": "4ebe610f1b868e97",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.93,
+      "final_score": 10.92,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.98,
+      "final_score": 9.97,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.87,
+      "final_score": 9.86,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.84,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.73,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 8.0,
+      "final_score": 7.99,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -343,17 +343,6 @@
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
-      "id": "307b639b5b7141e2",
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "summary_nl": "Grip houden op AI-agents die code schrijven: Yadda 3.0.0 zet daar BDD voor in. Yadda is een Behaviour-Driven Development-framework waarmee je gedrag van software vastlegt in leesbare, uitvoerbare specificaties (in Gherkin-achtige stijl), en deze nieuwe versie is toegespitst op scenario's waarin AI-agents zelf code genereren op basis van die specificaties. De slimme vondst is dat de specificaties niet alleen documentatie zijn, maar ook als concrete, testbare kaders dienen die een AI-agent kan volgen en waartegen output automatisch gevalideerd wordt, wat losse interpretatie en drift voorkomt. Inspirerend omdat het een oude, bewezen methodiek (BDD) hergebruikt om een heel actueel probleem op te lossen: hoe houd je AI-gegenereerde code betrouwbaar en controleerbaar. Wat je nodig hebt: erva",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.94,
-      "published_at": "2026-08-15T13:43:46+00:00"
-    },
-    {
       "id": "ed30fbf4d874b3f9",
       "title": "I built a security scanner that checks if you are a dog",
       "summary_nl": "Is dat een beveiligingsscanner, of gewoon een grap met een serieuze les erachter? De bouwer liet een AI-loop een weekend lang zelfstandig itereren op een live-videoscanner die blaft zodra hij een hond herkent, puur als speelse testcase voor hoe zo'n geautomatiseerd ontwikkelproces zich gedraagt. Het interessantste zit 'm niet in de hond-detectie zelf, maar in de eerlijke constatering dat elke groene vinkjes-status onderweg ooit stond voor iets dat nog stuk was, wat een nuchter beeld geeft van hoe AI-gedreven bouwprocessen in de praktijk verlopen. Inspirerend omdat het laat zien dat je met een luchtig, laagdrempelig project toch iets leert over de valkuiles van autonome AI-loops en schijnzekerheid van \"alles werkt\"-signalen. Wat je nodig heb: basiskennis van videoherkenning of een AI-coding-assistent, een weekend aan tijd, en vooral de bereidheid om groene checkmarks met een korrel zout te nemen. Bron: https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n",
@@ -363,6 +352,17 @@
       "score": 7,
       "final_score": 6.94,
       "published_at": "2026-08-15T14:11:53+00:00"
+    },
+    {
+      "id": "307b639b5b7141e2",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "summary_nl": "Grip houden op AI-agents die code schrijven: Yadda 3.0.0 zet daar BDD voor in. Yadda is een Behaviour-Driven Development-framework waarmee je gedrag van software vastlegt in leesbare, uitvoerbare specificaties (in Gherkin-achtige stijl), en deze nieuwe versie is toegespitst op scenario's waarin AI-agents zelf code genereren op basis van die specificaties. De slimme vondst is dat de specificaties niet alleen documentatie zijn, maar ook als concrete, testbare kaders dienen die een AI-agent kan volgen en waartegen output automatisch gevalideerd wordt, wat losse interpretatie en drift voorkomt. Inspirerend omdat het een oude, bewezen methodiek (BDD) hergebruikt om een heel actueel probleem op te lossen: hoe houd je AI-gegenereerde code betrouwbaar en controleerbaar. Wat je nodig hebt: erva",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.93,
+      "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
       "id": "908f986061ecc87e",
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.65,
+      "final_score": 6.64,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -460,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.73,
+      "final_score": 5.72,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.73,
+      "final_score": 5.72,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -570,7 +570,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.66,
+      "final_score": 4.65,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -581,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.66,
+      "final_score": 4.65,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -614,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.69,
+      "final_score": 3.68,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.65,
+      "final_score": 3.64,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
