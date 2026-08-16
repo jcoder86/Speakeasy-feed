@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T05:17:36.178030+00:00",
+  "generated_at": "2026-08-16T04:41:24.930062+00:00",
   "items": [
+    {
+      "id": "4ebe610f1b868e97",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "summary_nl": "Van trage kernel naar 232 keer sneller: hoe ver kun je komen met AI als onderzoeksassistent. In dit stuk beschrijft de auteur hoe hij Codex, de AI-coding-tool van OpenAI, inzette om automatisch te itereren op een reken-kernel, waarbij de AI zelf optimalisaties bedacht, testte en verfijnde tot de prestaties drastisch verbeterden. Het interessante zit in de aanpak: niet zelf elke regel code schrijven, maar de AI laten experimenteren binnen een strak afgebakend probleem en de resultaten steeds laten meten. Inspirerend omdat het laat zien dat AI-tools niet alleen code kunnen aanvullen, maar ook zelfstandig kunnen zoeken naar performance-winst die een mens misschien niet snel had gevonden. Wat je nodig hebt: ervaring met lage-niveau programmeren of kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.93,
+      "published_at": "2026-08-15T11:00:02+00:00"
+    },
     {
       "id": "2f7ad7badae3b49f",
       "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
@@ -9,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.94,
+      "final_score": 10.84,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -20,8 +31,41 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.92,
+      "final_score": 10.82,
       "published_at": "2026-08-14T09:51:11+00:00"
+    },
+    {
+      "id": "623bfefcef891201",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "summary_nl": "Van CPU naar GPU met hulp van AI: hoe je 250.000 regels legacy weerkundecode niet handmatig hoeft te herschrijven. Onderzoekers hebben onderzocht hoe AI-assistentie kan worden ingezet om een omvangrijke, decennia oude Fortran-achtige weersimulatiecode geschikt te maken voor GPU-berekeningen, een proces dat traditioneel maanden handwerk en diepgaande domeinkennis vergt. De aanpak laat zien waar AI-tools kunnen helpen bij het identificeren van parallelliseerbare code-onderdelen en het genereren van GPU-specifieke aanpassingen, en waar menselijke expertise nog onmisbaar blijft. Inspirerend omdat het een concreet antwoord geeft op een probleem waar veel wetenschappelijke instituten mee kampen: oude, kritieke code die niemand meer volledig doorgrondt maar die wel gemoderniseerd moet worden. Wat je nodig hebt: erv",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.98,
+      "published_at": "2026-08-15T22:41:51+00:00"
+    },
+    {
+      "id": "92ede9ff1d8ddb6b",
+      "title": "Printytron – Describe a part, get a printable STL",
+      "summary_nl": "Van omschrijving naar 3D-print: Printytron doet het denkwerk voor je\n\nPrintytron is een tool waarbij je in gewone taal beschrijft welk onderdeel je nodig hebt, waarna er automatisch een printbaar STL-bestand wordt gegenereerd. Geen CAD-kennis of teken­vaardigheid vereist: je typt bijvoorbeeld \"een haakje voor aan de rand van een plank, 5 mm dik\" en krijgt een bestand terug dat je direct naar je 3D-printer kunt sturen. De slimme vondst zit in het overbruggen van de kloof tussen een idee en een werkend ontwerp, zonder de gebruikelijke leercurve van 3D-modelleersoftware. Wat je nodig hebt: een 3D-printer (of toegang tot een printservice), een duidelijke omschrijving van wat je wilt maken, en geen voorkennis van CAD-software. Bron: https://printytron.com",
+      "url": "https://printytron.com",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.94,
+      "published_at": "2026-08-15T14:22:20+00:00"
+    },
+    {
+      "id": "432aa6d44c5543d8",
+      "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+      "summary_nl": "Mock-API's zonder gedoe: Mocktail regelt het\n\nWie ooit een frontend moest bouwen terwijl de backend nog niet klaar was, kent het probleem: je hebt snel een nepversie van een API nodig om mee te testen. Mocktail is een gratis, open-source tool die precies dat oplost, met een ingebouwd dashboard waarin je endpoints, response-data en statuscodes visueel kunt instellen zonder telkens code te schrijven. De slimme vondst is dat het de vaak omslachtige setup van mock-servers vervangt door een overzichtelijke interface, waardoor je sneller kunt schakelen tussen scenario's zoals foutmeldingen of vertraagde responses. Wat je nodig hebt: basiskennis van API's en REST, en een uurtje om de tool te installeren en je eerste mock-endpoints op te zetten. Meer informatie op https://getmocktail.com/.",
+      "url": "https://getmocktail.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.87,
+      "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
       "id": "8137cf7508488ecd",
@@ -31,7 +75,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.95,
+      "final_score": 9.85,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -42,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.93,
+      "final_score": 9.83,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -53,8 +97,19 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.81,
+      "final_score": 9.71,
       "published_at": "2026-08-13T06:43:24+00:00"
+    },
+    {
+      "id": "134f77c1b87eca42",
+      "title": "I Bought a ₹6 Share and Learned the Hard Way: Building FinEd Saathi in 10 Days",
+      "summary_nl": "Een aandeel van 6 roepie kopen als startpunt voor een financiële educatie-app: dat is precies wat de maker van FinEd Saathi deed voordat hij besefte hoeveel Indiase beginnende beleggers eigenlijk niet weten. In tien dagen bouwde hij een meertalige, stemgestuurde financiële assistent die met paper trading (nepgeld) laat oefenen, belastingadvies uit betrouwbare bronnen haalt en gebruikmaakt van Murf Falcon voor natuurlijke spraakinteractie in verschillende Indiase talen. Inspirerend omdat het laat zien hoe je een concreet, persoonlijk pijnpunt (zelf geld verliezen door onwetendheid) kunt vertalen naar een schaalbare tool die anderen behoedt voor dezelfde fouten. Wat je nodig hebt: basiskennis van voice AI-integraties zoals Murf Falcon, wat ervaring met het aansturen van APIs voor betrouwbare financiële content, en een tiental dagen focus om van idee naar werkend prototype te komen. Meer details in het originele artikel op dev.to (https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980).",
+      "url": "https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.9,
+      "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
       "id": "5a94dd163bfbe84d",
@@ -64,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.96,
+      "final_score": 8.86,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -75,7 +130,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.96,
+      "final_score": 8.86,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -86,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.95,
+      "final_score": 8.85,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -97,7 +152,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.95,
+      "final_score": 8.85,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -108,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.85,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -119,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.84,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -130,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.84,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -141,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.92,
+      "final_score": 8.82,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -152,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.88,
+      "final_score": 8.78,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -163,7 +218,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.87,
+      "final_score": 8.77,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -174,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.74,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -185,7 +240,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.83,
+      "final_score": 8.74,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -196,7 +251,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.83,
+      "final_score": 8.73,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -207,8 +262,41 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.83,
+      "final_score": 8.73,
       "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
+      "id": "8275137a8fb14f0d",
+      "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+      "summary_nl": "Welke benchmarks tellen écht mee volgens de labs zelf?\n\nDit project analyseert dertig model cards van frontier AI-modellen en brengt in kaart welke benchmarks de grote labs daadwerkelijk rapporteren, in plaats van te vertrouwen op wat wij als gebruikers dénken dat belangrijk is. De slimme vondst zit in het overzicht zelf: door systematisch te turven wat OpenAI, Anthropic, Google en anderen als maatstaf gebruiken, ontstaat een soort consensusbeeld van wat de industrie zelf als relevant beschouwt. Inspirerend omdat het transparantie brengt in een veld waar benchmarkkeuzes vaak strategisch lijken en waarmee je als lezer beter kunt inschatten welke claims in marketingmateriaal daadwerkelijk ergens op gebaseerd zijn. Wat je nodig heb: geen speciale tools, alleen belangstelling voor AI-ontwikkelingen; de leaderboard-view is direct te raadplegen en vergt hooguit een kwartier om te doorgronden. Bekijk het overzicht via https://koutian.is-a.dev/benchmark-radar/?view=leaderboard.",
+      "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 8.0,
+      "published_at": "2026-08-16T04:02:38+00:00"
+    },
+    {
+      "id": "f87e14ef06b6e708",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "summary_nl": "Patronen en problemen in multi-agentsystemen\n\nAnthropic deelt praktijkervaringen met het bouwen van systemen waarin meerdere AI-agenten samenwerken aan complexere taken, en beschrijft welke patronen daarbij wel en niet blijken te werken. Het gaat om zaken als taakverdeling tussen agenten, hoe je voorkomt dat agenten elkaar tegenwerken of dubbel werk doen, en hoe je foutafhandeling organiseert als er geen centrale regisseur is. Inspirerend omdat het een eerlijke blik geeft op de praktische valkuilen van multi-agentarchitecturen, iets waar veel bouwers wel tegenaan lopen maar weinig over publiceren. Wat je nodig hebt: ervaring met het bouwen van AI-agenten of interesse in systeemarchitectuur, en de bereidheid om door een technisch artikel te gaan zonder pasklare code. Bron: https://www.anthropic.com/research/multiagent-systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.99,
+      "published_at": "2026-08-16T02:12:53+00:00"
+    },
+    {
+      "id": "0d6a19ac1fb0fb97",
+      "title": "Show HN: I evaluated file, vector, graph and RL based memory frameworks",
+      "summary_nl": "Welke vorm van geheugen past bij jouw AI-agent? Deze vergelijking neemt vier verschillende benaderingen onder de loep: simpele bestandsopslag, vectordatabases voor semantisch zoeken, graafstructuren voor relaties tussen feiten, en RL-gebaseerde systemen die leren wat het bewaren waard is. De auteur zet sterke en zwakke punten van elk framework naast elkaar, zodat je niet blind hoeft te kiezen voor de hypete optie maar voor wat past bij je use case. Inspirerend omdat het een nuchtere, praktische blik geeft op een onderwerp waar veel AI-bouwers tegenaan lopen zodra hun agent meer dan een paar gesprekken moet onthouden. Wat je nodig hebt: basiskennis van hoe LLM-agents werken, wat ervaring met minstens één opslagvorm (bijvoorbeeld een vectordatabase), en een avond om de vergelijking door te nemen en te vertalen naar je eigen project (via https://www.pinglin.tw/blog/the-shapes-of-agent-memory).",
+      "url": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.94,
+      "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
       "id": "1f4b5a6f6647514e",
@@ -218,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.85,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -229,7 +317,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.89,
+      "final_score": 7.79,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -240,8 +328,52 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 7.7,
+      "final_score": 7.6,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "18ef0e767467be1d",
+      "title": "Site removes all the clutter from recipe videos and gives just the recipe",
+      "summary_nl": "Eindelijk een recept zonder levensverhaal\n\nIedereen kent het: op zoek naar een simpel pastarecept en eerst tien minuten scrollen langs een reisverslag over Toscane. Cutrecipe.com pakt een recept-URL of -video en filtert alle omhaal weg, zodat alleen de ingrediënten en bereidingsstappen overblijven. Inspirerend omdat het laat zien hoe je met een gerichte tool een breed gedeelde ergernis kunt oplossen zonder ingewikkelde techniek. Wat je nodig hebt: alleen een browser en een link naar het recept, geen technische kennis vereist. Bron: https://cutrecipe.com",
+      "url": "https://cutrecipe.com",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.96,
+      "published_at": "2026-08-15T18:50:19+00:00"
+    },
+    {
+      "id": "307b639b5b7141e2",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "summary_nl": "Grip houden op AI-agents die code schrijven: Yadda 3.0.0 zet daar BDD voor in. Yadda is een Behaviour-Driven Development-framework waarmee je gedrag van software vastlegt in leesbare, uitvoerbare specificaties (in Gherkin-achtige stijl), en deze nieuwe versie is toegespitst op scenario's waarin AI-agents zelf code genereren op basis van die specificaties. De slimme vondst is dat de specificaties niet alleen documentatie zijn, maar ook als concrete, testbare kaders dienen die een AI-agent kan volgen en waartegen output automatisch gevalideerd wordt, wat losse interpretatie en drift voorkomt. Inspirerend omdat het een oude, bewezen methodiek (BDD) hergebruikt om een heel actueel probleem op te lossen: hoe houd je AI-gegenereerde code betrouwbaar en controleerbaar. Wat je nodig hebt: erva",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.94,
+      "published_at": "2026-08-15T13:43:46+00:00"
+    },
+    {
+      "id": "ed30fbf4d874b3f9",
+      "title": "I built a security scanner that checks if you are a dog",
+      "summary_nl": "Is dat een beveiligingsscanner, of gewoon een grap met een serieuze les erachter? De bouwer liet een AI-loop een weekend lang zelfstandig itereren op een live-videoscanner die blaft zodra hij een hond herkent, puur als speelse testcase voor hoe zo'n geautomatiseerd ontwikkelproces zich gedraagt. Het interessantste zit 'm niet in de hond-detectie zelf, maar in de eerlijke constatering dat elke groene vinkjes-status onderweg ooit stond voor iets dat nog stuk was, wat een nuchter beeld geeft van hoe AI-gedreven bouwprocessen in de praktijk verlopen. Inspirerend omdat het laat zien dat je met een luchtig, laagdrempelig project toch iets leert over de valkuiles van autonome AI-loops en schijnzekerheid van \"alles werkt\"-signalen. Wat je nodig heb: basiskennis van videoherkenning of een AI-coding-assistent, een weekend aan tijd, en vooral de bereidheid om groene checkmarks met een korrel zout te nemen. Bron: https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n",
+      "url": "https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.94,
+      "published_at": "2026-08-15T14:11:53+00:00"
+    },
+    {
+      "id": "908f986061ecc87e",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "summary_nl": "Grip op je LLM-gesprek in plaats van eindeloos scrollen door chatgeschiedenis: dat is de belofte van ThoughtDAG. Het idee is simpel maar slim: in plaats van een lineaire conversatie bouw je een bewerkbare graaf (een DAG) van contextblokken, waarbij je zelf kunt bepalen welke eerdere gedachten, antwoorden of zijsporen meetellen voor het volgende antwoord van het model. Zo kun je vertakken, knippen en hergebruiken zonder de hele geschiedenis mee te slepen of kwijt te raken. Inspirerend omdat het een andere manier van denken over \"context\" bij LLM's laat zien, weg van het idee dat een gesprek per definitie een rechte lijn moet zijn. Wat je nodig hebt: geen diepgaande technische kennis om het uit te proberen, wel wat affiniteit met LLM-workflows en een uurtje om te experimenteren met de demo op https://chenxiachan.github.io/thoughtdag/.",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.9,
+      "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
       "id": "9fdd4584ac44ba48",
@@ -251,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.99,
+      "final_score": 6.89,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -262,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.85,
+      "final_score": 6.75,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -273,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.83,
+      "final_score": 6.73,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -284,8 +416,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.74,
+      "final_score": 6.65,
       "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "0628e13b186935c1",
+      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+      "summary_nl": "Een snelle werkbank voor je AI-coding-agent, gebouwd in Rust. Waku is een native applicatie waarmee je coding agents (denk aan tools zoals Claude of andere LLM-gestuurde assistenten) lokaal draait en aanstuurt, met een interface gebouwd op GPUI, hetzelfde GPU-versnelde UI-framework dat ook achter de Zed-editor zit. Inspirerend omdat het laat zien dat je voor AI-tooling niet per se afhankelijk hoeft te zijn van Electron of de browser: een native, lichte en snelle interface is ook mogelijk als je de tijd neemt om in Rust te bouwen. Wat je nodig hebt: affiniteit met Rust en command-line tools, en de bereidheid om een relatief nieuw en nog volwassen wordend ecosysteem (GPUI) te verkennen; voor puur gebruik volstaat het downloaden en uitproberen van de app. Zie meer op https://waku.s",
+      "url": "https://waku.sh",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.98,
+      "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
       "id": "36730cabd238431e",
@@ -295,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.95,
+      "final_score": 5.85,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -306,7 +449,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.73,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -317,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.82,
+      "final_score": 5.73,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -328,7 +471,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.82,
+      "final_score": 5.73,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -339,7 +482,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.74,
+      "final_score": 5.64,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -350,8 +493,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.73,
+      "final_score": 5.63,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "230379597ffab64c",
+      "title": "Tea5767-Radio-Tuner",
+      "summary_nl": "Zelf een FM-radio bouwen? Dit project maakt het toegankelijk. De Tea5767-Radio-Tuner draait om de gelijknamige chip, een compacte FM-ontvanger die via I2C wordt aangestuurd door bijvoorbeeld een Arduino, waardoor je met een paar regels code zenders kunt zoeken en instellen. De code op GitHub laat zien hoe je de chip initialiseert, frequenties instelt en het signaal uitleest, zonder dat je dure apparatuur nodig hebt. Wat je nodig hebt: een Arduino of vergelijkbare microcontroller, een TEA5767-moduletje (goedkoop verkrijgbaar), basiskennis van I2C-communicatie en een middagje prutsen. Bron: https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.98,
+      "published_at": "2026-08-15T23:54:35+00:00"
+    },
+    {
+      "id": "69f0a612b5871ac9",
+      "title": "Show HN: I serve my website with a swarm of ESP32 microcontrollers on a shelf",
+      "summary_nl": "Een website hosten op een plank vol microcontrollers: waarom niet. Deze maker draait zijn eigen website niet op een cloudserver, maar op een zwerm ESP32-chips die samen als een klein cluster fungeren, elk verantwoordelijk voor een deel van het verkeer of de taken. Het idee is even simpel als koppig: laten zien dat je met goedkope, beperkte hardware toch een werkende, redundante opzet kunt bouwen zonder een datacenter. Inspirerend omdat het aantoont dat schaalbaarheid en creativiteit soms belangrijker zijn dan rekenkracht, en dat je infrastructuur letterlijk in je eigen handen kunt houden. Wat je nodig hebt: een paar ESP32-boards, basiskennis van embedded programmeren (C/C++ of MicroPython) en netwerkprotocollen, en de bereidheid om te experimenteren met foutafhandeling in een gedistribueerd mini-systeem. Bron: https://github.com/Novotarskyi/ivan-bohun",
+      "url": "https://github.com/Novotarskyi/ivan-bohun",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.89,
+      "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
       "id": "8f61d72420a82ae5",
@@ -361,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.95,
+      "final_score": 4.85,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -372,7 +537,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.94,
+      "final_score": 4.84,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -383,7 +548,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.84,
+      "final_score": 4.74,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -394,7 +559,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.82,
+      "final_score": 4.72,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -405,7 +570,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.75,
+      "final_score": 4.66,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -416,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.75,
+      "final_score": 4.66,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -427,7 +592,7 @@
       "source": "rss:google_ai",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.85,
+      "final_score": 3.75,
       "published_at": "2026-08-13T16:45:00+00:00"
     },
     {
@@ -438,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.83,
+      "final_score": 3.73,
       "published_at": "2026-07-14T12:41:25+00:00"
     },
     {
@@ -449,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.79,
+      "final_score": 3.69,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -460,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.78,
+      "final_score": 3.68,
       "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
@@ -471,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.75,
+      "final_score": 3.65,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
@@ -482,7 +647,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.64,
+      "final_score": 3.54,
       "published_at": "2026-07-12T14:24:33+00:00"
     }
   ]
