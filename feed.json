@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:20:09.396132+00:00",
+  "generated_at": "2026-08-17T04:51:01.411350+00:00",
   "items": [
     {
       "id": "4ebe610f1b868e97",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.92,
+      "final_score": 10.83,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.84,
+      "final_score": 10.74,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -31,8 +31,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.82,
+      "final_score": 10.72,
       "published_at": "2026-08-14T09:51:11+00:00"
+    },
+    {
+      "id": "eb4edca3b5b87822",
+      "title": "Claude: System Prompts",
+      "summary_nl": "Wat zit er precies onder de motorkap bij Claude? Anthropic publiceert nu release notes voor de system prompts van Claude, de instructies die bepalen hoe het model zich gedraagt nog vóór jouw eigen vraag binnenkomt. Daarmee krijg je inzicht in aanpassingen die anders onzichtbaar blijven, zoals wijzigingen in toon, voorzichtigheid of standaardgedrag bij bepaalde taken. Inspirerend omdat transparantie over dit soort achterliggende sturing zeldzaam is in de AI-wereld en het je helpt te begrijpen waarom antwoorden soms plots anders aanvoelen. Wat je nodig hebt: geen technische kennis, alleen interesse in hoe Claude zich gedraagt en een pa",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.93,
+      "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
       "id": "623bfefcef891201",
@@ -42,7 +53,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.97,
+      "final_score": 9.87,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -53,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.94,
+      "final_score": 9.84,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -64,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.86,
+      "final_score": 9.76,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -75,7 +86,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.85,
+      "final_score": 9.75,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -86,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.83,
+      "final_score": 9.73,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -97,8 +108,19 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.71,
+      "final_score": 9.61,
       "published_at": "2026-08-13T06:43:24+00:00"
+    },
+    {
+      "id": "42066db56dcafafd",
+      "title": "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
+      "summary_nl": "Zelfherstellende selectors: het einde van kapotte scrapers na een site-redesign?\n\nPyScrappy is een Python-bibliotheek voor webscraping die niet meteen breekt zodra een website haar HTML-structuur wijzigt: de selectors \"herstellen zichzelf\" door alternatieve manieren te vinden om hetzelfde element te lokaliseren. Daarnaast levert het project een MCP-server, waardoor je scraping-functionaliteit direct kunt aanbieden aan AI-assistenten die met het Model Context Protocol werken. Inspirerend omdat het een van de grootste ergernissen van webscraping aanpakt, namelijk het constante onderhoud wanneer sites hun opmaak veranderen, en tegelijk laat zien hoe klassieke scraping-tools zich nu al voorbereiden op een wereld waarin AI-agents die tools rechtstreeks aanroepen. Wat je nodig heb: basiskennis van Python en webscraping, en als je de MCP-server wilt gebruiken ook enige bekendheid met dat protocol; de bibliotheek zelf is op GitHub te vinden en vraagt een paar uur om te installeren en uit te proberen. Bron: https://github.com/mldsveda/PyScrappy",
+      "url": "https://github.com/mldsveda/PyScrappy",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.91,
+      "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
       "id": "134f77c1b87eca42",
@@ -108,7 +130,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.9,
+      "final_score": 8.8,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -119,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.76,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -130,7 +152,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.76,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -141,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.75,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -152,7 +174,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.75,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -163,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.74,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -174,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.74,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -185,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.74,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -196,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.82,
+      "final_score": 8.72,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -207,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.78,
+      "final_score": 8.68,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -218,7 +240,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.77,
+      "final_score": 8.67,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -229,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.64,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -240,7 +262,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.64,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -251,7 +273,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.63,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -262,8 +284,19 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.63,
       "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
+      "id": "08740f9c3e29ad24",
+      "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+      "summary_nl": "Van gigant tot laptopformaat: DeepSeek V4 Flash past nu in 57GB. Een ontwikkelaar heeft dit grote taalmodel via kwantisatie zo compact gemaakt dat het lokaal op een Mac draait, en als test liet hij het model zelfstandig een compiler schrijven. Inspirerend omdat het laat zien dat je met slimme compressietechnieken serieuze AI-modellen offline en zonder cloudkosten kunt inzetten, zelfs voor complexe programmeertaken. Wat je nodig hebt: een Mac met voldoende werkgeheugen (denk aan 64GB of meer), ervaring met het lokaal draaien van taalmodellen, en tijd om te experimenteren met de gekwantiseerde versie op Hugging Face. Bron: https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.95,
+      "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
       "id": "8275137a8fb14f0d",
@@ -273,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.99,
+      "final_score": 7.9,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -284,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.99,
+      "final_score": 7.89,
       "published_at": "2026-08-16T02:12:53+00:00"
     },
     {
@@ -295,7 +328,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -306,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.85,
+      "final_score": 7.75,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -317,7 +350,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.79,
+      "final_score": 7.69,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -328,8 +361,30 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 7.6,
+      "final_score": 7.5,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "372b8d6bc52cc511",
+      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+      "summary_nl": "Wat als je je financiële toekomst kunt doorrekenen zoals een ingenieur een brug doorrekent, in plaats van te vertrouwen op vuistregels van een adviseur? Continuum is een tool voor het simuleren van persoonlijke financiën, gericht op mensen die zelf hun vermogen willen opbouwen en beheren zonder tussenkomst van een traditioneel adviesbureau. Het idee is dat je scenario's doorrekent, zoals pensioenopbouw, investeringskeuzes of grote uitgaven, en direct ziet welke impact dat heeft op de lange termijn. Wat je nodig hebt: enige affiniteit met financiële planning en cijfers, en de bereidheid om zelf aannames en variabelen in te voeren in plaats van kant-en-klaar advies te krijgen. Meer informatie op https://continuum-app.xyz/.",
+      "url": "https://continuum-app.xyz/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.98,
+      "published_at": "2026-08-17T00:58:35+00:00"
+    },
+    {
+      "id": "0851ba680ea483b5",
+      "title": "MathCode, Mathematical Coding Agent",
+      "summary_nl": "Wiskundige bewijzen laten controleren door code, niet door vertrouwen: dat is het idee achter MathCode. Deze coding agent vertaalt wiskundige stellingen en redeneringen naar uitvoerbare code, zodat beweringen niet alleen op papier klinken maar ook daadwerkelijk getoetst kunnen worden. De slimme vondst is dat het de kloof dicht tussen abstracte wiskunde en verifieerbare berekening, iets waar traditionele bewijssystemen vaak op stranden door hun steile leercurve. Inspirerend omdat het laat zien hoe AI-agents niet alleen taal maar ook formele logica kunnen ondersteunen, wat relevant is voor onderzoek, onderwijs en verificatie van complexe modellen. Wat je nodig hebt: affiniteit met wiskunde en programmeren, en tijd om te experimenteren met de voorbeelden op de projectpagina (https://math-ai-org.github.io/mathcode/).",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.96,
+      "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
       "id": "18ef0e767467be1d",
@@ -339,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.96,
+      "final_score": 6.86,
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
@@ -350,7 +405,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.94,
+      "final_score": 6.84,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -361,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.93,
+      "final_score": 6.84,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -372,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.9,
+      "final_score": 6.8,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -383,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.89,
+      "final_score": 6.79,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -394,7 +449,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.65,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -405,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.73,
+      "final_score": 6.63,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -416,8 +471,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.64,
+      "final_score": 6.55,
       "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "22c1ee9fe1f2108e",
+      "title": "A True Telnet BBS on a Casio Calculator",
+      "summary_nl": "Een BBS draaien op een rekenmachine: het klinkt als een practical joke, maar het werkt echt. De maker bouwde een volwaardige telnet-BBS die draait op een Casio-rekenmachine, waarbij de beperkte hardware via een netwerkverbinding toch inbelmogelijkheden en menu's biedt zoals de bulletin board systems uit de jaren tachtig en negentig. De vondst zit hem in het omzeilen van de povere connectiviteit van de calculator door slim gebruik te maken van externe netwerktoegang, waardoor een apparaat dat nooit voor dit doel is ontworpen alsnog als host kan functioneren. Inspirerend omdat het laat zien dat retro-computing en moderne netwerkprotocollen prima samengaan als je bereid bent de beperkingen van oude hardware als uitdaging te zien in plaats van obstakel. Wat je nodig hebt: een Casio-rekenmachine met programmeermogelijkheden, kennis van telnet en BBS-architectuur, en flink wat geduld om binnen de geheugengrenzen van het apparaat te werken (bron: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/).",
+      "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.93,
+      "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
       "id": "0628e13b186935c1",
@@ -427,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.98,
+      "final_score": 5.88,
       "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
@@ -438,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.85,
+      "final_score": 5.75,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -449,7 +515,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.73,
+      "final_score": 5.63,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -460,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.72,
+      "final_score": 5.63,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -471,7 +537,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.72,
+      "final_score": 5.63,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -482,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.64,
+      "final_score": 5.54,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -493,8 +559,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.63,
+      "final_score": 5.53,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "9b4724385d5c91f3",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "summary_nl": "Communiceren zonder internet, zonder providers, zonder centrale servers: Reticulum maakt het mogelijk. Het is een open-source netwerkprotocol dat werkt over vrijwel elk transportmiddel, van LoRa-radio en pakketradio tot wifi en zelfs seriële verbindingen, en bouwt daarmee een zelforganiserend mesh-netwerk op waarin berichten via meerdere knooppunten hun weg vinden. Versleuteling en anonimiteit zitten standaard ingebouwd, waardoor het netwerk ook bruikbaar is in gebieden zonder infrastructuur of in situaties waarin je niet afhankelijk wilt zijn van bestaande providers. Inspirerend omdat het laat zien dat je met relatief eenvoudige hardware een robuust, censuurbestendig communicatienetwerk kunt opzetten dat volledig buiten de gebruikelijke kanalen om werkt. Wat je nodig heb je: wat affiniteit met netwerken en Python, een goedkope LoRa-radio of vergelijkbare hardware, en een paar uur om de software te installeren en te testen (bron: https://reticulum.network/).",
+      "url": "https://reticulum.network/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.98,
+      "published_at": "2026-08-16T23:59:10+00:00"
+    },
+    {
+      "id": "2052a044fbd3800e",
+      "title": "Falstad Math and Physics Simulations",
+      "summary_nl": "Interactieve simulaties die abstracte formules eindelijk laten zien wat ze betekenen\n\nDeze verzameling Java- en JavaScript-applets van Paul Falstad bundelt tientallen interactieve simulaties op het gebied van wiskunde en natuurkunde, van golfvoortplanting en elektromagnetische velden tot Fourierreeksen en kwantummechanica. De vondst zit hem in de directe manipulatie: je verschuift een parameter met een schuifbalk en ziet in real-time hoe een golf vervormt of een veld verandert, zonder dat je eerst zelf een simulatieomgeving hoeft op te zetten. Inspirerend omdat het abstracte concepten uit natuurkundeboeken meteen tastbaar maakt, wat vooral bij onderwerpen als trillingen en circuits een wereld van verschil maakt ten opzichte van statische diagrammen. Wat je nodig hebt: een browser, geen installatie of voorkennis van programmeren, en voor het echte begrip een basis in middelbare- of universitaire wiskunde en natuurkunde. Bron: https://www.falstad.com/mathphysics.html",
+      "url": "https://www.falstad.com/mathphysics.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.9,
+      "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
       "id": "230379597ffab64c",
@@ -504,7 +592,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.98,
+      "final_score": 4.88,
       "published_at": "2026-08-15T23:54:35+00:00"
     },
     {
@@ -515,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.89,
+      "final_score": 4.79,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
@@ -526,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.85,
+      "final_score": 4.75,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -537,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.84,
+      "final_score": 4.74,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -548,7 +636,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.64,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -559,7 +647,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.72,
+      "final_score": 4.62,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -570,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.65,
+      "final_score": 4.56,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -581,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.65,
+      "final_score": 4.56,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -592,7 +680,7 @@
       "source": "rss:google_ai",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.75,
+      "final_score": 3.65,
       "published_at": "2026-08-13T16:45:00+00:00"
     },
     {
@@ -603,7 +691,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.73,
+      "final_score": 3.63,
       "published_at": "2026-07-14T12:41:25+00:00"
     },
     {
@@ -614,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.68,
+      "final_score": 3.59,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -625,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.68,
+      "final_score": 3.58,
       "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
@@ -636,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.64,
+      "final_score": 3.55,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
@@ -647,7 +735,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.54,
+      "final_score": 3.44,
       "published_at": "2026-07-12T14:24:33+00:00"
     }
   ]
