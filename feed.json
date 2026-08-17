@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:51:01.411350+00:00",
+  "generated_at": "2026-08-17T05:28:14.479487+00:00",
   "items": [
     {
       "id": "4ebe610f1b868e97",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.83,
+      "final_score": 10.82,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -152,19 +152,8 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
-      "published_at": "2026-08-14T18:36:28+00:00"
-    },
-    {
-      "id": "df53bf562276fa1e",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "summary_nl": "Meer uit je AI-programmeerassistent halen: hoe pak je dat aan? Anthropic deelt in dit blog concrete werkwijzen om Claude Code effectiever in te zetten, zoals het slim opbouwen van context, taken opsplitsen en de juiste momenten kiezen om de AI te laten controleren of bijsturen. De kern is dat de kwaliteit van je output sterk samenhangt met hoe doordacht je de sessie structureert, niet alleen met de kracht van het model zelf. Wat je nodig hebt: een Claude Code abonnement, basiservaring met programmeren en werken met AI-coding tools, en een uur om de aanbevolen werkwijzen door te nemen en toe te passen op je eigen project. Bron: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
       "final_score": 8.75,
-      "published_at": "2026-08-14T16:15:21+00:00"
+      "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
       "id": "e75e5fb5723fbb4a",
@@ -176,6 +165,17 @@
       "score": 9,
       "final_score": 8.75,
       "published_at": "2026-08-14T16:55:48+00:00"
+    },
+    {
+      "id": "df53bf562276fa1e",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "summary_nl": "Meer uit je AI-programmeerassistent halen: hoe pak je dat aan? Anthropic deelt in dit blog concrete werkwijzen om Claude Code effectiever in te zetten, zoals het slim opbouwen van context, taken opsplitsen en de juiste momenten kiezen om de AI te laten controleren of bijsturen. De kern is dat de kwaliteit van je output sterk samenhangt met hoe doordacht je de sessie structureert, niet alleen met de kracht van het model zelf. Wat je nodig hebt: een Claude Code abonnement, basiservaring met programmeren en werken met AI-coding tools, en een uur om de aanbevolen werkwijzen door te nemen en toe te passen op je eigen project. Bron: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.74,
+      "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
       "id": "4135cb0bfc28c0a1",
@@ -262,7 +262,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.9,
+      "final_score": 7.89,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.96,
+      "final_score": 6.95,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.84,
+      "final_score": 6.83,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.55,
+      "final_score": 6.54,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -504,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.75,
+      "final_score": 5.74,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -526,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.63,
+      "final_score": 5.62,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -537,7 +537,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.63,
+      "final_score": 5.62,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.64,
+      "final_score": 4.63,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -658,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.56,
+      "final_score": 4.55,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -669,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.56,
+      "final_score": 4.55,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.59,
+      "final_score": 3.58,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -724,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.55,
+      "final_score": 3.54,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
