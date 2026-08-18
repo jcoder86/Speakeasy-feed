@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:41:37.151649+00:00",
+  "generated_at": "2026-08-18T05:21:19.794125+00:00",
   "items": [
     {
       "id": "1337d8ae32632a1a",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.95,
+      "final_score": 10.94,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.73,
+      "final_score": 10.72,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.78,
+      "final_score": 9.77,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.67,
+      "final_score": 9.66,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -123,17 +123,6 @@
       "published_at": "2026-08-13T06:43:24+00:00"
     },
     {
-      "id": "2f2c6b7aede51e0a",
-      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-      "summary_nl": "Dertig computer vision-modellen naast elkaar zetten zonder ergens iets te installeren: dat is wat Roboflow Playground mogelijk maakt. Je upload een afbeelding en test direct hoe verschillende modellen omgaan met objectdetectie, segmentatie of classificatie, zodat je in één oogopslag ziet welke aanpak het beste bij je eigen beeldmateriaal past. Inspirerend omdat het de stap van \"welk model kies ik\" veel laagdrempeliger maakt, juist voor wie geen zin heeft om tien verschillende repositories lokaal te draaien voor een eerste indruk. Wat je nodig hebt: een browser, wat testafbeeldingen en geen voorkennis van machine learning om te beginnen, al helpt basiskennis van computer vision om de resultaten goed te interpreteren. Bron: https://blog.roboflow.com/roboflow-playground/",
-      "url": "https://blog.roboflow.com/roboflow-playground/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 8.96,
-      "published_at": "2026-08-17T18:28:07+00:00"
-    },
-    {
       "id": "78c7021cdcc8a221",
       "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
       "summary_nl": "Eén interface, alle agent-harnasjes: HarnessRouter maakt kiezen overbodig. Het project biedt een uniforme laag waarmee je verschillende agent-harnessen (de omgevingen waarin AI-agents draaien en tools aanroepen) via één en dezelfde interface kunt aansturen, zodat je niet voor elk framework opnieuw hoeft te leren hoe het werkt. De slimme vondst is dat je kunt wisselen van onderliggend harnas zonder je eigen agent-logica te herschrijven, wat vooral handig is als je experimenteert met meerdere frameworks of niet vast wilt zitten aan één ecosysteem. Inspirerend omdat het een concreet antwoord geeft op de versnippering in het groe",
@@ -143,6 +132,17 @@
       "score": 9,
       "final_score": 8.96,
       "published_at": "2026-08-17T18:33:38+00:00"
+    },
+    {
+      "id": "2f2c6b7aede51e0a",
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "summary_nl": "Dertig computer vision-modellen naast elkaar zetten zonder ergens iets te installeren: dat is wat Roboflow Playground mogelijk maakt. Je upload een afbeelding en test direct hoe verschillende modellen omgaan met objectdetectie, segmentatie of classificatie, zodat je in één oogopslag ziet welke aanpak het beste bij je eigen beeldmateriaal past. Inspirerend omdat het de stap van \"welk model kies ik\" veel laagdrempeliger maakt, juist voor wie geen zin heeft om tien verschillende repositories lokaal te draaien voor een eerste indruk. Wat je nodig hebt: een browser, wat testafbeeldingen en geen voorkennis van machine learning om te beginnen, al helpt basiskennis van computer vision om de resultaten goed te interpreteren. Bron: https://blog.roboflow.com/roboflow-playground/",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
       "id": "ac43406b19738a85",
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.93,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.65,
+      "final_score": 8.64,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.53,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.96,
+      "final_score": 7.95,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.94,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.8,
+      "final_score": 7.79,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -504,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.96,
+      "final_score": 6.95,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -548,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -581,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.74,
+      "final_score": 6.73,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.45,
+      "final_score": 6.44,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.53,
+      "final_score": 5.52,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -713,7 +713,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.53,
+      "final_score": 5.52,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -845,7 +845,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.46,
+      "final_score": 4.45,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -856,7 +856,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.46,
+      "final_score": 4.45,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -889,7 +889,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.49,
+      "final_score": 3.48,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -911,7 +911,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.45,
+      "final_score": 3.44,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
