@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-17T05:28:14.479487+00:00",
+  "generated_at": "2026-08-18T04:41:37.151649+00:00",
   "items": [
+    {
+      "id": "1337d8ae32632a1a",
+      "title": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
+      "summary_nl": "Duizend keer minder geheugen voor je taalmodel, zonder de complexiteit erbij in te schieten: dat belooft UL-SMF. Dit open-source project comprimeert de KV-cache van large language models met een factor van ongeveer 300, terwijl de rekencomplexiteit lineair blijft in plaats van kwadratisch te groeien met de context. De truc zit in een slimmere manier om eerder berekende attention-informatie samen te vatten, zodat je minder geheugen nodig hebt om lange gesprekken of documenten te verwerken zonder in te leveren op snelheid. Inspirerend omdat dit soort geheugenbesparing drempels wegneemt voor wie zelf grote modellen wil draaien op bescheiden hardware. Wat je nodig heb je: ervaring met Python en machine-learning-frameworks zoals PyTorch, en een middag om de code te doorlopen en op je eigen setup te testen, zoals te vinden op https://github.com/liventruth/UL-SMF-Cache-Compression.",
+      "url": "https://github.com/liventruth/UL-SMF-Cache-Compression",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.95,
+      "published_at": "2026-08-17T15:56:14+00:00"
+    },
     {
       "id": "4ebe610f1b868e97",
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
@@ -9,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.82,
+      "final_score": 10.73,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -20,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.74,
+      "final_score": 10.64,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -31,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.72,
+      "final_score": 10.62,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -42,7 +53,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.93,
+      "final_score": 9.83,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -53,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.87,
+      "final_score": 9.78,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -64,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.84,
+      "final_score": 9.74,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -75,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.76,
+      "final_score": 9.67,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -86,7 +97,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.75,
+      "final_score": 9.65,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -97,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.73,
+      "final_score": 9.63,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -108,8 +119,85 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.61,
+      "final_score": 9.51,
       "published_at": "2026-08-13T06:43:24+00:00"
+    },
+    {
+      "id": "2f2c6b7aede51e0a",
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "summary_nl": "Dertig computer vision-modellen naast elkaar zetten zonder ergens iets te installeren: dat is wat Roboflow Playground mogelijk maakt. Je upload een afbeelding en test direct hoe verschillende modellen omgaan met objectdetectie, segmentatie of classificatie, zodat je in één oogopslag ziet welke aanpak het beste bij je eigen beeldmateriaal past. Inspirerend omdat het de stap van \"welk model kies ik\" veel laagdrempeliger maakt, juist voor wie geen zin heeft om tien verschillende repositories lokaal te draaien voor een eerste indruk. Wat je nodig hebt: een browser, wat testafbeeldingen en geen voorkennis van machine learning om te beginnen, al helpt basiskennis van computer vision om de resultaten goed te interpreteren. Bron: https://blog.roboflow.com/roboflow-playground/",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-17T18:28:07+00:00"
+    },
+    {
+      "id": "78c7021cdcc8a221",
+      "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
+      "summary_nl": "Eén interface, alle agent-harnasjes: HarnessRouter maakt kiezen overbodig. Het project biedt een uniforme laag waarmee je verschillende agent-harnessen (de omgevingen waarin AI-agents draaien en tools aanroepen) via één en dezelfde interface kunt aansturen, zodat je niet voor elk framework opnieuw hoeft te leren hoe het werkt. De slimme vondst is dat je kunt wisselen van onderliggend harnas zonder je eigen agent-logica te herschrijven, wat vooral handig is als je experimenteert met meerdere frameworks of niet vast wilt zitten aan één ecosysteem. Inspirerend omdat het een concreet antwoord geeft op de versnippering in het groe",
+      "url": "https://github.com/harnessrouter/harnessrouter",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-17T18:33:38+00:00"
+    },
+    {
+      "id": "ac43406b19738a85",
+      "title": "Show HN: I gave my job search data an MCP interface",
+      "summary_nl": "Je sollicitatieadministratie die ineens met je kan praten: een ontwikkelaar koppelde zijn persoonlijke jobsearch-tracker aan MCP, het Model Context Protocol waarmee AI-assistenten als Claude rechtstreeks toegang krijgen tot externe data en tools. Het resultaat is dat je een AI-ass",
+      "url": "https://ackd.app/agents",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-17T17:42:40+00:00"
+    },
+    {
+      "id": "4f5a33c12fbbc92c",
+      "title": "A Preview of DuckDB v2.0",
+      "summary_nl": "DuckDB gaat naar versie 2.0, en dat is opvallend voor een tool die juist bekendstaat om zijn rustige, doordachte ontwikkeling. De preview belicht wat gebruikers kunnen verwachten van deze grote stap, waarschijnlijk op het gebied van prestaties, opslagformaat en compatibiliteit, al blijft de precieze inhoud in deze aankondiging nog beperkt. Inspirerend omdat DuckDB laat zien dat een database niet log en zwaar hoeft te zijn om serieus werk te doen, en dat je met een lichte, embedded oplossing verrassend ver komt bij data-analyse. Wat je nodig hebt: enige bekendheid met SQL en databases, en als je nu al met DuckDB werkt is het vooral interessant om te volgen welke breaking changes er aankomen. Bron: https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-17T13:46:27+00:00"
+    },
+    {
+      "id": "3028e0cf7c06a085",
+      "title": "Show HN: A community library for Claude Code status lines",
+      "summary_nl": "Statusregels als visitekaartje: een verzamelplek voor Claude Code\n\nStatuslin.es is een community-bibliotheek waar gebruikers van Claude Code hun aangepaste statusregels kunnen delen en bekijken. Het idee is simpel: de statusregel onderaan je terminal, die normaal alleen wat technische info toont, kan met wat configuratie worden omgebouwd tot iets persoonlijks of functioneels, en deze site verzamelt de beste voorbeelden op één plek zodat je ze kunt overnemen of ervan kunt leren. Wat je nodig hebt: Claude Code geïnstalleerd, wat affiniteit met configuratiebestanden, en een half uurtje om te experimenteren met een eigen variant. Bron: https://statuslin.es",
+      "url": "https://statuslin.es",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-17T13:12:07+00:00"
+    },
+    {
+      "id": "016952e7d3b256ea",
+      "title": "Show HN: Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
+      "summary_nl": "Klein maar fijn: reactiviteit zonder gedoe\n\nFlynt.js is een nieuwe JavaScript-library van slechts 2.2kb die reactiviteit toevoegt aan multi-page applicaties, zonder dat je een build-stap nodig hebt. Je plakt het script simpelweg in je pagina en het werkt direct samen met je bestaande HTML, wat het bijzonder geschikt maakt voor traditionele websites die niet volledig op een framework zoals React of Vue draaien. De slimme vondst zit in de CSP-veiligheid (Content Security Policy): de library gebruikt geen inline scripts of eval-constructies, waardoor het probleemloos werkt binnen strenge beveiligingsregels die veel bedrijven en overheidssites hanteren. Wat je nodig hebt: basiskennis van HTML en JavaScript, en een paar minuten om het script te integreren; er is geen build-tooling, package manager of compiler vereist. Bron: https://github.com/marsbos/flynt.js",
+      "url": "https://github.com/marsbos/flynt.js",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.85,
+      "published_at": "2026-08-16T17:40:33+00:00"
+    },
+    {
+      "id": "3a2a0d2686f94b3e",
+      "title": "Show HN: PageSieve, a web scraping browser extension",
+      "summary_nl": "Handmatig webpagina's doorspitten voor data? PageSieve is een browserextensie waarmee je direct in je browser webpagina's kunt scrapen zonder losse scripts of externe tools op te zetten. Je selecteert wat je nodig hebt terwijl je gewoon aan het browsen bent, en de extensie filtert en verzamelt de relevante gegevens voor je. Wat je nodig hebt: een Chromium- of Firefox-browser waarin je de extensie kunt installeren, en verder geen programmeerkennis, al helpt enig gevoel voor CSS-selectors bij het fijnslijpen van je selecties. Meer details en installatie-instructies staan op https://julius383.github.io/PageSieve/.",
+      "url": "https://julius383.github.io/PageSieve/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.84,
+      "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
       "id": "42066db56dcafafd",
@@ -119,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.91,
+      "final_score": 8.81,
       "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
@@ -130,7 +218,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.8,
+      "final_score": 8.7,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -141,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.66,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -152,7 +240,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.75,
+      "final_score": 8.66,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -163,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.75,
+      "final_score": 8.65,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -174,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.65,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -185,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.65,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -196,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.64,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -207,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.64,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -218,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.72,
+      "final_score": 8.62,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -229,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.68,
+      "final_score": 8.58,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -240,7 +328,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.67,
+      "final_score": 8.57,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -251,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.54,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -262,7 +350,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.54,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -273,7 +361,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.53,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -284,8 +372,52 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.53,
       "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
+      "id": "bdf3bb00d39c5479",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "summary_nl": "Rust en GPU's: een combinatie die eindelijk geheugenveilig kan. Dit onderzoek onderzoekt hoe GPU-offloading in Rust geïmplementeerd kan worden zonder de bekende compromissen tussen portabiliteit, veiligheid en snelheid waar CUDA- en OpenCL-ontwikkelaars normaal gesproken mee te maken hebben. De aanpak maakt gebruik van Rust's typesysteem en ownership-model om geheugenfouten op de GPU al bij het compileren op te sporen, terwijl de prestaties overeind blijven op verschillende hardwareplatforms. Inspirerend omdat het laat zien dat de veiligheidsgaranties waar Rust om bekend staat, ook naar parallelle GPU-programmeren kunnen worden doorgetrokken, een domein waar bugs vaak lastig te debuggen zijn. Wat je nodig hebt: gevorderde kennis van Rust en GPU-programmeerconcepten (CUDA/OpenCL-achtergrond helpt), en de bereidheid om een academisch paper door te nemen; concrete tooling is nog niet als kant-en-klaar product beschikbaar (arxiv.org/abs/2608.13759).",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.96,
+      "published_at": "2026-08-17T17:54:59+00:00"
+    },
+    {
+      "id": "5011c8f47292fe5f",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary_nl": "Eén API voor alle spraak-AI: Speko wil doen voor voice wat OpenRouter deed voor tekstmodellen. Het platform biedt één interface waarachter meerdere aanbieders van spraak- en voice-AI schuilgaan, zodat je niet voor elke provider apart integraties hoeft te bouwen of te wisselen als een model beter of goedkoper wordt. De vondst is vooral praktisch: ontwikkelaars kunnen zo modellen vergelijken en switchen zonder hun applicatiecode telkens aan te passen, wat vendor lock-in vermindert. Wat je nodig hebt: basiskennis van API-integratie en een use case waarin spraakherkenning of tekst-naar-spraak een rol speelt; voor experimenteren ben je op basis van de aankondiging (YC S26) binnen een uur aan de slag. Bron: https://speko.ai/",
+      "url": "https://speko.ai/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.95,
+      "published_at": "2026-08-17T15:36:18+00:00"
+    },
+    {
+      "id": "76963b852e28c23f",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary_nl": "Wanneer een automatische bugfix zelf het lek wordt: onderzoekers van Wiz ontdekten dat een door GitHub Copilot's \"Autofix\" gegenereerde code-aanpassing een kwetsbaarheid introduceerde waarmee aanvallers uiteindelijk toegang konden krijgen tot Snowflake's interne Jira-omgeving via de CI/CD-pipeline. Autofix stelt AI voor om automatisch beveiligingsproblemen op te lossen, maar in dit geval bevatte de voorgestelde oplossing zelf een fout die een nieuwe aanvalsroute opende. Inspirerend omdat het een concreet, goed gedocumenteerd voorbeeld geeft van hoe AI-gegenereerde code niet blindelings vertrouwd moet worden, zeker niet in gevoelige onderdelen zoals CI/CD-pipelines. Wat je nodig hebt: kennis van CI/CD-beveiliging en supply chain risico's, en de discipline om AI-suggesties altijd handmatig te reviewen voordat ze worden samengevoegd; geschikt voor security engineers en DevOps-teams met enige ervaring. Meer details in het volledige onderzoek via https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-b",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.94,
+      "published_at": "2026-08-17T14:18:38+00:00"
+    },
+    {
+      "id": "6fa238cb18ae43cc",
+      "title": "Show HN: All roads lead home – a Google timeline replacement",
+      "summary_nl": "Alle wegen leiden naar huis, behalve die van Google zelf\n\nGoogle schrapte de webversie van Timeline en beperkte locatiegeschiedenis tot alleen de telefoon, en dat was voor deze maker reden om zelf een vervanger te bouwen. All Roads Lead Home importeert je bestaande Google Locatiegeschiedenis en zet die om in een doorzoekbare, visuele tijdlijn die je zelf in de hand houdt, inclusief kaartweergaven van waar je bent geweest. De slimme vondst zit vooral in het teruggeven van eigenaarschap: je data staat niet meer vast in een app die de leverancier naar believen kan afbouwen. Wat je nodig hebt: een export van je Google Locatiegeschiedenis (via Google Takeout), een moderne browser, en verder geen technische voorkennis om de tool te gebruiken. Bron: https://takeallroads.com/",
+      "url": "https://takeallroads.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.94,
+      "published_at": "2026-08-17T14:24:01+00:00"
     },
     {
       "id": "08740f9c3e29ad24",
@@ -295,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.85,
       "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
@@ -306,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.89,
+      "final_score": 7.8,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -317,7 +449,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.89,
+      "final_score": 7.79,
       "published_at": "2026-08-16T02:12:53+00:00"
     },
     {
@@ -328,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.84,
+      "final_score": 7.74,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -339,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.75,
+      "final_score": 7.65,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -350,7 +482,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.69,
+      "final_score": 7.59,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -361,8 +493,41 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 7.5,
+      "final_score": 7.4,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "e9dc032bed83a413",
+      "title": "Show HN: Visimer – open-source visual editor for Mermaid diagrams",
+      "summary_nl": "Sleutel en slot voor je diagrammen: Visimer maakt Mermaid-code visueel bewerkbaar. Het is een open-source editor waarmee je Mermaid-diagrammen (denk aan flowcharts, sequence diagrams) niet langer alleen als tekstcode hoeft te schrijven, maar ook visueel kunt aanpassen door te slepen en klikken, terwijl de onderliggende code automatisch meeverandert. De vondst zit in de tweerichtingssynchronisatie: wie liever code typt kan dat blijven doen, wie liever ziet wat hij doet kan overschakelen, zonder dat je tussen twee losse werelden zit. Wat je nodig hebt: geen programmeerervaring vereist voor het visuele deel, wel handig als je al bekend bent met Mermaid-syntax; installatie via de GitHub-repository, geschikt voor wie regelmatig documentatie of technische diagrammen maakt. Bron: https://github.com/inkeep/visimer",
+      "url": "https://github.com/inkeep/visimer",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.96,
+      "published_at": "2026-08-17T18:26:04+00:00"
+    },
+    {
+      "id": "2525cc252e6f665b",
+      "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+      "summary_nl": "Een spelontwikkelaar die zichzelf bouwt: dat belooft Tesana. Het is een AI-gedreven game engine die op basis van een beschrijving of concept een volledig speelbaar spel probeert te genereren, van mechanica tot vormgeving, zonder dat je zelf code hoeft te schrijven. De slimme vondst zit in de belofte van \"end-to-end\": niet alleen losse assets of snippets, maar een samenhangend, speelbaar geheel. Wat je nodig hebt: nieuwsgierigheid en tijd om te experimenteren, verder geen programmeerervaring, al is een kritische blik op de kwaliteit van het resultaat verstandig aangezien dit een vroege, net gelanceerde tool is. Zie https://tesana.ai/en voor meer informatie.",
+      "url": "https://tesana.ai/en",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.95,
+      "published_at": "2026-08-17T17:39:02+00:00"
+    },
+    {
+      "id": "8d5b5dd74d73b8fd",
+      "title": "How to ship a database every day",
+      "summary_nl": "Elke dag een database uitrollen zonder dat klanten daar iets van merken: hoe doe je dat? Turbopuffer laat in deze blogpost zien hoe hun control plane is opgezet om continu wijzigingen door te voeren in een systeem waar downtime of dataverlies geen optie is, met aandacht voor gefaseerde rollouts, automatische validatie en snelle rollback-mechanismen. Inspirerend omdat het een kijkje geeft achter de schermen van een infrastructuurbedrijf dat de spanning tussen snelheid van ontwikkelen en betrouwbaarheid van een kritieke dienst heeft opgelost. Wat je nodig hebt: ervaring met distributed systems en deployment-pipelines, en een dag om de architecturale keuzes en afwegingen goed door te nemen. Bron: https://turbopuffer.com/blog/control-plane",
+      "url": "https://turbopuffer.com/blog/control-plane",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.94,
+      "published_at": "2026-08-17T13:56:38+00:00"
     },
     {
       "id": "372b8d6bc52cc511",
@@ -372,7 +537,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.98,
+      "final_score": 6.88,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -383,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.95,
+      "final_score": 6.86,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -394,7 +559,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.76,
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
@@ -405,7 +570,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.84,
+      "final_score": 6.74,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -416,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.83,
+      "final_score": 6.74,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -427,7 +592,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.8,
+      "final_score": 6.7,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -438,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.79,
+      "final_score": 6.69,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -449,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.65,
+      "final_score": 6.55,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -460,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.63,
+      "final_score": 6.53,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -471,8 +636,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.54,
+      "final_score": 6.45,
       "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "b20063452d1b2376",
+      "title": "yetone/cumora",
+      "summary_nl": "Waar mens en AI-agent gewoon samen in de teamchat zitten: cumora. Dit is een cross-platform teamchatapplicatie waarin AI-agents niet als los addertje zijn toegevoegd, maar als volwaardige teamleden meedraaien naast je collega's. Je kunt kiezen: gebruik de cloud-variant, of koppel je eigen \"brein\" via Claude Code of Codex, zodat je zelf bepaalt welk model de agent aanstuurt en waar je data blijft. Wat je nodig hebt: een account bij Claude Code of Codex als je voor bring-your-own kiest, en de bereidheid om te experimenteren met agentgedrag in een teamomgeving; voor de basis-cloudvariant is instapkennis van chatplatforms voldoende. Zie het project op GitHub via https://github.com/yetone/cumora.",
+      "url": "https://github.com/yetone/cumora",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.92,
+      "published_at": "2026-08-17T09:13:52+00:00"
     },
     {
       "id": "22c1ee9fe1f2108e",
@@ -482,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.93,
+      "final_score": 5.83,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -493,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.88,
+      "final_score": 5.78,
       "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
@@ -504,7 +680,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.74,
+      "final_score": 5.65,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -515,7 +691,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.63,
+      "final_score": 5.53,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -526,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.62,
+      "final_score": 5.53,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -537,7 +713,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.62,
+      "final_score": 5.53,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -548,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.54,
+      "final_score": 5.44,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -559,8 +735,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.53,
+      "final_score": 5.43,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "f5241fc2d678e76e",
+      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+      "summary_nl": "De verborgen prijs van veiligheid: wat hogere defensie-uitgaven betekenen voor uw portemonnee. ECB-directielid Philip R. Lane analyseert in deze toespraak hoe de oplopende defensie-uitgaven in de eurozone doorwerken op inflatie, overheidsfinanciën en de bredere economie, en welke afwegingen dit voor het monetaire beleid met zich meebrengt. De slimme vondst zit in de manier waarop Lane de macro-economische gevolgen van geopolitieke keuzes concreet vertaalt naar cijfers en beleidsimplicaties, iets wat in het publieke debat vaak onderbelicht blijft. Inspirerend omdat het laat zien hoe centrale bankiers verder kijken dan rente-instrumenten alleen, en structurele verschuivingen in overheidsbestedingen meenemen in hun analyses. Wat je nodig hebt: geen voorkennis vereist, wel interesse in economisch beleid; de toespraak (pdf) leest u in ruim tien minuten, bron: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf.",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "source": "rss:ecb_press",
+      "category": "macro",
+      "score": 5,
+      "final_score": 4.92,
+      "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
       "id": "9b4724385d5c91f3",
@@ -570,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.98,
+      "final_score": 4.88,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -581,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.9,
+      "final_score": 4.8,
       "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
@@ -592,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.88,
+      "final_score": 4.78,
       "published_at": "2026-08-15T23:54:35+00:00"
     },
     {
@@ -603,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.79,
+      "final_score": 4.69,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
@@ -614,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.75,
+      "final_score": 4.65,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -625,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.64,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -636,7 +823,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.63,
+      "final_score": 4.54,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -647,7 +834,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.62,
+      "final_score": 4.52,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -658,7 +845,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.55,
+      "final_score": 4.46,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -669,7 +856,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.55,
+      "final_score": 4.46,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -680,7 +867,7 @@
       "source": "rss:google_ai",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.65,
+      "final_score": 3.55,
       "published_at": "2026-08-13T16:45:00+00:00"
     },
     {
@@ -691,7 +878,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.63,
+      "final_score": 3.53,
       "published_at": "2026-07-14T12:41:25+00:00"
     },
     {
@@ -702,7 +889,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.58,
+      "final_score": 3.49,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -713,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.58,
+      "final_score": 3.48,
       "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
@@ -724,7 +911,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.54,
+      "final_score": 3.45,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
@@ -735,7 +922,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.44,
+      "final_score": 3.34,
       "published_at": "2026-07-12T14:24:33+00:00"
     }
   ]
