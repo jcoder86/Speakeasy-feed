@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:42:42.690977+00:00",
+  "generated_at": "2026-08-19T05:21:55.606320+00:00",
   "items": [
     {
       "id": "1337d8ae32632a1a",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.85,
+      "final_score": 10.84,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.63,
+      "final_score": 10.62,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.57,
+      "final_score": 9.56,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.97,
+      "final_score": 8.96,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.96,
+      "final_score": 8.95,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -244,6 +244,17 @@
       "published_at": "2026-08-18T12:05:57+00:00"
     },
     {
+      "id": "8a29e8cb39cdb074",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "summary_nl": "Claude schrijft een printerdriver: als een AI dat kan, wat kun jij dan nog zelf oplossen?\n\nEen gebruiker had een obscure HP-printer die alleen met Windows-drivers werd geleverd, geen macOS-ondersteuning in zicht. In plaats van een tweedehands Windows-laptop erbij te houden, liet hij Claude uitzoeken hoe het printprotocol werkt en er een werkende macOS-driver voor bouwen. Inspirerend omdat het laat zien dat AI-modellen inmiddels low-level systeemproblemen kunnen aanpakken die vroeger alleen weggelegd waren voor mensen met specifieke reverse-engineering-kennis. Wat je nodig heb: toegang tot Claude (of vergelijkbare coding-AI), een basisbegrip van hoe drivers en printprotocollen werken om de output te kunnen beoordelen, en geduld om te itereren, dit is geen vijf-minuten-klusje. Bron: https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.93,
+      "published_at": "2026-08-18T12:22:58+00:00"
+    },
+    {
       "id": "5814774ce93ebfed",
       "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
       "summary_nl": "Je LLM als eigen surveillant: klinkt tegenstrijdig, maar COSP (Consistency-based Self-adaptive Prompting) laat een taalmodel meerdere antwoorden op dezelfde vraag genereren en vervolgens zelf beoordelen welke redenering het meest consistent is, zonder dat je vooraf gelabelde voorbeelden nodig hebt. De truc zit in het combineren van self-consistency, waarbij je dezelfde prompt meerdere keren laat draaien en de meest voorkomende uitkomst als beste antwoord neemt, met een slimme selectie van welke voorbeelden je daarna in de prompt opneemt voor toekomstige vragen. Inspirerend omdat het een manier is om promptkwaliteit te verbeteren zonder handmatig te hoeven annoteren, wat vooral bij nichetoepassingen tijd bespaart. Wat je nodig heb: toegang tot een LLM API waarmee je meerdere samples per vraag kunt opvragen, basiskennis van prompting-technieken en wat scripting (Python volstaat) om de antwoorden te vergelijken en te clusteren. Zie de uitleg met voorbeelden op https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf.",
@@ -251,7 +262,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.93,
+      "final_score": 8.92,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -262,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -273,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -306,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.83,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -328,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.73,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -482,7 +493,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -526,7 +537,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.93,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -537,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.86,
+      "final_score": 7.85,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -548,7 +559,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.85,
+      "final_score": 7.84,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -603,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.7,
+      "final_score": 7.69,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -702,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -746,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.75,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -779,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.64,
+      "final_score": 6.63,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -834,7 +845,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.35,
+      "final_score": 6.34,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -845,7 +856,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.98,
+      "final_score": 5.97,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -856,7 +867,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.94,
+      "final_score": 5.93,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -922,7 +933,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.43,
+      "final_score": 5.42,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -933,7 +944,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.43,
+      "final_score": 5.42,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -1087,7 +1098,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.36,
+      "final_score": 4.35,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -1098,7 +1109,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.36,
+      "final_score": 4.35,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -1142,7 +1153,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.39,
+      "final_score": 3.38,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -1164,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.35,
+      "final_score": 3.34,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
