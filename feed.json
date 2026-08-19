@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:21:19.794125+00:00",
+  "generated_at": "2026-08-19T04:42:42.690977+00:00",
   "items": [
     {
       "id": "1337d8ae32632a1a",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.94,
+      "final_score": 10.85,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.72,
+      "final_score": 10.63,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.64,
+      "final_score": 10.54,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -42,8 +42,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.62,
+      "final_score": 10.52,
       "published_at": "2026-08-14T09:51:11+00:00"
+    },
+    {
+      "id": "086507d579a99587",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "summary_nl": "Statisch gecompileerd, toch dynamisch laden: Solo maakt dat mogelijk. Dit is een loader waarmee je .so-bestanden (shared libraries) kunt inladen in Linux-binaries die volledig statisch zijn gebouwd, iets wat normaal gesproken niet werkt omdat statische binaries geen dynamic linker hebben. De tool implementeert zelf de benodigde linking-logica, zodat je toch runtime-plugins of dynamisch gedeelde code kunt gebruiken zonder de voordelen van een statische build (portable, geen afhankelijkheden) op te geven. Inspirerend omdat het een fundamentele aanname van Linux-binaries doorbreekt met een relatief compacte, doelgerichte oplossing. Wat je nodig heb je: ervaring met Linux systeemprogrammering, kennis van ELF-formaten en dynamic linking, en de bereidheid om met een niche-tool te experimenteren (github.com/pg83/solo).",
+      "url": "https://github.com/pg83/solo",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.98,
+      "published_at": "2026-08-18T23:51:49+00:00"
+    },
+    {
+      "id": "3ee099290e581a72",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "summary_nl": "Veilig opslaan zonder gedoe: keychain-store maakt gevoelige data in Electron-apps eenvoudig te beschermen via de macOS Data Protection Keychain. In plaats van zelf encryptie te bouwen of wachtwoorden onversleuteld op schijf te zetten, koppelt deze library rechtstreeks aan het beveiligingsmechanisme dat macOS al standaard aanbiedt. Wat je nodig hebt: een Electron-project, basiskennis van Node.js en macOS als doelplatform, want de oplossing is specifiek voor dit besturingssysteem gebouwd. Bron: https://github.com/biw/keychain-store",
+      "url": "https://github.com/biw/keychain-store",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.95,
+      "published_at": "2026-08-18T17:25:19+00:00"
     },
     {
       "id": "eb4edca3b5b87822",
@@ -53,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.83,
+      "final_score": 9.73,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -64,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.77,
+      "final_score": 9.67,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -75,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.74,
+      "final_score": 9.64,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -86,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.66,
+      "final_score": 9.57,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -97,7 +119,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.65,
+      "final_score": 9.55,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -108,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.63,
+      "final_score": 9.53,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -119,8 +141,118 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.51,
+      "final_score": 9.41,
       "published_at": "2026-08-13T06:43:24+00:00"
+    },
+    {
+      "id": "72270d8ce63c3843",
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "summary_nl": "Van dood spoor naar speelbaar: automatische reddingsboei voor Sierra-adventures. Lucasartsifier is een tool die klassieke Sierra-games zoals King's Quest en Space Quest scant op zogeheten walking-dead states: situaties waarin je personage nog kan lopen en praten, maar het spel eigenlijk al niet meer te winnen is omdat je een cruciaal item of actie hebt gemist. De tool detecteert deze valkuilen en patcht ze weg, naar het voorbeeld van LucasArts-games die bewust zo ontworpen waren dat je nooit vast kon lopen zonder waarschuwing. Inspirerend omdat het laat zien hoe game preservation en reverse engineering samenkomen om oude, geliefde titels speelbaarder te maken zon",
+      "url": "https://github.com/katiahayati/lucasartsifier/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.99,
+      "published_at": "2026-08-19T01:58:33+00:00"
+    },
+    {
+      "id": "7be47a8941bfb175",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "summary_nl": "Van black box naar bewegend plaatje: ModelMap.cc maakt de architectuur van ieder HuggingFace-model visueel en interactief. Je voert een modelnaam in en krijgt een geanimeerde weergave van de lagen, verbindingen en dataflow, in plaats van de gebruikelijke droge configuratiebestanden of codeblokken. Inspirerend omdat het abstracte neurale netwerken tastbaar maakt, wat vooral handig is als je snel wilt begrijpen hoe een model in elkaar steekt zonder de papers of source code door te spitten. Wat je nodig hebt: geen installatie, gewoon een browser en een modelnaam van HuggingFace; basiskennis van transformer-architecturen helpt om de visualisatie goed te interpreteren. Bron: https://modelmap.cc",
+      "url": "https://modelmap.cc",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.98,
+      "published_at": "2026-08-18T23:57:36+00:00"
+    },
+    {
+      "id": "2335b295c04177ec",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "summary_nl": "Een printer die weigert mee te werken, en een AI-assistent die de fabrikant te snel af is: dat is precies wat hier gebeurt met de HP Laser 1008a. Deze printer heeft geen officiële macOS-driver, dus iemand liet Claude Code uitzoeken hoe het apparaat communiceert en bouwde daarmee een eigen oplossing die native printen mogelijk maakt, zonder omwegen via Linux-drivers of workarounds. Inspirerend omdat het laat zien hoe AI-codeertools niet alleen software schrijven, maar ook praktische, taaie hardwareproblemen kunnen tackelen die grote bedrijven laten liggen. Wat je nodig hebt: toegang tot Claude Code of vergelijkbare AI-coding-assistent, een basis in macOS-systeeminterna (CUPS, driverstructuur) en de bereidheid om een middagje te experimenteren en te debuggen. Bron: https://cdn.kuber.studio/chat/hp-laser-1",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.97,
+      "published_at": "2026-08-18T21:14:21+00:00"
+    },
+    {
+      "id": "5f1218d7bf86113f",
+      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+      "summary_nl": "Eigen codeerassistent zonder cloudverplichting: ChatOSS. Dit is een Codex-alternatief dat volledig draait op open source modellen via Ollama, waardoor je een AI-codeerassistent lokaal op je eigen machine kunt gebruiken in plaats van via een externe dienst. De slimme vondst is dat je zo controle houdt over je code en data, zonder afhankelijk te zijn van een abonnement of internetverbinding. Inspirerend omdat het laat zien dat je met bestaande open source bouwstenen een bruikbaar alternatief kunt neerzetten voor commerciële tools als Codex. Wat je nodig hebt: Ollama geïnstalleerd, een geschikt open source taalmodel, en basiskennis van command line werken; een middagje om het op te zetten en te testen. Bron: https://chatoss.ai",
+      "url": "https://chatoss.ai",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.97,
+      "published_at": "2026-08-18T20:42:19+00:00"
+    },
+    {
+      "id": "c99f54343031ec1f",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "summary_nl": "Compacter zoeken in hoge dimensies: Turbovec brengt Google's TurboQuant-techniek naar Rust. Het idee achter TurboQuant is dat vectoren voor zoekopdrachten (denk aan embeddings) sterk gecomprimeerd kunnen worden zonder dat de zoekkwaliteit merkbaar inzakt, waardoor vector search sneller en geheugenzuiniger wordt. Turbovec zet die aanpak om in een Rust-implementatie, wat interessant is voor wie snelheid en lage overhead belangrijk vindt bij het bouwen van zoeksystemen. Inspirerend omdat het laat zien hoe een onderzoeksidee van een grote partij binnen korte tijd door de open-sourcegemeenschap wordt nagebouwd en toegankelijk gemaakt. Wat je nodig hebt: basiskennis van Rust en vector search/embeddings om de code te kunnen lezen en integreren, plus enige tijd om de compressie-instellingen te testen tegen je eigen dataset. Bron: https://github.com/RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-18T18:07:21+00:00"
+    },
+    {
+      "id": "970990b3d767b409",
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "summary_nl": "Persistente cloud-machines zonder gedoe met dashboards: machine0 maakt het opzetten van CPU- en GPU-VM's een kwestie van één command in je terminal. Het idee erachter is simpel maar effectief: in plaats van door cloudconsoles te klikken en instances te configureren, start je vanuit de CLI een machine die blijft bestaan tussen sessies, inclusief je bestanden en installaties. Dit maakt het vooral handig voor wie snel wil experimenteren met GPU-workloads, bijvoorbeeld voor machine learning, zonder telkens opnieuw omgevingen op te bouwen. Inspirerend omdat het laat zien hoe een stuk YC-gebakken infrastructuur de afstand tussen \"ik wil dit even testen\" en \"het draait al\" flink kan verkleinen. Wat je nodig hebt: basiskennis van de command line en een idee van wat voor workload je wilt draaien (CPU of GPU), verder is het vooral een kwestie van installeren en direct aan de slag gaan (https://machine0.io).",
+      "url": "https://machine0.io",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-18T16:26:42+00:00"
+    },
+    {
+      "id": "1fe17a71daf8307e",
+      "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
+      "summary_nl": "Oefenen zonder afhankelijk te zijn van een externe server: Openleetcode is een lokale runner voor LeetCode-achtige oefeningen, waarbij de testcases gewoon in de repository zelf staan in plaats van op een externe website te leven. Het idee is dat je opgaven en tests als gewone bestanden beheert, zodat je alles offline kunt draaien, aanpassen en zelfs eigen oefeningen kunt toevoegen zonder van een account of internetverbinding afhankelijk te zijn. Inspirerend omdat het laat zien hoe je leren en oefenen los kunt maken van gesloten platforms en weer in eigen beheer kunt nemen. Wat je nodig hebt: basiskennis van programmeren en git, en de bereidheid om een tool vanaf GitHub te clonen en lokaal te draaien; geen abonnement of account nodig. Bron: https://github.com/therepanic/openleetcode",
+      "url": "https://github.com/therepanic/openleetcode",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-18T15:30:40+00:00"
+    },
+    {
+      "id": "ab3fa2da22740ccb",
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "summary_nl": "Persen en plakken: hoe je een groot taalmodel toch op je eigen laptop krijgt\n\nShoehorn is een tool die grote taalmodellen kleiner maakt door ze te quantizen, zodat ze passen op de hardware die je toevallig hebt liggen in plaats van op een dure GPU-server. Het idee is simpel: je geeft aan welk model je wilt draaien en Shoehorn zoekt uit hoe het gecomprimeerd kan worden zodat het nog wel functioneert, maar minder geheugen en rekenkracht vraagt. Inspirerend omdat het de drempel verlaagt om te experimenteren met modellen die normaal alleen in de cloud haalbaar zijn, zonder dat je zelf uitgebreide kennis van quantization-technieken hoeft te hebben. Wat je nodig heb je: een machine met redelijke specs (denk aan een moderne laptop of desktop), wat vertrouwdheid met de commandline, en de bereidheid om te experimenteren met instellingen om de juiste balans tussen snelheid en kwaliteit te vinden. Zie de toelichting en broncode op https://notactuallytreyanastasio.github.io/shoehorn/.",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-18T14:29:20+00:00"
+    },
+    {
+      "id": "ea2bf2636963c88f",
+      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
+      "summary_nl": "In vijf minuten een eigen AI-crew: hoe realistisch is dat nou echt? Deze tutorial laat zien hoe je met Kiro Crew via één curl-commando een compleet pakket installeert: een custom agent, een skill, een cron job die taken automatisch laat draaien, en een dashboard om alles te overzien. Het slimme zit hem erin dat Kiro Crew zich niet gedraagt als los tool maar als platform, waarbij de losse onderdelen naadloos samenwerken zonder dat je zelf infrastructuur hoeft op te tuigen. Inspirerend omdat het laat zien hoe laagdrempelig het inmiddels is geworden om een werkend AI-systeem met automatisering en monitoring neer te zetten, zonder wekenlange opbouw. Wat je nodig heb: basiskennis van de terminal en command line, een moment van vijf minuten, en de bereidheid om de code uit de tutorial te volgen (dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0).",
+      "url": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.93,
+      "published_at": "2026-08-18T12:05:57+00:00"
+    },
+    {
+      "id": "5814774ce93ebfed",
+      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+      "summary_nl": "Je LLM als eigen surveillant: klinkt tegenstrijdig, maar COSP (Consistency-based Self-adaptive Prompting) laat een taalmodel meerdere antwoorden op dezelfde vraag genereren en vervolgens zelf beoordelen welke redenering het meest consistent is, zonder dat je vooraf gelabelde voorbeelden nodig hebt. De truc zit in het combineren van self-consistency, waarbij je dezelfde prompt meerdere keren laat draaien en de meest voorkomende uitkomst als beste antwoord neemt, met een slimme selectie van welke voorbeelden je daarna in de prompt opneemt voor toekomstige vragen. Inspirerend omdat het een manier is om promptkwaliteit te verbeteren zonder handmatig te hoeven annoteren, wat vooral bij nichetoepassingen tijd bespaart. Wat je nodig heb: toegang tot een LLM API waarmee je meerdere samples per vraag kunt opvragen, basiskennis van prompting-technieken en wat scripting (Python volstaat) om de antwoorden te vergelijken en te clusteren. Zie de uitleg met voorbeelden op https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf.",
+      "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.93,
+      "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
       "id": "78c7021cdcc8a221",
@@ -130,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.96,
+      "final_score": 8.86,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -141,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.95,
+      "final_score": 8.86,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -152,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.95,
+      "final_score": 8.85,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -163,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.84,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -174,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.93,
+      "final_score": 8.84,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -185,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.75,
       "published_at": "2026-08-16T17:40:33+00:00"
     },
     {
@@ -196,7 +328,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.74,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -207,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.81,
+      "final_score": 8.71,
       "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
@@ -218,7 +350,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.7,
+      "final_score": 8.6,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -229,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.66,
+      "final_score": 8.56,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -240,7 +372,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.66,
+      "final_score": 8.56,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -251,7 +383,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.65,
+      "final_score": 8.55,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -262,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.65,
+      "final_score": 8.55,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -273,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.54,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -284,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.54,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -295,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.54,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -306,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.62,
+      "final_score": 8.52,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -317,7 +449,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.58,
+      "final_score": 8.48,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -328,7 +460,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.57,
+      "final_score": 8.47,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -339,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.44,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -350,7 +482,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.44,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -361,7 +493,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.43,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -372,8 +504,30 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.43,
       "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
+      "id": "947968b0cc6126ca",
+      "title": "fx :Tiny, open, native coding agent.",
+      "summary_nl": "Klein maar fijn: fx is een coding agent die je lokaal draait, zonder zware installatie of cloud-afhankelijkheid. Het idee is dat je een compacte, native tool krijgt die code kan schrijven en aanpassen op basis van jouw instructies, zonder de overhead van grotere platforms. Doordat het open source is, kun je precies zien wat er gebeurt en het naar eigen inzicht aanpassen of uitbreiden. Wat je nodig hebt: basiskennis van de command line, een uurtje om te installeren en te experimenteren, en een project waarop je het los kunt laten. Meer info op https://fx.sh.",
+      "url": "https://fx.sh",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.97,
+      "published_at": "2026-08-18T22:00:21+00:00"
+    },
+    {
+      "id": "e003b13d86aaa3fb",
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "summary_nl": "Snel schakelen tussen pandas-denken en Polars-praktijk: deze cheatsheet legt in één overzicht vast hoe je met Polars dataframes filtert, groepeert en transformeert, gebaseerd op het bijbehorende O'Reilly-boek. Het is vooral handig als geheugensteun tijdens het coderen, met de syntax voor lazy evaluation en expressies die Polars zo snel maken naast elkaar gezet. Inspirerend omdat het de vaak lastige overstap van pandas naar Polars concreet en visueel maakt, zonder dat je het hele boek moet doorwerken. Wat je nodig heb: basiskennis van dataframes en Python, en een paar minuten om de sheet erbij te houden tijdens het werken. Bron: https://opensource.posit.co/resources/cheatsheets/polars/",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.94,
+      "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
       "id": "bdf3bb00d39c5479",
@@ -383,7 +537,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.86,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -394,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.85,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -405,7 +559,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-17T14:18:38+00:00"
     },
     {
@@ -416,8 +570,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-17T14:24:01+00:00"
+    },
+    {
+      "id": "302f7864068b8beb",
+      "title": "Don't Give the Model SQL",
+      "summary_nl": "Geef het model geen SQL, geef het context\n\nWie gezondheidsdata analyseert met een taalmodel loopt al snel tegen zes verborgen valkuilen aan, en wie het model gewoon SQL laat schrijven trapt er gegarandeerd in. De auteur ontdekte dat het benoemen van die valkuilen in de prompt maar ten dele helpt: het model vermijdt de fouten dan meestal, maar \"meestal\" is bij medische data eigenlijk nog erger dan altijd fout, omdat je de uitzondering niet ziet aankomen. Inspirerend omdat het laat zien dat meer uitleg geven aan een model niet altijd tot betrouwbaardere output leidt, en dat structurele oplossingen (zoals de databronnen zelf anders inrichten) soms nodig zijn in plaats van steeds slimmere prompts. Wat je nodig heb: ervaring met SQL en data-analyse, een testset met bekende edge cases om modelgedrag op te controleren, en een kritische blik op waar je AI wel en niet op vertrouwt. Bron: https://dev.to/mattstratton/dont-give-the-model-sql-5h32",
+      "url": "https://dev.to/mattstratton/dont-give-the-model-sql-5h32",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.84,
+      "published_at": "2026-08-17T14:20:00+00:00"
     },
     {
       "id": "08740f9c3e29ad24",
@@ -427,7 +592,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.85,
+      "final_score": 7.75,
       "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
@@ -438,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.79,
+      "final_score": 7.7,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -449,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.79,
+      "final_score": 7.69,
       "published_at": "2026-08-16T02:12:53+00:00"
     },
     {
@@ -460,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.74,
+      "final_score": 7.64,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -471,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.65,
+      "final_score": 7.55,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -482,7 +647,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.59,
+      "final_score": 7.49,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -493,8 +658,41 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 7.4,
+      "final_score": 7.3,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "979d4473cfe65c63",
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "summary_nl": "Palomar: een sterrenwacht voor geverifieerde wiskunde\n\nTerence Tao schrijft over Palomar, een nieuw initiatief dat wiskundige stellingen verzamelt die formeel geverifieerd zijn in Lean, de programmeertaal en proof assistant die steeds meer voet aan de grond krijgt in de wiskundige gemeenschap. Het idee is simpel maar krachtig: in plaats van dat elke onderzoeker losse Lean-bewijzen op eigen repositories laat staan, komt er een doorzoekbaar register waar geverifieerde resultaten samenkomen en vindbaar worden voor iedereen die erop wil voortbouwen. Inspirerend omdat het laat zien hoe formele verificatie langzaam verschuift van curiositeit naar infrastructuur, met een gedeelde plek die net zo vanzelfsprekend kan worden als een preprint-server. Wat je nodig hebt: geen diepgaande Lean-kennis om het idee te volgen, maar wie zelf wil bijdragen of experimenteren heeft basiskennis van Lean en proof assistants nodig, plus enige tijd om je in de bestaande bibliotheken (zoals Mathlib) in te lezen. Meer achtergrond bij Tao zelf: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.99,
+      "published_at": "2026-08-19T02:41:50+00:00"
+    },
+    {
+      "id": "b759a0ed44ec0784",
+      "title": "Programmable Property-Based Testing",
+      "summary_nl": "Slimmer testen door zelf de regels te schrijven\n\nProperty-based testing bestaat al langer, maar deze aanpak maakt het proces programmeerbaar: in plaats van een vast framework te volgen, kun je zelf specificeren hoe testgevallen worden gegenereerd en gecontroleerd. Het idee is dat generatoren en checks zich laten aanpassen als reguliere code, wat meer controle geeft over welke edge cases wel of niet worden getest en hoe representatief de teststeekproef is voor jouw specifieke domein. Inspirerend omdat het de vaak wat rigide wereld van test-generatie opener en flexibeler maakt, zonder dat je een compleet nieuw framework hoeft te leren. Wat je nodig hebt: ervaring met programmeren en idealiter met bestaande property-based testing tools (zoals QuickCheck of Hypothesis), plus tijd om de onderliggende paper door te nemen en de concepten in eigen testcode te vertalen, al gauw een paar uur voor een eerste verkenning. Meer details in het paper op https://dl.acm.org/doi/10.1145/3828685.",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.97,
+      "published_at": "2026-08-18T22:22:41+00:00"
+    },
+    {
+      "id": "da54766b24e935b9",
+      "title": "Show HN: Go CLI for website health checks, zero dependencies",
+      "summary_nl": "Slimme wachter zonder ballast: deze Go CLI checkt de gezondheid van je website zonder dat je externe dependencies hoeft te installeren. Het idee is simpel maar effectief: je voert een command uit en krijgt inzicht in beschikbaarheid, responstijden en mogelijke problemen, allemaal via één los binary bestand dat direct werkt na download. Inspirerend omdat het laat zien hoe je met Go compacte, zelfstandige tools kunt bouwen die makkelijk te distribueren zijn, zonder gedoe met package managers of runtime-versies. Wat je nodig hebt: basiskennis van de command line, eventueel wat Go-kennis als je de code wilt aanpassen, en een halfuurtje om het uit te proberen op je eigen site. Zie github.com/atillalab/site-health voor de broncode en installatie-instructies.",
+      "url": "https://github.com/atillalab/site-health",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.94,
+      "published_at": "2026-08-18T15:06:11+00:00"
     },
     {
       "id": "e9dc032bed83a413",
@@ -504,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.95,
+      "final_score": 6.86,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -515,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.95,
+      "final_score": 6.85,
       "published_at": "2026-08-17T17:39:02+00:00"
     },
     {
@@ -526,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.94,
+      "final_score": 6.84,
       "published_at": "2026-08-17T13:56:38+00:00"
     },
     {
@@ -537,7 +735,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.88,
+      "final_score": 6.78,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -548,7 +746,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.85,
+      "final_score": 6.76,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -559,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.66,
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
@@ -570,7 +768,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.74,
+      "final_score": 6.64,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -581,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.73,
+      "final_score": 6.64,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -592,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.7,
+      "final_score": 6.6,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -603,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.69,
+      "final_score": 6.59,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -614,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.55,
+      "final_score": 6.45,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -625,7 +823,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.53,
+      "final_score": 6.43,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -636,8 +834,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.44,
+      "final_score": 6.35,
       "published_at": "2026-07-13T15:56:02+00:00"
+    },
+    {
+      "id": "e3da58ab25ce71d2",
+      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+      "summary_nl": "AI-agents draaien voor de prijs van een kop koffie: dat belooft Maritime, een nieuw platform dat op Show HN werd gepresenteerd. Het idee is simpel: gebruikers kunnen voor een dollar per maand AI-agents laten draaien, waarmee de drempel om te experimenteren met geautomatiseerde AI-taken flink lager komt te liggen dan bij de gangbare cloud- of API-kosten. Details over welke agents precies ondersteund worden en hoe de infrastructuur eronder werkt, staan niet in de aankondiging zelf, dus het is vooral een uitnodiging om zelf te gaan kijken. Inspirerend omdat het laat zien dat er ruimte is voor goedkopere, toegankelijkere manieren om met AI-agents te werken, buiten de grote dure platforms om. Wat je nodig hebt: een account op maritime.sh, een beetje nie",
+      "url": "https://maritime.sh",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.98,
+      "published_at": "2026-08-18T23:02:32+00:00"
+    },
+    {
+      "id": "467cf0c79f5f9c48",
+      "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+      "summary_nl": "Grip op je digitale vingerafdruk: een lokale proxy die je TLS-fingerprint verandert\n\nDit is een lokale man-in-the-middle-proxy die de TLS-fingerprint van je verkeer aanpast, zodat websites en trackingdiensten je verbinding niet meer herkennen aan de technische kenmerken van je browser of client. De proxy onderschept het verkeer op je eigen machine en presenteert naar buiten toe een andere, gekozen fingerprint, wat handig is bij testen, scraping of privacy-onderzoek waarbij je wilt voorkomen dat verzoeken worden geblokkeerd of gelinkt op basis van dit soort vingerafdrukken. Inspirerend omdat het een technisch obscuur maar veelgebruikt trackingmechanisme (TLS-fingerprinting) inzichtelijk en bestuurbaar maakt voor individuele ontwikkelaars. Wat je nodig hebt: ervaring met command-line tools en netwerkconcepten zoals TLS en proxy's, en een uur of wat om de proxy lokaal op te zetten en te testen, bron: https://github.com/ytkoka/impersonate-proxy",
+      "url": "https://github.com/ytkoka/impersonate-proxy",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.94,
+      "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
       "id": "b20063452d1b2376",
@@ -647,7 +867,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.92,
+      "final_score": 5.82,
       "published_at": "2026-08-17T09:13:52+00:00"
     },
     {
@@ -658,7 +878,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.73,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -669,7 +889,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.78,
+      "final_score": 5.68,
       "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
@@ -680,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.65,
+      "final_score": 5.55,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -691,7 +911,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.53,
+      "final_score": 5.43,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -702,7 +922,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.52,
+      "final_score": 5.43,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -713,7 +933,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.52,
+      "final_score": 5.43,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -724,7 +944,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.44,
+      "final_score": 5.34,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -735,8 +955,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.43,
+      "final_score": 5.33,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "6023038a8912cd08",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary_nl": "Vijf jaar werk, veertien dagen tijd: hoe Asana zijn testarchitectuur inhaalde met AI\n\nAsana had een verouderd testsysteem dat al jaren op de planning stond om te vervangen, maar telkens bleef liggen omdat de omvang van het werk simpelweg te groot leek. Met behulp van OpenAI Codex zette het team deze klus alsnog om, en wel in twee weken tijd in plaats van de geschatte vijf jaar, voor een kostenpost van ongeveer 12.000 dollar. De vondst zit hem niet alleen in de snelheid, maar in het feit dat een taak die als onhaalbaar gold binnen de bestaande resources, opeens wél binnen bereik kwam door AI het herhaalbare, arbeidsintensieve werk te laten doen. Inspirerend omdat het laat zien dat \"technical debt\" die je al jaren voor je uitschuift, met de juiste inzet van AI-coding tools ineens wel oplosbaar kan zijn. Wat je nodig heeft: toegang tot Codex of vergelijkbare AI-coding-agents, een team met voldoende technische kennis om de output te beoordelen en te integreren, en een architectuur die zich leent voor grootschalige, systematische refactoring (bron: https://openai.com/index/asana).",
+      "url": "https://openai.com/index/asana",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 5,
+      "final_score": 4.91,
+      "published_at": "2026-08-18T07:00:00+00:00"
+    },
+    {
+      "id": "c67b2a78bc9373b9",
+      "title": "jdshfhds/northcinder",
+      "summary_nl": "Een boodschappenagent die voor jou werkt, niet voor de adverteerder: dat is de belofte van northcinder. Het is een MCP-softwareproject waarbij de shopping-agent volledig buyer-run is, wat betekent dat aanbevelingen tot stand komen via deterministische ranking in plaats van betaalde plaatsingen of verborgen advertentiebelangen. Aankopen worden bevestigd met ondertekende purchase mandates en elke stap wordt vastgelegd in een lokaal audittrail, zodat je precies kunt herleiden waarom en hoe een keuze is gemaakt. Inspirerend omdat het een concreet tegengeluid biedt in een wereld waarin AI-shoppingtools steeds vaker verweven raken met advertentiemodellen. Wat je nodig hebt: ervaring met MCP (Model Context Protocol) en losse componenten opzetten, basiskennis van softwarearchitectuur en enkele uren om de bro",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.83,
+      "published_at": "2026-08-17T11:42:31+00:00"
     },
     {
       "id": "f5241fc2d678e76e",
@@ -746,7 +988,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.92,
+      "final_score": 4.82,
       "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
@@ -757,7 +999,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.88,
+      "final_score": 4.78,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -768,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.8,
+      "final_score": 4.7,
       "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
@@ -779,7 +1021,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.78,
+      "final_score": 4.68,
       "published_at": "2026-08-15T23:54:35+00:00"
     },
     {
@@ -790,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.69,
+      "final_score": 4.59,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
@@ -801,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.65,
+      "final_score": 4.55,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -812,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.64,
+      "final_score": 4.54,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -823,7 +1065,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.44,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -834,7 +1076,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.52,
+      "final_score": 4.42,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -845,7 +1087,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.45,
+      "final_score": 4.36,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -856,8 +1098,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.45,
+      "final_score": 4.36,
       "published_at": "2026-07-13T18:26:04+00:00"
+    },
+    {
+      "id": "baf07daff59f271b",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "summary_nl": "Hoe NVIDIA expertise schaalt met ChatGPT Work\n\nNVIDIA is niet bepaald een klein bedrijf, en toch grijpen teams daar naar ChatGPT Work om terugkerende handmatige taken uit handen te nemen. Het idee is simpel maar effectief: signalen uit verschillende hoeken van de organisatie worden sneller met elkaar verbonden, waardoor werkwijzen die op één plek goed blijken te werken, ook elders binnen het bedrijf worden toegepast. Inspirerend omdat het laat zien dat AI niet alleen individuele productiviteit verhoogt, maar ook kan helpen om kennis en werkwijzen structureel te verspreiden binnen een grote, technische organisatie. Wat je nodig hebt: een ChatGPT Work-abonnement (of vergelijkbare teamoplossing), een organisatie die bereid is workflows te documenteren en te delen, en iemand die de eerste implementatie kartrekt, wat al snel enkele weken experimenteren vergt. Bron: https://openai.com/index/nvidia/chatgpt-work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 4,
+      "final_score": 3.88,
+      "published_at": "2026-08-18T00:00:00+00:00"
     },
     {
       "id": "d00944e12348f9f2",
@@ -867,7 +1120,7 @@
       "source": "rss:google_ai",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.55,
+      "final_score": 3.45,
       "published_at": "2026-08-13T16:45:00+00:00"
     },
     {
@@ -878,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.53,
+      "final_score": 3.43,
       "published_at": "2026-07-14T12:41:25+00:00"
     },
     {
@@ -889,7 +1142,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.48,
+      "final_score": 3.39,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -900,7 +1153,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.48,
+      "final_score": 3.38,
       "published_at": "2026-07-14T00:57:11+00:00"
     },
     {
@@ -911,7 +1164,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.44,
+      "final_score": 3.35,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
@@ -922,7 +1175,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.34,
+      "final_score": 3.24,
       "published_at": "2026-07-12T14:24:33+00:00"
     }
   ]
