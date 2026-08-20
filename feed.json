@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:43:19.297786+00:00",
+  "generated_at": "2026-08-20T05:22:42.816972+00:00",
   "items": [
     {
       "id": "9465e018079ed67b",
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.75,
+      "final_score": 10.74,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.53,
+      "final_score": 10.52,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.88,
+      "final_score": 9.87,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.47,
+      "final_score": 9.46,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.93,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.93,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.87,
+      "final_score": 8.86,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.83,
+      "final_score": 8.82,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.75,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.75,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -372,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.73,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.73,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -559,7 +559,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.34,
+      "final_score": 8.33,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -614,7 +614,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.85,
+      "final_score": 7.84,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -625,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.84,
+      "final_score": 7.83,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.75,
+      "final_score": 7.74,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.6,
+      "final_score": 7.59,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -768,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.99,
+      "final_score": 6.98,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -805,17 +805,6 @@
       "published_at": "2026-08-19T16:25:37+00:00"
     },
     {
-      "id": "8d0598a8dafe45d3",
-      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
-      "summary_nl": "Leeftijd bewijzen zonder je identiteit weg te geven: kan dat eigenlijk wel? Dit project claimt van wel, via een systeem dat passkeys gebruikt om leeftijdsverificatie te versleutelen zonder dat de dienst die je leeftijd wil checken ooit je naam, geboortedatum of andere persoonsgegevens ziet. De onderliggende vondst is dat de cryptografische sleutel van je passkey wordt ingezet als bewijsmiddel, waardoor je \"ja, ouder dan 18\" kunt aantonen zonder een document te uploaden of een account aan te maken. Inspirerend omdat dit een concreet antwoord probeert te geven op het steeds vaker terugkerende probleem van leeftijdscontroles die botsen met privacy, vooral nu wetgeving in meerdere landen platforms verplicht om leeftijd te verifiëren. Wat je nodig hebt: een apparaat met passkey-ondersteuning (de meeste moderne telefoons en browsers), geen diepgaande technische kennis om het te gebruiken, en een kwartiertje om de werking te bekijken op loginwithone.com (https://loginwithone.com/).",
-      "url": "https://loginwithone.com/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.94,
-      "published_at": "2026-08-19T13:41:10+00:00"
-    },
-    {
       "id": "bcb32a77cd294f95",
       "title": "Leutenegger/watermarks-remover",
       "summary_nl": "Onzichtbare sporen wissen: deze tool haalt AI-herkomstmerken weg uit bestanden. Watermarks-remover is een open-source project op GitHub dat Unicode-tekstsporen, statistische patronen en C2PA-metadata verwijdert uit PNG, JPEG, SVG, PDF, DOCX, HTML en Markdown-bestanden, dus alle gangbare manieren waarmee tools tegenwoordig aangeven dat content AI-gegenereerd is. Het werkt door tekst te herschrijven op statistisch niveau en metadata-velden actief te strippen, zodat provenance-tags van verschillende AI-aanbieders niet meer herkenbaar zijn. Wat je nodig hebt: basiskennis",
@@ -825,6 +814,17 @@
       "score": 7,
       "final_score": 6.94,
       "published_at": "2026-08-19T15:20:24+00:00"
+    },
+    {
+      "id": "8d0598a8dafe45d3",
+      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+      "summary_nl": "Leeftijd bewijzen zonder je identiteit weg te geven: kan dat eigenlijk wel? Dit project claimt van wel, via een systeem dat passkeys gebruikt om leeftijdsverificatie te versleutelen zonder dat de dienst die je leeftijd wil checken ooit je naam, geboortedatum of andere persoonsgegevens ziet. De onderliggende vondst is dat de cryptografische sleutel van je passkey wordt ingezet als bewijsmiddel, waardoor je \"ja, ouder dan 18\" kunt aantonen zonder een document te uploaden of een account aan te maken. Inspirerend omdat dit een concreet antwoord probeert te geven op het steeds vaker terugkerende probleem van leeftijdscontroles die botsen met privacy, vooral nu wetgeving in meerdere landen platforms verplicht om leeftijd te verifiëren. Wat je nodig hebt: een apparaat met passkey-ondersteuning (de meeste moderne telefoons en browsers), geen diepgaande technische kennis om het te gebruiken, en een kwartiertje om de werking te bekijken op loginwithone.com (https://loginwithone.com/).",
+      "url": "https://loginwithone.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.93,
+      "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
       "id": "e5e0f7db117d7508",
@@ -867,7 +867,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.85,
+      "final_score": 6.84,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -889,7 +889,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.75,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -933,7 +933,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.66,
+      "final_score": 6.65,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -966,7 +966,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.54,
+      "final_score": 6.53,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1021,7 +1021,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.25,
+      "final_score": 6.24,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1032,7 +1032,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.96,
+      "final_score": 5.95,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -1054,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.88,
+      "final_score": 5.87,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1065,7 +1065,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.84,
+      "final_score": 5.83,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -1131,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.33,
+      "final_score": 5.32,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -1142,7 +1142,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.33,
+      "final_score": 5.32,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -1219,7 +1219,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.84,
+      "final_score": 4.83,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -1351,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.26,
+      "final_score": 4.25,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -1362,7 +1362,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.26,
+      "final_score": 4.25,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -1406,7 +1406,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.29,
+      "final_score": 3.28,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -1428,7 +1428,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.25,
+      "final_score": 3.24,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
