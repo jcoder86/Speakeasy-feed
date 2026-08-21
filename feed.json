@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:45:52.235461+00:00",
+  "generated_at": "2026-08-21T05:25:23.631695+00:00",
   "items": [
     {
       "id": "49b4e1e499bbee0d",
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.65,
+      "final_score": 10.64,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.43,
+      "final_score": 10.42,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.78,
+      "final_score": 9.77,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-19T18:36:45+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.83,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.84,
+      "final_score": 8.83,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.77,
+      "final_score": 8.76,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -317,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.75,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.72,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.66,
+      "final_score": 8.65,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.66,
+      "final_score": 8.65,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -460,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.53,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -504,7 +504,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.36,
+      "final_score": 8.35,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -614,7 +614,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.98,
+      "final_score": 7.97,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -658,7 +658,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.98,
+      "final_score": 7.97,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -669,19 +669,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.96,
+      "final_score": 7.95,
       "published_at": "2026-08-20T18:00:06+00:00"
-    },
-    {
-      "id": "36970f46cf3c6181",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "summary_nl": "Kwaadaardige Rust-package ontdekt: malware verstopt in bouwproces, niet in de code zelf. Onderzoekers vonden dat een Rust crate genaamd Arrayref een build-time payload uitvoert: schadelijke code die niet in de eigenlijke library zit, maar wordt afgetrapt tijdens het compileren via een build script, waardoor traditionele codereview het makkelijk mist. De vondst laat zien hoe kwetsbaar softwareketens zijn op momenten die niet standaard worden gecontroleerd, namelijk het bouwproces zelf in plaats van de uiteindelijke broncode. Inspirerend omdat het een aanscherping vraagt van hoe je supply chain security aanpakt: niet alleen kijken naar wat een package doet als het draait, maar ook naar wat er gebeurt terwijl het wordt geïnstalleerd of gecompileerd. Wat je nodig hebt: basiskennis van Rust en cargo, en voor developers die dependencies beheren een gewoonte om build scripts te inspecteren of tools te gebruiken die dit automatisch scannen; een middag verdieping in build-time supply chain risico's is een goede investering. Bron: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 7.94,
-      "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
       "id": "deee4cc2fe70d847",
@@ -704,6 +693,17 @@
       "score": 8,
       "final_score": 7.94,
       "published_at": "2026-08-20T14:38:28+00:00"
+    },
+    {
+      "id": "36970f46cf3c6181",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "summary_nl": "Kwaadaardige Rust-package ontdekt: malware verstopt in bouwproces, niet in de code zelf. Onderzoekers vonden dat een Rust crate genaamd Arrayref een build-time payload uitvoert: schadelijke code die niet in de eigenlijke library zit, maar wordt afgetrapt tijdens het compileren via een build script, waardoor traditionele codereview het makkelijk mist. De vondst laat zien hoe kwetsbaar softwareketens zijn op momenten die niet standaard worden gecontroleerd, namelijk het bouwproces zelf in plaats van de uiteindelijke broncode. Inspirerend omdat het een aanscherping vraagt van hoe je supply chain security aanpakt: niet alleen kijken naar wat een package doet als het draait, maar ook naar wat er gebeurt terwijl het wordt geïnstalleerd of gecompileerd. Wat je nodig hebt: basiskennis van Rust en cargo, en voor developers die dependencies beheren een gewoonte om build scripts te inspecteren of tools te gebruiken die dit automatisch scannen; een middag verdieping in build-time supply chain risico's is een goede investering. Bron: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.93,
+      "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
       "id": "cba58727ea88e064",
@@ -746,7 +746,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.75,
+      "final_score": 7.74,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -757,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -779,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.65,
+      "final_score": 7.64,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -834,7 +834,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.5,
+      "final_score": 7.49,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -900,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.89,
+      "final_score": 6.88,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -948,17 +948,6 @@
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
-      "id": "8d0598a8dafe45d3",
-      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
-      "summary_nl": "Leeftijd bewijzen zonder je identiteit weg te geven: kan dat eigenlijk wel? Dit project claimt van wel, via een systeem dat passkeys gebruikt om leeftijdsverificatie te versleutelen zonder dat de dienst die je leeftijd wil checken ooit je naam, geboortedatum of andere persoonsgegevens ziet. De onderliggende vondst is dat de cryptografische sleutel van je passkey wordt ingezet als bewijsmiddel, waardoor je \"ja, ouder dan 18\" kunt aantonen zonder een document te uploaden of een account aan te maken. Inspirerend omdat dit een concreet antwoord probeert te geven op het steeds vaker terugkerende probleem van leeftijdscontroles die botsen met privacy, vooral nu wetgeving in meerdere landen platforms verplicht om leeftijd te verifiëren. Wat je nodig hebt: een apparaat met passkey-ondersteuning (de meeste moderne telefoons en browsers), geen diepgaande technische kennis om het te gebruiken, en een kwartiertje om de werking te bekijken op loginwithone.com (https://loginwithone.com/).",
-      "url": "https://loginwithone.com/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.84,
-      "published_at": "2026-08-19T13:41:10+00:00"
-    },
-    {
       "id": "f336163aa764cbd8",
       "title": "HTML Can Do That",
       "summary_nl": "HTML kan meer dan je denkt: dat is de kern van dit stuk van Chris Burnell. Hij zet op een rij welke interactieve en visuele trucs je tegenwoordig met kale HTML (en een beetje CSS) kunt bouwen, zonder dat er JavaScript aan te pas komt: uitklapbare details, dialogen, formuliervalidatie, popovers en meer, allemaal dankzij elementen en attributen die browsers inmiddels standaard ondersteunen. De slimme vondst is dat hij laat zien hoe je functionaliteit die vroeger altijd een scriptje vereiste, nu native en dus lichter, toegankelijker en robuuster kunt neerzetten. Inspirerend omdat het een goede opfrisser is voor iedereen die HTML nog ziet als \"saaie basis\" terwijl de taal zelf flink is doorontwikkeld. Wat je nodig heb: basiskennis van HTML en CSS, geen programmeerervaring vereist, en een avond om de voorbeelden door te nemen en uit te proberen (bron: https://chrisburnell.com/html-can-do-that/).",
@@ -968,6 +957,17 @@
       "score": 7,
       "final_score": 6.84,
       "published_at": "2026-08-19T15:11:36+00:00"
+    },
+    {
+      "id": "8d0598a8dafe45d3",
+      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+      "summary_nl": "Leeftijd bewijzen zonder je identiteit weg te geven: kan dat eigenlijk wel? Dit project claimt van wel, via een systeem dat passkeys gebruikt om leeftijdsverificatie te versleutelen zonder dat de dienst die je leeftijd wil checken ooit je naam, geboortedatum of andere persoonsgegevens ziet. De onderliggende vondst is dat de cryptografische sleutel van je passkey wordt ingezet als bewijsmiddel, waardoor je \"ja, ouder dan 18\" kunt aantonen zonder een document te uploaden of een account aan te maken. Inspirerend omdat dit een concreet antwoord probeert te geven op het steeds vaker terugkerende probleem van leeftijdscontroles die botsen met privacy, vooral nu wetgeving in meerdere landen platforms verplicht om leeftijd te verifiëren. Wat je nodig hebt: een apparaat met passkey-ondersteuning (de meeste moderne telefoons en browsers), geen diepgaande technische kennis om het te gebruiken, en een kwartiertje om de werking te bekijken op loginwithone.com (https://loginwithone.com/).",
+      "url": "https://loginwithone.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.83,
+      "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
       "id": "e5e0f7db117d7508",
@@ -1010,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.74,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -1032,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.66,
+      "final_score": 6.65,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -1076,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.56,
+      "final_score": 6.55,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -1109,7 +1109,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.44,
+      "final_score": 6.43,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1164,7 +1164,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.15,
+      "final_score": 6.14,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1186,7 +1186,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.9,
+      "final_score": 5.89,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -1197,7 +1197,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.86,
+      "final_score": 5.85,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -1219,7 +1219,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.78,
+      "final_score": 5.77,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1274,7 +1274,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.35,
+      "final_score": 5.34,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -1296,7 +1296,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.23,
+      "final_score": 5.22,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -1307,7 +1307,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.23,
+      "final_score": 5.22,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -1355,17 +1355,6 @@
       "published_at": "2026-08-20T19:05:36+00:00"
     },
     {
-      "id": "ffb2d30bbc94ba4a",
-      "title": "DiffusionGemma Technical Report",
-      "summary_nl": "Diffusie in plaats van token voor token: kan dat sneller of slimmer tekst genereren? Het DiffusionGemma Technical Report beschrijft een variant van Google's Gemma-taalmodel die niet autoregressief (woord na woord) werkt, maar gebruikmaakt van een diffusieproces, de techniek die je vooral kent van beeldgeneratie. In plaats van steeds het volgende token te voorspellen, verfijnt het model een volledige tekst in meerdere stappen, wat potentieel voordelen biedt voor snelheid en consistentie over langere passages. Inspirerend omdat het laat zien dat diffusiemodellen, ooit vooral een beeldgeneratie-truc, nu serieus concurreren als alternatieve aanpak voor taalmodellen. Wat je n",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.94,
-      "published_at": "2026-08-20T13:24:32+00:00"
-    },
-    {
       "id": "cc6262844054fad5",
       "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
       "summary_nl": "Tiling window management op de Mac, zonder aan de systeembeveiliging te hoeven morrelen\n\nOmacosy brengt de strak georganiseerde, toetsenbord-gestuurde werkomgeving van Omarchy (bekend van de Linux/Hyprland-wereld) naar macOS, en doet dat zonder dat je System Integrity Protection hoeft uit te schakelen. Het pakket combineert bestaande, legitieme macOS-tools tot een kant-en-klare tiling desktop: vensters schikken zich automatisch in een raster, navigatie verloopt via sneltoetsen in plaats van met de muis, en de hele setup is als script te installeren. Inspirerend omdat het laat zien dat je de esthetiek en efficiëntie van Linux-tiling-window-managers kunt overzetten naar macOS zonder de gebruikelijke compromissen op beveiliging. Wat je nodig heb: een Mac met macOS, basiskennis van de terminal om het installatiescript te draaien, en de bereidheid om te wennen aan toetsenbord-gedreven vensterbeheer in plaats van slepen met de muis. Zie de broncode en installatie-instructies op https://github.com/paulsp94/omacosy.",
@@ -1397,6 +1386,17 @@
       "score": 5,
       "final_score": 4.94,
       "published_at": "2026-08-20T15:00:00+00:00"
+    },
+    {
+      "id": "ffb2d30bbc94ba4a",
+      "title": "DiffusionGemma Technical Report",
+      "summary_nl": "Diffusie in plaats van token voor token: kan dat sneller of slimmer tekst genereren? Het DiffusionGemma Technical Report beschrijft een variant van Google's Gemma-taalmodel die niet autoregressief (woord na woord) werkt, maar gebruikmaakt van een diffusieproces, de techniek die je vooral kent van beeldgeneratie. In plaats van steeds het volgende token te voorspellen, verfijnt het model een volledige tekst in meerdere stappen, wat potentieel voordelen biedt voor snelheid en consistentie over langere passages. Inspirerend omdat het laat zien dat diffusiemodellen, ooit vooral een beeldgeneratie-truc, nu serieus concurreren als alternatieve aanpak voor taalmodellen. Wat je n",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.93,
+      "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
       "id": "4d2c69fe91798f72",
@@ -1472,7 +1472,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.16,
+      "final_score": 4.15,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -1615,7 +1615,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.16,
+      "final_score": 4.15,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -1659,7 +1659,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.19,
+      "final_score": 3.18,
       "published_at": "2026-07-14T01:41:49+00:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.15,
+      "final_score": 3.14,
       "published_at": "2026-07-13T16:06:08+00:00"
     },
     {
