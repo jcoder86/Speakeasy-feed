@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:43:36.903374+00:00",
+  "generated_at": "2026-08-23T05:21:04.757107+00:00",
   "items": [
     {
       "id": "49b4e1e499bbee0d",
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.75,
+      "final_score": 10.74,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.45,
+      "final_score": 10.44,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.23,
+      "final_score": 10.22,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.88,
+      "final_score": 9.87,
       "published_at": "2026-08-21T23:09:06+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.58,
+      "final_score": 9.57,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.17,
+      "final_score": 9.16,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.84,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.63,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.57,
+      "final_score": 8.56,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.56,
+      "final_score": 8.55,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.52,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -493,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.46,
+      "final_score": 8.45,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -526,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.04,
+      "final_score": 8.03,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -746,7 +746,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.87,
+      "final_score": 7.86,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -812,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.78,
+      "final_score": 7.77,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -823,7 +823,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.78,
+      "final_score": 7.77,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -834,7 +834,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.76,
+      "final_score": 7.75,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -867,7 +867,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -878,7 +878,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -922,7 +922,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.55,
+      "final_score": 7.54,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -933,7 +933,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.53,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -955,7 +955,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.45,
+      "final_score": 7.44,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -1010,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.3,
+      "final_score": 7.29,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -1065,7 +1065,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.96,
+      "final_score": 6.95,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -1076,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.96,
+      "final_score": 6.95,
       "published_at": "2026-08-22T18:11:40+00:00"
     },
     {
@@ -1120,7 +1120,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.81,
+      "final_score": 6.8,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -1131,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.69,
+      "final_score": 6.68,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -1197,7 +1197,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.64,
+      "final_score": 6.63,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -1241,7 +1241,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.55,
+      "final_score": 6.54,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -1263,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.46,
+      "final_score": 6.45,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -1307,7 +1307,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.36,
+      "final_score": 6.35,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -1340,7 +1340,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.24,
+      "final_score": 6.23,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1406,7 +1406,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.95,
+      "final_score": 5.94,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1428,7 +1428,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.85,
+      "final_score": 5.84,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -1494,7 +1494,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.7,
+      "final_score": 5.69,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -1505,7 +1505,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.66,
+      "final_score": 5.65,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -1527,7 +1527,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.58,
+      "final_score": 5.57,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1538,7 +1538,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.54,
+      "final_score": 5.53,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -1615,7 +1615,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -1703,7 +1703,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -1780,7 +1780,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.53,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -1912,7 +1912,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.96,
+      "final_score": 3.95,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -1923,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.96,
+      "final_score": 3.95,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
