@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:52:38.922190+00:00",
+  "generated_at": "2026-08-24T05:31:16.159486+00:00",
   "items": [
     {
       "id": "5b8b35e3d0d384c3",
@@ -20,7 +20,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.84,
+      "final_score": 10.83,
       "published_at": "2026-08-22T13:42:32+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.65,
+      "final_score": 10.64,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.35,
+      "final_score": 10.34,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.13,
+      "final_score": 10.12,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.78,
+      "final_score": 9.77,
       "published_at": "2026-08-21T23:09:06+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.48,
+      "final_score": 9.47,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.84,
       "published_at": "2026-08-22T15:47:49+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.75,
+      "final_score": 8.74,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.56,
+      "final_score": 8.55,
       "published_at": "2026-08-19T18:36:45+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.53,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.53,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -482,7 +482,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.47,
+      "final_score": 8.46,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -493,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.46,
+      "final_score": 8.45,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -559,7 +559,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.42,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -570,7 +570,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.36,
+      "final_score": 8.35,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -581,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.36,
+      "final_score": 8.35,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -603,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.34,
+      "final_score": 8.33,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -680,7 +680,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.06,
+      "final_score": 8.05,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.05,
+      "final_score": 8.04,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -757,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.99,
+      "final_score": 7.98,
       "published_at": "2026-08-24T01:33:14+00:00"
     },
     {
@@ -779,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.98,
+      "final_score": 7.97,
       "published_at": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -845,7 +845,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.86,
+      "final_score": 7.85,
       "published_at": "2026-08-22T18:43:03+00:00"
     },
     {
@@ -911,7 +911,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.69,
+      "final_score": 7.68,
       "published_at": "2026-08-21T01:53:43+00:00"
     },
     {
@@ -922,7 +922,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.68,
+      "final_score": 7.67,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -977,7 +977,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.64,
+      "final_score": 7.63,
       "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -988,7 +988,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.64,
+      "final_score": 7.63,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -1032,7 +1032,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.45,
+      "final_score": 7.44,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -1043,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.44,
+      "final_score": 7.43,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -1120,7 +1120,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.2,
+      "final_score": 7.19,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -1175,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.95,
+      "final_score": 6.94,
       "published_at": "2026-08-23T16:07:22+00:00"
     },
     {
@@ -1190,6 +1190,17 @@
       "published_at": "2026-08-23T14:23:09+00:00"
     },
     {
+      "id": "c8b5b902cb3e90b0",
+      "title": "localai-org/kimodo.cpp",
+      "summary_nl": "Van NVIDIA-lab naar je eigen laptop: kimodo.cpp maakt dat mogelijk. Dit project is een C++/GGML-poort van NVIDIA's Kimodo-model, wat betekent dat je het straks kunt draaien via dezelfde efficiënte inference-aanpak als llama.cpp, zonder zware GPU-vereisten of cloud-afhankelijkheid. De slimme vondst zit in het hergebruiken van het GGML-ecosysteem, waardoor kwantisatie, CPU-inferentie en integratie met bestaande tools als vanzelf meekomen. Wat je nodig hebt: basiskennis van compileren (cmake, C++ toolchain), wat geduld voor het builden en testen, en interesse in het draaien van taalmodellen buiten de gebaande cloud-paden",
+      "url": "https://github.com/localai-org/kimodo.cpp",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.86,
+      "published_at": "2026-08-22T20:26:58+00:00"
+    },
+    {
       "id": "53de3fca829591e9",
       "title": "Why your local LLM feels dumber than it is",
       "summary_nl": "Waarom je lokale LLM dommer aanvoelt dan hij is\n\nWie een taalmodel lokaal draait, merkt vaak dat de antwoorden tegenvallen vergeleken met de clouddienst van dezelfde familie. Dit stuk uit het Level1Techs-forum legt uit dat de oorzaak vaak niet bij het model zelf ligt, maar bij instellingen zoals quantisatie, context length en samplingparameters die standaard te conservatief staan afgesteld. Door bijvoorbeeld de quantisatie minder agressief te zetten of de context window en temperature bij te stellen, kan hetzelfde model merkbaar beter presteren. Inspirerend omdat het laat zien dat \"dom\" gedrag vaak een configuratieprobleem is, geen inherente beperking van het model. Wat je nodig heb je: een lokale LLM-setup (bijvoorbeeld via Ollama, LM Studio of llama.cpp), basiskennis van de gebruikte parameters, en een uur experimenteren om de instellingen te vergelijken. Bron: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
@@ -1197,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -1208,19 +1219,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-08-22T18:11:40+00:00"
-    },
-    {
-      "id": "c8b5b902cb3e90b0",
-      "title": "localai-org/kimodo.cpp",
-      "summary_nl": "Van NVIDIA-lab naar je eigen laptop: kimodo.cpp maakt dat mogelijk. Dit project is een C++/GGML-poort van NVIDIA's Kimodo-model, wat betekent dat je het straks kunt draaien via dezelfde efficiënte inference-aanpak als llama.cpp, zonder zware GPU-vereisten of cloud-afhankelijkheid. De slimme vondst zit in het hergebruiken van het GGML-ecosysteem, waardoor kwantisatie, CPU-inferentie en integratie met bestaande tools als vanzelf meekomen. Wat je nodig hebt: basiskennis van compileren (cmake, C++ toolchain), wat geduld voor het builden en testen, en interesse in het draaien van taalmodellen buiten de gebaande cloud-paden",
-      "url": "https://github.com/localai-org/kimodo.cpp",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.86,
-      "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
       "id": "abe7088a2c73d010",
@@ -1234,17 +1234,6 @@
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
-      "id": "7b8f8a62872eff62",
-      "title": "kgoedecke/doop",
-      "summary_nl": "Doop: samen tekenen met AI op hetzelfde digitale canvas\n\nDoop is een open-source alternatief voor Paper.design en biedt een multiplayer ontwerpcanvas waarop mensen en AI-agents gelijktijdig en live samenwerken. De slimme vondst zit in de ingebouwde MCP-ondersteuning (Model Context Protocol), waardoor AI-agents niet als los hulpmiddel ernaast staan, maar als volwaardige deelnemer op hetzelfde canvas kunnen tekenen en meedenken. Inspirerend omdat het laat zien hoe ontwerpsoftware kan evolueren van een solitair proces naar een gedeelde ruimte waarin mens en machine letterlijk naast elkaar werken. Wat je nodig hebt: affiniteit met open-source tools en het zelf opzetten of hosten van de applicatie, plus enige bekendheid met MCP om de AI-integratie te benutten; een middag experimenteren geeft al een goed beeld. Bron: https://github.com/kgoedecke/doop",
-      "url": "https://github.com/kgoedecke/doop",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.85,
-      "published_at": "2026-08-22T15:40:51+00:00"
-    },
-    {
       "id": "62d551b1108836cc",
       "title": "josiah-nelson/eidos",
       "summary_nl": "Grip op je eigen bestandschaos: Eidos brengt orde in Windows-schijven. Dit open-source project catalogiseert je volledige bestandssysteem, indexeert de inhoud van documenten en analyseert waar al die opslagruimte naartoe gaat, met een zoekservice erbovenop die razendsnel resultaten teruggeeft. Onder de motorkap draait het op Rust voor snelheid, SQLite voor de catalogus, Tantivy voor volledige-tekst-zoekfunctionaliteit en een React-interface om alles overzichtelijk te doorzoeken. Wat je nodig hebt: een Windows-machine om het uit te proberen, basiskennis van het bouwen van Rust-projecten (of wachten op een losse installer als die verschijnt), en interesse in systeemtools als je zelf wilt meebouwen aan de indexering of zoeklogica. Bron: https://github.com/josiah-nelson/eidos",
@@ -1254,6 +1243,17 @@
       "score": 7,
       "final_score": 6.85,
       "published_at": "2026-08-22T17:23:29+00:00"
+    },
+    {
+      "id": "7b8f8a62872eff62",
+      "title": "kgoedecke/doop",
+      "summary_nl": "Doop: samen tekenen met AI op hetzelfde digitale canvas\n\nDoop is een open-source alternatief voor Paper.design en biedt een multiplayer ontwerpcanvas waarop mensen en AI-agents gelijktijdig en live samenwerken. De slimme vondst zit in de ingebouwde MCP-ondersteuning (Model Context Protocol), waardoor AI-agents niet als los hulpmiddel ernaast staan, maar als volwaardige deelnemer op hetzelfde canvas kunnen tekenen en meedenken. Inspirerend omdat het laat zien hoe ontwerpsoftware kan evolueren van een solitair proces naar een gedeelde ruimte waarin mens en machine letterlijk naast elkaar werken. Wat je nodig hebt: affiniteit met open-source tools en het zelf opzetten of hosten van de applicatie, plus enige bekendheid met MCP om de AI-integratie te benutten; een middag experimenteren geeft al een goed beeld. Bron: https://github.com/kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.84,
+      "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
       "id": "56b495f05d20544a",
@@ -1296,7 +1296,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.71,
+      "final_score": 6.7,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -1307,7 +1307,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.59,
+      "final_score": 6.58,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -1373,7 +1373,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.54,
+      "final_score": 6.53,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -1417,7 +1417,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.45,
+      "final_score": 6.44,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -1439,7 +1439,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.36,
+      "final_score": 6.35,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -1483,7 +1483,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.26,
+      "final_score": 6.25,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -1516,7 +1516,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.14,
+      "final_score": 6.13,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1593,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.85,
+      "final_score": 5.84,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1615,7 +1615,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.75,
+      "final_score": 5.74,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.6,
+      "final_score": 5.59,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -1714,7 +1714,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.48,
+      "final_score": 5.47,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1769,7 +1769,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.05,
+      "final_score": 5.04,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -1780,7 +1780,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.97,
+      "final_score": 4.96,
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
@@ -1824,7 +1824,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.93,
+      "final_score": 4.92,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -1835,7 +1835,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 4.93,
+      "final_score": 4.92,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -1923,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.64,
+      "final_score": 4.63,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -2000,7 +2000,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.44,
+      "final_score": 4.43,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -2110,7 +2110,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.94,
+      "final_score": 3.93,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -2132,7 +2132,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.86,
+      "final_score": 3.85,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -2143,7 +2143,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.86,
+      "final_score": 3.85,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
