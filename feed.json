@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:45:36.680755+00:00",
+  "generated_at": "2026-08-25T05:24:21.022993+00:00",
   "items": [
     {
       "id": "253f6697afdfe3b4",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 11.0,
+      "final_score": 10.99,
       "published_at": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.74,
+      "final_score": 10.73,
       "published_at": "2026-08-22T13:42:32+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.55,
+      "final_score": 10.54,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.25,
+      "final_score": 10.24,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.03,
+      "final_score": 10.02,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.98,
+      "final_score": 9.97,
       "published_at": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.86,
+      "final_score": 9.85,
       "published_at": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.68,
+      "final_score": 9.67,
       "published_at": "2026-08-21T23:09:06+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.38,
+      "final_score": 9.37,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.91,
+      "final_score": 8.9,
       "published_at": "2026-08-24T06:25:31+00:00"
     },
     {
@@ -372,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.75,
+      "final_score": 8.74,
       "published_at": "2026-08-22T15:47:49+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.65,
+      "final_score": 8.64,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -515,7 +515,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -526,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -570,7 +570,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.37,
+      "final_score": 8.36,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -581,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.36,
+      "final_score": 8.35,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.33,
+      "final_score": 8.32,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -658,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.26,
+      "final_score": 8.25,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -669,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.26,
+      "final_score": 8.25,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -691,7 +691,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -724,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.14,
+      "final_score": 8.13,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -790,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.96,
+      "final_score": 7.95,
       "published_at": "2026-08-24T18:07:00+00:00"
     },
     {
@@ -816,17 +816,6 @@
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
-      "id": "489edfc37a30ad38",
-      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "summary_nl": "PicoMQ: berichtenwachtrijen zonder de gebruikelijke overhead. Dit is een messagingsysteem dat duurzame streams aanbiedt via een simpele HTTP-interface, maar de opslag zelf gebeurt op object storage zoals S3, in plaats van op een dedicated server of cluster dat je zelf moet draaien en onderhouden. Het idee is dat je de betrouwbaarheid van een streamingplatform krijgt zonder de operationele last van Kafka of vergelijkbare systemen, omdat object storage al schaalbaar en duurzaam is. Inspirerend omdat het laat zien hoe je bestaande, goedkope infrastructuur kunt hergebruiken voor een taak waar traditioneel gespecialiseerde systemen voor nodig waren. Wat je nodig heb: basiskennis van HTTP-API's en object storage, en een use case waarbij je berichten wilt bewaren en verwerken zonder een aparte broker te beheren, zie https://picomq.com/.",
-      "url": "https://picomq.com/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 7.95,
-      "published_at": "2026-08-24T16:08:17+00:00"
-    },
-    {
       "id": "7d04125d99c12654",
       "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
       "summary_nl": "Wat je browser eigenlijk allemaal verklapt zonder dat je het doorhebt: GlassBox laat het je in real time zien. De tool draait in je eigen browser en toont welke gegevens sites kunnen uitlezen, van schermresolutie tot lettertypen en canvas-fingerprinting, en berekent hoe uniek en dus herleidbaar die combinatie jou maakt. Inspirerend omdat het abstracte privacyrisico's concreet en persoonlijk maakt in plaats van er in algemene termen over te praten. Wat je nodig hebt: alleen een browser, geen installatie of technische voorkennis, en een paar minuten om je eigen fingerprint te bekijken. Zie https://glassbox.codecanary.org voor de tool zelf.",
@@ -836,6 +825,17 @@
       "score": 8,
       "final_score": 7.95,
       "published_at": "2026-08-24T16:15:10+00:00"
+    },
+    {
+      "id": "489edfc37a30ad38",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "summary_nl": "PicoMQ: berichtenwachtrijen zonder de gebruikelijke overhead. Dit is een messagingsysteem dat duurzame streams aanbiedt via een simpele HTTP-interface, maar de opslag zelf gebeurt op object storage zoals S3, in plaats van op een dedicated server of cluster dat je zelf moet draaien en onderhouden. Het idee is dat je de betrouwbaarheid van een streamingplatform krijgt zonder de operationele last van Kafka of vergelijkbare systemen, omdat object storage al schaalbaar en duurzaam is. Inspirerend omdat het laat zien hoe je bestaande, goedkope infrastructuur kunt hergebruiken voor een taak waar traditioneel gespecialiseerde systemen voor nodig waren. Wat je nodig heb: basiskennis van HTTP-API's en object storage, en een use case waarbij je berichten wilt bewaren en verwerken zonder een aparte broker te beheren, zie https://picomq.com/.",
+      "url": "https://picomq.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.94,
+      "published_at": "2026-08-24T16:08:17+00:00"
     },
     {
       "id": "4135cb0bfc28c0a1",
@@ -878,7 +878,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.93,
       "published_at": "2026-08-24T13:17:11+00:00"
     },
     {
@@ -911,7 +911,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.89,
+      "final_score": 7.88,
       "published_at": "2026-08-24T01:33:14+00:00"
     },
     {
@@ -933,7 +933,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.88,
+      "final_score": 7.87,
       "published_at": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -959,17 +959,6 @@
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
-      "id": "c3041d00b4ad3831",
-      "title": "Leutenegger/book-to-skill",
-      "summary_nl": "Van boekenkast naar werkbank: technische PDF's als directe kennisbron in Claude Code\n\nBook-to-skill zet een technisch boek in PDF-vorm om naar een Claude Code skill, zodat je de inhoud niet alleen leest maar er ook direct mee kunt werken tijdens het coderen. De tool structureert de kennis uit het boek zodanig dat Claude het als naslagwerk kan raadplegen en toepassen op je actuele vraagstukken, in plaats van dat je zelf steeds moet terugbladeren of losse fragmenten moet kopiëren. Inspirerend omdat het een concrete brug slaat tussen traditioneel leren uit een boek en het praktisch toepassen van die kennis binnen je ontwikkelomgeving. Wat je nodig hebt: een technisch boek in PDF-formaat, toegang tot Claude Code, en basiskennis van het werken met skills binnen dat platform; de omzetting zelf kost weinig tijd, het echte rendement zit in het gebruik daarna. Bron: https://github.com/Leutenegger/book-to-skill",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 7.84,
-      "published_at": "2026-08-13T13:15:23+00:00"
-    },
-    {
       "id": "f76415e74fd895fc",
       "title": "TarunTomar122/better-voice",
       "summary_nl": "Spraakinvoer die begrijpt waar je naar kijkt: better-voice van TarunTomar122 combineert voice dictation met de context van je scherm. In plaats van alleen woorden te transcriberen, kijkt de tool mee naar wat er op je scherm staat op het moment dat je dicteert, waardoor de output beter aansluit bij de context waarin je werkt. Inspirerend omdat het laat zien hoe een relatief eenvoudige combinatie van bestaande technieken (spraakherkenning plus schermcontext) een tool nuttiger kan maken zonder ingewikkelde AI-modellen te vereisen. Wat je nodig heb: basiskennis van het opzetten van een open-source project vanaf GitHub, en de bereidheid om wat te experimenteren, aangezien dit een vroege of persoonlijke tool lijkt zonder uitgebreide documentatie. Meer details en de broncode vind je op https://github.com/TarunTomar122/better-voice.",
@@ -979,6 +968,17 @@
       "score": 8,
       "final_score": 7.84,
       "published_at": "2026-08-23T14:18:14+00:00"
+    },
+    {
+      "id": "c3041d00b4ad3831",
+      "title": "Leutenegger/book-to-skill",
+      "summary_nl": "Van boekenkast naar werkbank: technische PDF's als directe kennisbron in Claude Code\n\nBook-to-skill zet een technisch boek in PDF-vorm om naar een Claude Code skill, zodat je de inhoud niet alleen leest maar er ook direct mee kunt werken tijdens het coderen. De tool structureert de kennis uit het boek zodanig dat Claude het als naslagwerk kan raadplegen en toepassen op je actuele vraagstukken, in plaats van dat je zelf steeds moet terugbladeren of losse fragmenten moet kopiëren. Inspirerend omdat het een concrete brug slaat tussen traditioneel leren uit een boek en het praktisch toepassen van die kennis binnen je ontwikkelomgeving. Wat je nodig hebt: een technisch boek in PDF-formaat, toegang tot Claude Code, en basiskennis van het werken met skills binnen dat platform; de omzetting zelf kost weinig tijd, het echte rendement zit in het gebruik daarna. Bron: https://github.com/Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 7.83,
+      "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
       "id": "960c278c839eccc6",
@@ -1087,7 +1087,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.58,
+      "final_score": 7.57,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -1098,7 +1098,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.58,
+      "final_score": 7.57,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -1109,7 +1109,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.56,
+      "final_score": 7.55,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -1142,7 +1142,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.53,
       "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -1153,7 +1153,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.53,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -1197,7 +1197,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.35,
+      "final_score": 7.34,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -1208,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.34,
+      "final_score": 7.33,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -1230,7 +1230,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.25,
+      "final_score": 7.24,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -1285,7 +1285,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.1,
+      "final_score": 7.09,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -1351,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.85,
+      "final_score": 6.84,
       "published_at": "2026-08-23T16:07:22+00:00"
     },
     {
@@ -1373,7 +1373,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.77,
+      "final_score": 6.76,
       "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
@@ -1384,7 +1384,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.75,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -1395,7 +1395,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.75,
       "published_at": "2026-08-22T18:11:40+00:00"
     },
     {
@@ -1428,7 +1428,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.74,
       "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
@@ -1472,7 +1472,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.61,
+      "final_score": 6.6,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -1483,7 +1483,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.49,
+      "final_score": 6.48,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -1549,7 +1549,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.44,
+      "final_score": 6.43,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -1593,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.35,
+      "final_score": 6.34,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -1615,7 +1615,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.26,
+      "final_score": 6.25,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -1659,7 +1659,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.16,
+      "final_score": 6.15,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -1692,7 +1692,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.04,
+      "final_score": 6.03,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1813,7 +1813,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.75,
+      "final_score": 5.74,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1835,7 +1835,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.65,
+      "final_score": 5.64,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -1901,7 +1901,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.5,
+      "final_score": 5.49,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -1912,7 +1912,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.46,
+      "final_score": 5.45,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -1934,7 +1934,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.38,
+      "final_score": 5.37,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1989,7 +1989,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.96,
+      "final_score": 4.95,
       "published_at": "2026-08-24T18:24:59+00:00"
     },
     {
@@ -2033,7 +2033,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.87,
+      "final_score": 4.86,
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
@@ -2044,7 +2044,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.87,
+      "final_score": 4.86,
       "published_at": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -2055,7 +2055,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.87,
+      "final_score": 4.86,
       "published_at": "2026-08-23T20:53:01+00:00"
     },
     {
@@ -2099,7 +2099,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.83,
+      "final_score": 4.82,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -2110,7 +2110,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 4.83,
+      "final_score": 4.82,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -2198,7 +2198,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.53,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -2275,7 +2275,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.34,
+      "final_score": 4.33,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -2407,7 +2407,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.76,
+      "final_score": 3.75,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -2418,7 +2418,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.76,
+      "final_score": 3.75,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
