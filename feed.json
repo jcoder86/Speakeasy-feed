@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:24:21.022993+00:00",
+  "generated_at": "2026-08-26T04:46:56.487167+00:00",
   "items": [
     {
       "id": "253f6697afdfe3b4",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.99,
+      "final_score": 10.9,
       "published_at": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.93,
+      "final_score": 10.83,
       "published_at": "2026-08-24T11:30:54+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.74,
+      "final_score": 10.64,
       "published_at": "2026-08-22T14:28:41+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.73,
+      "final_score": 10.64,
       "published_at": "2026-08-22T13:42:32+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.58,
+      "final_score": 10.48,
       "published_at": "2026-08-21T00:13:39+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.54,
+      "final_score": 10.45,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.45,
+      "final_score": 10.35,
       "published_at": "2026-08-19T17:07:35+00:00"
     },
     {
@@ -86,8 +86,41 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.24,
+      "final_score": 10.15,
       "published_at": "2026-08-17T15:56:14+00:00"
+    },
+    {
+      "id": "627f5c4c4f2430f6",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "summary_nl": "Terug naar de commit als eenheid van review: Maiao brengt de Gerrit-stijl code review naar platforms als GitHub, GitLab en Gitea. In plaats van hele pull requests te beoordelen, werkt het per commit, zodat reviewers gerichter kunnen kijken naar losse wijzigingen binnen een grotere set commits, iets wat met name bij stapels van kleine, opeenvolgende aanpassingen prettiger werkt dan de gangbare PR-workflow. Het idee is niet nieuw, Google en veel grote open-source projecten gebruiken Gerrit al jaren, maar Maiao maakt die aanpak toegankelijk zonder dat je een volledige Gerrit-server hoeft op te zetten. Inspirerend omdat het laat zien dat je bestaande git-hosting platforms kunt aanvullen met een andere reviewfilosofie, zonder alles om te bouwen. Wat je nodig hebt: ervaring met git en pull request workflows, een repository op een van de",
+      "url": "https://github.com/runetes/maiao",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.97,
+      "published_at": "2026-08-25T22:40:07+00:00"
+    },
+    {
+      "id": "9f66add6a4dee5f4",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "summary_nl": "Als je denkt dat lowercasen van een string een onschuldige operatie is, denk nog eens na: Seth Larson laat zien hoe str.lower() in Python onder specifieke omstandigheden een beveiligingsprobleem kan veroorzaken. De kern van het verhaal is dat Unicode-tekens zich niet altijd voorspelbaar gedragen bij case-folding, denk aan de Turkse İ/i-kwestie of tekens die van lengte veranderen zodra ze worden omgezet naar kleine letters, waardoor vergelijkingen die security-checks uitvoeren (zoals hostname- of pad-validatie) subtiel kunnen worden omzeild. Inspirer",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.97,
+      "published_at": "2026-08-25T20:49:03+00:00"
+    },
+    {
+      "id": "93551b217a1b5318",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "summary_nl": "Een Raspberry Pi die meekijkt in je auto, zonder dat er iets naar de cloud gaat. Deze maker bouwde CarWatch: een lokale AI-assistent op basis van het Qwen-model, draaiend op een Raspberry Pi, die als co-piloot in de auto meedenkt zonder internetverbinding of dataverkeer naar externe servers. De slimme vondst zit in het volledig lokaal draaien van een taalmodel op relatief bescheiden hardware, waardoor privacy en onafhankelijkheid van clouddiensten centraal staan. Inspirerend omdat het laat zien dat je met open-source modellen en goedkope hardware zelf een slimme, privacyvriendelijke assistent kunt bouwen zonder afhankelijk te zijn van grote techbedrijven. Wat je nodig heb: een Raspberry Pi, wat ervaring met Linux en Python, en zin om te experimenteren met lokale AI-modellen zoals Qwen; reken op een weekend prutswerk om het aan de praat te krijgen. Bron: https://github.com/ThinkOffApp/CarWatch",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.94,
+      "published_at": "2026-08-25T15:20:20+00:00"
     },
     {
       "id": "4ebe610f1b868e97",
@@ -97,8 +130,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.02,
+      "final_score": 9.93,
       "published_at": "2026-08-15T11:00:02+00:00"
+    },
+    {
+      "id": "87ad15f5edc0b51b",
+      "title": "oboroge0/hayamimi",
+      "summary_nl": "Live ondertiteling zonder zware hardware: hayamimi\n\nHayamimi (早耳, letterlijk \"snel oor\") is een open-source tool die spraak in real-time omzet naar tekst, inclusief vertaling en sprekerherkenning, en dat volledig op de CPU draait. Geen GPU en geen cloudverbinding nodig: alles gebeurt lokaal, met live ondertiteling die je bekijkt via een browserdashboard. Inspirerend omdat het laat zien dat je voor meertalige spraakherkenning niet per se dure hardware of externe diensten nodig hebt, wat het bruikbaar maakt voor privacygevoelige situaties zoals vergaderingen of interviews. Wat je nodig hebt: een computer met een redelijk moderne CPU, basiskennis van het draaien van software via de terminal (Python-omgeving), en een uurtje om de installatie en eerste test te doorlopen. Zie de broncode en documentatie op https://github.com/oboroge0/hayamimi.",
+      "url": "https://github.com/oboroge0/hayamimi",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.9,
+      "published_at": "2026-08-25T03:56:26+00:00"
     },
     {
       "id": "17737e382f9a8aaf",
@@ -108,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.97,
+      "final_score": 9.88,
       "published_at": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -119,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.94,
+      "final_score": 9.84,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -130,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.92,
+      "final_score": 9.82,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -141,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.85,
+      "final_score": 9.76,
       "published_at": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -152,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.72,
+      "final_score": 9.62,
       "published_at": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -163,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.67,
+      "final_score": 9.58,
       "published_at": "2026-08-21T23:09:06+00:00"
     },
     {
@@ -174,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.65,
+      "final_score": 9.55,
       "published_at": "2026-08-21T16:27:52+00:00"
     },
     {
@@ -185,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.59,
+      "final_score": 9.49,
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
@@ -196,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.46,
+      "final_score": 9.36,
       "published_at": "2026-08-19T19:06:16+00:00"
     },
     {
@@ -207,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.38,
+      "final_score": 9.28,
       "published_at": "2026-08-18T23:51:49+00:00"
     },
     {
@@ -218,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.37,
+      "final_score": 9.28,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -229,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.35,
+      "final_score": 9.25,
       "published_at": "2026-08-18T17:25:19+00:00"
     },
     {
@@ -240,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.13,
+      "final_score": 9.03,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -251,8 +295,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.07,
+      "final_score": 8.97,
       "published_at": "2026-08-15T22:41:51+00:00"
+    },
+    {
+      "id": "5435fc763c8a7cfd",
+      "title": "Show HN: MulmoTerminal – Run many Claude Code sessions, see which needs you",
+      "summary_nl": "Wie werkt met meerdere Claude Code sessies tegelijk, kent het probleem: welke wacht er nu eigenlijk op jouw input? MulmoTerminal lost dat op met een overzichtsscherm dat in één oogopslag toont welke sessies actief zijn en welke aandacht nodig hebben, zodat je niet meer tussen tabbladen hoeft te schakelen om te checken of er iets vastloopt. Inspirerend omdat het een klein maar concreet knelpunt in agentic coding-workflows aanpakt, precies het soort praktische tooling dat ontstaat zodra je zelf tegen de beperkingen van bestaande interfaces aanloopt. Wat je nodig hebt: ervaring met Claude Code en terminal-gebaseerd werken, en de bereidheid een nieuwe open-source tool te installeren en uit te proberen (zie github.com/receptron/mulmoterminal).",
+      "url": "https://github.com/receptron/mulmoterminal",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.96,
+      "published_at": "2026-08-25T19:20:48+00:00"
+    },
+    {
+      "id": "1741d977cb7cebae",
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "summary_nl": "Een grafendatabase zonder gedoe: LatticeDB pakt embedded databases anders aan. Waar SQLite al jaren de standaard is voor lichtgewicht relationele opslag zonder aparte serverprocessen, doet LatticeDB hetzelfde maar dan voor graafdata: je bouwt het rechtstreeks in je applicatie in, zonder losse database-server te hoeven draaien of beheren. Dat maakt het aantrekkelijk voor projecten waarin je relaties tussen data centraal wilt stellen, zoals netwerken, aanbevelingen of kennisgrafen, maar waarbij de overhead van een volwaardige grafendatabase als Neo4j niet in verhouding staat tot de schaal van het project. Wat je nodig hebt: basiskennis van graafmodellen en databases, en de bereidheid om een nieuw, nog jong project te verkennen via de broncode op GitHub (https://github.com/jeffhajewski/latticedb).",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-25T16:52:05+00:00"
     },
     {
       "id": "92ede9ff1d8ddb6b",
@@ -262,8 +328,41 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.04,
+      "final_score": 8.94,
       "published_at": "2026-08-15T14:22:20+00:00"
+    },
+    {
+      "id": "2f4cb31fc620eef1",
+      "title": "What Do You Do While AI Codes?",
+      "summary_nl": "Wachten op AI dat voor je codeert: wat doe je met die tussentijd? Dit artikel gaat over de vijf tot twintig minuten durende gaten die ontstaan terwijl AI-coding agents hun werk doen, en beschrijft vijf concrete manieren om die tijd zinvol te vullen. Extra interessant is de waarschuwing over die ene \"snelle\" gewoonte die net lijkt te helpen, maar er in de praktijk voor zorgt dat jij zelf de vertragende factor wordt. Wat je nodig hebt: ervaring met AI coding agents (zoals Copilot of vergelijkbare tools) en een paar minuten reflectietijd om je eigen werkritme tegen het licht te houden. Bron: https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.94,
+      "published_at": "2026-08-25T13:36:11+00:00"
+    },
+    {
+      "id": "3311424eb17d4698",
+      "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
+      "summary_nl": "Een gat in je RAG-beveiliging waar je niet aan denkt: de chatgeschiedenis zelf. Het punt van dit stuk is dat copilots vaak brondocumenten, scores en namen opslaan bij elke beantwoorde vraag, zodat een gebruiker die geschiedenis later kan terugbladeren zonder dat er opnieuw een zoekopdracht met bijbehorende toegangscontrole wordt uitgevoerd. Daardoor ontstaat een tweede leespad naar dezelfde data, waarbij permissies kunnen zijn veranderd sinds het gesprek plaatsvond, maar de oude bronvermeldingen gewoon zichtbaar blijven. Inspirerend omdat het een blinde vlek blootlegt die niet in de gebruikelijke RAG-beveiligingschecklists staat: je test de zoekfunctie, maar vergeet de replay. Wat je nodig hebt: kennis van hoe je RAG-pipeline chatgeschiedenis en broncitaten opslaat, en de bereidheid om bij het terugtonen van oude antwoorden opnieuw de actuele toegangsrechten te controleren, zoals beschreven op https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0.",
+      "url": "https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.93,
+      "published_at": "2026-08-25T11:47:43+00:00"
+    },
+    {
+      "id": "93cd3ee5c8e7f399",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "summary_nl": "Alles wat op je scherm verschijnt, wordt automatisch tekst die je later kunt terugvinden. Ambient Context legt periodiek vast wat er op je scherm te lezen is en zet dat om naar Markdown-bestanden, zonder dat er ergens een screenshot wordt opgeslagen. Het idee is dat je zo een doorzoekbaar archief opbouwt van waar je aan gewerkt hebt, welke artikelen je las of welke gesprekken je voerde, terwijl de privacygevoelige beeldopnames wegvallen en de opslag compact blijft. Inspirerend omdat het laat zien dat \"screen memory\" niet per se schermafbeeldingen nodig heeft: platte tekst is vaak al genoeg om iets terug te vinden. Wat je nodig heeft: een beetje ervaring met het installeren van open-source tools vanaf GitHub en zin om te experimenteren met wat je precies wilt vastleggen en hoe lang je dat bewaart, zie https://github.com/dragthelake/ambient-context.",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.9,
+      "published_at": "2026-08-25T04:33:24+00:00"
     },
     {
       "id": "432aa6d44c5543d8",
@@ -273,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.96,
+      "final_score": 8.86,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -284,7 +383,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.95,
+      "final_score": 8.85,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -295,8 +394,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.94,
+      "final_score": 8.84,
       "published_at": "2026-08-24T14:53:22+00:00"
+    },
+    {
+      "id": "781db7f9866937bb",
+      "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
+      "summary_nl": "Wie krijgt het compliment: het model of de omgeving eromheen? Vier verschillende \"harnesses\" (de sturing en tooling rond een taalmodel) tilden dezelfde publieke ARC-AGI-3 benchmark van 13% naar 100%, zonder dat er iets aan de modelgewichten veranderde. Microsoft ging nog een stap verder en verwerkte die harness in de trainingsloop zelf, waardoor het onderscheid tussen \"slimmer model\" en \"slimmere aansturing\" verder vervaagt. Inspirerend omdat het laat zien hoeveel prestatie er in de architectuur rond een model schuilt, iets wat benchmarks en marketingclaims vaak verdoezelen. Wat je nodig hebt: basiskennis van LLM-evaluatie en interesse in hoe benchmarkresultaten geïnterpreteerd moeten worden, geen technische implementatie vereist om het artikel te volgen. Bron: https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4",
+      "url": "https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.84,
+      "published_at": "2026-08-24T13:38:40+00:00"
     },
     {
       "id": "08315995f7290e31",
@@ -306,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.93,
+      "final_score": 8.83,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -317,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.91,
+      "final_score": 8.81,
       "published_at": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -328,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.9,
+      "final_score": 8.81,
       "published_at": "2026-08-24T06:25:31+00:00"
     },
     {
@@ -339,7 +449,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.87,
+      "final_score": 8.77,
       "published_at": "2026-08-23T22:06:14+00:00"
     },
     {
@@ -350,7 +460,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.87,
+      "final_score": 8.77,
       "published_at": "2026-08-23T21:14:28+00:00"
     },
     {
@@ -361,7 +471,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.87,
+      "final_score": 8.77,
       "published_at": "2026-08-23T21:36:25+00:00"
     },
     {
@@ -372,7 +482,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.85,
+      "final_score": 8.76,
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
@@ -383,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.82,
+      "final_score": 8.72,
       "published_at": "2026-08-23T10:02:51+00:00"
     },
     {
@@ -394,7 +504,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.81,
+      "final_score": 8.71,
       "published_at": "2026-08-13T06:43:24+00:00"
     },
     {
@@ -405,7 +515,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.8,
+      "final_score": 8.7,
       "published_at": "2026-08-23T05:38:43+00:00"
     },
     {
@@ -416,7 +526,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.65,
       "published_at": "2026-08-22T15:47:49+00:00"
     },
     {
@@ -427,7 +537,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.67,
+      "final_score": 8.57,
       "published_at": "2026-08-21T21:46:56+00:00"
     },
     {
@@ -438,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.55,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -449,7 +559,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.64,
+      "final_score": 8.54,
       "published_at": "2026-08-21T14:31:52+00:00"
     },
     {
@@ -460,7 +570,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.62,
+      "final_score": 8.52,
       "published_at": "2026-08-21T10:12:54+00:00"
     },
     {
@@ -471,7 +581,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.58,
+      "final_score": 8.48,
       "published_at": "2026-08-21T00:42:33+00:00"
     },
     {
@@ -482,7 +592,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.44,
       "published_at": "2026-08-20T15:26:02+00:00"
     },
     {
@@ -493,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.54,
+      "final_score": 8.44,
       "published_at": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -504,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.46,
+      "final_score": 8.36,
       "published_at": "2026-08-19T18:36:45+00:00"
     },
     {
@@ -515,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.34,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -526,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.34,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -537,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.39,
+      "final_score": 8.29,
       "published_at": "2026-08-19T01:58:33+00:00"
     },
     {
@@ -548,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.38,
+      "final_score": 8.28,
       "published_at": "2026-08-18T23:57:36+00:00"
     },
     {
@@ -559,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.37,
+      "final_score": 8.27,
       "published_at": "2026-08-18T21:14:21+00:00"
     },
     {
@@ -570,7 +680,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.36,
+      "final_score": 8.27,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -581,7 +691,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.35,
+      "final_score": 8.26,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -592,7 +702,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.35,
+      "final_score": 8.25,
       "published_at": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -603,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.34,
+      "final_score": 8.24,
       "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
@@ -614,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.34,
+      "final_score": 8.24,
       "published_at": "2026-08-18T14:29:20+00:00"
     },
     {
@@ -625,7 +735,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.33,
+      "final_score": 8.23,
       "published_at": "2026-08-18T12:05:57+00:00"
     },
     {
@@ -636,7 +746,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.33,
+      "final_score": 8.23,
       "published_at": "2026-08-18T12:22:58+00:00"
     },
     {
@@ -647,7 +757,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.32,
+      "final_score": 8.23,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -658,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.16,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -669,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.16,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -680,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.15,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -691,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.23,
+      "final_score": 8.14,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -702,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.23,
+      "final_score": 8.14,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -713,7 +823,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.15,
+      "final_score": 8.05,
       "published_at": "2026-08-16T17:40:33+00:00"
     },
     {
@@ -724,7 +834,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.13,
+      "final_score": 8.04,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -735,8 +845,63 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.11,
+      "final_score": 8.01,
       "published_at": "2026-08-16T07:46:40+00:00"
+    },
+    {
+      "id": "d1475184a3524f52",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "summary_nl": "Geheugen als architectuurprobleem, niet als bijzaak\n\nWie AI-agents bouwt die langere taken zelfstandig uitvoeren, loopt al snel tegen twee praktische muren aan: hoeveel context kan het systeem onthouden, en wat kost dat aan tokens en rekenkracht. Dit paper stelt dat memory management en kostenbeheersing niet als losse optimalisaties achteraf moeten worden behandeld, maar als fundamentele ontwerpkeuzes die je vanaf het begin in de architectuur van een agentic systeem moet meenemen. De kern van de gedachte is dat naarmate agents complexere, meerstaps-taken uitvoeren, de context die ze nodig hebben exponentieel kan groeien, waardoor je zonder doordachte structuur vastloopt in kosten of pr",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.99,
+      "published_at": "2026-08-26T02:35:25+00:00"
+    },
+    {
+      "id": "53580a8d0bc336d3",
+      "title": "Queryable Executables",
+      "summary_nl": "Executables die je kunt bevragen als een database: klinkt vreemd, maar dat is precies de belofte in dit artikel. Het idee is dat binaries niet langer ondoorzichtige blobs hoeven te zijn, maar gestructureerde metadata kunnen meedragen over bijvoorbeeld afhankelijkheden, herkomst en build-informatie, zodat je met simpele queries kunt achterhalen wat er in een uitvoerbaar bestand zit zonder het te hoeven decompileren. Inspirerend omdat het een concreet antwoord biedt op het steeds grotere probleem van softwareherkomst en supply-chain-transparantie,",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.98,
+      "published_at": "2026-08-26T00:20:49+00:00"
+    },
+    {
+      "id": "2692054277e63ded",
+      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+      "summary_nl": "Wie ooit een monitoringstack heeft opgetuigd kent het probleem: voor je het weet sleep je drie containers, een database en een dashboard-tool mee, alleen om te zien of je server nog leeft. Deze ontwikkelaar koos radicaal de andere kant op en bouwde zijn eigen monitoringtool die bestaat uit precies één Go-binary, één YAML-configuratiebestand en één SQLite-database, zonder externe afhankelheden of draaiende diensten erbij. Inspirerend omdat het laat zien dat je bestaande tools niet altijd hoeft te accepteren zoals ze zijn opgezet; soms is het simpeler en overzichtelijker om zelf iets kleins te bouwen dat precies doet wat jij nodig hebt, zonder de overhead van een heel ecosysteem. Wat je nodig heb: basiskennis van Go om de code te lezen of aan te passen, bekendheid met YAML voor configuratie en een paar uur tijd om het te installeren en naar je eigen situatie te vertalen, bron: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN.",
+      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.97,
+      "published_at": "2026-08-25T21:43:37+00:00"
+    },
+    {
+      "id": "964b914a5f9d7edb",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary_nl": "Wie ooit dacht dat een eigen BSD-server prijzig moest zijn, kan die gedachte loslaten: dit stuk laat zien hoe je OpenBSD draaiend krijgt op DigitalOcean voor slechts vier dollar per maand. Het werkt via een omweg, omdat DigitalOcean geen kant-en-klare OpenBSD-images aanbiedt, maar de auteur legt stap voor stap uit hoe je het besturingssysteem zelf installeert op het goedkoopste droplet. Inspirerend omdat het laat zien dat je niet afhankelijk bent van de standaardkeuzes van een cloudprovider om toch een stabiel en veilig systeem draaiend te krijgen. Wat je nodig hebt: een DigitalOcean-account, basiskennis van Unix-achtige systemen en de installatieprocedure van OpenBSD, en ongeveer een avond om de stappen door te lopen. Bron: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.95,
+      "published_at": "2026-08-25T17:23:07+00:00"
+    },
+    {
+      "id": "7f39178d8121a4d6",
+      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+      "summary_nl": "Deployen op Windows, eindelijk zonder gedoe\n\nEen ontwikkelaar heeft FDeploy gebouwd, een self-hosted tool die deployment automation naar Windows-servers en IIS regelt zonder dat je daarvoor Linux-gerichte oplossingen als Jenkins of GitHub Actions runners hoeft te forceren in een omgeving waar ze niet voor gemaakt zijn. Het idee is simpel: je host de tool zelf, koppelt hem aan je eigen infrastructuur, en hij regelt de deploy-stappen naar IIS-sites op een manier die aansluit bij hoe Windows-beheer daadwerkelijk werkt. Inspirerend omdat het een vaak onderbelicht stukje van de DevOps-wereld aanpakt: veel tooling is primair gebouwd met Linux in het achterhoofd, terwijl er nog altijd veel bedrijven draaien op Windows Server en IIS. Wat je nodig heb je: een Windows-server met IIS, basiskennis van deployment-processen, en een uurtje om de tool te installeren en je eerste project te koppelen. Bron: https://fdeploy.com/",
+      "url": "https://fdeploy.com/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.91,
+      "published_at": "2026-08-25T07:32:11+00:00"
     },
     {
       "id": "134f77c1b87eca42",
@@ -746,8 +911,19 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.0,
+      "final_score": 7.9,
       "published_at": "2026-08-15T04:47:37+00:00"
+    },
+    {
+      "id": "aa36d937886306a2",
+      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
+      "summary_nl": "Die ene keer dat je RAG-systeem overtuigend het verkeerde antwoord geeft: herkenbaar, en precies het startpunt van deze checklist. De auteur beschrijft hoe hij na een misleidende retrieval-fout niet meteen naar het taalmodel wees, maar terugging naar de basis van zijn retrieval-pipeline, en van die zoektocht een praktische checklist maakte met veelvoorkomende valkuilen zoals chunking, embeddings en herrangschikking. Inspirerend omdat het een eerlijke post-mortem is in plaats van een theoretisch stappenplan, geschreven door iemand die de fouten echt heeft gemaakt voordat hij shipte. Wat je nodig hebt: een werkende of geplande RAG-implementatie, basiskennis van embeddings en vectordatabases, en een uur om de checklist tegen je eigen systeem aan te leggen. Volledige tekst op https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a.",
+      "url": "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.9,
+      "published_at": "2026-08-25T04:02:30+00:00"
     },
     {
       "id": "3c1bfba6afe9d822",
@@ -757,7 +933,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.97,
+      "final_score": 7.87,
       "published_at": "2026-08-24T22:45:24+00:00"
     },
     {
@@ -768,7 +944,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.96,
+      "final_score": 7.86,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -779,7 +955,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.96,
+      "final_score": 7.86,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -790,7 +966,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.86,
       "published_at": "2026-08-24T18:07:00+00:00"
     },
     {
@@ -801,7 +977,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.95,
+      "final_score": 7.85,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -812,7 +988,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.95,
+      "final_score": 7.85,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -823,7 +999,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.95,
+      "final_score": 7.85,
       "published_at": "2026-08-24T16:15:10+00:00"
     },
     {
@@ -834,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.94,
+      "final_score": 7.85,
       "published_at": "2026-08-24T16:08:17+00:00"
     },
     {
@@ -845,7 +1021,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -856,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -867,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.94,
+      "final_score": 7.84,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -878,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.93,
+      "final_score": 7.84,
       "published_at": "2026-08-24T13:17:11+00:00"
     },
     {
@@ -889,7 +1065,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.92,
+      "final_score": 7.82,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -900,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.9,
+      "final_score": 7.8,
       "published_at": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -911,7 +1087,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.88,
+      "final_score": 7.79,
       "published_at": "2026-08-24T01:33:14+00:00"
     },
     {
@@ -922,7 +1098,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.88,
+      "final_score": 7.78,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -933,7 +1109,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.87,
+      "final_score": 7.78,
       "published_at": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -944,7 +1120,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.87,
+      "final_score": 7.77,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -955,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.84,
+      "final_score": 7.74,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -966,7 +1142,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.84,
+      "final_score": 7.74,
       "published_at": "2026-08-23T14:18:14+00:00"
     },
     {
@@ -977,7 +1153,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.83,
+      "final_score": 7.74,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -988,7 +1164,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.83,
+      "final_score": 7.73,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -999,7 +1175,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.83,
+      "final_score": 7.73,
       "published_at": "2026-08-13T12:36:34+00:00"
     },
     {
@@ -1010,7 +1186,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.76,
+      "final_score": 7.66,
       "published_at": "2026-08-22T18:43:03+00:00"
     },
     {
@@ -1021,7 +1197,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.66,
+      "final_score": 7.56,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -1032,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.66,
+      "final_score": 7.56,
       "published_at": "2026-08-21T19:51:54+00:00"
     },
     {
@@ -1043,7 +1219,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.66,
+      "final_score": 7.56,
       "published_at": "2026-08-21T19:18:09+00:00"
     },
     {
@@ -1054,7 +1230,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.64,
+      "final_score": 7.54,
       "published_at": "2026-08-21T15:21:10+00:00"
     },
     {
@@ -1065,7 +1241,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.62,
+      "final_score": 7.52,
       "published_at": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -1076,7 +1252,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.59,
+      "final_score": 7.49,
       "published_at": "2026-08-21T01:53:43+00:00"
     },
     {
@@ -1087,7 +1263,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.57,
+      "final_score": 7.48,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -1098,7 +1274,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.57,
+      "final_score": 7.48,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -1109,7 +1285,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.55,
+      "final_score": 7.46,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -1120,7 +1296,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.44,
       "published_at": "2026-08-20T14:38:45+00:00"
     },
     {
@@ -1131,7 +1307,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.44,
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
@@ -1142,7 +1318,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.53,
+      "final_score": 7.44,
       "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -1153,7 +1329,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.53,
+      "final_score": 7.44,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -1164,7 +1340,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.53,
+      "final_score": 7.43,
       "published_at": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -1175,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.43,
+      "final_score": 7.33,
       "published_at": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -1186,7 +1362,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.37,
+      "final_score": 7.27,
       "published_at": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -1197,7 +1373,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.34,
+      "final_score": 7.25,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -1208,7 +1384,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.33,
+      "final_score": 7.24,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -1219,7 +1395,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.25,
+      "final_score": 7.15,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -1230,7 +1406,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.24,
+      "final_score": 7.15,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -1241,7 +1417,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.24,
+      "final_score": 7.14,
       "published_at": "2026-08-17T14:18:38+00:00"
     },
     {
@@ -1252,7 +1428,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.24,
+      "final_score": 7.14,
       "published_at": "2026-08-17T14:24:01+00:00"
     },
     {
@@ -1263,7 +1439,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.24,
+      "final_score": 7.14,
       "published_at": "2026-08-17T14:20:00+00:00"
     },
     {
@@ -1274,7 +1450,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.15,
+      "final_score": 7.05,
       "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
@@ -1285,7 +1461,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.09,
+      "final_score": 7.0,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -1296,8 +1472,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.09,
+      "final_score": 6.99,
       "published_at": "2026-08-16T02:12:53+00:00"
+    },
+    {
+      "id": "49a4eac9ae7460f3",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "summary_nl": "Wachten op een tooltip: waarom die halve seconde vertraging er niet voor niets is (en soms juist weg moet). Het artikel legt uit hoe tooltips een korte delay nodig hebben voordat ze verschijnen, zodat je scherm niet volschiet met tekstballonnen zodra je met je muis over de interface beweegt. Maar de slimme vondst zit in het vervolg: zodra je binnen een bepaalde tijd naar een ander element hoovert, moet die vertraging worden overgeslagen, omdat de gebruiker dan al in \"tooltip-modus\" zit en direct feedback verwacht. Inspirerend omdat het een klein interactiedetail is dat de meeste ontwikkelaars nooit expliciet doordenken, maar dat het verschil maakt tussen een interface die soepel aanvoelt en een die hortend overkomt. Wat je nodig hebt: basiskennis van front-end development en state management (bijvoorbeeld met React of vanilla JS), en een uur of wat om de timing-logica in je eigen componenten te implementeren. Bron: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.95,
+      "published_at": "2026-08-25T16:35:36+00:00"
     },
     {
       "id": "0d6a19ac1fb0fb97",
@@ -1307,8 +1494,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.04,
+      "final_score": 6.94,
       "published_at": "2026-08-15T14:23:15+00:00"
+    },
+    {
+      "id": "9333895a5099a1f1",
+      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
+      "summary_nl": "Van coder naar keurmeester, zonder diploma. Het stuk van Heinrich Neb reageert op een bewering dat AI developers slechter maakt in reviewen, en betoogt juist dat AI iedere developer ongevraagd tot reviewer heeft gepromoveerd: je codeert niet meer alleen, je beoordeelt voortdurend wat een AI-assistent aandraagt. Het probleem is dat niemand die nieuwe reviewersrol ooit heeft getraind of getest, terwijl kritisch lezen en beoordelen van gegenereerde code een heel andere vaardigheid is dan zelf schrijven. Inspirerend omdat het een blinde vlek blootlegt in hoe teams AI-tools omarmen: de tooling is verbeterd, maar de menselijke controlelaag erop is stilzwijgend als vanzelfsprekend verondersteld. Wat je nodig hebt: ervaring met AI-codeassistenten zoals Copilot of Cursor, en vooral bereidheid om je eigen reviewgewoontes kritisch tegen het licht te houden, geen speciale tools nodig, wel tijd om erover te reflecteren. Zie het volledige essay op https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h.",
+      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.88,
+      "published_at": "2026-08-24T23:23:06+00:00"
     },
     {
       "id": "1f4b5a6f6647514e",
@@ -1318,7 +1516,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.95,
+      "final_score": 6.85,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -1329,7 +1527,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.93,
+      "final_score": 6.83,
       "published_at": "2026-08-24T12:17:58+00:00"
     },
     {
@@ -1340,7 +1538,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.89,
+      "final_score": 6.79,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -1351,7 +1549,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.84,
+      "final_score": 6.75,
       "published_at": "2026-08-23T16:07:22+00:00"
     },
     {
@@ -1362,7 +1560,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.84,
+      "final_score": 6.74,
       "published_at": "2026-08-23T14:23:09+00:00"
     },
     {
@@ -1373,7 +1571,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.76,
+      "final_score": 6.67,
       "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
@@ -1384,7 +1582,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.66,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -1395,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.66,
       "published_at": "2026-08-22T18:11:40+00:00"
     },
     {
@@ -1406,7 +1604,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.65,
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
@@ -1417,7 +1615,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.75,
+      "final_score": 6.65,
       "published_at": "2026-08-22T17:23:29+00:00"
     },
     {
@@ -1428,7 +1626,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.74,
+      "final_score": 6.65,
       "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
@@ -1439,7 +1637,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 6.7,
+      "final_score": 6.6,
       "published_at": "2026-07-13T05:13:00+00:00"
     },
     {
@@ -1450,7 +1648,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.65,
+      "final_score": 6.55,
       "published_at": "2026-08-21T17:40:07+00:00"
     },
     {
@@ -1461,7 +1659,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.62,
+      "final_score": 6.52,
       "published_at": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -1472,7 +1670,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.6,
+      "final_score": 6.51,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -1483,7 +1681,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.48,
+      "final_score": 6.39,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -1494,7 +1692,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.48,
+      "final_score": 6.38,
       "published_at": "2026-08-20T00:18:16+00:00"
     },
     {
@@ -1505,7 +1703,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.45,
+      "final_score": 6.35,
       "published_at": "2026-08-19T16:29:02+00:00"
     },
     {
@@ -1516,7 +1714,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.45,
+      "final_score": 6.35,
       "published_at": "2026-08-19T16:25:37+00:00"
     },
     {
@@ -1527,7 +1725,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.44,
+      "final_score": 6.34,
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
@@ -1538,7 +1736,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.44,
+      "final_score": 6.34,
       "published_at": "2026-08-19T15:11:36+00:00"
     },
     {
@@ -1549,7 +1747,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.43,
+      "final_score": 6.34,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -1560,7 +1758,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.42,
+      "final_score": 6.32,
       "published_at": "2026-08-19T10:15:00+00:00"
     },
     {
@@ -1571,7 +1769,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.39,
+      "final_score": 6.29,
       "published_at": "2026-08-19T02:41:50+00:00"
     },
     {
@@ -1582,7 +1780,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.37,
+      "final_score": 6.27,
       "published_at": "2026-08-18T22:22:41+00:00"
     },
     {
@@ -1593,7 +1791,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.34,
+      "final_score": 6.25,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -1604,7 +1802,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.34,
+      "final_score": 6.24,
       "published_at": "2026-08-18T15:06:11+00:00"
     },
     {
@@ -1615,7 +1813,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.25,
+      "final_score": 6.16,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -1626,7 +1824,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.25,
+      "final_score": 6.15,
       "published_at": "2026-08-17T17:39:02+00:00"
     },
     {
@@ -1637,7 +1835,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.24,
+      "final_score": 6.14,
       "published_at": "2026-08-17T13:56:38+00:00"
     },
     {
@@ -1648,7 +1846,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.18,
+      "final_score": 6.08,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -1659,8 +1857,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.15,
+      "final_score": 6.06,
       "published_at": "2026-08-16T18:17:10+00:00"
+    },
+    {
+      "id": "4806861b94d077f9",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "summary_nl": "TeXbrain: LaTeX compileren zonder installatie-ellende. Dit is een browsergebaseerde LaTeX-editor waarbij pdfTeX via WASM volledig client-side draait, dus geen server nodig en geen lokale TeX-distributie van gigabytes groot. Je schrijft en compileert je document direct in de browser, wat vooral handig is voor snelle experimenten of onderwijs waar je studenten niet wilt opzadelen met een complexe installatie. Inspirerend omdat het laat zien hoe WASM steeds meer traditioneel zware desktoptools toegankelijk maakt voor iedereen met alleen een browser. Wat je nodig heb: geen LaTeX-kennis vereist om te proberen, alleen basis vertrouwdheid met LaTeX-syntax als je zelf documenten wilt schrijven; installatie is niet nodig, alleen een moderne browser. Bron: https://github.com/swimmingbrain/texbrain",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.97,
+      "published_at": "2026-08-25T22:08:50+00:00"
     },
     {
       "id": "18ef0e767467be1d",
@@ -1670,8 +1879,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.06,
+      "final_score": 5.96,
       "published_at": "2026-08-15T18:50:19+00:00"
+    },
+    {
+      "id": "810406c16a22e017",
+      "title": "Fuzzing the Gleam Compiler",
+      "summary_nl": "Bugs jagen in een compiler: hoe fuzzing verrassend snel zwakke plekken blootlegt. In dit artikel beschrijft de auteur hoe hij de Gleam-compiler (een functionele taal die compileert naar Erlang en JavaScript) onderwerpt aan fuzzing, een testtechniek waarbij willekeurige of net-buiten-de-lijntjes input automatisch wordt gegenereerd om crashes, panics of onverwacht gedrag te ontdekken. De slimme vondst zit in de opzet: door bestaande Gleam-broncode als startpunt te gebruiken en die systematisch te muteren, worden edge cases blootgelegd die met handmatig testen nooit aan het licht zouden komen. Inspirerend omdat het laat zien dat je met relatief eenvoudige tooling en een beetje geduld serieuze compiler-bugs kunt v",
+      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.95,
+      "published_at": "2026-08-25T16:30:55+00:00"
     },
     {
       "id": "ed30fbf4d874b3f9",
@@ -1681,7 +1901,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.04,
+      "final_score": 5.94,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -1692,7 +1912,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.03,
+      "final_score": 5.94,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -1703,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.0,
+      "final_score": 5.9,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -1714,8 +1934,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.99,
+      "final_score": 5.89,
       "published_at": "2026-08-15T02:42:14+00:00"
+    },
+    {
+      "id": "d8333b6ba7f363fa",
+      "title": "Visualizing Binary Files",
+      "summary_nl": "Binaire bestanden ontrafelen door er letterlijk naar te kijken: dat is het idee achter deze post over het visualiseren van binaire data. De auteur laat zien hoe je ruwe bytes omzet in afbeeldingen, waardoor patronen, structuren en anomalieën in bestandsformaten ineens zichtbaar worden die je in een hex-editor makkelijk over het hoofd ziet. De slimme vondst zit in de eenvoud: door bytes te mappen naar pixels of kleuren ontstaat een soort vingerafdruk van een bestand, bruikbaar bij het reverse-engineeren van formaten, het opsporen van corruptie of het herkennen van malware. Inspirerend omdat het laat zien hoe een klein stukje visualisatie-code een heel andere, intuïtievere manier van debuggen en analyseren oplevert dan traditionele tools. Wat je nodig hebt: basiskennis van programmeren en bestandsformaten, een uurtje om zelf wat te experimenteren, bron: https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html.",
+      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.86,
+      "published_at": "2026-08-24T18:21:17+00:00"
     },
     {
       "id": "aff08550d343596e",
@@ -1725,7 +1956,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.95,
+      "final_score": 5.85,
       "published_at": "2026-08-24T17:21:20+00:00"
     },
     {
@@ -1736,7 +1967,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.94,
+      "final_score": 5.84,
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -1747,7 +1978,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.94,
+      "final_score": 5.84,
       "published_at": "2026-08-24T14:15:38+00:00"
     },
     {
@@ -1758,7 +1989,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.94,
+      "final_score": 5.84,
       "published_at": "2026-08-24T14:57:45+00:00"
     },
     {
@@ -1769,7 +2000,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.85,
+      "final_score": 5.75,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -1780,7 +2011,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.83,
+      "final_score": 5.73,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -1791,7 +2022,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.82,
+      "final_score": 5.72,
       "published_at": "2026-08-23T09:27:40+00:00"
     },
     {
@@ -1802,7 +2033,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.77,
+      "final_score": 5.67,
       "published_at": "2026-08-22T22:14:27+00:00"
     },
     {
@@ -1813,7 +2044,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.74,
+      "final_score": 5.65,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -1824,7 +2055,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.65,
+      "final_score": 5.55,
       "published_at": "2026-08-21T16:47:15+00:00"
     },
     {
@@ -1835,7 +2066,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.64,
+      "final_score": 5.55,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -1846,7 +2077,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.64,
+      "final_score": 5.54,
       "published_at": "2026-08-21T14:31:56+00:00"
     },
     {
@@ -1857,7 +2088,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.63,
+      "final_score": 5.53,
       "published_at": "2026-08-21T12:52:25+00:00"
     },
     {
@@ -1868,7 +2099,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.63,
+      "final_score": 5.53,
       "published_at": "2026-08-21T11:56:39+00:00"
     },
     {
@@ -1879,7 +2110,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.61,
+      "final_score": 5.51,
       "published_at": "2026-08-21T08:00:00+00:00"
     },
     {
@@ -1890,7 +2121,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.56,
+      "final_score": 5.46,
       "published_at": "2026-08-20T19:21:45+00:00"
     },
     {
@@ -1901,7 +2132,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.49,
+      "final_score": 5.4,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -1912,7 +2143,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.45,
+      "final_score": 5.36,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -1923,7 +2154,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.45,
+      "final_score": 5.35,
       "published_at": "2026-08-19T17:45:41+00:00"
     },
     {
@@ -1934,7 +2165,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.37,
+      "final_score": 5.28,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -1945,7 +2176,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.33,
+      "final_score": 5.23,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -1956,7 +2187,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.22,
+      "final_score": 5.12,
       "published_at": "2026-08-17T09:13:52+00:00"
     },
     {
@@ -1967,7 +2198,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.13,
+      "final_score": 5.03,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -1978,8 +2209,52 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.08,
+      "final_score": 4.98,
       "published_at": "2026-08-16T00:38:44+00:00"
+    },
+    {
+      "id": "0f0d0550b9ca3a38",
+      "title": "Python's pre-declared constants are kinda weird",
+      "summary_nl": "Python's ingebouwde vreemde eendjes: waarom typ je 'quit()' en werkt het toch niet altijd. Dit stuk duikt in de constanten die Python standaard al voor je klaarzet, zoals True, False, None, maar ook minder bekende zoals Ellipsis, NotImplemented en de wat merkwaardige quit, exit, copyright en license objecten die eigenlijk bedoeld zijn voor de interactieve shell. De auteur laat zien hoe deze constanten soms inconsistent gedrag vertonen of op onverwachte plekken opduiken, en wat daarachter zit qua taalontwerp. Inspirerend omdat het je een scherper beeld geeft van de kleine ontwerpkeuzes die zelfs een taal als Python, na decennia gebruik, nog altijd met zich meedraagt. Wat je nodig hebt: basiskennis van Python en een half uurtje leestijd, geen ext",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.97,
+      "published_at": "2026-08-25T21:39:02+00:00"
+    },
+    {
+      "id": "5caca037ef0d17c8",
+      "title": "Show HN: GitHub Dashboard aka GitBiased",
+      "summary_nl": "GitBiased: je GitHub-activiteit eens door een andere lens bekeken. Dit is een Show HN-project waarbij een ontwikkelaar een dashboard heeft gebouwd dat GitHub-data anders presenteert dan de standaard statistieken, met een knipoog naar de subjectieve of \"bevooroordeelde\" kant van hoe we onze eigen coding-activiteit interpreteren. De slimme vondst zit in het combineren van bestaande GitHub-API-data met een presentatielaag die net iets meer vertelt dan de kale cijfers, waardoor je grip krijgt op patronen in je eigen werk of dat van een team. Wat je nodig hebt: een GitHub-account met wat repository-activiteit, basiskennis van hoe GitHub-tokens werken voor API-toegang, en een half uurtje om het dashboard te koppelen en te verkennen. Bron: https://news.ycombinator.com/item?id=49433801",
+      "url": "https://news.ycombinator.com/item?id=49433801",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.94,
+      "published_at": "2026-08-25T13:34:24+00:00"
+    },
+    {
+      "id": "b9406ae170bd9133",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary_nl": "Jalapeño: OpenAI’s eigen chip die AI-antwoorden voortaan sneller én zuiniger levert. Het gaat om een op maat ontworpen inferentiechip die specifiek is gebouwd om moderne AI-modellen te draaien, met als resultaat hogere doorvoersnelheid, lagere vertraging en minder energieverbruik dan bij gangbare hardware. Inspirerend omdat dit laat zien dat grote AI-spelers steeds vaker de volledige technische stack in eigen hand nemen, van model tot silicium, om kosten en prestaties te optimaliseren. Wat je nodig hebt: dit is vooral relevant als achtergrondkennis over de infrastructuur achter AI-diensten; er is geen actie of technische kennis vereist om het te volgen, hooguit interesse in hoe AI-systemen efficiënter worden gemaakt. Bron: https://openai.com/index/jalapeno-first-results",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 5,
+      "final_score": 4.91,
+      "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "id": "33eae878317d27dc",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary_nl": "Grip op je AI-huishouding, zonder gedoe\n\nOpenAI introduceert de Admin plugin voor ChatGPT Work en Codex, waarmee beheerders workspace-gebruik kunnen analyseren, leden en rechten kunnen beheren, limieten kunnen aanpassen en admin-verzoeken direct kunnen afhandelen. In plaats van te schakelen tussen losse dashboards en instellingenmenu's, krijg je één plugin die deze beheertaken bundelt binnen de vertrouwde ChatGPT-omgeving. Inspirerend omdat het beheer van AI-tools binnen organisaties vaak versnipperd en tijdrovend is, en deze aanpak dat terugbrengt tot een overzichtelijk geheel. Wat je nodig hebt: een ChatGPT Work of Codex-omgeving met beheerdersrechten; verdere technische kennis is niet vereist, de plugin is bedoeld voor operationeel gebruik door IT- of workspace-beheerders. Meer details op https://openai.com/index/introducing-admin-plugin.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 5,
+      "final_score": 4.88,
+      "published_at": "2026-08-25T00:00:00+00:00"
     },
     {
       "id": "028d5cd17cb0362b",
@@ -1989,7 +2264,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.95,
+      "final_score": 4.86,
       "published_at": "2026-08-24T18:24:59+00:00"
     },
     {
@@ -2000,7 +2275,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.95,
+      "final_score": 4.85,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -2011,7 +2286,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.95,
+      "final_score": 4.85,
       "published_at": "2026-08-24T16:30:51+00:00"
     },
     {
@@ -2022,7 +2297,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.9,
+      "final_score": 4.8,
       "published_at": "2026-08-24T04:39:07+00:00"
     },
     {
@@ -2033,7 +2308,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.77,
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
@@ -2044,7 +2319,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.77,
       "published_at": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -2055,7 +2330,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.77,
       "published_at": "2026-08-23T20:53:01+00:00"
     },
     {
@@ -2066,7 +2341,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.76,
       "published_at": "2026-08-23T19:29:32+00:00"
     },
     {
@@ -2077,7 +2352,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.76,
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
@@ -2088,7 +2363,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.83,
+      "final_score": 4.73,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -2099,7 +2374,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.82,
+      "final_score": 4.73,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -2110,7 +2385,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 4.82,
+      "final_score": 4.73,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -2121,7 +2396,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.74,
+      "final_score": 4.64,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -2132,7 +2407,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.73,
+      "final_score": 4.63,
       "published_at": "2026-07-13T11:51:56+00:00"
     },
     {
@@ -2143,7 +2418,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.57,
+      "final_score": 4.47,
       "published_at": "2026-08-20T21:40:39+00:00"
     },
     {
@@ -2154,7 +2429,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.56,
+      "final_score": 4.46,
       "published_at": "2026-08-20T19:05:36+00:00"
     },
     {
@@ -2165,7 +2440,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.44,
       "published_at": "2026-08-20T14:12:08+00:00"
     },
     {
@@ -2176,7 +2451,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.44,
       "published_at": "2026-08-20T14:03:00+00:00"
     },
     {
@@ -2187,7 +2462,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.54,
+      "final_score": 4.44,
       "published_at": "2026-08-20T15:00:00+00:00"
     },
     {
@@ -2198,7 +2473,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.53,
+      "final_score": 4.44,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -2209,7 +2484,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.52,
+      "final_score": 4.42,
       "published_at": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -2220,7 +2495,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.48,
+      "final_score": 4.38,
       "published_at": "2026-08-20T00:00:00+00:00"
     },
     {
@@ -2231,7 +2506,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.46,
+      "final_score": 4.36,
       "published_at": "2026-08-19T19:00:00+00:00"
     },
     {
@@ -2242,7 +2517,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.41,
+      "final_score": 4.31,
       "published_at": "2026-08-19T06:55:39+00:00"
     },
     {
@@ -2253,7 +2528,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.41,
+      "final_score": 4.31,
       "published_at": "2026-08-19T07:10:00+00:00"
     },
     {
@@ -2264,7 +2539,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.41,
+      "final_score": 4.31,
       "published_at": "2026-08-19T07:00:00+00:00"
     },
     {
@@ -2275,7 +2550,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.33,
+      "final_score": 4.24,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -2286,7 +2561,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.31,
+      "final_score": 4.21,
       "published_at": "2026-08-18T07:00:00+00:00"
     },
     {
@@ -2297,7 +2572,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.23,
+      "final_score": 4.13,
       "published_at": "2026-08-17T11:42:31+00:00"
     },
     {
@@ -2308,7 +2583,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.22,
+      "final_score": 4.12,
       "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
@@ -2319,7 +2594,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.18,
+      "final_score": 4.08,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -2330,7 +2605,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.1,
+      "final_score": 4.0,
       "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
@@ -2341,8 +2616,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.08,
+      "final_score": 3.98,
       "published_at": "2026-08-15T23:54:35+00:00"
+    },
+    {
+      "id": "f48681be97f292e1",
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "summary_nl": "Wat bespraken de Federal Reserve-gouverneurs achter gesloten deuren over de discontovoet, nog voordat de laatste rentebesluiten bekend werden? Deze notulen van de bijeenkomsten op 20 en 29 juli 2026 geven inzicht in de overwegingen van de Board of Governors bij het vaststellen van de discontovoet, het tarief waartegen banken direct bij de Fed kunnen lenen. Voor wie de Amerikaanse monetaire beleidsvorming volgt, biedt dit document een blik achter de schermen van besluiten die later pas publiekelijk worden toegelicht. Wat je nodig hebt: basiskennis van monetair beleid en Amerikaanse bancaire structuren, en de bereidheid om door formele, technische taal te lezen; een half uur is voldoende om de kern te doorgronden. Bron: https",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "source": "rss:fed_press",
+      "category": "macro",
+      "score": 4,
+      "final_score": 3.96,
+      "published_at": "2026-08-25T18:00:00+00:00"
     },
     {
       "id": "69f0a612b5871ac9",
@@ -2352,7 +2638,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.99,
+      "final_score": 3.89,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
@@ -2363,7 +2649,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.95,
+      "final_score": 3.85,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -2374,7 +2660,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.94,
+      "final_score": 3.84,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -2385,7 +2671,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.84,
+      "final_score": 3.74,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -2396,7 +2682,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.82,
+      "final_score": 3.72,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -2407,7 +2693,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.75,
+      "final_score": 3.66,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -2418,7 +2704,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.75,
+      "final_score": 3.66,
       "published_at": "2026-07-13T18:26:04+00:00"
     },
     {
@@ -2429,7 +2715,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.28,
+      "final_score": 3.18,
       "published_at": "2026-08-18T00:00:00+00:00"
     }
   ]
