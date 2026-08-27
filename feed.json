@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T15:05:52.022703+00:00",
+  "generated_at": "2026-08-27T16:01:14.615603+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -9,8 +9,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 11.0,
+      "final_score": 10.99,
       "published_at": "2026-08-27T14:05:19+00:00"
+    },
+    {
+      "id": "7d3299a14d84bb29",
+      "title": "Show HN: Knowl – agent memory with write-time supersession, 0.90 on MAB",
+      "summary_nl": "Geheugen dat zichzelf opschoont: Knowl belooft dat agents niet langer verzuipen in verouderde of tegenstrijdige informatie. Het idee is write-time supersession: nieuwe informatie vervangt of overschrijft oudere, tegenstrijdige gegevens al op het moment van opslaan, in plaats van dat een taalmodel achteraf moet uitzoeken welke versie klopt. Op de MAB-benchmark scoort het systeem 0,90, wat volgens de makers wijst op merkbaar betere consistentie dan gangbare geheugenoplossingen voor AI-agents. Inspirerend omdat het een vaak onderschat probleem aanpakt: niet het onthouden zelf, maar het actueel houden van wat een agent we",
+      "url": "https://knowl.cloud",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 11,
+      "final_score": 10.99,
+      "published_at": "2026-08-27T14:06:26+00:00"
     },
     {
       "id": "5a0fa43cb5743214",
@@ -20,7 +31,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.94,
+      "final_score": 10.93,
       "published_at": "2026-08-26T23:47:02+00:00"
     },
     {
@@ -42,7 +53,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.69,
+      "final_score": 10.68,
       "published_at": "2026-08-24T11:30:54+00:00"
     },
     {
@@ -53,7 +64,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.5,
+      "final_score": 10.49,
       "published_at": "2026-08-22T14:28:41+00:00"
     },
     {
@@ -75,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.34,
+      "final_score": 10.33,
       "published_at": "2026-08-21T00:13:39+00:00"
     },
     {
@@ -97,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.21,
+      "final_score": 10.2,
       "published_at": "2026-08-19T17:07:35+00:00"
     },
     {
@@ -218,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.68,
+      "final_score": 9.67,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -240,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.48,
+      "final_score": 9.47,
       "published_at": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -262,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.41,
+      "final_score": 9.4,
       "published_at": "2026-08-21T16:27:52+00:00"
     },
     {
@@ -284,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.22,
+      "final_score": 9.21,
       "published_at": "2026-08-19T19:06:16+00:00"
     },
     {
@@ -295,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.14,
+      "final_score": 9.13,
       "published_at": "2026-08-18T23:51:49+00:00"
     },
     {
@@ -328,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 9.0,
+      "final_score": 8.99,
       "published_at": "2026-08-27T14:16:23+00:00"
     },
     {
@@ -374,6 +385,17 @@
       "score": 9,
       "final_score": 8.91,
       "published_at": "2026-08-26T17:42:22+00:00"
+    },
+    {
+      "id": "9284a4d7cfc502e2",
+      "title": "YouTube Format IDs",
+      "summary_nl": "Voor wie ooit worstelde met yt-dlp of youtube-dl: deze gist zet alle YouTube format-IDs overzichtelijk op een rij, met bijbehorende resolutie, codec en containertype. Het is in feite een naslagwerk waarmee je precies kunt kiezen welke video- en audiokwaliteit je wilt downloaden, in plaats van te gokken met vage kwaliteitslabels. Wat je nodig hebt: yt-dlp of youtube-dl geïnstalleerd, en basiskennis van de command line om de format-ID mee te geven in je downloadcommando. Bron: https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
+      "url": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.91,
+      "published_at": "2026-08-26T17:28:21+00:00"
     },
     {
       "id": "eb4edca3b5b87822",
@@ -438,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.82,
+      "final_score": 8.81,
       "published_at": "2026-08-25T19:20:48+00:00"
     },
     {
@@ -449,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.81,
+      "final_score": 8.8,
       "published_at": "2026-08-25T16:52:05+00:00"
     },
     {
@@ -460,7 +482,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.8,
+      "final_score": 8.79,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -482,7 +504,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.79,
+      "final_score": 8.78,
       "published_at": "2026-08-25T11:47:43+00:00"
     },
     {
@@ -493,7 +515,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.75,
       "published_at": "2026-08-25T04:33:24+00:00"
     },
     {
@@ -515,7 +537,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.71,
+      "final_score": 8.7,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -592,7 +614,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.62,
       "published_at": "2026-08-23T21:14:28+00:00"
     },
     {
@@ -603,7 +625,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.62,
       "published_at": "2026-08-23T21:36:25+00:00"
     },
     {
@@ -636,7 +658,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.57,
+      "final_score": 8.56,
       "published_at": "2026-08-13T06:43:24+00:00"
     },
     {
@@ -669,7 +691,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.42,
       "published_at": "2026-08-21T21:46:56+00:00"
     },
     {
@@ -691,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.4,
+      "final_score": 8.39,
       "published_at": "2026-08-21T14:31:52+00:00"
     },
     {
@@ -735,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.3,
+      "final_score": 8.29,
       "published_at": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -779,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.15,
+      "final_score": 8.14,
       "published_at": "2026-08-19T01:58:33+00:00"
     },
     {
@@ -790,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.14,
+      "final_score": 8.13,
       "published_at": "2026-08-18T23:57:36+00:00"
     },
     {
@@ -801,7 +823,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.13,
+      "final_score": 8.12,
       "published_at": "2026-08-18T21:14:21+00:00"
     },
     {
@@ -834,7 +856,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.11,
+      "final_score": 8.1,
       "published_at": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -856,7 +878,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.1,
+      "final_score": 8.09,
       "published_at": "2026-08-18T14:29:20+00:00"
     },
     {
@@ -867,7 +889,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.09,
+      "final_score": 8.08,
       "published_at": "2026-08-18T12:05:57+00:00"
     },
     {
@@ -878,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.09,
+      "final_score": 8.08,
       "published_at": "2026-08-18T12:22:58+00:00"
     },
     {
@@ -948,6 +970,28 @@
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
+      "id": "3d156fbd10b9023f",
+      "title": "Launching Route 53 Files",
+      "summary_nl": "Route 53 als bestandsopslag: een onbedoelde functie wordt een feature\n\nColin Percival, bekend van tarsnap en scrypt, introduceert Route 53 Files: een manier om kleine bestanden op te slaan en te serveren via Amazon's DNS-dienst Route 53, die daar oorspronkelijk niet voor bedoeld is. Het idee is dat DNS-records (zoals TXT-records) gebruikt worden als opslagmedium, waardoor je profiteert van de wereldwijde infrastructuur en lage latency van Route 53 zonder een traditionele storage-oplossing op te zetten. Inspirerend omdat het laat zien hoe bestaande, robuuste infrastructuur op onverwachte manieren hergebruikt kan wor",
+      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.99,
+      "published_at": "2026-08-27T14:45:23+00:00"
+    },
+    {
+      "id": "8074a8f51da05e39",
+      "title": "Ask HN: Hugging Face is out. Who is hosting open models?",
+      "summary_nl": "Wie neemt het stokje over als Hugging Face uitvalt? Op Hacker News vroeg iemand simpelweg wie er nu open modellen host, nadat Hugging Face kennelijk problemen had, en de reacties lezen als een praktische inventarisatie van alternatieven zoals Replicate, Together AI en zelf-hosten via Ollama. Het is een nuttige lijst voor wie afhankelijkheid van één platform wil vermijden en wil weten welke opties er praktisch klaarstaan. Inspirerend omdat het laat zien hoe snel de community zelf oplossingen en alternatieven aandraagt zodra er iets hapert. Wat je nodig hebt: geen speciale tools om mee te lezen, maar wel wat basiskennis van modelhosting als je de genoemde alternatieven zelf wilt uitproberen. Bron: https://news.ycombinator.com/item?id=49465640",
+      "url": "https://news.ycombinator.com/item?id=49465640",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.99,
+      "published_at": "2026-08-27T14:39:21+00:00"
+    },
+    {
       "id": "016952e7d3b256ea",
       "title": "Show HN: Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
       "summary_nl": "Klein maar fijn: reactiviteit zonder gedoe\n\nFlynt.js is een nieuwe JavaScript-library van slechts 2.2kb die reactiviteit toevoegt aan multi-page applicaties, zonder dat je een build-stap nodig hebt. Je plakt het script simpelweg in je pagina en het werkt direct samen met je bestaande HTML, wat het bijzonder geschikt maakt voor traditionele websites die niet volledig op een framework zoals React of Vue draaien. De slimme vondst zit in de CSP-veiligheid (Content Security Policy): de library gebruikt geen inline scripts of eval-constructies, waardoor het probleemloos werkt binnen strenge beveiligingsregels die veel bedrijven en overheidssites hanteren. Wat je nodig hebt: basiskennis van HTML en JavaScript, en een paar minuten om het script te integreren; er is geen build-tooling, package manager of compiler vereist. Bron: https://github.com/marsbos/flynt.js",
@@ -988,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.85,
+      "final_score": 7.84,
       "published_at": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -999,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.84,
+      "final_score": 7.83,
       "published_at": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -1010,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.83,
+      "final_score": 7.82,
       "published_at": "2026-08-25T21:43:37+00:00"
     },
     {
@@ -1032,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.77,
+      "final_score": 7.76,
       "published_at": "2026-08-25T07:32:11+00:00"
     },
     {
@@ -1043,7 +1087,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.76,
+      "final_score": 7.75,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -1076,7 +1120,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.72,
+      "final_score": 7.71,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -1109,7 +1153,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.71,
+      "final_score": 7.7,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -1157,17 +1201,6 @@
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
-      "id": "bae71eb952aa444a",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "summary_nl": "Weg van de telefoon, terug naar papier (nou ja, e-ink): deze ontwikkelaar bouwde een systeem dat zijn RSS-feeds automatisch omzet in een krantlay-out op een e-ink scherm. Het idee is simpel maar effectief: in plaats van eindeloos scrollen op je telefoon, print je feeds worden verzameld en opgemaakt tot iets dat aanvoelt als een ochtendkrant, met vaste secties en een rustig leesritme. Inspirerend omdat het laat zien hoe je met bestaande open technologie (RSS, e-ink-displays) een tegenwicht kunt bieden aan de constante prikkels van een smartphone-interface. Wat je nodig heb je: een e-ink scherm of tablet (denk aan een reMarkable-achtig apparaat of een goedkoper e-inkbord), wat programmeerervaring om de RSS-naar-lay-out pipeline te bouwen of aan te passen, en een paar uur om je eigen feeds en voorkeuren in te richten. Bron: https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 7.7,
-      "published_at": "2026-08-14T14:21:18+00:00"
-    },
-    {
       "id": "c20565a194fb0267",
       "title": "Self-hosted web push Cloudflare Worker, works on iOS",
       "summary_nl": "Zelf de regie over je pushmeldingen, ook op iPhone\n\nWie web push notificaties wil sturen zonder afhankelijk te zijn van diensten als Firebase of OneSignal, kan nu terecht bij een self-hosted oplossing die draait op een Cloudflare Worker. Het bijzondere is dat dit ook werkt op iOS, waar Apple pas sinds kort en met de nodige beperkingen web push ondersteunt, wat dit soort losstaande implementaties extra waardevol maakt. Inspirerend omdat je hiermee volledige controle houdt over gebruikersdata en infrastructuurkosten, zonder een externe partij die meeleest of een limiet oplegt aan het aantal verzonden meldingen. Wat je nodig heeft: een Cloudflare-account (het gratis tier volstaat vaak al), basiskennis van JavaScript en Workers, en een uurtje om de code te doorgronden en te deployen. Zie https://kukuroo.cc/ voor de broncode en verdere toelichting.",
@@ -1177,6 +1210,17 @@
       "score": 9,
       "final_score": 7.7,
       "published_at": "2026-08-14T15:03:12+00:00"
+    },
+    {
+      "id": "bae71eb952aa444a",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "summary_nl": "Weg van de telefoon, terug naar papier (nou ja, e-ink): deze ontwikkelaar bouwde een systeem dat zijn RSS-feeds automatisch omzet in een krantlay-out op een e-ink scherm. Het idee is simpel maar effectief: in plaats van eindeloos scrollen op je telefoon, print je feeds worden verzameld en opgemaakt tot iets dat aanvoelt als een ochtendkrant, met vaste secties en een rustig leesritme. Inspirerend omdat het laat zien hoe je met bestaande open technologie (RSS, e-ink-displays) een tegenwicht kunt bieden aan de constante prikkels van een smartphone-interface. Wat je nodig heb je: een e-ink scherm of tablet (denk aan een reMarkable-achtig apparaat of een goedkoper e-inkbord), wat programmeerervaring om de RSS-naar-lay-out pipeline te bouwen of aan te passen, en een paar uur om je eigen feeds en voorkeuren in te richten. Bron: https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 7.69,
+      "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
       "id": "a92730a673b74b6d",
@@ -1208,7 +1252,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.66,
+      "final_score": 7.65,
       "published_at": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -1252,7 +1296,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.63,
+      "final_score": 7.62,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -1263,7 +1307,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.6,
+      "final_score": 7.59,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -1274,7 +1318,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.6,
+      "final_score": 7.59,
       "published_at": "2026-08-23T14:18:14+00:00"
     },
     {
@@ -1318,7 +1362,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.52,
+      "final_score": 7.51,
       "published_at": "2026-08-22T18:43:03+00:00"
     },
     {
@@ -1351,7 +1395,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.42,
+      "final_score": 7.41,
       "published_at": "2026-08-21T19:18:09+00:00"
     },
     {
@@ -1373,7 +1417,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.38,
+      "final_score": 7.37,
       "published_at": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -1428,7 +1472,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.3,
+      "final_score": 7.29,
       "published_at": "2026-08-20T14:38:45+00:00"
     },
     {
@@ -1439,7 +1483,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.3,
+      "final_score": 7.29,
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
@@ -1472,7 +1516,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.29,
+      "final_score": 7.28,
       "published_at": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -1483,7 +1527,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.19,
+      "final_score": 7.18,
       "published_at": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -1494,7 +1538,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.13,
+      "final_score": 7.12,
       "published_at": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -1549,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.0,
+      "final_score": 6.99,
       "published_at": "2026-08-17T14:18:38+00:00"
     },
     {
@@ -1560,7 +1604,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.0,
+      "final_score": 6.99,
       "published_at": "2026-08-17T14:24:01+00:00"
     },
     {
@@ -1571,7 +1615,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.0,
+      "final_score": 6.99,
       "published_at": "2026-08-17T14:20:00+00:00"
     },
     {
@@ -1626,7 +1670,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.85,
+      "final_score": 6.84,
       "published_at": "2026-08-16T02:12:53+00:00"
     },
     {
@@ -1637,7 +1681,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.82,
+      "final_score": 6.81,
       "published_at": "2026-08-25T19:11:50+00:00"
     },
     {
@@ -1648,7 +1692,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.81,
+      "final_score": 6.8,
       "published_at": "2026-08-25T16:35:36+00:00"
     },
     {
@@ -1659,7 +1703,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.8,
+      "final_score": 6.79,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -1681,7 +1725,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.71,
+      "final_score": 6.7,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -1692,7 +1736,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.69,
+      "final_score": 6.68,
       "published_at": "2026-08-24T12:17:58+00:00"
     },
     {
@@ -1725,7 +1769,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.6,
+      "final_score": 6.59,
       "published_at": "2026-08-23T14:23:09+00:00"
     },
     {
@@ -1802,7 +1846,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 6.46,
+      "final_score": 6.45,
       "published_at": "2026-07-13T05:13:00+00:00"
     },
     {
@@ -1857,7 +1901,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.24,
+      "final_score": 6.23,
       "published_at": "2026-08-20T00:18:16+00:00"
     },
     {
@@ -1868,7 +1912,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.21,
+      "final_score": 6.2,
       "published_at": "2026-08-19T16:29:02+00:00"
     },
     {
@@ -1879,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.21,
+      "final_score": 6.2,
       "published_at": "2026-08-19T16:25:37+00:00"
     },
     {
@@ -1934,7 +1978,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.15,
+      "final_score": 6.14,
       "published_at": "2026-08-19T02:41:50+00:00"
     },
     {
@@ -2000,7 +2044,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.0,
+      "final_score": 5.99,
       "published_at": "2026-08-17T13:56:38+00:00"
     },
     {
@@ -2088,7 +2132,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.82,
+      "final_score": 5.81,
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
@@ -2099,7 +2143,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.81,
+      "final_score": 5.8,
       "published_at": "2026-08-25T16:30:55+00:00"
     },
     {
@@ -2110,7 +2154,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.8,
+      "final_score": 5.79,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -2132,7 +2176,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.76,
+      "final_score": 5.75,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -2143,7 +2187,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.75,
+      "final_score": 5.74,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -2180,17 +2224,6 @@
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
-      "id": "f0306967129d189b",
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "summary_nl": "Wanneer een simpele scanner ineens een kunstwerk blijkt te verbergen: dat is de kern van deze deep dive in QR-code-art. Het stuk laat zien hoe QR-codes ruimte bieden voor foutcorrectie, en hoe die marge te misbruiken valt om afbeeldingen, logo's of zelfs geanimeerde patronen in de code te weven zonder de scanbaarheid te verliezen. De slimme vondst zit in het begrijpen van de onderliggende structuur, denk aan foutcorrectieniveaus, maskerpatronen en de positie van functionele modules, waardoor je precies weet waar creatieve vrijheid mogelijk is en waar niet. Wat je nodig hebt: wat basiskennis van QR-code-opbouw of de bereidheid om die uit het artikel te halen, en eventueel wat programmeervaardigheid als je zelf codes wilt genereren in plaats van alleen de theorie te doorgronden. Zie de volledige uitleg op https://kylezhe.ng/writes/crafting-qr-codes.",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 6,
-      "final_score": 5.7,
-      "published_at": "2026-08-24T14:15:38+00:00"
-    },
-    {
       "id": "29de452878b049b2",
       "title": "Show HN: How to mentally calculate the day of the week for any date",
       "summary_nl": "Reken elke datum om naar een weekdag, zonder telefoon of kalender. Deze gids legt een geheugentruc uit (een variant op Conway's \"Doomsday\"-methode) waarmee je met een paar vaste ankerpunten en simpele optellingen in je hoofd kunt uitrekenen op welke dag een willekeurige datum valt, ook jaren in de toekomst of het verleden. Inspirerend omdat het laat zien hoe een goed gekozen systeem een schijnbaar complexe rekenklus terugbrengt tot een handigheidje dat je met wat oefening moeiteloos toepast. Wat je nodig hebt: geen voorkennis, alleen basis hoofdrekenen en de bereidheid om een tiental minuten te oefenen met de vuistregels uit de gids. Zie https://tinkerandsee.com/weekday/",
@@ -2200,6 +2233,17 @@
       "score": 6,
       "final_score": 5.7,
       "published_at": "2026-08-24T14:57:45+00:00"
+    },
+    {
+      "id": "f0306967129d189b",
+      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "summary_nl": "Wanneer een simpele scanner ineens een kunstwerk blijkt te verbergen: dat is de kern van deze deep dive in QR-code-art. Het stuk laat zien hoe QR-codes ruimte bieden voor foutcorrectie, en hoe die marge te misbruiken valt om afbeeldingen, logo's of zelfs geanimeerde patronen in de code te weven zonder de scanbaarheid te verliezen. De slimme vondst zit in het begrijpen van de onderliggende structuur, denk aan foutcorrectieniveaus, maskerpatronen en de positie van functionele modules, waardoor je precies weet waar creatieve vrijheid mogelijk is en waar niet. Wat je nodig hebt: wat basiskennis van QR-code-opbouw of de bereidheid om die uit het artikel te halen, en eventueel wat programmeervaardigheid als je zelf codes wilt genereren in plaats van alleen de theorie te doorgronden. Zie de volledige uitleg op https://kylezhe.ng/writes/crafting-qr-codes.",
+      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.69,
+      "published_at": "2026-08-24T14:15:38+00:00"
     },
     {
       "id": "69cbe3169a5b0bf8",
@@ -2231,7 +2275,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.58,
+      "final_score": 5.57,
       "published_at": "2026-08-23T09:27:40+00:00"
     },
     {
@@ -2264,7 +2308,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.41,
+      "final_score": 5.4,
       "published_at": "2026-08-21T16:47:15+00:00"
     },
     {
@@ -2286,7 +2330,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.4,
+      "final_score": 5.39,
       "published_at": "2026-08-21T14:31:56+00:00"
     },
     {
@@ -2308,7 +2352,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.39,
+      "final_score": 5.38,
       "published_at": "2026-08-21T11:56:39+00:00"
     },
     {
@@ -2330,7 +2374,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.32,
+      "final_score": 5.31,
       "published_at": "2026-08-20T19:21:45+00:00"
     },
     {
@@ -2396,7 +2440,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.98,
+      "final_score": 4.97,
       "published_at": "2026-08-17T09:13:52+00:00"
     },
     {
@@ -2418,7 +2462,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.89,
+      "final_score": 4.88,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -2451,7 +2495,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.83,
+      "final_score": 4.82,
       "published_at": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -2473,7 +2517,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.77,
+      "final_score": 4.76,
       "published_at": "2026-08-25T07:00:00+00:00"
     },
     {
@@ -2484,7 +2528,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-25T00:00:00+00:00"
     },
     {
@@ -2506,7 +2550,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.71,
+      "final_score": 4.7,
       "published_at": "2026-08-24T16:30:51+00:00"
     },
     {
@@ -2528,7 +2572,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.66,
+      "final_score": 4.65,
       "published_at": "2026-08-24T04:39:07+00:00"
     },
     {
@@ -2565,17 +2609,6 @@
       "published_at": "2026-08-23T20:53:01+00:00"
     },
     {
-      "id": "b36cfabda6fb0569",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "summary_nl": "Een domeinnaam die per ongeluk voor mailprovider wordt aangezien: een kafkaeske bug bij Google Workspace. De auteur ontdekte dat Google zijn persoonlijke domein ten onrechte classificeert als \"email provider\", met alle bijbehorende beperkingen en verwarring van dien, zonder duidelijke manier om dit recht te zetten via de gebruikelijke supportkanalen. Het stuk laat goed zien hoe geautomatiseerde classificatiesystemen bij grote techbedrijven soms vastlopen op edge cases, en hoe lastig het is om daar als individuele gebruiker doorheen te breken. Inspirerend omdat het een nuchtere, goed gedocumenteerde troubleshooting-reis is die andere domeinbeheerders kan behoeden voor hetzelfde konijnenhol. Wat je nodig hebt: geen speciale tools, wel wat geduld en basiskennis van DNS en Google Workspace-beheer als je een vergelijkbaar probleem wilt herkennen of voorkomen. Bron: https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.62,
-      "published_at": "2026-08-23T19:29:32+00:00"
-    },
-    {
       "id": "468df97caa657078",
       "title": "Training AI to Paint with Code",
       "summary_nl": "Een AI leren schilderen zonder verf, alleen met code\n\nKan een taalmodel leren tekenen als je het beloont voor visuele resultaten in plaats van tekst? De maker van dit project traint een Qwen-model met reinforcement learning om afbeeldingen te genereren via code (denk aan SVG of tekencommando's), waarbij het model feedback krijgt op hoe de uiteindelijke afbeelding eruitziet, niet op hoe \"correct\" de code is. De slimme vondst zit in die beloningsfunctie: door visuele output te beoordelen in plaats van syntax, leert het model iets dat aanvoelt als esthetisch inzicht, ontstaan uit een taalmodel dat oorspronkelijk nooit voor beeld is gebouwd. Inspirerend omdat het laat zien dat creatieve vaardigheden kunnen ontstaan uit doelgerichte training, ook in domeinen die ver van de oorspronkelijke toepassing van een model afliggen. Wat je nodig hebt: ervaring met reinforcement learning en LLM-finetuning, toegang tot een Qwen-model en GPU-capaciteit om trainingsruns te draaien, te vinden via https://surya.website/rling-qwen-to-paint-with-code.",
@@ -2587,6 +2620,17 @@
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
+      "id": "b36cfabda6fb0569",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "summary_nl": "Een domeinnaam die per ongeluk voor mailprovider wordt aangezien: een kafkaeske bug bij Google Workspace. De auteur ontdekte dat Google zijn persoonlijke domein ten onrechte classificeert als \"email provider\", met alle bijbehorende beperkingen en verwarring van dien, zonder duidelijke manier om dit recht te zetten via de gebruikelijke supportkanalen. Het stuk laat goed zien hoe geautomatiseerde classificatiesystemen bij grote techbedrijven soms vastlopen op edge cases, en hoe lastig het is om daar als individuele gebruiker doorheen te breken. Inspirerend omdat het een nuchtere, goed gedocumenteerde troubleshooting-reis is die andere domeinbeheerders kan behoeden voor hetzelfde konijnenhol. Wat je nodig hebt: geen speciale tools, wel wat geduld en basiskennis van DNS en Google Workspace-beheer als je een vergelijkbaar probleem wilt herkennen of voorkomen. Bron: https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.61,
+      "published_at": "2026-08-23T19:29:32+00:00"
+    },
+    {
       "id": "890a56b0d2aff0c9",
       "title": "deepseek-ai/deepseek-harness",
       "summary_nl": "Alles een plugin: DeepSeek's nieuwe aanpak voor testomgevingen. DeepSeek Harness is een raamwerk waarin losse onderdelen, zoals modellen, evaluatietools en workflows, als plugins worden ingeladen in plaats van hardcoded te zijn, wat het testen en vergelijken van AI-systemen flexibeler maakt. De onderliggende gedachte is dat je zo componenten kunt uitwisselen zonder de kern van het systeem aan te raken, wat experimenteren versnelt. Inspirerend omdat het laat zien hoe een modulaire architectuur complexe AI-evaluaties overzichtelijker kan maken, ook buiten DeepSeek's eigen modellen om. Wat je nodig hebt: ervaring met Python en command-line tools, en enige bekendheid met evaluatieframeworks voor taalmodellen om de documentatie op GitHub goed te kunnen volgen (https://github.com/deepseek-ai/deepseek-harness).",
@@ -2594,7 +2638,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.59,
+      "final_score": 4.58,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -2627,7 +2671,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.5,
+      "final_score": 4.49,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -2638,7 +2682,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.49,
+      "final_score": 4.48,
       "published_at": "2026-07-13T11:51:56+00:00"
     },
     {
@@ -2649,7 +2693,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.33,
+      "final_score": 4.32,
       "published_at": "2026-08-20T21:40:39+00:00"
     },
     {
@@ -2660,30 +2704,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.32,
+      "final_score": 4.31,
       "published_at": "2026-08-20T19:05:36+00:00"
-    },
-    {
-      "id": "cc6262844054fad5",
-      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-      "summary_nl": "Tiling window management op de Mac, zonder aan de systeembeveiliging te hoeven morrelen\n\nOmacosy brengt de strak georganiseerde, toetsenbord-gestuurde werkomgeving van Omarchy (bekend van de Linux/Hyprland-wereld) naar macOS, en doet dat zonder dat je System Integrity Protection hoeft uit te schakelen. Het pakket combineert bestaande, legitieme macOS-tools tot een kant-en-klare tiling desktop: vensters schikken zich automatisch in een raster, navigatie verloopt via sneltoetsen in plaats van met de muis, en de hele setup is als script te installeren. Inspirerend omdat het laat zien dat je de esthetiek en efficiëntie van Linux-tiling-window-managers kunt overzetten naar macOS zonder de gebruikelijke compromissen op beveiliging. Wat je nodig heb: een Mac met macOS, basiskennis van de terminal om het installatiescript te draaien, en de bereidheid om te wennen aan toetsenbord-gedreven vensterbeheer in plaats van slepen met de muis. Zie de broncode en installatie-instructies op https://github.com/paulsp94/omacosy.",
-      "url": "https://github.com/paulsp94/omacosy",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.3,
-      "published_at": "2026-08-20T14:12:08+00:00"
-    },
-    {
-      "id": "64d5744a776be091",
-      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
-      "summary_nl": "Waarom onthoudt jouw AI-systeem wel wát er is besloten, maar niet waaróm? Dat is de kernvraag in dit vierde deel van de reeks \"Building the AI Memory Stack\", waarin wordt betoogd dat AI-geheugen niet alleen feiten en data moet vastleggen, maar vooral de redenering achter beslissingen: welke afwegingen zijn gemaakt, welke alternatieven zijn verworpen en op basis van welke aannames een keuze tot stand kwam. Het idee van een \"reasoning ledger\" is dat je die besluitvorming expliciet vastlegt, zodat een systeem (of een team) later kan terugvallen op de logica van eerdere keuzes in plaats van die telkens opnieuw te moeten reconstrueren. Inspirerend omdat het een verschuiving laat zien van geheugen als opslagplaats naar geheugen als verantwoordingsmechanisme, wat relevant is voor iedereen die met AI-agents of langlopende projecten werkt waarin context makkelijk verloren gaat. Wat je nodig hebt: affiniteit met AI-architectuur en geheugensystemen, ervaring met de eerdere delen van de serie is handig, en een uur leestijd om de redenering goed te volgen. Meer lezen kan via de bron op https://dev.to/kenwalger/the-reaso",
-      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
-      "source": "devto",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.3,
-      "published_at": "2026-08-20T14:03:00+00:00"
     },
     {
       "id": "694ce1badfaf5f2f",
@@ -2695,6 +2717,28 @@
       "score": 5,
       "final_score": 4.3,
       "published_at": "2026-08-20T15:00:00+00:00"
+    },
+    {
+      "id": "cc6262844054fad5",
+      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+      "summary_nl": "Tiling window management op de Mac, zonder aan de systeembeveiliging te hoeven morrelen\n\nOmacosy brengt de strak georganiseerde, toetsenbord-gestuurde werkomgeving van Omarchy (bekend van de Linux/Hyprland-wereld) naar macOS, en doet dat zonder dat je System Integrity Protection hoeft uit te schakelen. Het pakket combineert bestaande, legitieme macOS-tools tot een kant-en-klare tiling desktop: vensters schikken zich automatisch in een raster, navigatie verloopt via sneltoetsen in plaats van met de muis, en de hele setup is als script te installeren. Inspirerend omdat het laat zien dat je de esthetiek en efficiëntie van Linux-tiling-window-managers kunt overzetten naar macOS zonder de gebruikelijke compromissen op beveiliging. Wat je nodig heb: een Mac met macOS, basiskennis van de terminal om het installatiescript te draaien, en de bereidheid om te wennen aan toetsenbord-gedreven vensterbeheer in plaats van slepen met de muis. Zie de broncode en installatie-instructies op https://github.com/paulsp94/omacosy.",
+      "url": "https://github.com/paulsp94/omacosy",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.29,
+      "published_at": "2026-08-20T14:12:08+00:00"
+    },
+    {
+      "id": "64d5744a776be091",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "summary_nl": "Waarom onthoudt jouw AI-systeem wel wát er is besloten, maar niet waaróm? Dat is de kernvraag in dit vierde deel van de reeks \"Building the AI Memory Stack\", waarin wordt betoogd dat AI-geheugen niet alleen feiten en data moet vastleggen, maar vooral de redenering achter beslissingen: welke afwegingen zijn gemaakt, welke alternatieven zijn verworpen en op basis van welke aannames een keuze tot stand kwam. Het idee van een \"reasoning ledger\" is dat je die besluitvorming expliciet vastlegt, zodat een systeem (of een team) later kan terugvallen op de logica van eerdere keuzes in plaats van die telkens opnieuw te moeten reconstrueren. Inspirerend omdat het een verschuiving laat zien van geheugen als opslagplaats naar geheugen als verantwoordingsmechanisme, wat relevant is voor iedereen die met AI-agents of langlopende projecten werkt waarin context makkelijk verloren gaat. Wat je nodig hebt: affiniteit met AI-architectuur en geheugensystemen, ervaring met de eerdere delen van de serie is handig, en een uur leestijd om de redenering goed te volgen. Meer lezen kan via de bron op https://dev.to/kenwalger/the-reaso",
+      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.29,
+      "published_at": "2026-08-20T14:03:00+00:00"
     },
     {
       "id": "ffb2d30bbc94ba4a",
@@ -2726,7 +2770,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.23,
       "published_at": "2026-08-20T00:00:00+00:00"
     },
     {
@@ -2737,7 +2781,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.22,
+      "final_score": 4.21,
       "published_at": "2026-08-19T19:00:00+00:00"
     },
     {
@@ -2748,7 +2792,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.17,
+      "final_score": 4.16,
       "published_at": "2026-08-19T06:55:39+00:00"
     },
     {
@@ -2759,7 +2803,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.17,
+      "final_score": 4.16,
       "published_at": "2026-08-19T07:10:00+00:00"
     },
     {
@@ -2770,7 +2814,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.17,
+      "final_score": 4.16,
       "published_at": "2026-08-19T07:00:00+00:00"
     },
     {
@@ -2792,7 +2836,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.07,
+      "final_score": 4.06,
       "published_at": "2026-08-18T07:00:00+00:00"
     },
     {
@@ -2803,7 +2847,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.99,
+      "final_score": 3.98,
       "published_at": "2026-08-17T11:42:31+00:00"
     },
     {
@@ -2814,7 +2858,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.98,
+      "final_score": 3.97,
       "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
@@ -2825,7 +2869,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.94,
+      "final_score": 3.93,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -2836,7 +2880,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.86,
+      "final_score": 3.85,
       "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
@@ -2847,7 +2891,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.84,
+      "final_score": 3.83,
       "published_at": "2026-08-15T23:54:35+00:00"
     },
     {
@@ -2880,7 +2924,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.71,
+      "final_score": 3.7,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -2891,7 +2935,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.7,
+      "final_score": 3.69,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -2913,7 +2957,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.58,
+      "final_score": 3.57,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -2946,7 +2990,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 4,
-      "final_score": 3.04,
+      "final_score": 3.03,
       "published_at": "2026-08-18T00:00:00+00:00"
     }
   ]
