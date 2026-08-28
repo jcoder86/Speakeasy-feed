@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:29:40.547057+00:00",
+  "generated_at": "2026-08-28T17:04:44.799262+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.2,
+      "final_score": 10.19,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 10.0,
+      "final_score": 9.99,
       "published_at": "2026-08-28T15:24:44+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.89,
+      "final_score": 9.88,
       "published_at": "2026-08-27T13:07:33+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.82,
+      "final_score": 9.81,
       "published_at": "2026-08-26T20:37:12+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.73,
+      "final_score": 9.72,
       "published_at": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.7,
+      "final_score": 9.69,
       "published_at": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.68,
+      "final_score": 9.67,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.63,
+      "final_score": 9.62,
       "published_at": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.6,
+      "final_score": 9.59,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.51,
+      "final_score": 9.5,
       "published_at": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.25,
+      "final_score": 9.24,
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 9.0,
+      "final_score": 8.99,
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
@@ -387,17 +387,6 @@
       "published_at": "2026-08-27T14:16:23+00:00"
     },
     {
-      "id": "678b1f18c677540d",
-      "title": "Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)",
-      "summary_nl": "Voorbij de gewone diff: wat verandert je code eigenlijk tijdens het draaien?\n\nRealDiff is een open-source tool die niet naar tekstuele verschillen in een pull request kijkt, maar naar runtime-gedrag: het voert code uit vóór en na een wijziging en vergelijkt wat er daadwerkelijk anders gebeurt, in zes programmeertalen. Het slimme idee is dat een kleine regelwijziging soms grote gedragsveranderingen veroorzaakt die in een reguliere code review makkelijk over het hoofd worden gezien, terwijl RealDiff die verschillen zichtbaar maakt nog voordat de PR gemerged wordt. Inspirerend omdat het reviewers een extra laag zekerheid geeft zonder dat ze zelf uitgebreide test scenario's hoeven te bedenken. Wat je nodig hebt: basiservaring met CI/CD-pipelines en pull request workflows, en de bereidheid om de tool (nog in vroege, actief ontwikkelde staat) te installeren en te testen in een niet-k",
-      "url": "https://github.com/issacnitin/RealDiff",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 8.89,
-      "published_at": "2026-08-27T13:17:31+00:00"
-    },
-    {
       "id": "9ba48d4f4503a652",
       "title": "damejan80/tokentab",
       "summary_nl": "Eén overzicht voor al je AI-kosten: damejan80/tokentab\n\nWie meerdere AI-coding-tools naast elkaar gebruikt, verliest snel het overzicht over de kosten. Tokentab is een command-line tool die de sessielogs van Claude Code, Codex en Gemini CLI uitleest en omrekent naar concrete bedragen, uitgesplitst per model, per project en per dag. Zo zie je in één blik waar je budget daadwerkelijk naartoe gaat, zonder losse dashboards te moeten raadplegen. Wat je nodig hebt: basiskennis van de command line en actieve logbestanden van een of meer van deze tools; de tool zelf is via GitHub te installeren en te gebruiken. Bron: https://github.com/damejan80/tokentab",
@@ -407,6 +396,17 @@
       "score": 9,
       "final_score": 8.89,
       "published_at": "2026-08-27T14:16:09+00:00"
+    },
+    {
+      "id": "678b1f18c677540d",
+      "title": "Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)",
+      "summary_nl": "Voorbij de gewone diff: wat verandert je code eigenlijk tijdens het draaien?\n\nRealDiff is een open-source tool die niet naar tekstuele verschillen in een pull request kijkt, maar naar runtime-gedrag: het voert code uit vóór en na een wijziging en vergelijkt wat er daadwerkelijk anders gebeurt, in zes programmeertalen. Het slimme idee is dat een kleine regelwijziging soms grote gedragsveranderingen veroorzaakt die in een reguliere code review makkelijk over het hoofd worden gezien, terwijl RealDiff die verschillen zichtbaar maakt nog voordat de PR gemerged wordt. Inspirerend omdat het reviewers een extra laag zekerheid geeft zonder dat ze zelf uitgebreide test scenario's hoeven te bedenken. Wat je nodig hebt: basiservaring met CI/CD-pipelines en pull request workflows, en de bereidheid om de tool (nog in vroege, actief ontwikkelde staat) te installeren en te testen in een niet-k",
+      "url": "https://github.com/issacnitin/RealDiff",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.88,
+      "published_at": "2026-08-27T13:17:31+00:00"
     },
     {
       "id": "059208a89e3b04e8",
@@ -427,7 +427,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.83,
+      "final_score": 8.82,
       "published_at": "2026-08-26T22:42:48+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.81,
+      "final_score": 8.8,
       "published_at": "2026-08-26T17:42:22+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.77,
+      "final_score": 8.76,
       "published_at": "2026-08-26T08:39:17+00:00"
     },
     {
@@ -482,7 +482,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.76,
+      "final_score": 8.75,
       "published_at": "2026-08-26T06:09:58+00:00"
     },
     {
@@ -504,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.73,
+      "final_score": 8.72,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -581,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.62,
+      "final_score": 8.61,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -625,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.59,
+      "final_score": 8.58,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.57,
+      "final_score": 8.56,
       "published_at": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -691,7 +691,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.51,
+      "final_score": 8.5,
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
@@ -735,7 +735,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.4,
+      "final_score": 8.39,
       "published_at": "2026-08-22T15:47:49+00:00"
     },
     {
@@ -757,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.3,
+      "final_score": 8.29,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -801,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.2,
+      "final_score": 8.19,
       "published_at": "2026-08-20T15:26:02+00:00"
     },
     {
@@ -900,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.01,
+      "final_score": 8.0,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -922,7 +922,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.0,
+      "final_score": 7.99,
       "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
@@ -999,7 +999,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.93,
+      "final_score": 7.92,
       "published_at": "2026-08-27T22:34:32+00:00"
     },
     {
@@ -1032,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.91,
+      "final_score": 7.9,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -1045,17 +1045,6 @@
       "score": 9,
       "final_score": 7.89,
       "published_at": "2026-08-17T13:46:27+00:00"
-    },
-    {
-      "id": "3028e0cf7c06a085",
-      "title": "Show HN: A community library for Claude Code status lines",
-      "summary_nl": "Statusregels als visitekaartje: een verzamelplek voor Claude Code\n\nStatuslin.es is een community-bibliotheek waar gebruikers van Claude Code hun aangepaste statusregels kunnen delen en bekijken. Het idee is simpel: de statusregel onderaan je terminal, die normaal alleen wat technische info toont, kan met wat configuratie worden omgebouwd tot iets persoonlijks of functioneels, en deze site verzamelt de beste voorbeelden op één plek zodat je ze kunt overnemen of ervan kunt leren. Wat je nodig hebt: Claude Code geïnstalleerd, wat affiniteit met configuratiebestanden, en een half uurtje om te experimenteren met een eigen variant. Bron: https://statuslin.es",
-      "url": "https://statuslin.es",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 7.89,
-      "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
       "id": "3d156fbd10b9023f",
@@ -1089,6 +1078,17 @@
       "score": 8,
       "final_score": 7.89,
       "published_at": "2026-08-27T14:50:59+00:00"
+    },
+    {
+      "id": "3028e0cf7c06a085",
+      "title": "Show HN: A community library for Claude Code status lines",
+      "summary_nl": "Statusregels als visitekaartje: een verzamelplek voor Claude Code\n\nStatuslin.es is een community-bibliotheek waar gebruikers van Claude Code hun aangepaste statusregels kunnen delen en bekijken. Het idee is simpel: de statusregel onderaan je terminal, die normaal alleen wat technische info toont, kan met wat configuratie worden omgebouwd tot iets persoonlijks of functioneels, en deze site verzamelt de beste voorbeelden op één plek zodat je ze kunt overnemen of ervan kunt leren. Wat je nodig hebt: Claude Code geïnstalleerd, wat affiniteit met configuratiebestanden, en een half uurtje om te experimenteren met een eigen variant. Bron: https://statuslin.es",
+      "url": "https://statuslin.es",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 7.88,
+      "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
       "id": "016952e7d3b256ea",
@@ -1208,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.63,
+      "final_score": 7.62,
       "published_at": "2026-08-24T22:45:24+00:00"
     },
     {
@@ -1241,7 +1241,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.61,
+      "final_score": 7.6,
       "published_at": "2026-08-24T18:07:00+00:00"
     },
     {
@@ -1296,7 +1296,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.6,
+      "final_score": 7.59,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -1329,7 +1329,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.59,
+      "final_score": 7.58,
       "published_at": "2026-08-24T13:17:11+00:00"
     },
     {
@@ -1340,7 +1340,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.58,
+      "final_score": 7.57,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -1428,7 +1428,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.49,
+      "final_score": 7.48,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -1472,7 +1472,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.32,
+      "final_score": 7.31,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -1505,7 +1505,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.3,
+      "final_score": 7.29,
       "published_at": "2026-08-21T15:21:10+00:00"
     },
     {
@@ -1549,7 +1549,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.23,
+      "final_score": 7.22,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -1560,7 +1560,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.21,
+      "final_score": 7.2,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -1586,17 +1586,6 @@
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
-      "id": "36970f46cf3c6181",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "summary_nl": "Kwaadaardige Rust-package ontdekt: malware verstopt in bouwproces, niet in de code zelf. Onderzoekers vonden dat een Rust crate genaamd Arrayref een build-time payload uitvoert: schadelijke code die niet in de eigenlijke library zit, maar wordt afgetrapt tijdens het compileren via een build script, waardoor traditionele codereview het makkelijk mist. De vondst laat zien hoe kwetsbaar softwareketens zijn op momenten die niet standaard worden gecontroleerd, namelijk het bouwproces zelf in plaats van de uiteindelijke broncode. Inspirerend omdat het een aanscherping vraagt van hoe je supply chain security aanpakt: niet alleen kijken naar wat een package doet als het draait, maar ook naar wat er gebeurt terwijl het wordt geïnstalleerd of gecompileerd. Wat je nodig hebt: basiskennis van Rust en cargo, en voor developers die dependencies beheren een gewoonte om build scripts te inspecteren of tools te gebruiken die dit automatisch scannen; een middag verdieping in build-time supply chain risico's is een goede investering. Bron: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 7.19,
-      "published_at": "2026-08-20T13:23:12+00:00"
-    },
-    {
       "id": "9ae3be3106bdb03a",
       "title": "cclank/lanshu-create-ai-presenter-video",
       "summary_nl": "Een presentator zonder camera, maar wel met een echt gezicht: deze Codex Skill maakt AI-presentatievideo's op basis van een script en een geautoriseerde foto van de spreker. Het systeem is provider-neutraal, wat betekent dat je niet vastzit aan één specifieke AI-videodienst en kunt wisselen tussen leveranciers al naar gelang wat het beste resultaat of de beste prijs oplevert. Inspirerend omdat het een concreet antwoord biedt op de vraag hoe je verantwoord (met toestemming van de afgebeelde persoon) AI-gegenereerde video's kunt produceren zonder aan één techreus vast te zitten. Wat je nodig hebt: een Codex-omgeving om de skill te draaien, een script voor de presentatie, een geautoriseerde afbeelding van de presentator, en basiskennis van het werken met AI-tools; de opzet is bedoeld voor ontwikkelaars die al bekend zijn met scripting en",
@@ -1606,6 +1595,17 @@
       "score": 8,
       "final_score": 7.19,
       "published_at": "2026-08-20T13:40:06+00:00"
+    },
+    {
+      "id": "36970f46cf3c6181",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "summary_nl": "Kwaadaardige Rust-package ontdekt: malware verstopt in bouwproces, niet in de code zelf. Onderzoekers vonden dat een Rust crate genaamd Arrayref een build-time payload uitvoert: schadelijke code die niet in de eigenlijke library zit, maar wordt afgetrapt tijdens het compileren via een build script, waardoor traditionele codereview het makkelijk mist. De vondst laat zien hoe kwetsbaar softwareketens zijn op momenten die niet standaard worden gecontroleerd, namelijk het bouwproces zelf in plaats van de uiteindelijke broncode. Inspirerend omdat het een aanscherping vraagt van hoe je supply chain security aanpakt: niet alleen kijken naar wat een package doet als het draait, maar ook naar wat er gebeurt terwijl het wordt geïnstalleerd of gecompileerd. Wat je nodig hebt: basiskennis van Rust en cargo, en voor developers die dependencies beheren een gewoonte om build scripts te inspecteren of tools te gebruiken die dit automatisch scannen; een middag verdieping in build-time supply chain risico's is een goede investering. Bron: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.18,
+      "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
       "id": "cba58727ea88e064",
@@ -1659,7 +1659,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 7.0,
+      "final_score": 6.99,
       "published_at": "2026-08-28T15:42:04+00:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.99,
+      "final_score": 6.98,
       "published_at": "2026-08-28T13:05:49+00:00"
     },
     {
@@ -1692,19 +1692,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.99,
+      "final_score": 6.98,
       "published_at": "2026-08-28T13:21:03+00:00"
-    },
-    {
-      "id": "935661349e940a51",
-      "title": "The Twelve-Factor App",
-      "summary_nl": "Twaalf regels die je software-carrière kunnen redden: The Twelve-Factor App is een methodologie uit 2011, opgesteld door de mensen achter Heroku, die beschrijft hoe je software-as-a-service applicaties bouwt die schaalbaar, onderhoudbaar en overdraagbaar zijn. Het draait om praktische principes zoals configuratie los van code houden, expliciete afhankelijkheden vastleggen, en processen stateless en disposable maken, zodat een applicatie soepel draait in moderne cloud-omgevingen zonder telkens tegen dezelfde valkuilen aan te lopen. Wat het bijzonder maakt is dat het geen abstracte theorie is, maar een verzameling lessen die voortkomen uit honderden echte deployments, en die na meer dan tien jaar nog steeds als referentiepunt gelden in de wereld van cloud-native ontwikkeling. Wat je nodig hebt: basiskennis van softwareontwikkeling en het bouwen of onderhouden van webapplicaties; de tekst zelf lees je in een half uur, maar de principes toepassen vraagt oefening in een lopend project. Bron: https://12factor.net/",
-      "url": "https://12factor.net/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.93,
-      "published_at": "2026-08-27T22:41:11+00:00"
     },
     {
       "id": "6f8f0395b3313ab9",
@@ -1716,6 +1705,17 @@
       "score": 7,
       "final_score": 6.93,
       "published_at": "2026-08-28T00:06:51+00:00"
+    },
+    {
+      "id": "935661349e940a51",
+      "title": "The Twelve-Factor App",
+      "summary_nl": "Twaalf regels die je software-carrière kunnen redden: The Twelve-Factor App is een methodologie uit 2011, opgesteld door de mensen achter Heroku, die beschrijft hoe je software-as-a-service applicaties bouwt die schaalbaar, onderhoudbaar en overdraagbaar zijn. Het draait om praktische principes zoals configuratie los van code houden, expliciete afhankelijkheden vastleggen, en processen stateless en disposable maken, zodat een applicatie soepel draait in moderne cloud-omgevingen zonder telkens tegen dezelfde valkuilen aan te lopen. Wat het bijzonder maakt is dat het geen abstracte theorie is, maar een verzameling lessen die voortkomen uit honderden echte deployments, en die na meer dan tien jaar nog steeds als referentiepunt gelden in de wereld van cloud-native ontwikkeling. Wat je nodig hebt: basiskennis van softwareontwikkeling en het bouwen of onderhouden van webapplicaties; de tekst zelf lees je in een half uur, maar de principes toepassen vraagt oefening in een lopend project. Bron: https://12factor.net/",
+      "url": "https://12factor.net/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.92,
+      "published_at": "2026-08-27T22:41:11+00:00"
     },
     {
       "id": "23693f7b66c2e7cc",
@@ -1736,19 +1736,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
-      "published_at": "2026-08-17T17:54:59+00:00"
-    },
-    {
-      "id": "5011c8f47292fe5f",
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "summary_nl": "Eén API voor alle spraak-AI: Speko wil doen voor voice wat OpenRouter deed voor tekstmodellen. Het platform biedt één interface waarachter meerdere aanbieders van spraak- en voice-AI schuilgaan, zodat je niet voor elke provider apart integraties hoeft te bouwen of te wisselen als een model beter of goedkoper wordt. De vondst is vooral praktisch: ontwikkelaars kunnen zo modellen vergelijken en switchen zonder hun applicatiecode telkens aan te passen, wat vendor lock-in vermindert. Wat je nodig hebt: basiskennis van API-integratie en een use case waarin spraakherkenning of tekst-naar-spraak een rol speelt; voor experimenteren ben je op basis van de aankondiging (YC S26) binnen een uur aan de slag. Bron: https://speko.ai/",
-      "url": "https://speko.ai/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
       "final_score": 6.9,
-      "published_at": "2026-08-17T15:36:18+00:00"
+      "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
       "id": "029dcd6193e52a6b",
@@ -1760,6 +1749,17 @@
       "score": 7,
       "final_score": 6.9,
       "published_at": "2026-08-27T17:17:57+00:00"
+    },
+    {
+      "id": "5011c8f47292fe5f",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary_nl": "Eén API voor alle spraak-AI: Speko wil doen voor voice wat OpenRouter deed voor tekstmodellen. Het platform biedt één interface waarachter meerdere aanbieders van spraak- en voice-AI schuilgaan, zodat je niet voor elke provider apart integraties hoeft te bouwen of te wisselen als een model beter of goedkoper wordt. De vondst is vooral praktisch: ontwikkelaars kunnen zo modellen vergelijken en switchen zonder hun applicatiecode telkens aan te passen, wat vendor lock-in vermindert. Wat je nodig hebt: basiskennis van API-integratie en een use case waarin spraakherkenning of tekst-naar-spraak een rol speelt; voor experimenteren ben je op basis van de aankondiging (YC S26) binnen een uur aan de slag. Bron: https://speko.ai/",
+      "url": "https://speko.ai/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 6.89,
+      "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
       "id": "76963b852e28c23f",
@@ -1802,7 +1802,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.89,
+      "final_score": 6.88,
       "published_at": "2026-08-27T13:21:53+00:00"
     },
     {
@@ -1967,7 +1967,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.42,
+      "final_score": 6.41,
       "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
@@ -1978,7 +1978,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.41,
+      "final_score": 6.4,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -1989,7 +1989,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.41,
+      "final_score": 6.4,
       "published_at": "2026-08-22T18:11:40+00:00"
     },
     {
@@ -2000,7 +2000,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.41,
+      "final_score": 6.4,
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
@@ -2022,7 +2022,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.4,
+      "final_score": 6.39,
       "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
@@ -2055,7 +2055,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.28,
+      "final_score": 6.27,
       "published_at": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -2121,7 +2121,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.1,
+      "final_score": 6.09,
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
@@ -2187,7 +2187,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.0,
+      "final_score": 5.99,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -2275,19 +2275,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.89,
+      "final_score": 5.88,
       "published_at": "2026-08-27T13:22:36+00:00"
-    },
-    {
-      "id": "372b8d6bc52cc511",
-      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
-      "summary_nl": "Wat als je je financiële toekomst kunt doorrekenen zoals een ingenieur een brug doorrekent, in plaats van te vertrouwen op vuistregels van een adviseur? Continuum is een tool voor het simuleren van persoonlijke financiën, gericht op mensen die zelf hun vermogen willen opbouwen en beheren zonder tussenkomst van een traditioneel adviesbureau. Het idee is dat je scenario's doorrekent, zoals pensioenopbouw, investeringskeuzes of grote uitgaven, en direct ziet welke impact dat heeft op de lange termijn. Wat je nodig hebt: enige affiniteit met financiële planning en cijfers, en de bereidheid om zelf aannames en variabelen in te voeren in plaats van kant-en-klaar advies te krijgen. Meer informatie op https://continuum-app.xyz/.",
-      "url": "https://continuum-app.xyz/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 5.84,
-      "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
       "id": "e85cf5658048fc54",
@@ -2299,6 +2288,17 @@
       "score": 6,
       "final_score": 5.84,
       "published_at": "2026-08-27T01:50:26+00:00"
+    },
+    {
+      "id": "372b8d6bc52cc511",
+      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+      "summary_nl": "Wat als je je financiële toekomst kunt doorrekenen zoals een ingenieur een brug doorrekent, in plaats van te vertrouwen op vuistregels van een adviseur? Continuum is een tool voor het simuleren van persoonlijke financiën, gericht op mensen die zelf hun vermogen willen opbouwen en beheren zonder tussenkomst van een traditioneel adviesbureau. Het idee is dat je scenario's doorrekent, zoals pensioenopbouw, investeringskeuzes of grote uitgaven, en direct ziet welke impact dat heeft op de lange termijn. Wat je nodig hebt: enige affiniteit met financiële planning en cijfers, en de bereidheid om zelf aannames en variabelen in te voeren in plaats van kant-en-klaar advies te krijgen. Meer informatie op https://continuum-app.xyz/.",
+      "url": "https://continuum-app.xyz/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 5.83,
+      "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
       "id": "4e7e86b3e6c32480",
@@ -2440,7 +2440,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.6,
+      "final_score": 5.59,
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -2539,7 +2539,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.3,
+      "final_score": 5.29,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -2605,7 +2605,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.15,
+      "final_score": 5.14,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -2616,7 +2616,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.11,
+      "final_score": 5.1,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -2627,7 +2627,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.11,
+      "final_score": 5.1,
       "published_at": "2026-08-19T17:45:41+00:00"
     },
     {
@@ -2638,7 +2638,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -2660,7 +2660,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.99,
+      "final_score": 4.98,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -2704,7 +2704,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.9,
+      "final_score": 4.89,
       "published_at": "2026-08-27T15:45:16+00:00"
     },
     {
@@ -2862,17 +2862,6 @@
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
-      "id": "90c1d51aafc4ad30",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "summary_nl": "Waarom Paul Graham vindt dat je nu moet leren hoe een taalmodel écht werkt. In een korte tweet stelt de bekende techinvesteerder dat hij, als hij zeventien was, zijn tijd zou steken in het van de grond af opbouwen van een LLM, in plaats van alleen bestaande tools te gebruiken. De achterliggende gedachte is dat je door zelf de bouwstenen te doorgronden, zoals tokenisatie, attention-mechanismen en trainingsprocessen, een dieper en duurzamer begrip krijgt dan wanneer je enkel API's aanroept. Inspirerend omdat het een tegengeluid is in een tijd waarin de meeste mensen AI vooral als kant-en-klaar gereedschap zien, terwijl fundamentele kennis je juist onderscheidt op lange termijn. Wat je nodig hebt: een basis in Python en lineaire algebra, geduld om je door papers en open-source implementaties (zoals nanoGPT) heen te werken, en al snel enkele weken tot maanden aan zelfstudie, plus toegang tot een",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.52,
-      "published_at": "2026-08-23T20:38:09+00:00"
-    },
-    {
       "id": "304120eec7037386",
       "title": "b-nnett/grok-bot-0.18-reconstructed",
       "summary_nl": "Grok Bot teruggebouwd: een reverse-engineered doorstart voor macOS\n\nDeze repository van b-nnett is een onofficiële, source-georiënteerde reconstructie van Grok Bot 0.18.0, gericht op macOS, en bouwt dus verder op een bestaande applicatie zonder dat daar officiële broncode of medewerking van de oorspronkelijke maker aan ten grondslag ligt. Het idee is dat de auteur de werking van de bot heeft nagebouwd en uitgebreid, waardoor gebruikers en ontwikkelaars alsnog toegang krijgen tot de broncode-achtige structuur van een tool die dat normaal niet publiekelijk deelt. Inspirerend omdat het laat zien hoe je met geduld en reverse-engineering skills een gesloten applicatie toch open en aanpasbaar kunt maken voor de community. Wat je nodig hebt: een Mac, basiskennis van Swift of Objective-C (afhankelijk van de gebruikte taal in de repo) en de bereidheid om code te lezen en te compileren zonder uitgebreide documentatie,",
@@ -2882,6 +2871,17 @@
       "score": 5,
       "final_score": 4.52,
       "published_at": "2026-08-23T20:53:01+00:00"
+    },
+    {
+      "id": "90c1d51aafc4ad30",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "summary_nl": "Waarom Paul Graham vindt dat je nu moet leren hoe een taalmodel écht werkt. In een korte tweet stelt de bekende techinvesteerder dat hij, als hij zeventien was, zijn tijd zou steken in het van de grond af opbouwen van een LLM, in plaats van alleen bestaande tools te gebruiken. De achterliggende gedachte is dat je door zelf de bouwstenen te doorgronden, zoals tokenisatie, attention-mechanismen en trainingsprocessen, een dieper en duurzamer begrip krijgt dan wanneer je enkel API's aanroept. Inspirerend omdat het een tegengeluid is in een tijd waarin de meeste mensen AI vooral als kant-en-klaar gereedschap zien, terwijl fundamentele kennis je juist onderscheidt op lange termijn. Wat je nodig hebt: een basis in Python en lineaire algebra, geduld om je door papers en open-source implementaties (zoals nanoGPT) heen te werken, en al snel enkele weken tot maanden aan zelfstudie, plus toegang tot een",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.51,
+      "published_at": "2026-08-23T20:38:09+00:00"
     },
     {
       "id": "468df97caa657078",
@@ -2935,7 +2935,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 4.48,
+      "final_score": 4.47,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -3023,7 +3023,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.19,
+      "final_score": 4.18,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -3100,7 +3100,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.99,
+      "final_score": 3.98,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -3177,7 +3177,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 4,
-      "final_score": 3.71,
+      "final_score": 3.7,
       "published_at": "2026-08-25T18:00:00+00:00"
     },
     {
