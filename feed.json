@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:57:39.576955+00:00",
+  "generated_at": "2026-08-29T11:25:33.589649+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.16,
+      "final_score": 10.15,
       "published_at": "2026-08-21T00:13:39+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.03,
+      "final_score": 10.02,
       "published_at": "2026-08-19T17:07:35+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.5,
+      "final_score": 9.49,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.3,
+      "final_score": 9.29,
       "published_at": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -343,17 +343,6 @@
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
-      "id": "3ee099290e581a72",
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "summary_nl": "Veilig opslaan zonder gedoe: keychain-store maakt gevoelige data in Electron-apps eenvoudig te beschermen via de macOS Data Protection Keychain. In plaats van zelf encryptie te bouwen of wachtwoorden onversleuteld op schijf te zetten, koppelt deze library rechtstreeks aan het beveiligingsmechanisme dat macOS al standaard aanbiedt. Wat je nodig hebt: een Electron-project, basiskennis van Node.js en macOS als doelplatform, want de oplossing is specifiek voor dit besturingssysteem gebouwd. Bron: https://github.com/biw/keychain-store",
-      "url": "https://github.com/biw/keychain-store",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 8.93,
-      "published_at": "2026-08-18T17:25:19+00:00"
-    },
-    {
       "id": "eff17f29efac2e53",
       "title": "Show HN: Sesame - a local-first, open-source password manager",
       "summary_nl": "Wachtwoorden zonder cloud-afhankelijkheid: Sesame is een open-source wachtwoordmanager die lokaal-eerst werkt, wat betekent dat je data primair op je eigen apparaat blijft in plaats van in een externe cloud. De maker deelde het project op Hacker News als alternatief voor de bekende commerciële wachtwoordmanagers, met als slimme vondst dat je zelf kunt controleren waar je meest gevoelige data staat. Inspirerend omdat het laat zien dat je met een overzichtelijk project toch een volwaardig alternatief kunt bouwen voor tools waar miljoenen mensen dagelijks op vertrouwen. Wat je nodig heb je: geen diepgaande technische kennis om het te gebruiken, wel wat tijd (een avond) om de broncode te bekijken als je wilt verifiëren hoe de encryptie en opslag precies werken, te vinden via usesesame.app.",
@@ -374,6 +363,17 @@
       "score": 9,
       "final_score": 8.93,
       "published_at": "2026-08-28T17:39:53+00:00"
+    },
+    {
+      "id": "3ee099290e581a72",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "summary_nl": "Veilig opslaan zonder gedoe: keychain-store maakt gevoelige data in Electron-apps eenvoudig te beschermen via de macOS Data Protection Keychain. In plaats van zelf encryptie te bouwen of wachtwoorden onversleuteld op schijf te zetten, koppelt deze library rechtstreeks aan het beveiligingsmechanisme dat macOS al standaard aanbiedt. Wat je nodig hebt: een Electron-project, basiskennis van Node.js en macOS als doelplatform, want de oplossing is specifiek voor dit besturingssysteem gebouwd. Bron: https://github.com/biw/keychain-store",
+      "url": "https://github.com/biw/keychain-store",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 8.92,
+      "published_at": "2026-08-18T17:25:19+00:00"
     },
     {
       "id": "1d085ce5c0f6ce88",
@@ -669,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.52,
+      "final_score": 8.51,
       "published_at": "2026-08-24T14:53:22+00:00"
     },
     {
@@ -724,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.45,
+      "final_score": 8.44,
       "published_at": "2026-08-23T22:06:14+00:00"
     },
     {
@@ -768,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.4,
+      "final_score": 8.39,
       "published_at": "2026-08-23T10:02:51+00:00"
     },
     {
@@ -812,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.24,
       "published_at": "2026-08-21T21:46:56+00:00"
     },
     {
@@ -845,7 +845,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.2,
+      "final_score": 8.19,
       "published_at": "2026-08-21T10:12:54+00:00"
     },
     {
@@ -1043,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.91,
+      "final_score": 7.9,
       "published_at": "2026-08-18T12:22:58+00:00"
     },
     {
@@ -1120,7 +1120,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.82,
+      "final_score": 7.81,
       "published_at": "2026-08-27T14:45:23+00:00"
     },
     {
@@ -1131,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.82,
+      "final_score": 7.81,
       "published_at": "2026-08-27T14:39:21+00:00"
     },
     {
@@ -1142,7 +1142,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.82,
+      "final_score": 7.81,
       "published_at": "2026-08-27T14:50:59+00:00"
     },
     {
@@ -1197,7 +1197,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.69,
+      "final_score": 7.68,
       "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
@@ -1208,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.67,
+      "final_score": 7.66,
       "published_at": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -1219,7 +1219,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.66,
+      "final_score": 7.65,
       "published_at": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -1241,7 +1241,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.63,
+      "final_score": 7.62,
       "published_at": "2026-08-25T17:23:07+00:00"
     },
     {
@@ -1252,7 +1252,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.59,
+      "final_score": 7.58,
       "published_at": "2026-08-25T07:32:11+00:00"
     },
     {
@@ -1527,7 +1527,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.41,
+      "final_score": 7.4,
       "published_at": "2026-08-13T12:36:34+00:00"
     },
     {
@@ -1648,7 +1648,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.12,
+      "final_score": 7.11,
       "published_at": "2026-08-20T14:38:45+00:00"
     },
     {
@@ -1659,7 +1659,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.12,
+      "final_score": 7.11,
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
@@ -1703,7 +1703,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.01,
+      "final_score": 7.0,
       "published_at": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -1714,7 +1714,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.95,
+      "final_score": 6.94,
       "published_at": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -1835,7 +1835,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.83,
+      "final_score": 6.82,
       "published_at": "2026-08-27T17:17:57+00:00"
     },
     {
@@ -1905,17 +1905,6 @@
       "published_at": "2026-08-27T08:59:49+00:00"
     },
     {
-      "id": "08740f9c3e29ad24",
-      "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
-      "summary_nl": "Van gigant tot laptopformaat: DeepSeek V4 Flash past nu in 57GB. Een ontwikkelaar heeft dit grote taalmodel via kwantisatie zo compact gemaakt dat het lokaal op een Mac draait, en als test liet hij het model zelfstandig een compiler schrijven. Inspirerend omdat het laat zien dat je met slimme compressietechnieken serieuze AI-modellen offline en zonder cloudkosten kunt inzetten, zelfs voor complexe programmeertaken. Wat je nodig hebt: een Mac met voldoende werkgeheugen (denk aan 64GB of meer), ervaring met het lokaal draaien van taalmodellen, en tijd om te experimenteren met de gekwantiseerde versie op Hugging Face. Bron: https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 6.73,
-      "published_at": "2026-08-16T17:13:22+00:00"
-    },
-    {
       "id": "1804bc3d4ab6f34e",
       "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
       "summary_nl": "Timber leest je artikelen voor, offline en zonder cloud-account nodig. De app draait lokale taalmodellen op je iPhone of Mac (via Timber Tabs) om tekst uit webpagina's en documenten om te zetten naar natuurlijk klinkende spraak, zonder dat je data het toestel verlaten. Inspirerend omdat het laat zien dat on-device AI inmiddels goed genoeg is voor praktische toepassingen als voorlezen, zonder de privacyzorgen en abonnementskosten van cloud-diensten. Wat je nodig hebt: een recente iPhone of Mac met voldoende rekenkracht voor lokale LLM's, en verder geen technische kennis, de app is bedoeld voor gewoon gebruik. Meer informatie op https://timberreader.com/.",
@@ -1925,6 +1914,17 @@
       "score": 7,
       "final_score": 6.73,
       "published_at": "2026-08-26T17:28:46+00:00"
+    },
+    {
+      "id": "08740f9c3e29ad24",
+      "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+      "summary_nl": "Van gigant tot laptopformaat: DeepSeek V4 Flash past nu in 57GB. Een ontwikkelaar heeft dit grote taalmodel via kwantisatie zo compact gemaakt dat het lokaal op een Mac draait, en als test liet hij het model zelfstandig een compiler schrijven. Inspirerend omdat het laat zien dat je met slimme compressietechnieken serieuze AI-modellen offline en zonder cloudkosten kunt inzetten, zelfs voor complexe programmeertaken. Wat je nodig hebt: een Mac met voldoende werkgeheugen (denk aan 64GB of meer), ervaring met het lokaal draaien van taalmodellen, en tijd om te experimenteren met de gekwantiseerde versie op Hugging Face. Bron: https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 6.72,
+      "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
       "id": "8275137a8fb14f0d",
@@ -2011,7 +2011,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.51,
+      "final_score": 6.5,
       "published_at": "2026-08-24T12:17:58+00:00"
     },
     {
@@ -2099,7 +2099,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.33,
+      "final_score": 6.32,
       "published_at": "2026-08-22T17:23:29+00:00"
     },
     {
@@ -2121,7 +2121,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 6.28,
+      "final_score": 6.27,
       "published_at": "2026-07-13T05:13:00+00:00"
     },
     {
@@ -2176,7 +2176,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.06,
+      "final_score": 6.05,
       "published_at": "2026-08-20T00:18:16+00:00"
     },
     {
@@ -2253,7 +2253,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.97,
+      "final_score": 5.96,
       "published_at": "2026-08-19T02:41:50+00:00"
     },
     {
@@ -2418,7 +2418,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.74,
+      "final_score": 5.73,
       "published_at": "2026-08-26T19:45:59+00:00"
     },
     {
@@ -2451,7 +2451,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.65,
+      "final_score": 5.64,
       "published_at": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -2517,7 +2517,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.57,
+      "final_score": 5.56,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -2539,7 +2539,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.53,
+      "final_score": 5.52,
       "published_at": "2026-08-24T17:21:20+00:00"
     },
     {
@@ -2561,7 +2561,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.52,
+      "final_score": 5.51,
       "published_at": "2026-08-24T14:57:45+00:00"
     },
     {
@@ -2583,7 +2583,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.43,
+      "final_score": 5.42,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -2594,7 +2594,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.41,
+      "final_score": 5.4,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -2704,7 +2704,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.14,
+      "final_score": 5.13,
       "published_at": "2026-08-20T19:21:45+00:00"
     },
     {
@@ -2774,17 +2774,6 @@
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
-      "id": "c323c9b581192b7e",
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "summary_nl": "Navigeren als in een droom: deze kaart buigt mee met je route\n\nDeze demo toont een gebogen kaartweergave voor turn-by-turn navigatie, geïnspireerd op de visuele stijl van de film Inception. In plaats van een platte, bovenaanzichtkaart wordt het wegennet gepresenteerd als een gebogen, driedimensionaal oppervlak dat meebeweegt met je rijrichting, waardoor afslagen en bochten intuïtiever aanvoelen. Inspirerend omdat het laat zien hoe een ongewone visuele metafoor abstracte navigatie-informatie ineens tastbaarder kan maken zonder functionaliteit te verliezen. Wat je nodig heeft: geen speciale voorkennis om de demo te bekijken, wel wat gevoel voor 3D-rendering en kaarttechnologie (bijvoorbeeld WebGL) als je het principe zelf wilt nabouwen; een avond experimenteren is genoeg om de kernidee te doorgronden. Bekijk de demo via https://www.orbify.eu/demo/.",
-      "url": "https://www.orbify.eu/demo/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.91,
-      "published_at": "2026-08-28T12:29:05+00:00"
-    },
-    {
       "id": "dcc411eb2d826755",
       "title": "XiaoDuoYa/codex-with-chatgpt",
       "summary_nl": "Denken en doen, netjes gescheiden: codex-with-chatgpt laat ChatGPT de planning voor zijn rekening nemen, terwijl Codex de daadwerkelijke code-uitvoering blijft doen binnen zijn eigen werkomgeving. Het idee is simpel maar slim: je gebruikt ChatGPT als brein voor het uitdenken van de aanpak, en behoudt tegelijk de vertrouwde Codex-harness om taken daadwerkelijk uit te voeren. Zo combineer je het redeneervermogen van het ene model met de uitvoeringskracht van het andere, zonder dat je hoeft te kiezen. Wat je nodig hebt: toegang tot zowel ChatGPT als Codex, en enige vertrouwdheid met het opzetten van development-tooling om de twee aan elkaar te knopen. Bron: https://github.com/XiaoDuoYa/codex-with-chatgpt",
@@ -2794,6 +2783,17 @@
       "score": 5,
       "final_score": 4.91,
       "published_at": "2026-08-28T12:57:24+00:00"
+    },
+    {
+      "id": "c323c9b581192b7e",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "summary_nl": "Navigeren als in een droom: deze kaart buigt mee met je route\n\nDeze demo toont een gebogen kaartweergave voor turn-by-turn navigatie, geïnspireerd op de visuele stijl van de film Inception. In plaats van een platte, bovenaanzichtkaart wordt het wegennet gepresenteerd als een gebogen, driedimensionaal oppervlak dat meebeweegt met je rijrichting, waardoor afslagen en bochten intuïtiever aanvoelen. Inspirerend omdat het laat zien hoe een ongewone visuele metafoor abstracte navigatie-informatie ineens tastbaarder kan maken zonder functionaliteit te verliezen. Wat je nodig heeft: geen speciale voorkennis om de demo te bekijken, wel wat gevoel voor 3D-rendering en kaarttechnologie (bijvoorbeeld WebGL) als je het principe zelf wilt nabouwen; een avond experimenteren is genoeg om de kernidee te doorgronden. Bekijk de demo via https://www.orbify.eu/demo/.",
+      "url": "https://www.orbify.eu/demo/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.9,
+      "published_at": "2026-08-28T12:29:05+00:00"
     },
     {
       "id": "04411ad809f1e4cf",
@@ -2858,7 +2858,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.73,
+      "final_score": 4.72,
       "published_at": "2026-08-26T17:20:12+00:00"
     },
     {
@@ -2869,7 +2869,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.71,
+      "final_score": 4.7,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -3023,7 +3023,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.44,
+      "final_score": 4.43,
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
@@ -3034,7 +3034,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.44,
+      "final_score": 4.43,
       "published_at": "2026-08-23T19:29:32+00:00"
     },
     {
@@ -3122,7 +3122,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.12,
+      "final_score": 4.11,
       "published_at": "2026-08-20T15:00:00+00:00"
     },
     {
@@ -3166,7 +3166,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.1,
+      "final_score": 4.09,
       "published_at": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -3320,7 +3320,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.57,
+      "final_score": 3.56,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
