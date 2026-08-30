@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:51:53.977797+00:00",
+  "generated_at": "2026-08-30T10:12:06.384169+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.48,
+      "final_score": 10.47,
       "published_at": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.22,
+      "final_score": 10.21,
       "published_at": "2026-08-22T13:42:32+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.73,
+      "final_score": 9.72,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.55,
+      "final_score": 9.54,
       "published_at": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.48,
+      "final_score": 9.47,
       "published_at": "2026-08-25T03:56:26+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.16,
+      "final_score": 9.15,
       "published_at": "2026-08-21T23:09:06+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.89,
+      "final_score": 8.88,
       "published_at": "2026-08-29T06:33:51+00:00"
     },
     {
@@ -361,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.86,
+      "final_score": 8.85,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.52,
+      "final_score": 8.51,
       "published_at": "2026-08-25T13:36:11+00:00"
     },
     {
@@ -702,7 +702,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.42,
+      "final_score": 8.41,
       "published_at": "2026-08-24T13:38:40+00:00"
     },
     {
@@ -735,7 +735,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.39,
+      "final_score": 8.38,
       "published_at": "2026-08-24T06:25:31+00:00"
     },
     {
@@ -955,7 +955,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.92,
+      "final_score": 7.91,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -966,7 +966,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.92,
+      "final_score": 7.91,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -1021,7 +1021,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.85,
+      "final_score": 7.84,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -1142,7 +1142,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.81,
+      "final_score": 7.8,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -1164,7 +1164,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -1175,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -1230,7 +1230,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.72,
+      "final_score": 7.71,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -1263,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -1351,7 +1351,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.48,
+      "final_score": 7.47,
       "published_at": "2026-08-25T04:02:30+00:00"
     },
     {
@@ -1439,7 +1439,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.43,
+      "final_score": 7.42,
       "published_at": "2026-08-24T16:08:17+00:00"
     },
     {
@@ -1516,7 +1516,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.37,
+      "final_score": 7.36,
       "published_at": "2026-08-24T01:33:14+00:00"
     },
     {
@@ -1538,7 +1538,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.36,
+      "final_score": 7.35,
       "published_at": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -1692,7 +1692,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.06,
+      "final_score": 7.05,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -1747,7 +1747,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.02,
+      "final_score": 7.01,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -1813,7 +1813,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.83,
+      "final_score": 6.82,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -1839,17 +1839,6 @@
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
-      "id": "e003b13d86aaa3fb",
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "summary_nl": "Snel schakelen tussen pandas-denken en Polars-praktijk: deze cheatsheet legt in één overzicht vast hoe je met Polars dataframes filtert, groepeert en transformeert, gebaseerd op het bijbehorende O'Reilly-boek. Het is vooral handig als geheugensteun tijdens het coderen, met de syntax voor lazy evaluation en expressies die Polars zo snel maken naast elkaar gezet. Inspirerend omdat het de vaak lastige overstap van pandas naar Polars concreet en visueel maakt, zonder dat je het hele boek moet doorwerken. Wat je nodig heb: basiskennis van dataframes en Python, en een paar minuten om de sheet erbij te houden tijdens het werken. Bron: https://opensource.posit.co/resources/cheatsheets/polars/",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 6.82,
-      "published_at": "2026-08-18T13:38:23+00:00"
-    },
-    {
       "id": "347346b87ae3b4e8",
       "title": "How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
       "summary_nl": "Van 30 naar 99,95 procent: hoe een slim stuurmechanisme het verschil maakt. Het artikel beschrijft hoe een Strands-agent, gebouwd rond Claude Opus, de prestaties op de ARC-AGI-3 benchmark drastisch verbetert door het model niet in één keer te laten antwoorden maar via een gestructureerde aanpak met tussenstappen, zelfcontrole en gerichte tool-aanroepen. De vondst zit hem niet in een groter of slimmer model, maar in de manier waarop taken worden opgeknipt en gevalideerd voordat een definitief antwoord volgt. Inspirerend omdat het laat zien dat agentarchitectuur soms meer oplevert dan modelupgrades, en dat toegankelijke frameworks grote sprongen in betrouwbaarheid mogelijk maken. Wat je nodig hebt: basiskennis van AI-agents en de Strands-toolkit, ervaring met promptontwerp, en tijd om experimenten met ARC-AGI-achtige taken op te zetten en te evalueren. Bron: https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9",
@@ -1859,6 +1848,17 @@
       "score": 7,
       "final_score": 6.82,
       "published_at": "2026-08-28T14:07:24+00:00"
+    },
+    {
+      "id": "e003b13d86aaa3fb",
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "summary_nl": "Snel schakelen tussen pandas-denken en Polars-praktijk: deze cheatsheet legt in één overzicht vast hoe je met Polars dataframes filtert, groepeert en transformeert, gebaseerd op het bijbehorende O'Reilly-boek. Het is vooral handig als geheugensteun tijdens het coderen, met de syntax voor lazy evaluation en expressies die Polars zo snel maken naast elkaar gezet. Inspirerend omdat het de vaak lastige overstap van pandas naar Polars concreet en visueel maakt, zonder dat je het hele boek moet doorwerken. Wat je nodig heb: basiskennis van dataframes en Python, en een paar minuten om de sheet erbij te houden tijdens het werken. Bron: https://opensource.posit.co/resources/cheatsheets/polars/",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 6.81,
+      "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
       "id": "c056bc1f736a5dce",
@@ -2000,7 +2000,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.7,
+      "final_score": 6.69,
       "published_at": "2026-08-27T08:59:49+00:00"
     },
     {
@@ -2033,7 +2033,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.58,
+      "final_score": 6.57,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -2088,7 +2088,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.46,
+      "final_score": 6.45,
       "published_at": "2026-08-24T23:23:06+00:00"
     },
     {
@@ -2132,7 +2132,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.33,
+      "final_score": 6.32,
       "published_at": "2026-08-23T16:07:22+00:00"
     },
     {
@@ -2253,7 +2253,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.09,
+      "final_score": 6.08,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -2264,7 +2264,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.97,
+      "final_score": 5.96,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -2363,7 +2363,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.92,
+      "final_score": 5.91,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -2451,7 +2451,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.82,
+      "final_score": 5.81,
       "published_at": "2026-08-28T13:28:56+00:00"
     },
     {
@@ -2484,7 +2484,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.74,
+      "final_score": 5.73,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -2561,7 +2561,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.64,
+      "final_score": 5.63,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -2627,7 +2627,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.52,
+      "final_score": 5.51,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -2660,7 +2660,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.44,
+      "final_score": 5.43,
       "published_at": "2026-08-24T18:21:17+00:00"
     },
     {
@@ -2759,7 +2759,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.23,
+      "final_score": 5.22,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -2847,7 +2847,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 5.0,
+      "final_score": 4.99,
       "published_at": "2026-08-30T08:51:39+00:00"
     },
     {
@@ -2924,7 +2924,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.83,
+      "final_score": 4.82,
       "published_at": "2026-08-28T16:00:00+00:00"
     },
     {
@@ -3078,7 +3078,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.52,
+      "final_score": 4.51,
       "published_at": "2026-08-25T13:34:24+00:00"
     },
     {
@@ -3111,7 +3111,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.44,
+      "final_score": 4.43,
       "published_at": "2026-08-24T18:24:59+00:00"
     },
     {
@@ -3155,7 +3155,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.35,
+      "final_score": 4.34,
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
@@ -3166,7 +3166,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.35,
+      "final_score": 4.34,
       "published_at": "2026-08-23T20:53:01+00:00"
     },
     {
@@ -3221,7 +3221,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.31,
+      "final_score": 4.3,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -3540,7 +3540,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.24,
+      "final_score": 3.23,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -3551,7 +3551,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.24,
+      "final_score": 3.23,
       "published_at": "2026-07-13T18:26:04+00:00"
     }
   ]
