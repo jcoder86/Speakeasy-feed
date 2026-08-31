@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:43:49.278155+00:00",
+  "generated_at": "2026-08-31T11:15:38.091336+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -64,7 +64,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.12,
+      "final_score": 10.11,
       "published_at": "2026-08-22T14:28:41+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.96,
+      "final_score": 9.95,
       "published_at": "2026-08-21T00:13:39+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.83,
+      "final_score": 9.82,
       "published_at": "2026-08-19T17:07:35+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.3,
+      "final_score": 9.29,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -284,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.1,
+      "final_score": 9.09,
       "published_at": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.74,
+      "final_score": 8.73,
       "published_at": "2026-08-28T19:14:14+00:00"
     },
     {
@@ -625,7 +625,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-25T19:20:48+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.42,
       "published_at": "2026-08-25T16:52:05+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.42,
+      "final_score": 8.41,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -779,7 +779,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.24,
       "published_at": "2026-08-23T21:36:25+00:00"
     },
     {
@@ -812,7 +812,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.2,
+      "final_score": 8.19,
       "published_at": "2026-08-23T10:02:51+00:00"
     },
     {
@@ -856,7 +856,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.05,
+      "final_score": 8.04,
       "published_at": "2026-08-21T21:46:56+00:00"
     },
     {
@@ -878,7 +878,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.02,
+      "final_score": 8.01,
       "published_at": "2026-08-21T14:31:52+00:00"
     },
     {
@@ -977,7 +977,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.84,
+      "final_score": 7.83,
       "published_at": "2026-08-29T19:15:51+00:00"
     },
     {
@@ -1043,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.76,
+      "final_score": 7.75,
       "published_at": "2026-08-18T23:57:36+00:00"
     },
     {
@@ -1124,6 +1124,17 @@
       "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
+      "id": "640915152d823c74",
+      "title": "Creating the Aetheryte Radio",
+      "summary_nl": "Een eigen radiostation bouwen op basis van gamemuziek: dat is precies wat de maker van Aetheryte Radio deed voor Final Fantasy XIV. Het stuk beschrijft hoe zo'n internetradiostation technisch in elkaar zit, van het samenstellen en organiseren van een muziekbibliotheek tot het opzetten van de streaming-infrastructuur die luisteraars continu van nummers voorziet. Inspirerend omdat het laat zien hoe een fanproject met de juiste technische aanpak uitgroeit tot iets dat net zo soepel draait als een professionele dienst. Wat je nodig heb: basiskennis van servers en streaming-protocollen, wat geduld voor het uitzoeken van licentie- en metadatakwesties, en een avond of wat om het artikel en de opzet te doorgronden. Bron: https://haz.ee/posts/aetheryte-radio.html",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.72,
+      "published_at": "2026-08-28T14:59:15+00:00"
+    },
+    {
       "id": "ab3fa2da22740ccb",
       "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
       "summary_nl": "Persen en plakken: hoe je een groot taalmodel toch op je eigen laptop krijgt\n\nShoehorn is een tool die grote taalmodellen kleiner maakt door ze te quantizen, zodat ze passen op de hardware die je toevallig hebt liggen in plaats van op een dure GPU-server. Het idee is simpel: je geeft aan welk model je wilt draaien en Shoehorn zoekt uit hoe het gecomprimeerd kan worden zodat het nog wel functioneert, maar minder geheugen en rekenkracht vraagt. Inspirerend omdat het de drempel verlaagt om te experimenteren met modellen die normaal alleen in de cloud haalbaar zijn, zonder dat je zelf uitgebreide kennis van quantization-technieken hoeft te hebben. Wat je nodig heb je: een machine met redelijke specs (denk aan een moderne laptop of desktop), wat vertrouwdheid met de commandline, en de bereidheid om te experimenteren met instellingen om de juiste balans tussen snelheid en kwaliteit te vinden. Zie de toelichting en broncode op https://notactuallytreyanastasio.github.io/shoehorn/.",
@@ -1131,7 +1142,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.72,
+      "final_score": 7.71,
       "published_at": "2026-08-18T14:29:20+00:00"
     },
     {
@@ -1142,19 +1153,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.72,
+      "final_score": 7.71,
       "published_at": "2026-08-28T14:23:27+00:00"
-    },
-    {
-      "id": "640915152d823c74",
-      "title": "Creating the Aetheryte Radio",
-      "summary_nl": "Een eigen radiostation bouwen op basis van gamemuziek: dat is precies wat de maker van Aetheryte Radio deed voor Final Fantasy XIV. Het stuk beschrijft hoe zo'n internetradiostation technisch in elkaar zit, van het samenstellen en organiseren van een muziekbibliotheek tot het opzetten van de streaming-infrastructuur die luisteraars continu van nummers voorziet. Inspirerend omdat het laat zien hoe een fanproject met de juiste technische aanpak uitgroeit tot iets dat net zo soepel draait als een professionele dienst. Wat je nodig heb: basiskennis van servers en streaming-protocollen, wat geduld voor het uitzoeken van licentie- en metadatakwesties, en een avond of wat om het artikel en de opzet te doorgronden. Bron: https://haz.ee/posts/aetheryte-radio.html",
-      "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 7.72,
-      "published_at": "2026-08-28T14:59:15+00:00"
     },
     {
       "id": "2f4ecf66b669e8e7",
@@ -1175,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.71,
+      "final_score": 7.7,
       "published_at": "2026-08-18T12:22:58+00:00"
     },
     {
@@ -1186,7 +1186,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.71,
+      "final_score": 7.7,
       "published_at": "2026-08-18T12:05:57+00:00"
     },
     {
@@ -1252,7 +1252,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-08-27T14:45:23+00:00"
     },
     {
@@ -1263,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-08-27T14:39:21+00:00"
     },
     {
@@ -1274,7 +1274,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-08-27T14:50:59+00:00"
     },
     {
@@ -1340,7 +1340,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.47,
+      "final_score": 7.46,
       "published_at": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -1351,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.46,
+      "final_score": 7.45,
       "published_at": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -1362,7 +1362,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.45,
+      "final_score": 7.44,
       "published_at": "2026-08-25T21:43:37+00:00"
     },
     {
@@ -1384,7 +1384,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.39,
+      "final_score": 7.38,
       "published_at": "2026-08-25T07:32:11+00:00"
     },
     {
@@ -1395,7 +1395,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.38,
+      "final_score": 7.37,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -1461,7 +1461,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.33,
+      "final_score": 7.32,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -1527,7 +1527,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.32,
+      "final_score": 7.31,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -1560,7 +1560,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.28,
+      "final_score": 7.27,
       "published_at": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.25,
+      "final_score": 7.24,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -1703,7 +1703,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.04,
+      "final_score": 7.03,
       "published_at": "2026-08-21T19:18:09+00:00"
     },
     {
@@ -1725,7 +1725,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.0,
+      "final_score": 6.99,
       "published_at": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -1780,7 +1780,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.92,
+      "final_score": 6.91,
       "published_at": "2026-08-20T14:38:45+00:00"
     },
     {
@@ -1791,7 +1791,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.92,
+      "final_score": 6.91,
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
@@ -1824,7 +1824,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
+      "final_score": 6.9,
       "published_at": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -1846,7 +1846,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.81,
+      "final_score": 6.8,
       "published_at": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -1857,7 +1857,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.75,
+      "final_score": 6.74,
       "published_at": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -1956,7 +1956,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.66,
+      "final_score": 6.65,
       "published_at": "2026-08-28T00:06:51+00:00"
     },
     {
@@ -2022,7 +2022,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.62,
+      "final_score": 6.61,
       "published_at": "2026-08-17T14:24:01+00:00"
     },
     {
@@ -2033,7 +2033,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.62,
+      "final_score": 6.61,
       "published_at": "2026-08-17T14:20:00+00:00"
     },
     {
@@ -2088,7 +2088,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.53,
+      "final_score": 6.52,
       "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
@@ -2121,7 +2121,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.44,
+      "final_score": 6.43,
       "published_at": "2026-08-25T19:11:50+00:00"
     },
     {
@@ -2143,7 +2143,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.42,
+      "final_score": 6.41,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -2165,7 +2165,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.33,
+      "final_score": 6.32,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -2176,7 +2176,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.31,
+      "final_score": 6.3,
       "published_at": "2026-08-24T12:17:58+00:00"
     },
     {
@@ -2209,7 +2209,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.22,
+      "final_score": 6.21,
       "published_at": "2026-08-23T14:23:09+00:00"
     },
     {
@@ -2286,7 +2286,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 6.08,
+      "final_score": 6.07,
       "published_at": "2026-07-13T05:13:00+00:00"
     },
     {
@@ -2363,30 +2363,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.86,
+      "final_score": 5.85,
       "published_at": "2026-08-20T00:18:16+00:00"
-    },
-    {
-      "id": "7ccb97bb9a47c2f1",
-      "title": "Hy4 preview",
-      "summary_nl": "Tencent laat weer zien hoe je een groot model in de openbaarheid brengt: met de preview van Hy4, vermoedelijk een nieuwe stap in de Hunyuan-reeks, kiest het bedrijf voor open source in plaats van een gesloten aankondiging. Concrete details over architectuur, prestaties of toepassingen ontbreken nog in deze preview-fase, maar de release zelf is veelzeggend: Tencent blijft investeren in open modellen naast de eigen commerciële producten. Inspirerend omdat grote Chinese techbedrijven steeds vaker kiezen voor open-source varianten van hun AI-modellen, wat de toegankelijkheid voor ontwikkelaars wereldwijd vergroot. Wat je nodig heb: geduld tot de volledige documentatie en gewichten beschikbaar zijn, en voor experimenteren minimaal ervaring met het draaien van grote taalmodell",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 6,
-      "final_score": 5.84,
-      "published_at": "2026-08-29T19:33:23+00:00"
-    },
-    {
-      "id": "b3ea611c2245f40b",
-      "title": "Domain-Driven Agents",
-      "summary_nl": "Domain-Driven Agents: wat als je AI-agenten bouwt zoals je software bouwt, met duidelijke grenzen in plaats van één grote black box? Het idee, geïnspireerd op Domain-Driven Design, is om agenten op te delen in afgebakende domeinen met eigen taal, verantwoordelijkheden en interfaces, zodat ze voorspelbaarder en makkelijker te onderhouden zijn dan één alwetende assistent. Inspirerend omdat het een brug slaat tussen bestaande software-architectuurprincipes en de nog jonge praktijk van agent-ontwerp, waardoor je niet alles opnieuw hoeft uit te vinden. Wat je nodig hebt: ervaring met software-architectuur of DDD helpt, een paar uur om het artikel door te nemen en toe te passen op je eigen agent-ontwerp, en een LLM-project waarin je deze scheiding van verantwoordelijkheden kunt uitproberen. Bron: https://coldtake.dev/blog/domain-driven-agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 6,
-      "final_score": 5.84,
-      "published_at": "2026-08-29T19:28:28+00:00"
     },
     {
       "id": "5a9b8a02d2524690",
@@ -2398,6 +2376,28 @@
       "score": 6,
       "final_score": 5.84,
       "published_at": "2026-08-29T19:52:37+00:00"
+    },
+    {
+      "id": "7ccb97bb9a47c2f1",
+      "title": "Hy4 preview",
+      "summary_nl": "Tencent laat weer zien hoe je een groot model in de openbaarheid brengt: met de preview van Hy4, vermoedelijk een nieuwe stap in de Hunyuan-reeks, kiest het bedrijf voor open source in plaats van een gesloten aankondiging. Concrete details over architectuur, prestaties of toepassingen ontbreken nog in deze preview-fase, maar de release zelf is veelzeggend: Tencent blijft investeren in open modellen naast de eigen commerciële producten. Inspirerend omdat grote Chinese techbedrijven steeds vaker kiezen voor open-source varianten van hun AI-modellen, wat de toegankelijkheid voor ontwikkelaars wereldwijd vergroot. Wat je nodig heb: geduld tot de volledige documentatie en gewichten beschikbaar zijn, en voor experimenteren minimaal ervaring met het draaien van grote taalmodell",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.83,
+      "published_at": "2026-08-29T19:33:23+00:00"
+    },
+    {
+      "id": "b3ea611c2245f40b",
+      "title": "Domain-Driven Agents",
+      "summary_nl": "Domain-Driven Agents: wat als je AI-agenten bouwt zoals je software bouwt, met duidelijke grenzen in plaats van één grote black box? Het idee, geïnspireerd op Domain-Driven Design, is om agenten op te delen in afgebakende domeinen met eigen taal, verantwoordelijkheden en interfaces, zodat ze voorspelbaarder en makkelijker te onderhouden zijn dan één alwetende assistent. Inspirerend omdat het een brug slaat tussen bestaande software-architectuurprincipes en de nog jonge praktijk van agent-ontwerp, waardoor je niet alles opnieuw hoeft uit te vinden. Wat je nodig hebt: ervaring met software-architectuur of DDD helpt, een paar uur om het artikel door te nemen en toe te passen op je eigen agent-ontwerp, en een LLM-project waarin je deze scheiding van verantwoordelijkheden kunt uitproberen. Bron: https://coldtake.dev/blog/domain-driven-agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.83,
+      "published_at": "2026-08-29T19:28:28+00:00"
     },
     {
       "id": "cd7d52023b5b1d5e",
@@ -2484,7 +2484,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.77,
+      "final_score": 5.76,
       "published_at": "2026-08-19T02:41:50+00:00"
     },
     {
@@ -2748,7 +2748,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.37,
+      "final_score": 5.36,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -2825,7 +2825,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.21,
+      "final_score": 5.2,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -2869,7 +2869,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-08-21T16:47:15+00:00"
     },
     {
@@ -2891,7 +2891,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.02,
+      "final_score": 5.01,
       "published_at": "2026-08-21T14:31:56+00:00"
     },
     {
@@ -2913,7 +2913,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.01,
+      "final_score": 5.0,
       "published_at": "2026-08-21T11:56:39+00:00"
     },
     {
@@ -2946,19 +2946,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.94,
+      "final_score": 4.93,
       "published_at": "2026-08-20T19:21:45+00:00"
-    },
-    {
-      "id": "beae54899a10bb03",
-      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
-      "summary_nl": "Zelf de touwtjes in handen bij je klantenservice-chatbot: dat is de belofte van Bolnee-Chat. Het is een open-source, self-hosted oplossing waarmee je een chatbot in je bedrijfswebsite integreert zonder afhankelijk te zijn van externe SaaS-diensten of de bijbehorende maandelijkse kosten. Inspirerend omdat je zo volledige controle houdt over je data en de chatbot naar eigen inzicht kunt aanpassen en uitbreiden. Wat je nodig hebt: een server om de applicatie te hosten, basiskennis van webontwikkeling om de integratie op je site te configureren, en enkele uren om het op te zetten en te testen. Zie de broncode en documentatie op https://github.com/AniketWathore/bolnee-chat.",
-      "url": "https://github.com/AniketWathore/bolnee-chat",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.9,
-      "published_at": "2026-08-30T09:56:05+00:00"
     },
     {
       "id": "da77e33b87e02976",
@@ -2970,6 +2959,17 @@
       "score": 5,
       "final_score": 4.9,
       "published_at": "2026-08-30T11:36:46+00:00"
+    },
+    {
+      "id": "beae54899a10bb03",
+      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+      "summary_nl": "Zelf de touwtjes in handen bij je klantenservice-chatbot: dat is de belofte van Bolnee-Chat. Het is een open-source, self-hosted oplossing waarmee je een chatbot in je bedrijfswebsite integreert zonder afhankelijk te zijn van externe SaaS-diensten of de bijbehorende maandelijkse kosten. Inspirerend omdat je zo volledige controle houdt over je data en de chatbot naar eigen inzicht kunt aanpassen en uitbreiden. Wat je nodig hebt: een server om de applicatie te hosten, basiskennis van webontwikkeling om de integratie op je site te configureren, en enkele uren om het op te zetten en te testen. Zie de broncode en documentatie op https://github.com/AniketWathore/bolnee-chat.",
+      "url": "https://github.com/AniketWathore/bolnee-chat",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.89,
+      "published_at": "2026-08-30T09:56:05+00:00"
     },
     {
       "id": "d9340aeff2f228b5",
@@ -3166,7 +3166,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.51,
+      "final_score": 4.5,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -3199,7 +3199,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.45,
+      "final_score": 4.44,
       "published_at": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -3232,7 +3232,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.36,
+      "final_score": 4.35,
       "published_at": "2026-08-25T00:00:00+00:00"
     },
     {
@@ -3320,7 +3320,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.23,
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
@@ -3331,7 +3331,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.23,
       "published_at": "2026-08-23T19:29:32+00:00"
     },
     {
@@ -3342,7 +3342,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.21,
+      "final_score": 4.2,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -3397,7 +3397,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.95,
+      "final_score": 3.94,
       "published_at": "2026-08-20T21:40:39+00:00"
     },
     {
@@ -3474,7 +3474,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 3.86,
+      "final_score": 3.85,
       "published_at": "2026-08-20T00:00:00+00:00"
     },
     {
@@ -3496,7 +3496,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.79,
+      "final_score": 3.78,
       "published_at": "2026-08-19T07:10:00+00:00"
     },
     {
@@ -3573,7 +3573,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.56,
+      "final_score": 3.55,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -3639,7 +3639,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.32,
+      "final_score": 3.31,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
