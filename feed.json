@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:15:38.091336+00:00",
+  "generated_at": "2026-09-01T09:19:02.230561+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.61,
+      "final_score": 10.52,
       "published_at": "2026-08-27T14:05:19+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.61,
+      "final_score": 10.52,
       "published_at": "2026-08-27T14:06:26+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.55,
+      "final_score": 10.46,
       "published_at": "2026-08-26T23:47:02+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.37,
+      "final_score": 10.28,
       "published_at": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.3,
+      "final_score": 10.21,
       "published_at": "2026-08-24T11:30:54+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.11,
+      "final_score": 10.02,
       "published_at": "2026-08-22T14:28:41+00:00"
     },
     {
@@ -75,8 +75,30 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.11,
+      "final_score": 10.02,
       "published_at": "2026-08-22T13:42:32+00:00"
+    },
+    {
+      "id": "001d0ddadc404193",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "summary_nl": "Slimme herbestemming: van inbrekers spotten naar vogels herkennen. De maker gebruikte beelden van bestaande beveiligingscamera's en koppelde die aan BirdNET-Go, een open-source tool die vogelgeluiden herkent aan de hand van audio-analyse met een getraind AI-model. Het systeem luistert continu mee, herkent soorten op basis van hun geluid en logt automatisch welke vogels wanneer langskomen, zonder dat daar extra apparatuur voor nodig is. Inspirerend omdat het laat zien hoe je bestaande hardware met open-source software een heel nieuw doel kunt geven, puur uit nieuwsgierigheid naar de natuur in je eigen tuin. Wat je nodig heb: een camera of microfoon die al ergens buiten hangt, wat basiskennis van Docker of Linux-installaties, en een avondje prutstijd om BirdNET-Go aan de praat te krijgen (bron: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/).",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.93,
+      "published_at": "2026-08-31T16:47:11+00:00"
+    },
+    {
+      "id": "74a820aed9e86bff",
+      "title": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
+      "summary_nl": "Slides die zelf zeggen wanneer ze verouderd zijn: dat is de kern van SlideOps. De tool genereert presentaties direct vanuit een codebase en houdt bij of de onderliggende repo sindsdien is veranderd, zodat een slide een waarschuwing toont als de inhoud niet meer overeenkomt met de actuele code. Inspirerend omdat het een concreet antwoord biedt op een herkenbaar probleem: documentatie en presentaties die achterhaald raken zodra een project doorontwikkelt. Wat je nodig heb: een GitHub-repo om te koppelen, basiskennis van git en command line, en een uur om de tool te installeren en je eerste slidedeck te genereren. Zie de broncode en uitleg op https://github.com/glukicov/slideops.",
+      "url": "https://github.com/glukicov/slideops",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 9.91,
+      "published_at": "2026-08-31T12:15:10+00:00"
     },
     {
       "id": "49b4e1e499bbee0d",
@@ -86,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.95,
+      "final_score": 9.86,
       "published_at": "2026-08-21T00:13:39+00:00"
     },
     {
@@ -97,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.92,
+      "final_score": 9.83,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -108,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.85,
+      "final_score": 9.76,
       "published_at": "2026-08-29T22:31:56+00:00"
     },
     {
@@ -119,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.82,
+      "final_score": 9.73,
       "published_at": "2026-08-19T17:07:35+00:00"
     },
     {
@@ -130,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.76,
+      "final_score": 9.67,
       "published_at": "2026-08-29T01:24:13+00:00"
     },
     {
@@ -141,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.72,
+      "final_score": 9.63,
       "published_at": "2026-08-28T15:24:44+00:00"
     },
     {
@@ -152,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.62,
+      "final_score": 9.53,
       "published_at": "2026-08-17T15:56:14+00:00"
     },
     {
@@ -163,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.61,
+      "final_score": 9.52,
       "published_at": "2026-08-27T13:07:33+00:00"
     },
     {
@@ -174,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.54,
+      "final_score": 9.45,
       "published_at": "2026-08-26T20:37:12+00:00"
     },
     {
@@ -185,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.45,
+      "final_score": 9.36,
       "published_at": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -196,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.44,
+      "final_score": 9.35,
       "published_at": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -207,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.42,
+      "final_score": 9.33,
       "published_at": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -218,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.4,
+      "final_score": 9.31,
       "published_at": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -229,7 +251,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.37,
+      "final_score": 9.28,
       "published_at": "2026-08-25T03:56:26+00:00"
     },
     {
@@ -240,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.35,
+      "final_score": 9.26,
       "published_at": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -251,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.32,
+      "final_score": 9.23,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -262,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.29,
+      "final_score": 9.2,
       "published_at": "2026-08-14T09:51:11+00:00"
     },
     {
@@ -273,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.23,
+      "final_score": 9.14,
       "published_at": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -284,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.09,
+      "final_score": 9.0,
       "published_at": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -295,8 +317,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.05,
+      "final_score": 8.96,
       "published_at": "2026-08-21T23:09:06+00:00"
+    },
+    {
+      "id": "b638c78a358968e5",
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "summary_nl": "Loggen zonder gedoe: OpenTelemetry in Rails eindelijk goed ingeregeld. Dit artikel beschrijft hoe je OpenTelemetry-logs configureert in een Rails-applicatie, met concrete stappen voor de setup die logs, traces en metrics samenbrengt in één observability-stack. De slimme vondst zit in de praktische aanpak: geen abstracte theorie, maar een werkende configuratie die de bekende valkuilen bij het combineren van Rails-logging met OpenTelemetry omzeilt. Wat je nodig heb: een Rails-project, basiskennis van logging-frameworks en een uurtje of wat om de configuratie na te lopen en toe te passen op je eigen setup. Bron: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.95,
+      "published_at": "2026-08-31T21:12:22+00:00"
     },
     {
       "id": "51fd3e33a7af76fd",
@@ -306,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.02,
+      "final_score": 8.93,
       "published_at": "2026-08-21T16:27:52+00:00"
     },
     {
@@ -317,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.97,
+      "final_score": 8.87,
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
@@ -328,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.9,
+      "final_score": 8.81,
       "published_at": "2026-08-30T10:45:25+00:00"
     },
     {
@@ -339,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.9,
+      "final_score": 8.81,
       "published_at": "2026-08-30T11:35:01+00:00"
     },
     {
@@ -350,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.83,
+      "final_score": 8.74,
       "published_at": "2026-08-19T19:06:16+00:00"
     },
     {
@@ -361,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.78,
+      "final_score": 8.69,
       "published_at": "2026-08-29T06:33:51+00:00"
     },
     {
@@ -372,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.75,
+      "final_score": 8.66,
       "published_at": "2026-08-18T23:51:49+00:00"
     },
     {
@@ -383,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.75,
+      "final_score": 8.66,
       "published_at": "2026-08-18T23:08:56+00:00"
     },
     {
@@ -394,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.64,
       "published_at": "2026-08-28T19:14:14+00:00"
     },
     {
@@ -405,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.73,
+      "final_score": 8.63,
       "published_at": "2026-08-28T17:39:53+00:00"
     },
     {
@@ -416,7 +449,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.73,
+      "final_score": 8.63,
       "published_at": "2026-08-18T17:25:19+00:00"
     },
     {
@@ -427,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.72,
+      "final_score": 8.63,
       "published_at": "2026-08-28T16:31:56+00:00"
     },
     {
@@ -438,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.72,
+      "final_score": 8.63,
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
@@ -449,7 +482,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.72,
+      "final_score": 8.63,
       "published_at": "2026-08-28T15:38:33+00:00"
     },
     {
@@ -460,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.68,
+      "final_score": 8.59,
       "published_at": "2026-08-28T06:45:47+00:00"
     },
     {
@@ -471,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.66,
+      "final_score": 8.57,
       "published_at": "2026-08-28T01:27:49+00:00"
     },
     {
@@ -482,7 +515,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.62,
+      "final_score": 8.53,
       "published_at": "2026-08-27T16:37:44+00:00"
     },
     {
@@ -493,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.61,
+      "final_score": 8.52,
       "published_at": "2026-08-27T14:16:23+00:00"
     },
     {
@@ -504,7 +537,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.61,
+      "final_score": 8.52,
       "published_at": "2026-08-27T14:16:09+00:00"
     },
     {
@@ -515,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.61,
+      "final_score": 8.52,
       "published_at": "2026-08-27T13:17:31+00:00"
     },
     {
@@ -526,7 +559,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.58,
+      "final_score": 8.49,
       "published_at": "2026-08-27T06:38:27+00:00"
     },
     {
@@ -537,7 +570,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.55,
+      "final_score": 8.46,
       "published_at": "2026-08-26T22:42:48+00:00"
     },
     {
@@ -548,7 +581,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.43,
       "published_at": "2026-08-26T17:42:22+00:00"
     },
     {
@@ -559,7 +592,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.43,
       "published_at": "2026-08-26T17:28:21+00:00"
     },
     {
@@ -570,7 +603,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.51,
+      "final_score": 8.41,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -581,7 +614,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.49,
+      "final_score": 8.4,
       "published_at": "2026-08-26T08:39:17+00:00"
     },
     {
@@ -592,7 +625,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.48,
+      "final_score": 8.39,
       "published_at": "2026-08-26T06:09:58+00:00"
     },
     {
@@ -603,7 +636,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.46,
+      "final_score": 8.36,
       "published_at": "2026-08-26T00:48:03+00:00"
     },
     {
@@ -614,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.45,
+      "final_score": 8.36,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -625,7 +658,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.43,
+      "final_score": 8.34,
       "published_at": "2026-08-25T19:20:48+00:00"
     },
     {
@@ -636,7 +669,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.42,
+      "final_score": 8.33,
       "published_at": "2026-08-25T16:52:05+00:00"
     },
     {
@@ -647,7 +680,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.41,
+      "final_score": 8.32,
       "published_at": "2026-08-15T14:22:20+00:00"
     },
     {
@@ -658,7 +691,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.41,
+      "final_score": 8.32,
       "published_at": "2026-08-25T13:36:11+00:00"
     },
     {
@@ -669,7 +702,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.4,
+      "final_score": 8.31,
       "published_at": "2026-08-25T11:47:43+00:00"
     },
     {
@@ -680,7 +713,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.37,
+      "final_score": 8.28,
       "published_at": "2026-08-25T04:33:24+00:00"
     },
     {
@@ -691,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.34,
+      "final_score": 8.25,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -702,7 +735,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.32,
+      "final_score": 8.23,
       "published_at": "2026-08-14T16:36:10+00:00"
     },
     {
@@ -713,7 +746,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.32,
+      "final_score": 8.22,
       "published_at": "2026-08-24T14:53:22+00:00"
     },
     {
@@ -724,7 +757,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.31,
+      "final_score": 8.22,
       "published_at": "2026-08-24T13:38:40+00:00"
     },
     {
@@ -735,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.31,
+      "final_score": 8.22,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -746,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.29,
+      "final_score": 8.2,
       "published_at": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -757,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.28,
+      "final_score": 8.19,
       "published_at": "2026-08-24T06:25:31+00:00"
     },
     {
@@ -768,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.25,
+      "final_score": 8.15,
       "published_at": "2026-08-23T22:06:14+00:00"
     },
     {
@@ -779,7 +812,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.15,
       "published_at": "2026-08-23T21:36:25+00:00"
     },
     {
@@ -790,7 +823,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.15,
       "published_at": "2026-08-23T21:14:28+00:00"
     },
     {
@@ -801,7 +834,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.23,
+      "final_score": 8.14,
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
@@ -812,7 +845,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.19,
+      "final_score": 8.1,
       "published_at": "2026-08-23T10:02:51+00:00"
     },
     {
@@ -823,7 +856,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.18,
+      "final_score": 8.09,
       "published_at": "2026-08-13T06:43:24+00:00"
     },
     {
@@ -834,7 +867,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.18,
+      "final_score": 8.08,
       "published_at": "2026-08-23T05:38:43+00:00"
     },
     {
@@ -845,8 +878,19 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.12,
+      "final_score": 8.03,
       "published_at": "2026-08-22T15:47:49+00:00"
+    },
+    {
+      "id": "8dadbbaf0669e852",
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "summary_nl": "DoltLite: als SQLite en Git een kind zouden krijgen. DoltHub heeft een fork van SQLite gebouwd die versiebeheer op de manier van Git direct in de database inbakt, zodat je wijzigingen kunt committen, branchen en samenvoegen zoals je dat met code doet. Het bijzondere is niet alleen de functionaliteit maar ook hoe het tot stand kwam: het project is grotendeels gebouwd via ongeveer 2000 pull requests van AI-agents, een concrete illustratie van hoe softwareontwikkeling met agent-samenwerking er in de praktijk uitziet. Inspirerend omdat het laat zien dat complexe, technische software inmiddels grootschalig door AI-agents kan worden opgebouwd zonder dat de kwaliteit inlevert op een gespecialiseerd domein als databases. Wat je nodig hebt: basiskennis van SQLite en Git-concepten (commits, branches, merges) om de meerwaarde te begrijpen, en als je het zelf w",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.97,
+      "published_at": "2026-09-01T01:25:40+00:00"
     },
     {
       "id": "89a0e1bad7861b41",
@@ -856,7 +900,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.04,
+      "final_score": 7.95,
       "published_at": "2026-08-21T21:46:56+00:00"
     },
     {
@@ -867,7 +911,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.02,
+      "final_score": 7.93,
       "published_at": "2026-08-21T15:44:40+00:00"
     },
     {
@@ -878,7 +922,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.01,
+      "final_score": 7.92,
       "published_at": "2026-08-21T14:31:52+00:00"
     },
     {
@@ -889,8 +933,19 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.0,
+      "final_score": 7.9,
       "published_at": "2026-08-21T10:12:54+00:00"
+    },
+    {
+      "id": "73e4a328b3cf4289",
+      "title": "My LLM Critic Flip-Flops on Every Run. That's Fine — Because a Frozenset Decides What's Fatal.",
+      "summary_nl": "Twijfelende AI-criticus? Geen probleem, als de regels maar vaststaan. Dit artikel bouwt voort op de PlannerCritic-serie en laat zien hoe een LLM die als criticus fungeert bij elke run andere oordelen kan geven over dezelfde plannen, zonder dat dit een probleem vormt voor de betrouwbaarheid van het systeem. De truc zit in een vaste, onveranderlijke set (een frozenset) die precies definieert welke fouten fataal zijn, waardoor de inconsistente output van het taalmodel wordt opgevangen door een strikte, deterministische laag daaromheen. Inspirerend omdat het laat zien dat je onvoorspelbaar gedrag van LLM's kunt combineren met betrouwbare besluitvorming door de architectuur eromheen slim te ontwerpen, in plaats van te vertrouwen op consistente AI-output. Wat je nodig hebt: ervaring met Python, basiskennis van LLM-integraties en enige bekendheid met het ontwerpen van validatielagen rond AI-systemen; het artikel zelf is in een kwartier te lezen. Bron: https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9",
+      "url": "https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.9,
+      "published_at": "2026-08-31T08:09:45+00:00"
     },
     {
       "id": "ec3f36b4902a2296",
@@ -900,7 +955,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.99,
+      "final_score": 7.89,
       "published_at": "2026-08-31T07:49:18+00:00"
     },
     {
@@ -911,7 +966,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.97,
+      "final_score": 7.88,
       "published_at": "2026-08-31T03:20:33+00:00"
     },
     {
@@ -922,7 +977,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.96,
+      "final_score": 7.86,
       "published_at": "2026-08-21T00:42:33+00:00"
     },
     {
@@ -933,7 +988,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.93,
+      "final_score": 7.84,
       "published_at": "2026-08-30T18:10:46+00:00"
     },
     {
@@ -944,7 +999,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.92,
+      "final_score": 7.83,
       "published_at": "2026-08-20T15:26:02+00:00"
     },
     {
@@ -955,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.91,
+      "final_score": 7.82,
       "published_at": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -966,7 +1021,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.88,
+      "final_score": 7.79,
       "published_at": "2026-08-30T06:52:04+00:00"
     },
     {
@@ -977,7 +1032,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.83,
+      "final_score": 7.74,
       "published_at": "2026-08-29T19:15:51+00:00"
     },
     {
@@ -988,7 +1043,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.83,
+      "final_score": 7.74,
       "published_at": "2026-08-19T18:36:45+00:00"
     },
     {
@@ -999,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.83,
+      "final_score": 7.74,
       "published_at": "2026-08-29T18:04:02+00:00"
     },
     {
@@ -1010,7 +1065,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.81,
+      "final_score": 7.72,
       "published_at": "2026-08-19T13:42:51+00:00"
     },
     {
@@ -1021,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.81,
+      "final_score": 7.72,
       "published_at": "2026-08-19T13:34:06+00:00"
     },
     {
@@ -1032,7 +1087,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.76,
+      "final_score": 7.67,
       "published_at": "2026-08-19T01:58:33+00:00"
     },
     {
@@ -1043,7 +1098,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.75,
+      "final_score": 7.66,
       "published_at": "2026-08-18T23:57:36+00:00"
     },
     {
@@ -1054,7 +1109,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.75,
+      "final_score": 7.66,
       "published_at": "2026-08-28T23:02:21+00:00"
     },
     {
@@ -1065,7 +1120,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.74,
+      "final_score": 7.65,
       "published_at": "2026-08-18T21:14:21+00:00"
     },
     {
@@ -1076,7 +1131,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.74,
+      "final_score": 7.65,
       "published_at": "2026-08-18T20:42:19+00:00"
     },
     {
@@ -1087,7 +1142,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.73,
+      "final_score": 7.64,
       "published_at": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -1098,7 +1153,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.73,
+      "final_score": 7.64,
       "published_at": "2026-08-28T18:03:04+00:00"
     },
     {
@@ -1109,7 +1164,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.72,
+      "final_score": 7.63,
       "published_at": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -1120,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.72,
+      "final_score": 7.63,
       "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
@@ -1131,7 +1186,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.72,
+      "final_score": 7.62,
       "published_at": "2026-08-28T14:59:15+00:00"
     },
     {
@@ -1142,7 +1197,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.71,
+      "final_score": 7.62,
       "published_at": "2026-08-18T14:29:20+00:00"
     },
     {
@@ -1153,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.71,
+      "final_score": 7.62,
       "published_at": "2026-08-28T14:23:27+00:00"
     },
     {
@@ -1164,7 +1219,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.71,
+      "final_score": 7.62,
       "published_at": "2026-08-28T14:00:29+00:00"
     },
     {
@@ -1175,7 +1230,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.7,
+      "final_score": 7.61,
       "published_at": "2026-08-18T12:22:58+00:00"
     },
     {
@@ -1186,7 +1241,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.7,
+      "final_score": 7.61,
       "published_at": "2026-08-18T12:05:57+00:00"
     },
     {
@@ -1197,7 +1252,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.7,
+      "final_score": 7.61,
       "published_at": "2026-08-18T11:06:36+00:00"
     },
     {
@@ -1208,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.65,
+      "final_score": 7.56,
       "published_at": "2026-08-27T22:34:32+00:00"
     },
     {
@@ -1219,7 +1274,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.63,
+      "final_score": 7.54,
       "published_at": "2026-08-17T18:33:38+00:00"
     },
     {
@@ -1230,7 +1285,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.63,
+      "final_score": 7.54,
       "published_at": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -1241,7 +1296,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.63,
+      "final_score": 7.53,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -1252,7 +1307,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.61,
+      "final_score": 7.52,
       "published_at": "2026-08-27T14:45:23+00:00"
     },
     {
@@ -1263,7 +1318,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.61,
+      "final_score": 7.52,
       "published_at": "2026-08-27T14:39:21+00:00"
     },
     {
@@ -1274,7 +1329,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.61,
+      "final_score": 7.52,
       "published_at": "2026-08-27T14:50:59+00:00"
     },
     {
@@ -1285,7 +1340,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.61,
+      "final_score": 7.52,
       "published_at": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -1296,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.61,
+      "final_score": 7.52,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -1307,7 +1362,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.53,
+      "final_score": 7.43,
       "published_at": "2026-08-16T17:40:33+00:00"
     },
     {
@@ -1318,7 +1373,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.51,
+      "final_score": 7.42,
       "published_at": "2026-08-16T13:45:27+00:00"
     },
     {
@@ -1329,7 +1384,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.49,
+      "final_score": 7.39,
       "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
@@ -1340,7 +1395,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.46,
+      "final_score": 7.37,
       "published_at": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -1351,7 +1406,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.45,
+      "final_score": 7.36,
       "published_at": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -1362,7 +1417,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.44,
+      "final_score": 7.35,
       "published_at": "2026-08-25T21:43:37+00:00"
     },
     {
@@ -1373,7 +1428,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.43,
+      "final_score": 7.33,
       "published_at": "2026-08-25T17:23:07+00:00"
     },
     {
@@ -1384,7 +1439,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.38,
+      "final_score": 7.29,
       "published_at": "2026-08-25T07:32:11+00:00"
     },
     {
@@ -1395,7 +1450,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.37,
+      "final_score": 7.28,
       "published_at": "2026-08-15T04:47:37+00:00"
     },
     {
@@ -1406,7 +1461,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.37,
+      "final_score": 7.28,
       "published_at": "2026-08-25T04:02:30+00:00"
     },
     {
@@ -1417,7 +1472,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.35,
+      "final_score": 7.26,
       "published_at": "2026-08-24T22:45:24+00:00"
     },
     {
@@ -1428,7 +1483,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.33,
+      "final_score": 7.24,
       "published_at": "2026-08-14T18:52:48+00:00"
     },
     {
@@ -1439,7 +1494,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.33,
+      "final_score": 7.24,
       "published_at": "2026-08-14T18:36:28+00:00"
     },
     {
@@ -1450,7 +1505,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.33,
+      "final_score": 7.24,
       "published_at": "2026-08-24T18:07:00+00:00"
     },
     {
@@ -1461,7 +1516,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.32,
+      "final_score": 7.23,
       "published_at": "2026-08-14T16:55:48+00:00"
     },
     {
@@ -1472,7 +1527,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.32,
+      "final_score": 7.23,
       "published_at": "2026-08-14T16:15:21+00:00"
     },
     {
@@ -1483,7 +1538,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.32,
+      "final_score": 7.23,
       "published_at": "2026-08-24T16:15:10+00:00"
     },
     {
@@ -1494,7 +1549,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.32,
+      "final_score": 7.23,
       "published_at": "2026-08-24T16:08:17+00:00"
     },
     {
@@ -1505,7 +1560,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.32,
+      "final_score": 7.23,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -1516,7 +1571,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.32,
+      "final_score": 7.22,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -1527,7 +1582,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.31,
+      "final_score": 7.22,
       "published_at": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -1538,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.31,
+      "final_score": 7.22,
       "published_at": "2026-08-24T13:17:11+00:00"
     },
     {
@@ -1549,7 +1604,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.3,
+      "final_score": 7.21,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -1560,7 +1615,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.27,
+      "final_score": 7.18,
       "published_at": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -1571,7 +1626,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.26,
+      "final_score": 7.17,
       "published_at": "2026-08-24T01:33:14+00:00"
     },
     {
@@ -1582,7 +1637,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.26,
+      "final_score": 7.16,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -1593,7 +1648,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.25,
+      "final_score": 7.16,
       "published_at": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -1604,7 +1659,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.24,
+      "final_score": 7.15,
       "published_at": "2026-08-13T21:36:19+00:00"
     },
     {
@@ -1615,7 +1670,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.21,
+      "final_score": 7.12,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -1626,7 +1681,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.21,
+      "final_score": 7.12,
       "published_at": "2026-08-23T14:18:14+00:00"
     },
     {
@@ -1637,7 +1692,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.21,
+      "final_score": 7.12,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -1648,7 +1703,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.21,
+      "final_score": 7.11,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -1659,7 +1714,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.21,
+      "final_score": 7.11,
       "published_at": "2026-08-13T12:36:34+00:00"
     },
     {
@@ -1670,8 +1725,30 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.13,
+      "final_score": 7.04,
       "published_at": "2026-08-22T18:43:03+00:00"
+    },
+    {
+      "id": "87aadcd4ed8bf0b5",
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "summary_nl": "Een draaischijftelefoon die gewoon weer belt, maar dan via het mobiele netwerk: dat is RotaryCell in een notendop. Het project bouwt een ESP32-S3 module die de originele elektronica van een ongewijzigde rotary phone aanstuurt, zodat de vertrouwde pulskiezer en beltoon blijven werken terwijl de verbinding zelf over LTE loopt. De slimme vondst is dat er niets aan het oude toestel gesleuteld wordt: de microcontroller vertaalt de mechanische signalen naar iets dat een modern netwerk begrijpt, waardoor je geen analoge telefoonlijn meer nodig hebt. Inspirerend omdat het laat zien hoe je verouderde hardware zonder te knoeien opnieuw inzetbaar maakt met goedkope, moderne chips. Wat je nodig hebt: een ESP32-S3 board, wat kennis van embedded programmeren en elektronica, een LTE-module en een oude draaischijftelefoon om op aan te sluiten, zie https://github.com/fregacmols/RotaryCell.",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.97,
+      "published_at": "2026-09-01T02:29:23+00:00"
+    },
+    {
+      "id": "a1042d5ada06e242",
+      "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+      "summary_nl": "Meer denktijd op aanvraag: Google Antigravity's nieuwe Boost-functie\n\nGoogle Antigravity heeft een functie geïntroduceerd genaamd Boost, die je via het commando /boost kunt activeren om het model dieper te laten redeneren bij complexere vraagstukken. In plaats van elke keer de standaardhoeveelheid rekenkracht en overwegingstijd te gebruiken, kun je zo gericht kiezen voor een grondigere analyse wanneer een taak dat vereist, zonder dat je constant op het zwaarste model hoeft te leunen. Wat je nodig hebt: toegang tot Google Antig",
+      "url": "https://antigravity.google/docs/boost/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.97,
+      "published_at": "2026-09-01T03:05:55+00:00"
     },
     {
       "id": "b6b19054922dcfeb",
@@ -1681,7 +1758,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.04,
+      "final_score": 6.95,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -1692,7 +1769,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.04,
+      "final_score": 6.94,
       "published_at": "2026-08-21T19:51:54+00:00"
     },
     {
@@ -1703,8 +1780,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.03,
+      "final_score": 6.94,
       "published_at": "2026-08-21T19:18:09+00:00"
+    },
+    {
+      "id": "c63d155c4f4411a8",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "summary_nl": "Een complete cyberpunkstad, opgebouwd uit ASCII-tekens, die je kunt doorlopen vanuit één enkel HTML-bestand. Het idee is simpel maar effectief: geen game-engine, geen externe dependencies, gewoon een browser die tekstkarakters rendert tot een sfeervolle, wandelbare wereld met neonachtige uitstraling. De maker laat zien hoe ver je kunt komen met minimale middelen als je creatief omgaat met rendering en beweging in canvas of DOM. Inspirerend omdat het bewijst dat sfeer en interactiviteit niet afhankelijk zijn van zware frameworks of grafische assets. Wat je nodig hebt: basiskennis van HTML/JavaScript en canvas-rendering, en een avond om de broncode te bekijken en na te bouwen. Bron: https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.94,
+      "published_at": "2026-08-31T18:21:33+00:00"
     },
     {
       "id": "95858bc435b00ce5",
@@ -1714,8 +1802,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.02,
+      "final_score": 6.93,
       "published_at": "2026-08-21T15:21:10+00:00"
+    },
+    {
+      "id": "411a1b432da32f8b",
+      "title": "Agent memory as a file format",
+      "summary_nl": "Geheugen voor AI-agents als bestandsformaat: waarom niet gewoon opslaan zoals we dat al decennia doen? Cal Paterson beschrijft hoe agentgeheugen vaak wordt behandeld als iets exotisch, terwijl het in de kern neerkomt op gestructureerde data die je net zo goed in een simpel, open bestandsformaat kunt vastleggen, los van de onderliggende AI-tooling. Inspirerend omdat het een tegengeluid biedt tegen de trend om alles rond agents proprietary en complex te maken, en in plaats daarvan pleit voor eenvoud en overdraagbaarheid. Wat je nodig heb: basiskennis van bestandsformaten en dataopslag, en een uurtje om het artikel te lezen en te overdenken hoe dit zich verhoudt tot je eigen agent-projecten. Bron: https://calpaterson.com/memoryfields.html",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.91,
+      "published_at": "2026-08-31T11:17:25+00:00"
     },
     {
       "id": "41ce03e660b1ac99",
@@ -1725,7 +1824,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.99,
+      "final_score": 6.9,
       "published_at": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -1736,7 +1835,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.96,
+      "final_score": 6.87,
       "published_at": "2026-08-21T01:53:43+00:00"
     },
     {
@@ -1747,7 +1846,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.95,
+      "final_score": 6.86,
       "published_at": "2026-08-20T23:14:34+00:00"
     },
     {
@@ -1758,7 +1857,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.95,
+      "final_score": 6.86,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -1769,7 +1868,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.93,
+      "final_score": 6.84,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -1780,7 +1879,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
+      "final_score": 6.82,
       "published_at": "2026-08-20T14:38:45+00:00"
     },
     {
@@ -1791,7 +1890,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
+      "final_score": 6.82,
       "published_at": "2026-08-20T14:38:28+00:00"
     },
     {
@@ -1802,7 +1901,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
+      "final_score": 6.82,
       "published_at": "2026-08-20T13:40:06+00:00"
     },
     {
@@ -1813,7 +1912,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.91,
+      "final_score": 6.82,
       "published_at": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -1824,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.9,
+      "final_score": 6.81,
       "published_at": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -1835,7 +1934,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.9,
+      "final_score": 6.81,
       "published_at": "2026-08-30T11:13:32+00:00"
     },
     {
@@ -1846,7 +1945,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.8,
+      "final_score": 6.71,
       "published_at": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -1857,7 +1956,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.74,
+      "final_score": 6.65,
       "published_at": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -1868,7 +1967,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.74,
+      "final_score": 6.64,
       "published_at": "2026-08-28T19:55:47+00:00"
     },
     {
@@ -1879,7 +1978,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.72,
+      "final_score": 6.63,
       "published_at": "2026-08-18T16:08:34+00:00"
     },
     {
@@ -1890,7 +1989,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.72,
+      "final_score": 6.63,
       "published_at": "2026-08-28T15:42:04+00:00"
     },
     {
@@ -1901,7 +2000,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.72,
+      "final_score": 6.63,
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
@@ -1912,7 +2011,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.71,
+      "final_score": 6.62,
       "published_at": "2026-08-28T14:07:24+00:00"
     },
     {
@@ -1923,7 +2022,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.71,
+      "final_score": 6.62,
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
@@ -1934,7 +2033,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.71,
+      "final_score": 6.62,
       "published_at": "2026-08-28T13:05:49+00:00"
     },
     {
@@ -1945,7 +2044,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.71,
+      "final_score": 6.62,
       "published_at": "2026-08-28T13:21:03+00:00"
     },
     {
@@ -1956,7 +2055,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.65,
+      "final_score": 6.56,
       "published_at": "2026-08-28T00:06:51+00:00"
     },
     {
@@ -1967,7 +2066,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.65,
+      "final_score": 6.56,
       "published_at": "2026-08-27T22:41:11+00:00"
     },
     {
@@ -1978,7 +2077,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.64,
+      "final_score": 6.55,
       "published_at": "2026-08-27T21:18:35+00:00"
     },
     {
@@ -1989,7 +2088,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.63,
+      "final_score": 6.54,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -2000,7 +2099,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.63,
+      "final_score": 6.53,
       "published_at": "2026-08-27T17:17:57+00:00"
     },
     {
@@ -2011,7 +2110,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.62,
+      "final_score": 6.53,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -2022,7 +2121,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.61,
+      "final_score": 6.52,
       "published_at": "2026-08-17T14:24:01+00:00"
     },
     {
@@ -2033,7 +2132,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.61,
+      "final_score": 6.52,
       "published_at": "2026-08-17T14:20:00+00:00"
     },
     {
@@ -2044,7 +2143,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.61,
+      "final_score": 6.52,
       "published_at": "2026-08-17T14:18:38+00:00"
     },
     {
@@ -2055,7 +2154,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.61,
+      "final_score": 6.52,
       "published_at": "2026-08-27T13:21:53+00:00"
     },
     {
@@ -2066,7 +2165,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.59,
+      "final_score": 6.5,
       "published_at": "2026-08-27T08:59:49+00:00"
     },
     {
@@ -2077,7 +2176,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.53,
+      "final_score": 6.43,
       "published_at": "2026-08-26T17:28:46+00:00"
     },
     {
@@ -2088,7 +2187,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.52,
+      "final_score": 6.43,
       "published_at": "2026-08-16T17:13:22+00:00"
     },
     {
@@ -2099,7 +2198,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.47,
+      "final_score": 6.38,
       "published_at": "2026-08-16T04:02:38+00:00"
     },
     {
@@ -2110,7 +2209,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.46,
+      "final_score": 6.37,
       "published_at": "2026-08-16T02:12:53+00:00"
     },
     {
@@ -2121,7 +2220,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.43,
+      "final_score": 6.34,
       "published_at": "2026-08-25T19:11:50+00:00"
     },
     {
@@ -2132,7 +2231,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.42,
+      "final_score": 6.33,
       "published_at": "2026-08-25T16:35:36+00:00"
     },
     {
@@ -2143,7 +2242,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.41,
+      "final_score": 6.32,
       "published_at": "2026-08-15T14:23:15+00:00"
     },
     {
@@ -2154,7 +2253,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.35,
+      "final_score": 6.26,
       "published_at": "2026-08-24T23:23:06+00:00"
     },
     {
@@ -2165,7 +2264,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.32,
+      "final_score": 6.23,
       "published_at": "2026-08-14T16:57:14+00:00"
     },
     {
@@ -2176,7 +2275,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.3,
+      "final_score": 6.21,
       "published_at": "2026-08-24T12:17:58+00:00"
     },
     {
@@ -2187,7 +2286,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.27,
+      "final_score": 6.17,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -2198,7 +2297,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.22,
+      "final_score": 6.13,
       "published_at": "2026-08-23T16:07:22+00:00"
     },
     {
@@ -2209,7 +2308,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.21,
+      "final_score": 6.12,
       "published_at": "2026-08-23T14:23:09+00:00"
     },
     {
@@ -2220,7 +2319,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.14,
+      "final_score": 6.05,
       "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
@@ -2231,7 +2330,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.13,
+      "final_score": 6.04,
       "published_at": "2026-08-22T18:14:16+00:00"
     },
     {
@@ -2242,7 +2341,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.13,
+      "final_score": 6.04,
       "published_at": "2026-08-22T18:11:40+00:00"
     },
     {
@@ -2253,7 +2352,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.13,
+      "final_score": 6.04,
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
@@ -2264,7 +2363,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.13,
+      "final_score": 6.03,
       "published_at": "2026-08-22T17:23:29+00:00"
     },
     {
@@ -2275,7 +2374,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.12,
+      "final_score": 6.03,
       "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
@@ -2286,8 +2385,19 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 6.07,
+      "final_score": 5.98,
       "published_at": "2026-07-13T05:13:00+00:00"
+    },
+    {
+      "id": "59e9b0d6490a589d",
+      "title": "Show HN: Markdown Viewer and Editor",
+      "summary_nl": "Een markdown-tool zonder poespas: soms is dat precies wat je zoekt. Deze viewer en editor doet wat de naam belooft, je schrijft of leest markdown-bestanden in een schone webinterface, zonder account, zonder overbodige functies die je toch niet gebruikt. Wat je nodig hebt: een browser, verder niets, het draait direct in je browser en er is geen installatie of technische kennis vereist. Handig als je regelmatig readme's of notities beheert en geen zin hebt in zware applicaties. Bekijk het zelf via https://kingsbridge-consultancy.com/md-viewer/.",
+      "url": "https://kingsbridge-consultancy.com/md-viewer/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.95,
+      "published_at": "2026-08-31T20:55:03+00:00"
     },
     {
       "id": "a79dfef8377c6c2f",
@@ -2297,7 +2407,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.03,
+      "final_score": 5.93,
       "published_at": "2026-08-21T17:40:07+00:00"
     },
     {
@@ -2308,8 +2418,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.0,
+      "final_score": 5.91,
       "published_at": "2026-08-21T10:33:56+00:00"
+    },
+    {
+      "id": "333e22cb1950c993",
+      "title": "Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU",
+      "summary_nl": "Een gratis alternatief voor dure sample-library plugins, gebouwd door en voor muzikanten die zelf de tools willen bepalen. Floe is een open-source instrumentplugin die werkt met de gangbare formaten CLAP, VST3 en AU, en waarmee je bestaande sample libraries kunt laden en bespelen zonder afhankelijk te zijn van een gesloten commercieel ecosysteem. De broncode is vrij beschikbaar, wat betekent dat ontwikkelaars kunnen meebouwen en dat de plugin blijft bestaan ongeacht het lot van een los bedrijf. Wat je nodig hebt: een DAW die CLAP, VST3 of AU ondersteunt, wat basiskennis van pluginbeheer, en eigen sample libraries om mee te werken; installatie en eerste gebruik kosten doorgaans niet meer dan een uur.",
+      "url": "https://floe.audio/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 6,
+      "final_score": 5.9,
+      "published_at": "2026-08-31T10:11:39+00:00"
     },
     {
       "id": "32e6db75772382cb",
@@ -2319,7 +2440,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.98,
+      "final_score": 5.89,
       "published_at": "2026-08-21T06:24:16+00:00"
     },
     {
@@ -2330,7 +2451,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.98,
+      "final_score": 5.89,
       "published_at": "2026-08-31T06:03:02+00:00"
     },
     {
@@ -2341,7 +2462,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.91,
+      "final_score": 5.82,
       "published_at": "2026-08-30T14:13:01+00:00"
     },
     {
@@ -2352,7 +2473,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.86,
+      "final_score": 5.77,
       "published_at": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -2363,7 +2484,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.85,
+      "final_score": 5.76,
       "published_at": "2026-08-20T00:18:16+00:00"
     },
     {
@@ -2374,7 +2495,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.84,
+      "final_score": 5.74,
       "published_at": "2026-08-29T19:52:37+00:00"
     },
     {
@@ -2385,7 +2506,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.74,
       "published_at": "2026-08-29T19:33:23+00:00"
     },
     {
@@ -2396,7 +2517,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.74,
       "published_at": "2026-08-29T19:28:28+00:00"
     },
     {
@@ -2407,7 +2528,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.83,
+      "final_score": 5.74,
       "published_at": "2026-08-29T19:01:09+00:00"
     },
     {
@@ -2418,7 +2539,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.82,
+      "final_score": 5.73,
       "published_at": "2026-08-19T16:29:02+00:00"
     },
     {
@@ -2429,7 +2550,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.82,
+      "final_score": 5.73,
       "published_at": "2026-08-19T16:25:37+00:00"
     },
     {
@@ -2440,7 +2561,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.82,
+      "final_score": 5.73,
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
@@ -2451,7 +2572,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.82,
+      "final_score": 5.72,
       "published_at": "2026-08-19T15:11:36+00:00"
     },
     {
@@ -2462,7 +2583,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.81,
+      "final_score": 5.72,
       "published_at": "2026-08-19T13:41:10+00:00"
     },
     {
@@ -2473,7 +2594,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.8,
+      "final_score": 5.7,
       "published_at": "2026-08-19T10:15:00+00:00"
     },
     {
@@ -2484,7 +2605,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.76,
+      "final_score": 5.67,
       "published_at": "2026-08-19T02:41:50+00:00"
     },
     {
@@ -2495,7 +2616,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.75,
+      "final_score": 5.66,
       "published_at": "2026-08-28T23:27:45+00:00"
     },
     {
@@ -2506,7 +2627,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.75,
+      "final_score": 5.65,
       "published_at": "2026-08-18T22:22:41+00:00"
     },
     {
@@ -2517,7 +2638,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.72,
+      "final_score": 5.63,
       "published_at": "2026-08-18T15:46:46+00:00"
     },
     {
@@ -2528,7 +2649,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.72,
+      "final_score": 5.62,
       "published_at": "2026-08-18T15:06:11+00:00"
     },
     {
@@ -2539,7 +2660,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.72,
+      "final_score": 5.62,
       "published_at": "2026-08-28T15:16:07+00:00"
     },
     {
@@ -2550,7 +2671,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.71,
+      "final_score": 5.62,
       "published_at": "2026-08-28T13:28:56+00:00"
     },
     {
@@ -2561,7 +2682,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.7,
+      "final_score": 5.61,
       "published_at": "2026-08-28T11:52:11+00:00"
     },
     {
@@ -2572,7 +2693,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.65,
+      "final_score": 5.55,
       "published_at": "2026-08-27T22:24:31+00:00"
     },
     {
@@ -2583,7 +2704,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.63,
+      "final_score": 5.54,
       "published_at": "2026-08-17T18:26:04+00:00"
     },
     {
@@ -2594,7 +2715,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.63,
+      "final_score": 5.53,
       "published_at": "2026-08-17T17:39:02+00:00"
     },
     {
@@ -2605,7 +2726,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.61,
+      "final_score": 5.52,
       "published_at": "2026-08-17T13:56:38+00:00"
     },
     {
@@ -2616,7 +2737,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.61,
+      "final_score": 5.52,
       "published_at": "2026-08-27T13:22:36+00:00"
     },
     {
@@ -2627,7 +2748,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.56,
+      "final_score": 5.47,
       "published_at": "2026-08-27T01:50:26+00:00"
     },
     {
@@ -2638,7 +2759,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.56,
+      "final_score": 5.47,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -2649,7 +2770,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.54,
+      "final_score": 5.44,
       "published_at": "2026-08-26T19:45:59+00:00"
     },
     {
@@ -2660,7 +2781,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.53,
+      "final_score": 5.44,
       "published_at": "2026-08-16T18:17:10+00:00"
     },
     {
@@ -2671,7 +2792,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.52,
+      "final_score": 5.42,
       "published_at": "2026-08-26T15:07:44+00:00"
     },
     {
@@ -2682,7 +2803,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.45,
+      "final_score": 5.35,
       "published_at": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -2693,7 +2814,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.43,
+      "final_score": 5.34,
       "published_at": "2026-08-15T18:50:19+00:00"
     },
     {
@@ -2704,7 +2825,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.42,
+      "final_score": 5.33,
       "published_at": "2026-08-25T16:30:55+00:00"
     },
     {
@@ -2715,7 +2836,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.41,
+      "final_score": 5.32,
       "published_at": "2026-08-15T14:11:53+00:00"
     },
     {
@@ -2726,7 +2847,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.41,
+      "final_score": 5.32,
       "published_at": "2026-08-15T13:43:46+00:00"
     },
     {
@@ -2737,7 +2858,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.37,
+      "final_score": 5.28,
       "published_at": "2026-08-15T04:42:07+00:00"
     },
     {
@@ -2748,7 +2869,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.36,
+      "final_score": 5.27,
       "published_at": "2026-08-15T02:42:14+00:00"
     },
     {
@@ -2759,7 +2880,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.33,
+      "final_score": 5.24,
       "published_at": "2026-08-24T18:21:17+00:00"
     },
     {
@@ -2770,7 +2891,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.33,
+      "final_score": 5.23,
       "published_at": "2026-08-24T17:21:20+00:00"
     },
     {
@@ -2781,7 +2902,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.32,
+      "final_score": 5.23,
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -2792,7 +2913,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.32,
+      "final_score": 5.22,
       "published_at": "2026-08-24T14:57:45+00:00"
     },
     {
@@ -2803,7 +2924,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.31,
+      "final_score": 5.22,
       "published_at": "2026-08-24T14:15:38+00:00"
     },
     {
@@ -2814,7 +2935,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.23,
+      "final_score": 5.13,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -2825,7 +2946,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.2,
+      "final_score": 5.11,
       "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
@@ -2836,7 +2957,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.19,
+      "final_score": 5.1,
       "published_at": "2026-08-23T09:27:40+00:00"
     },
     {
@@ -2847,7 +2968,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.15,
+      "final_score": 5.05,
       "published_at": "2026-08-22T22:14:27+00:00"
     },
     {
@@ -2858,7 +2979,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 5.12,
+      "final_score": 5.03,
       "published_at": "2026-07-13T15:56:02+00:00"
     },
     {
@@ -2869,7 +2990,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.02,
+      "final_score": 4.93,
       "published_at": "2026-08-21T16:47:15+00:00"
     },
     {
@@ -2880,7 +3001,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.02,
+      "final_score": 4.93,
       "published_at": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -2891,8 +3012,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.01,
+      "final_score": 4.92,
       "published_at": "2026-08-21T14:31:56+00:00"
+    },
+    {
+      "id": "ba94006d8e38dcee",
+      "title": "The Highway Is a Pasture",
+      "summary_nl": "De snelweg als weiland: muziek die meebeweegt met je rit. De maker bouwde een telemetrie-bewuste muziekengine, een systeem dat rijdata zoals snelheid, versnelling en wegdek gebruikt om de muziek live aan te passen aan het rijgedrag. Vervolgens probeerde hij bewust zijn eigen aanname te ontkrachten, in plaats van die klakkeloos te bevestigen, om te zien of het gevoel van \"muziek die klopt bij de weg\" ook data-technisch standhield. Inspirerend omdat het laat zien hoe je eigen intuïtie als hypothese behandelt en die serieus test in plaats van te verdedigen. Wat je nodig hebt: kennis van telemetrie-data en audio-programmering (bijvoorbeeld met Python of een audio-engine als Pure Data), een auto of simulator om ritdata te verzamelen, en enkele weken experimenteertijd. Bron: https",
+      "url": "https://dev.to/hiepler/the-highway-is-a-pasture-4blp",
+      "source": "devto",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.92,
+      "published_at": "2026-08-31T13:35:37+00:00"
     },
     {
       "id": "d45be44955c7855b",
@@ -2902,7 +3034,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.01,
+      "final_score": 4.91,
       "published_at": "2026-08-21T12:52:25+00:00"
     },
     {
@@ -2913,8 +3045,30 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.0,
+      "final_score": 4.91,
       "published_at": "2026-08-21T11:56:39+00:00"
+    },
+    {
+      "id": "42a3de9e5cbf8856",
+      "title": "Malleable software = solid bases and custom code",
+      "summary_nl": "Software die zich naar jou plooit, niet omgekeerd. De auteur beschrijft een aanpak waarbij je stevige, kant-en-klare basissoftware combineert met kleine stukjes maatwerkcode, zodat je een tool niet hoeft te vervangen zodra hij net niet past, maar hem gewoon bijschaaft. Het idee is dat de solide basis de zware, foutgevoelige onderdelen afvangt, terwijl jij zelf de laatste laag aanpast op je eigen workflow, met scripts, plugins of kleine aanpassingen. Wat je nodig hebt: basiskennis van programmeren of scripting, een bestaande tool of platform dat uitbreidbaar is, en de bereidheid om zelf kleine stukjes code te schrijven of aan te passen in plaats van te wachten op de perfecte kant-en-klare oplossing. Bron: https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.91,
+      "published_at": "2026-08-31T10:36:43+00:00"
+    },
+    {
+      "id": "90c416fc3bd96663",
+      "title": "Show HN: SwiftMo Power captures real-time exercise kinematics from a webcam",
+      "summary_nl": "Beweging meten zonder sensoren: je webcam als bewegingslab. SwiftMo Power analyseert in real-time de kinematica van oefeningen, zoals snelheid, versnelling en gewrichtshoeken, puur op basis van beeldmateriaal van een gewone webcam. Geen dure motion-capture apparatuur of wearables nodig, de software haalt de data direct uit de videofeed. Inspirerend omdat het laat zien hoe toegankelijk geworden technieken uit sportwetenschap en revalidatie nu voor iedereen met een laptop beschikbaar worden. Wat je nodig hebt: een webcam, een browser en enige affiniteit met trainingsdata om de output goed te interpreteren, uitproberen kan direct via de demo-modus. Bron: https://app.swiftmo.com/#/stage/:manualMode/:demo",
+      "url": "https://app.swiftmo.com/#/stage/:manualMode/:demo",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.91,
+      "published_at": "2026-08-31T10:37:42+00:00"
     },
     {
       "id": "157f8b145352e193",
@@ -2924,7 +3078,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 6,
-      "final_score": 4.99,
+      "final_score": 4.89,
       "published_at": "2026-08-21T08:00:00+00:00"
     },
     {
@@ -2935,7 +3089,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.97,
+      "final_score": 4.88,
       "published_at": "2026-08-31T03:19:42+00:00"
     },
     {
@@ -2946,7 +3100,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.93,
+      "final_score": 4.84,
       "published_at": "2026-08-20T19:21:45+00:00"
     },
     {
@@ -2957,7 +3111,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.9,
+      "final_score": 4.81,
       "published_at": "2026-08-30T11:36:46+00:00"
     },
     {
@@ -2968,7 +3122,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.89,
+      "final_score": 4.8,
       "published_at": "2026-08-30T09:56:05+00:00"
     },
     {
@@ -2979,7 +3133,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.89,
+      "final_score": 4.8,
       "published_at": "2026-08-30T08:51:39+00:00"
     },
     {
@@ -2990,7 +3144,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.87,
+      "final_score": 4.78,
       "published_at": "2026-08-20T03:45:11+00:00"
     },
     {
@@ -3001,7 +3155,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.86,
+      "final_score": 4.76,
       "published_at": "2026-08-30T00:33:35+00:00"
     },
     {
@@ -3012,7 +3166,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 4.83,
+      "final_score": 4.74,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -3023,7 +3177,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.83,
+      "final_score": 4.74,
       "published_at": "2026-08-19T17:45:41+00:00"
     },
     {
@@ -3034,7 +3188,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.83,
+      "final_score": 4.74,
       "published_at": "2026-08-29T17:44:37+00:00"
     },
     {
@@ -3045,7 +3199,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.75,
+      "final_score": 4.66,
       "published_at": "2026-08-18T23:02:32+00:00"
     },
     {
@@ -3056,7 +3210,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.72,
+      "final_score": 4.63,
       "published_at": "2026-08-28T16:00:00+00:00"
     },
     {
@@ -3067,7 +3221,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.71,
+      "final_score": 4.62,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -3078,7 +3232,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.71,
+      "final_score": 4.62,
       "published_at": "2026-08-28T12:57:24+00:00"
     },
     {
@@ -3089,7 +3243,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.71,
+      "final_score": 4.61,
       "published_at": "2026-08-28T12:29:05+00:00"
     },
     {
@@ -3100,7 +3254,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.7,
+      "final_score": 4.61,
       "published_at": "2026-08-28T11:51:20+00:00"
     },
     {
@@ -3111,7 +3265,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.69,
+      "final_score": 4.6,
       "published_at": "2026-08-28T09:00:46+00:00"
     },
     {
@@ -3122,7 +3276,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.68,
+      "final_score": 4.59,
       "published_at": "2026-08-28T06:00:00+00:00"
     },
     {
@@ -3133,7 +3287,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.62,
+      "final_score": 4.53,
       "published_at": "2026-08-27T15:45:16+00:00"
     },
     {
@@ -3144,7 +3298,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.59,
+      "final_score": 4.5,
       "published_at": "2026-08-17T09:13:52+00:00"
     },
     {
@@ -3155,7 +3309,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.53,
+      "final_score": 4.43,
       "published_at": "2026-08-26T17:20:12+00:00"
     },
     {
@@ -3166,7 +3320,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.5,
+      "final_score": 4.41,
       "published_at": "2026-08-16T12:16:21+00:00"
     },
     {
@@ -3177,7 +3331,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.5,
+      "final_score": 4.4,
       "published_at": "2026-08-26T10:15:00+00:00"
     },
     {
@@ -3188,7 +3342,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.46,
+      "final_score": 4.36,
       "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
@@ -3199,7 +3353,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.44,
+      "final_score": 4.35,
       "published_at": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -3210,7 +3364,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.41,
+      "final_score": 4.32,
       "published_at": "2026-08-25T13:34:24+00:00"
     },
     {
@@ -3221,7 +3375,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.38,
+      "final_score": 4.29,
       "published_at": "2026-08-25T07:00:00+00:00"
     },
     {
@@ -3232,7 +3386,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.35,
+      "final_score": 4.26,
       "published_at": "2026-08-25T00:00:00+00:00"
     },
     {
@@ -3243,7 +3397,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.33,
+      "final_score": 4.24,
       "published_at": "2026-08-24T18:24:59+00:00"
     },
     {
@@ -3254,7 +3408,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.32,
+      "final_score": 4.23,
       "published_at": "2026-08-24T16:30:51+00:00"
     },
     {
@@ -3265,7 +3419,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.32,
+      "final_score": 4.23,
       "published_at": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -3276,7 +3430,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.27,
+      "final_score": 4.18,
       "published_at": "2026-08-24T04:39:07+00:00"
     },
     {
@@ -3287,7 +3441,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.15,
       "published_at": "2026-08-23T20:47:53+00:00"
     },
     {
@@ -3298,7 +3452,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.15,
       "published_at": "2026-08-23T20:53:01+00:00"
     },
     {
@@ -3309,7 +3463,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.15,
       "published_at": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -3320,7 +3474,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.23,
+      "final_score": 4.14,
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
@@ -3331,7 +3485,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.23,
+      "final_score": 4.14,
       "published_at": "2026-08-23T19:29:32+00:00"
     },
     {
@@ -3342,7 +3496,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.2,
+      "final_score": 4.11,
       "published_at": "2026-08-13T11:56:32+00:00"
     },
     {
@@ -3353,7 +3507,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.2,
+      "final_score": 4.11,
       "published_at": "2026-07-14T11:06:09+00:00"
     },
     {
@@ -3364,7 +3518,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 6,
-      "final_score": 4.2,
+      "final_score": 4.11,
       "published_at": "2026-08-13T11:00:00+00:00"
     },
     {
@@ -3375,7 +3529,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.11,
+      "final_score": 4.02,
       "published_at": "2026-07-13T14:02:03+00:00"
     },
     {
@@ -3386,8 +3540,19 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 4.1,
+      "final_score": 4.01,
       "published_at": "2026-07-13T11:51:56+00:00"
+    },
+    {
+      "id": "8a7cdd78fd483859",
+      "title": "A milestone in expanding access to AI",
+      "summary_nl": "Advertenties die AI voor iedereen betaalbaar houden: ChatGPT Ads groeit hard. OpenAI meldt dat de advertentietak van ChatGPT inmiddels een omzet op jaarbasis van 1 miljard dollar heeft bereikt en wereldwijd verder uitrolt, waarmee gratis en goedkopere versies van de chatbot worden gefinancierd. Het idee is simpel maar effectief: reclame-inkomsten verlagen de drempel om toegang te krijgen tot geavanceerde AI, zonder dat gebruikers per se moeten betalen. Inspirerend omdat het laat zien hoe een bekend verdienmodel wordt ingezet om technologische toegankelijkheid te vergroten in plaats van alleen winst te maximaliseren. Wat je nodig hebt: als gebruiker niets speciaals, gewoon een ChatGPT-account; voor bedrijven die willen adverteren is kennis van online marketing en een geschikt budget wel gewenst (bron: https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads).",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "rss:openai_news",
+      "category": "ai_release",
+      "score": 4,
+      "final_score": 3.88,
+      "published_at": "2026-08-31T04:00:00+00:00"
     },
     {
       "id": "f9c50e8b13146fdd",
@@ -3397,7 +3562,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.94,
+      "final_score": 3.85,
       "published_at": "2026-08-20T21:40:39+00:00"
     },
     {
@@ -3408,7 +3573,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.93,
+      "final_score": 3.84,
       "published_at": "2026-08-20T19:05:36+00:00"
     },
     {
@@ -3419,7 +3584,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.92,
+      "final_score": 3.82,
       "published_at": "2026-08-20T15:00:00+00:00"
     },
     {
@@ -3430,7 +3595,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.91,
+      "final_score": 3.82,
       "published_at": "2026-08-20T14:12:08+00:00"
     },
     {
@@ -3441,7 +3606,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.91,
+      "final_score": 3.82,
       "published_at": "2026-08-20T14:03:00+00:00"
     },
     {
@@ -3452,7 +3617,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.91,
+      "final_score": 3.82,
       "published_at": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -3463,7 +3628,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.9,
+      "final_score": 3.8,
       "published_at": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -3474,7 +3639,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 3.85,
+      "final_score": 3.76,
       "published_at": "2026-08-20T00:00:00+00:00"
     },
     {
@@ -3485,7 +3650,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 3.83,
+      "final_score": 3.74,
       "published_at": "2026-08-19T19:00:00+00:00"
     },
     {
@@ -3496,7 +3661,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.78,
+      "final_score": 3.69,
       "published_at": "2026-08-19T07:10:00+00:00"
     },
     {
@@ -3507,7 +3672,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.78,
+      "final_score": 3.69,
       "published_at": "2026-08-19T06:55:39+00:00"
     },
     {
@@ -3518,7 +3683,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 3.78,
+      "final_score": 3.69,
       "published_at": "2026-08-19T07:00:00+00:00"
     },
     {
@@ -3529,7 +3694,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.71,
+      "final_score": 3.62,
       "published_at": "2026-08-18T13:25:45+00:00"
     },
     {
@@ -3540,7 +3705,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 3.68,
+      "final_score": 3.59,
       "published_at": "2026-08-18T07:00:00+00:00"
     },
     {
@@ -3551,7 +3716,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.6,
+      "final_score": 3.51,
       "published_at": "2026-08-17T11:42:31+00:00"
     },
     {
@@ -3562,7 +3727,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.59,
+      "final_score": 3.5,
       "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
@@ -3573,7 +3738,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.55,
+      "final_score": 3.46,
       "published_at": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -3584,7 +3749,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.47,
+      "final_score": 3.38,
       "published_at": "2026-08-16T04:19:32+00:00"
     },
     {
@@ -3595,7 +3760,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.45,
+      "final_score": 3.36,
       "published_at": "2026-08-15T23:54:35+00:00"
     },
     {
@@ -3606,7 +3771,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 4,
-      "final_score": 3.43,
+      "final_score": 3.34,
       "published_at": "2026-08-25T18:00:00+00:00"
     },
     {
@@ -3617,7 +3782,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.37,
+      "final_score": 3.27,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
@@ -3628,7 +3793,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.32,
+      "final_score": 3.23,
       "published_at": "2026-08-14T16:43:22+00:00"
     },
     {
@@ -3639,7 +3804,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.31,
+      "final_score": 3.22,
       "published_at": "2026-08-14T14:22:39+00:00"
     },
     {
@@ -3650,7 +3815,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.21,
+      "final_score": 3.12,
       "published_at": "2026-08-13T13:50:42+00:00"
     },
     {
@@ -3661,7 +3826,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.19,
+      "final_score": 3.1,
       "published_at": "2026-08-13T09:26:45+00:00"
     },
     {
@@ -3672,7 +3837,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.13,
+      "final_score": 3.04,
       "published_at": "2026-07-13T18:22:16+00:00"
     },
     {
@@ -3683,7 +3848,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 3.13,
+      "final_score": 3.04,
       "published_at": "2026-07-13T18:26:04+00:00"
     }
   ]
