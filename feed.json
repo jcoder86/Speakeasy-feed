@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:19:02.230561+00:00",
+  "generated_at": "2026-09-01T09:40:58.251879+00:00",
   "items": [
     {
       "id": "5ff7b5a15a4b3ad5",
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.83,
+      "final_score": 9.82,
       "published_at": "2026-08-20T15:40:57+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.76,
+      "final_score": 9.75,
       "published_at": "2026-08-29T22:31:56+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.63,
+      "final_score": 9.62,
       "published_at": "2026-08-28T15:24:44+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.52,
+      "final_score": 9.51,
       "published_at": "2026-08-27T13:07:33+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.36,
+      "final_score": 9.35,
       "published_at": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.33,
+      "final_score": 9.32,
       "published_at": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 9.23,
+      "final_score": 9.22,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.14,
+      "final_score": 9.13,
       "published_at": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -354,17 +354,6 @@
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
-      "id": "2536e55e51d10662",
-      "title": "Show HN: Drop a SQL schema, get an interactive ER diagram",
-      "summary_nl": "Een SQL-schema erin, een overzichtelijk diagram eruit\n\nWie weleens geprobeerd heeft een databaseschema uit te leggen aan een collega met alleen een lange lijst CREATE TABLE-statements, weet hoe onhandig dat is. Deze tool doet het simpele maar nuttige werk voor je: je plakt of upload een SQL-schema en krijgt direct een interactief ER-diagram terug, met tabellen, kolommen en de relaties ertussen visueel uitgezet. Geen account, geen installatie, geen omweg via een losse database-tool die je eerst moet configureren. Wat je nodig hebt is niet meer dan een bestaand SQL-schema en een browser; het is bruikbaar voor iedereen die met databases werkt, van beginnende ontwikkelaars tot mensen die alleen even snel iets willen visualiseren voor documentatie of een presentatie. Bron: https://mcdview.dev/",
-      "url": "https://mcdview.dev/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 8.81,
-      "published_at": "2026-08-30T10:45:25+00:00"
-    },
-    {
       "id": "8ba15896b1cb00ed",
       "title": "Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10",
       "summary_nl": "Wat maakt een startup-idee eigenlijk goed, en durf je die vraag aan een algoritme voor te leggen? Deze maker deed dat wel: hij bouwde een scanner die startup-ideeën beoordeelt op een schaal tot 10, testte hem op 500 ideeën, en zag dat zelfs de beste maar een 6.3 scoorde. Dat zegt iets over hoe kritisch het systeem is opgezet, en waarschijnlijk ook iets ontnuchterends over hoeveel ideeën in de praktijk overschat worden. Inspirerend omdat het laat zien hoe je subjectieve inschattingen (is dit idee levensvatbaar?)",
@@ -374,6 +363,17 @@
       "score": 9,
       "final_score": 8.81,
       "published_at": "2026-08-30T11:35:01+00:00"
+    },
+    {
+      "id": "2536e55e51d10662",
+      "title": "Show HN: Drop a SQL schema, get an interactive ER diagram",
+      "summary_nl": "Een SQL-schema erin, een overzichtelijk diagram eruit\n\nWie weleens geprobeerd heeft een databaseschema uit te leggen aan een collega met alleen een lange lijst CREATE TABLE-statements, weet hoe onhandig dat is. Deze tool doet het simpele maar nuttige werk voor je: je plakt of upload een SQL-schema en krijgt direct een interactief ER-diagram terug, met tabellen, kolommen en de relaties ertussen visueel uitgezet. Geen account, geen installatie, geen omweg via een losse database-tool die je eerst moet configureren. Wat je nodig hebt is niet meer dan een bestaand SQL-schema en een browser; het is bruikbaar voor iedereen die met databases werkt, van beginnende ontwikkelaars tot mensen die alleen even snel iets willen visualiseren voor documentatie of een presentatie. Bron: https://mcdview.dev/",
+      "url": "https://mcdview.dev/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 8.8,
+      "published_at": "2026-08-30T10:45:25+00:00"
     },
     {
       "id": "960cbbee1b1e07f6",
@@ -471,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.62,
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
@@ -482,7 +482,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.63,
+      "final_score": 8.62,
       "published_at": "2026-08-28T15:38:33+00:00"
     },
     {
@@ -570,7 +570,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.46,
+      "final_score": 8.45,
       "published_at": "2026-08-26T22:42:48+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.36,
+      "final_score": 8.35,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -724,7 +724,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.25,
+      "final_score": 8.24,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -768,7 +768,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.22,
+      "final_score": 8.21,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -779,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.2,
+      "final_score": 8.19,
       "published_at": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -834,7 +834,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.14,
+      "final_score": 8.13,
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
@@ -944,7 +944,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.9,
+      "final_score": 7.89,
       "published_at": "2026-08-31T08:09:45+00:00"
     },
     {
@@ -966,7 +966,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.88,
+      "final_score": 7.87,
       "published_at": "2026-08-31T03:20:33+00:00"
     },
     {
@@ -999,7 +999,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.83,
+      "final_score": 7.82,
       "published_at": "2026-08-20T15:26:02+00:00"
     },
     {
@@ -1054,7 +1054,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.74,
+      "final_score": 7.73,
       "published_at": "2026-08-29T18:04:02+00:00"
     },
     {
@@ -1153,7 +1153,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.64,
+      "final_score": 7.63,
       "published_at": "2026-08-28T18:03:04+00:00"
     },
     {
@@ -1175,7 +1175,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.63,
+      "final_score": 7.62,
       "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
@@ -1263,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.56,
+      "final_score": 7.55,
       "published_at": "2026-08-27T22:34:32+00:00"
     },
     {
@@ -1351,7 +1351,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.52,
+      "final_score": 7.51,
       "published_at": "2026-08-17T13:12:07+00:00"
     },
     {
@@ -1472,7 +1472,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.26,
+      "final_score": 7.25,
       "published_at": "2026-08-24T22:45:24+00:00"
     },
     {
@@ -1560,7 +1560,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.23,
+      "final_score": 7.22,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.21,
+      "final_score": 7.2,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -1692,7 +1692,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.12,
+      "final_score": 7.11,
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
@@ -1758,7 +1758,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.95,
+      "final_score": 6.94,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -1802,7 +1802,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.93,
+      "final_score": 6.92,
       "published_at": "2026-08-21T15:21:10+00:00"
     },
     {
@@ -1857,7 +1857,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -1868,7 +1868,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.84,
+      "final_score": 6.83,
       "published_at": "2026-08-20T18:00:06+00:00"
     },
     {
@@ -2000,7 +2000,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.63,
+      "final_score": 6.62,
       "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
@@ -2026,17 +2026,6 @@
       "published_at": "2026-08-18T13:38:23+00:00"
     },
     {
-      "id": "c056bc1f736a5dce",
-      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
-      "summary_nl": "Patronen ontdekken in binaire bestanden, zonder ellenlange hex dumps door te spitten: FF-16-TUI maakt dat overzichtelijk. Het is een interactieve terminal-tool (TUI) waarmee je binaire bestanden visueel doorzoekt en herhalende structuren, headers of verdachte reeksen sneller herkent dan met traditionele hex editors. De slimme vondst zit in de directe, visuele feedback binnen je terminal, zodat je zonder externe GUI-tools al een eind komt bij reverse engineering of forensisch onderzoek. Wat je nodig hebt: basiskennis van binaire bestandsformaten en terminalgebruik, en een halfuurtje om de interface te leren kennen. Zie de broncode en documentatie op https://github.com/HexLasso/FF-16-TUI.",
-      "url": "https://github.com/HexLasso/FF-16-TUI",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 6.62,
-      "published_at": "2026-08-28T13:05:49+00:00"
-    },
-    {
       "id": "3e90a64e25f453fb",
       "title": "I used AWS cognito for a startup. I wouldn't do it again",
       "summary_nl": "Cognito leek de veilige keuze, maar wie er langer mee werkt komt bedrogen uit. De auteur zette AWS Cognito in als authenticatiedienst voor een startup en botste op inconsistente API's, beperkte customisatie-mogelijkheden en een gebruikerservaring die met veel omwegen moest worden dichtgetimmerd. De onderliggende gedachte: iets dat op papier \"managed\" en simpel lijkt, kan in de praktijk juist extra engineering-tijd kosten omdat je tegen de grenzen van het platform aanloopt in plaats van met de flow mee te bouwen. Inspirerend omdat het een nuttige tegenwicht biedt tegen de aanname dat een grote cloudpartij automatisch de meest pragmatische keuze is voor authenticatie. Wat je nodig hebt: ervaring met het opzetten van authenticatie in een productieomgeving, en bereidheid om alternatieven zoals Auth0, Clerk of een eigen oplossing te overwegen; zie voor de details en concrete pijnpunten https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/.",
@@ -2046,6 +2035,17 @@
       "score": 7,
       "final_score": 6.62,
       "published_at": "2026-08-28T13:21:03+00:00"
+    },
+    {
+      "id": "c056bc1f736a5dce",
+      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
+      "summary_nl": "Patronen ontdekken in binaire bestanden, zonder ellenlange hex dumps door te spitten: FF-16-TUI maakt dat overzichtelijk. Het is een interactieve terminal-tool (TUI) waarmee je binaire bestanden visueel doorzoekt en herhalende structuren, headers of verdachte reeksen sneller herkent dan met traditionele hex editors. De slimme vondst zit in de directe, visuele feedback binnen je terminal, zodat je zonder externe GUI-tools al een eind komt bij reverse engineering of forensisch onderzoek. Wat je nodig hebt: basiskennis van binaire bestandsformaten en terminalgebruik, en een halfuurtje om de interface te leren kennen. Zie de broncode en documentatie op https://github.com/HexLasso/FF-16-TUI.",
+      "url": "https://github.com/HexLasso/FF-16-TUI",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 6.61,
+      "published_at": "2026-08-28T13:05:49+00:00"
     },
     {
       "id": "6f8f0395b3313ab9",
@@ -2066,7 +2066,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.56,
+      "final_score": 6.55,
       "published_at": "2026-08-27T22:41:11+00:00"
     },
     {
@@ -2088,7 +2088,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.54,
+      "final_score": 6.53,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -2110,7 +2110,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.53,
+      "final_score": 6.52,
       "published_at": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -2319,7 +2319,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.05,
+      "final_score": 6.04,
       "published_at": "2026-08-22T20:26:58+00:00"
     },
     {
@@ -2352,7 +2352,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.04,
+      "final_score": 6.03,
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
@@ -2374,7 +2374,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.03,
+      "final_score": 6.02,
       "published_at": "2026-08-22T15:40:51+00:00"
     },
     {
@@ -2418,7 +2418,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.91,
+      "final_score": 5.9,
       "published_at": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -2451,7 +2451,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.89,
+      "final_score": 5.88,
       "published_at": "2026-08-31T06:03:02+00:00"
     },
     {
@@ -2561,7 +2561,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.73,
+      "final_score": 5.72,
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
@@ -2759,7 +2759,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.47,
+      "final_score": 5.46,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -2902,7 +2902,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.23,
+      "final_score": 5.22,
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -3056,7 +3056,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.91,
+      "final_score": 4.9,
       "published_at": "2026-08-31T10:36:43+00:00"
     },
     {
@@ -3067,7 +3067,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.91,
+      "final_score": 4.9,
       "published_at": "2026-08-31T10:37:42+00:00"
     },
     {
@@ -3089,7 +3089,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.88,
+      "final_score": 4.87,
       "published_at": "2026-08-31T03:19:42+00:00"
     },
     {
@@ -3166,7 +3166,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 6,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-19T18:00:00+00:00"
     },
     {
@@ -3177,7 +3177,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-19T17:45:41+00:00"
     },
     {
@@ -3188,7 +3188,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.74,
+      "final_score": 4.73,
       "published_at": "2026-08-29T17:44:37+00:00"
     },
     {
@@ -3221,7 +3221,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.62,
+      "final_score": 4.61,
       "published_at": "2026-08-18T13:07:50+00:00"
     },
     {
@@ -3232,7 +3232,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.62,
+      "final_score": 4.61,
       "published_at": "2026-08-28T12:57:24+00:00"
     },
     {
@@ -3276,7 +3276,7 @@
       "source": "rss:openai_news",
       "category": "ai_release",
       "score": 5,
-      "final_score": 4.59,
+      "final_score": 4.58,
       "published_at": "2026-08-28T06:00:00+00:00"
     },
     {
@@ -3771,7 +3771,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 4,
-      "final_score": 3.34,
+      "final_score": 3.33,
       "published_at": "2026-08-25T18:00:00+00:00"
     },
     {
