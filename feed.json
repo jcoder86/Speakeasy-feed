@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:49:34.685341+00:00",
+  "generated_at": "2026-09-03T09:20:01.830100+00:00",
   "items": [
     {
       "id": "29d5ca7d872eca4b",
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.86,
+      "final_score": 9.85,
       "published_at": "2026-09-01T22:30:52+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.83,
+      "final_score": 9.82,
       "published_at": "2026-09-01T15:10:34+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.82,
+      "final_score": 9.81,
       "published_at": "2026-09-01T12:30:12+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.56,
+      "final_score": 9.55,
       "published_at": "2026-08-29T22:31:56+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.98,
+      "final_score": 8.97,
       "published_at": "2026-09-03T02:50:47+00:00"
     },
     {
@@ -548,7 +548,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.68,
+      "final_score": 8.67,
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
@@ -636,7 +636,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-28T17:39:53+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-08-18T17:25:19+00:00"
     },
     {
@@ -779,7 +779,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-26T17:42:22+00:00"
     },
     {
@@ -790,7 +790,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.24,
+      "final_score": 8.23,
       "published_at": "2026-08-26T17:28:21+00:00"
     },
     {
@@ -801,7 +801,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.22,
+      "final_score": 8.21,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -834,7 +834,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.17,
+      "final_score": 8.16,
       "published_at": "2026-08-26T00:48:03+00:00"
     },
     {
@@ -944,7 +944,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.03,
+      "final_score": 8.02,
       "published_at": "2026-08-24T14:53:22+00:00"
     },
     {
@@ -1010,7 +1010,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.96,
+      "final_score": 7.95,
       "published_at": "2026-08-23T22:06:14+00:00"
     },
     {
@@ -1047,17 +1047,6 @@
       "published_at": "2026-08-23T18:00:20+00:00"
     },
     {
-      "id": "1e5b8618d900b42a",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary_nl": "Snellere Gemini, nu ook met een cyberrandje. Google introduceert Gemini 3.8 Flash, de nieuwste iteratie in de lichte en snelle Flash-lijn, aangevuld met een aparte variant genaamd 3.8 Flash Cyber die zich specifiek richt op cybersecurity-taken. De slimme vondst zit in die tweedeling: één model geoptimaliseerd voor algemene snelheid en kosten, en één toegespitst op het analyseren van kwetsbaarheden, logs of aanvalspatronen, zonder dat je hoeft in te leveren op de vertrouwde Flash-prestaties. Inspirerend omdat het laat zien hoe grote taalmodellen steeds vaker gesplitst worden in domeinspecifieke varianten in plaats van één-op-alles-oplossingen. Wat je nodig hebt: toegang tot de Gemini API of Google AI Studio, en voor de Cyber-variant idealiter basiskennis van security-workflows om de output goed te k",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 8,
-      "final_score": 7.93,
-      "published_at": "2026-09-02T15:12:40+00:00"
-    },
-    {
       "id": "d86f62b5351ea29f",
       "title": "Show HN: Kekoso – On-device dictation and transcription for macOS",
       "summary_nl": "Dicteren zonder dat je stem de deur uitgaat\n\nKekoso is een macOS-app die dictatie en transcriptie volledig op je eigen Mac verwerkt, zonder dat audio naar een server wordt gestuurd. Je spreekt, de app zet het lokaal om in tekst, en dat werkt dus ook zonder internetverbinding en zonder privacyzorgen over cloudverwerking. Inspirerend omdat het laat zien dat spraak-naar-tekst inmiddels goed genoeg draait op consumentenhardware om cloud-afhankelijkheid overbodig te maken. Wat je nodig heb je: een Mac, geen technische kennis nodig om de app te gebruiken, installatie kost een paar minuten. Bron: https://kekoso.app/",
@@ -1069,6 +1058,17 @@
       "published_at": "2026-09-02T16:51:01+00:00"
     },
     {
+      "id": "1e5b8618d900b42a",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary_nl": "Snellere Gemini, nu ook met een cyberrandje. Google introduceert Gemini 3.8 Flash, de nieuwste iteratie in de lichte en snelle Flash-lijn, aangevuld met een aparte variant genaamd 3.8 Flash Cyber die zich specifiek richt op cybersecurity-taken. De slimme vondst zit in die tweedeling: één model geoptimaliseerd voor algemene snelheid en kosten, en één toegespitst op het analyseren van kwetsbaarheden, logs of aanvalspatronen, zonder dat je hoeft in te leveren op de vertrouwde Flash-prestaties. Inspirerend omdat het laat zien hoe grote taalmodellen steeds vaker gesplitst worden in domeinspecifieke varianten in plaats van één-op-alles-oplossingen. Wat je nodig hebt: toegang tot de Gemini API of Google AI Studio, en voor de Cyber-variant idealiter basiskennis van security-workflows om de output goed te k",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.92,
+      "published_at": "2026-09-02T15:12:40+00:00"
+    },
+    {
       "id": "8558d02589ff502b",
       "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
       "summary_nl": "Een lokaal taalmodel dat in een half uur doet waar je normaal een dure engineer voor inhuurt: dat is wat er hier gebeurt. De auteur zette Qwen 3.8 27B, een open-source model dat je zelf kunt draaien, in om een stuk software te reverse-engineeren, een klus die doorgaans uren handmatig uitpluizen vergt. Het model bleek in staat om zelfstandig code te analyseren en te herleiden tot de onderliggende logica, zonder dat daar een clouddienst van een grote speler aan te pas kwam. Inspirerend omdat het laat zien dat kleinere, lokaal draaibare modellen inmiddels taken aankunnen die tot voor kort waren voorbehouden aan de duurste frontier-modellen. Wat je nodig hebt: een machine met voldoende GPU-geheugen om een 27B-model te draaien, basiskennis van reverse engineering en tooling zoals Ollama of vergelijkbare lok",
@@ -1076,7 +1076,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.91,
+      "final_score": 7.9,
       "published_at": "2026-08-23T10:02:51+00:00"
     },
     {
@@ -1091,6 +1091,17 @@
       "published_at": "2026-08-13T06:43:24+00:00"
     },
     {
+      "id": "9b278be7768eb955",
+      "title": "dreamers-laboratory/image-to-3d-pipeline",
+      "summary_nl": "Van platte foto naar bruikbare 3D-mesh: deze pipeline doet het werk voor je. Het project laat meerdere open-source modellen los op hetzelfde beeld en reconstrueert daar telkens een 3D-mesh uit, waarna het automatisch scoort welke poging het beste resultaat oplevert. Handig omdat 3D-reconstructie een veld is waar de kwaliteit tussen modellen sterk kan verschillen, en dit je bespaart om ze allemaal los te moeten uitproberen en vergelijken. Wat je nodig heeft: basiskennis van Python en het draaien van machine learning-modellen, plus voldoende GPU-capaciteit om meerdere reconstructiemodellen achter elkaar te laten werken; reken op een middagje om de pipeline aan de praat te krijgen. Zie github.com/dreamers-laboratory/image-to-3d-pipeline voor de code en verdere details.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.89,
+      "published_at": "2026-09-02T06:38:31+00:00"
+    },
+    {
       "id": "1baacecfc9bce615",
       "title": "alchaincyf/huashu-excel",
       "summary_nl": "Cijfers die overeind blijven als je doorvraagt: deze Excel-skill voor AI-agents\n\nWie weleens een Excel-analyse van een AI-tool kreeg en daarna geen antwoord had op \"hoe kom je daar precies bij\", heeft baat bij deze skill van alchaincyf. Huashu-excel is een complete workflow die een AI door het hele traject van data-analyse leidt: eerst een gezondheidscheck van het rommelige spreadsheet, dan opschonen, vervolgens afstemmen op de eigenlijke vraag, analyseren, de cijfers laten kloppen (aftekenen) en pas dan opleveren. Het werkt agent-onafhankelijk en heeft verder geen zware afhankelijkheden nodig, alleen de Python-bibliotheek openpyxl. Inspirerend omdat het een concreet antwoord geeft op een veelgehoorde klacht over AI-analyses: niet de output an sich, maar de onderbouwing eronder ontbreekt vaak, en deze skill dwingt juist die stap af. Wat je nodig heb: een AI-agent die skills kan draaien, Python met openpyxl geïnstalleerd, en basiskennis van Excel-structuren om de output te kunnen beoordelen; instaptijd is een uur of wat om de workflow te doorgron",
@@ -1098,8 +1109,19 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.89,
+      "final_score": 7.88,
       "published_at": "2026-08-23T05:38:43+00:00"
+    },
+    {
+      "id": "4d71a185b779bfb4",
+      "title": "lnkiai/m3e-canvas",
+      "summary_nl": "Van schets naar prompt: m3e-canvas maakt UI-ontwerp toegankelijker. Met deze tool teken je Material 3 Expressive schermen direct in de browser, en de applicatie zet die schetsen automatisch om in prompts die je kunt gebruiken voor vibe-coding met AI-assistenten. Het slimme zit in de brug die het slaat tussen visueel ontwerpen en tekst-gebaseerde AI-tools, waardoor je niet meer handmatig hoeft te beschrijven wat je voor ogen hebt. Inspirerend omdat het de afstand tussen idee en werkende interface aanzienlijk verkleint, zeker voor mensen die beter visueel dan verbaal denken. Wat je nodig heb: een moderne browser, geen coderingskennis vereist, en een account bij een AI-tool die prompts kan verwerken; de tool zelf is te vinden via https://github.com/lnki",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 8,
+      "final_score": 7.88,
+      "published_at": "2026-09-02T04:36:34+00:00"
     },
     {
       "id": "637c99109af31ed2",
@@ -1197,7 +1219,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.71,
+      "final_score": 7.7,
       "published_at": "2026-08-21T10:12:54+00:00"
     },
     {
@@ -1219,7 +1241,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.7,
+      "final_score": 7.69,
       "published_at": "2026-08-31T07:49:18+00:00"
     },
     {
@@ -1241,7 +1263,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.67,
+      "final_score": 7.66,
       "published_at": "2026-08-21T00:42:33+00:00"
     },
     {
@@ -1450,7 +1472,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.43,
+      "final_score": 7.42,
       "published_at": "2026-08-28T14:59:15+00:00"
     },
     {
@@ -1560,7 +1582,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.34,
+      "final_score": 7.33,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -1571,7 +1593,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.33,
+      "final_score": 7.32,
       "published_at": "2026-08-27T14:50:59+00:00"
     },
     {
@@ -1626,7 +1648,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.24,
+      "final_score": 7.23,
       "published_at": "2026-08-16T17:40:33+00:00"
     },
     {
@@ -1648,7 +1670,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.2,
+      "final_score": 7.19,
       "published_at": "2026-08-16T07:46:40+00:00"
     },
     {
@@ -1692,7 +1714,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.14,
+      "final_score": 7.13,
       "published_at": "2026-08-25T17:23:07+00:00"
     },
     {
@@ -1835,7 +1857,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.03,
+      "final_score": 7.02,
       "published_at": "2026-08-14T15:03:12+00:00"
     },
     {
@@ -1901,7 +1923,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.97,
+      "final_score": 6.96,
       "published_at": "2026-08-14T00:47:04+00:00"
     },
     {
@@ -1960,28 +1982,6 @@
       "published_at": "2026-08-13T13:15:23+00:00"
     },
     {
-      "id": "960c278c839eccc6",
-      "title": "ccch1mneyyy/dsh-TUI",
-      "summary_nl": "Een tekstuele walvis die je terminal leven kleurt: dsh-TUI vult een gat dat DSH zelf nog open liet. De officiële DSH-tool had nog geen fatsoenlijke terminal-interface, en deze community-plugin lost dat op met een volledig scherm vullende TUI in Claude Code-stijl, inclusief een pixel-walvis bovenaan, een live statusregel, uitklappende \"denk\"-stromen, een dubbele Esc-druk om acties terug te draaien, en een voortgangsbalk met TPS-meter voor context. Vooral handig voor wie liever in de command line werkt dan in een browser of app, en niet wil inboeten op visuele feed",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 6.92,
-      "published_at": "2026-08-13T12:49:31+00:00"
-    },
-    {
-      "id": "9bee5304c19d0f56",
-      "title": "Anionex/dsh-vision-toolkit",
-      "summary_nl": "Zicht voor tekstmodellen: deze plugin geeft DeepSeek Harness ogen\n\nDsh-vision-toolkit is een plugin waarmee een taalmodel dat zelf geen beeld kan verwerken, alsnog visuele taken uitvoert: denk aan beeldvragen met context, OCR op lange screenshots, het reconstrueren van UI's, en pixel-verschillen opsporen. De slimme vondst is dat het model zelf niet hoeft te \"zien\" - de toolkit regelt de beeldverwerking en levert de resultaten in een vorm die het taalmodel kan interpreteren en er verder mee kan redeneren, inclusief een Web UI en Artifacts-ondersteuning. Inspirerend omdat het laat zien hoe je bestaande tekstmodellen kunt uitbreiden zonder ze opnieuw te trainen, puur door slimme tooling eromheen te bouwen. Wat je nodig hebt: ervaring met het opzetten van agent-toolkits of plugins, basiskennis van DeepSeek Harness, en enkele uren om de integratie te configureren en te testen. Bron: https://github.com/Anionex/dsh-vision-toolkit",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 6.92,
-      "published_at": "2026-08-13T12:36:34+00:00"
-    },
-    {
       "id": "012c3d6a0f181138",
       "title": "Show HN: Flawd is mutation testing for the AI era",
       "summary_nl": "Testen of je tests wel echt iets testen: Flawd brengt mutation testing terug in de schijnwerpers, nu AI-gegenereerde code in rap tempo codebases vult. Het principe is klassiek: de tool knoeit bewust met kleine stukjes van je code (mutaties) en checkt of je testsuite dat oppikt. Blijft een test groen terwijl de logica kapot is, dan weet je dat die test eigenlijk niets bewijst. Inspirerend omdat dit precies het blinde vlek-probleem raakt dat ontstaat wanneer AI-tools snel code én tests genereren zonder dat iemand kritisch checkt of die tests wel iets afdekken. W",
@@ -1993,6 +1993,28 @@
       "published_at": "2026-09-02T14:16:55+00:00"
     },
     {
+      "id": "960c278c839eccc6",
+      "title": "ccch1mneyyy/dsh-TUI",
+      "summary_nl": "Een tekstuele walvis die je terminal leven kleurt: dsh-TUI vult een gat dat DSH zelf nog open liet. De officiële DSH-tool had nog geen fatsoenlijke terminal-interface, en deze community-plugin lost dat op met een volledig scherm vullende TUI in Claude Code-stijl, inclusief een pixel-walvis bovenaan, een live statusregel, uitklappende \"denk\"-stromen, een dubbele Esc-druk om acties terug te draaien, en een voortgangsbalk met TPS-meter voor context. Vooral handig voor wie liever in de command line werkt dan in een browser of app, en niet wil inboeten op visuele feed",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 6.91,
+      "published_at": "2026-08-13T12:49:31+00:00"
+    },
+    {
+      "id": "9bee5304c19d0f56",
+      "title": "Anionex/dsh-vision-toolkit",
+      "summary_nl": "Zicht voor tekstmodellen: deze plugin geeft DeepSeek Harness ogen\n\nDsh-vision-toolkit is een plugin waarmee een taalmodel dat zelf geen beeld kan verwerken, alsnog visuele taken uitvoert: denk aan beeldvragen met context, OCR op lange screenshots, het reconstrueren van UI's, en pixel-verschillen opsporen. De slimme vondst is dat het model zelf niet hoeft te \"zien\" - de toolkit regelt de beeldverwerking en levert de resultaten in een vorm die het taalmodel kan interpreteren en er verder mee kan redeneren, inclusief een Web UI en Artifacts-ondersteuning. Inspirerend omdat het laat zien hoe je bestaande tekstmodellen kunt uitbreiden zonder ze opnieuw te trainen, puur door slimme tooling eromheen te bouwen. Wat je nodig hebt: ervaring met het opzetten van agent-toolkits of plugins, basiskennis van DeepSeek Harness, en enkele uren om de integratie te configureren en te testen. Bron: https://github.com/Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "source": "github",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 6.91,
+      "published_at": "2026-08-13T12:36:34+00:00"
+    },
+    {
       "id": "b67aa4138c4ab20d",
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "summary_nl": "Weg met de AI-brei: Weedout filtert je YouTube-tijdlijn schoon\n\nDeze Safari-extensie herkent video's die door YouTube zelf al als AI-gegenereerd zijn gelabeld en verwijgert ze automatisch uit je aanbevelingen, zoekresultaten en subscripties. De maker gebruikt daarbij de bestaande labels die YouTube al toont, dus er is geen eigen AI-detectie nodig die vals-positieven kan opleveren. Inspirerend omdat het laat zien hoe je met een kleine, gerichte tool weer grip krijgt op wat platforms je voorschotelen, zonder afhankelijk te zijn van het algoritme zelf. Wat je nodig heb: een Mac met Safari, een paar minuten om de extensie te installeren, en verder geen technische kennis. Bron: https://masteranza.github.io/weedout/",
@@ -2000,7 +2022,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.86,
+      "final_score": 6.85,
       "published_at": "2026-09-01T22:06:57+00:00"
     },
     {
@@ -2044,7 +2066,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.78,
+      "final_score": 6.77,
       "published_at": "2026-09-01T03:05:55+00:00"
     },
     {
@@ -2077,7 +2099,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.75,
+      "final_score": 6.74,
       "published_at": "2026-08-21T19:51:54+00:00"
     },
     {
@@ -2275,7 +2297,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.45,
+      "final_score": 6.44,
       "published_at": "2026-08-28T19:55:47+00:00"
     },
     {
@@ -2407,7 +2429,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.34,
+      "final_score": 6.33,
       "published_at": "2026-08-27T17:17:57+00:00"
     },
     {
@@ -2484,7 +2506,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.24,
+      "final_score": 6.23,
       "published_at": "2026-08-26T17:28:46+00:00"
     },
     {
@@ -2594,7 +2616,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 5.98,
+      "final_score": 5.97,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -2605,7 +2627,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.95,
+      "final_score": 5.94,
       "published_at": "2026-09-02T19:49:01+00:00"
     },
     {
@@ -2704,7 +2726,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.84,
+      "final_score": 5.83,
       "published_at": "2026-08-22T17:23:29+00:00"
     },
     {
@@ -2748,7 +2770,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.74,
+      "final_score": 5.73,
       "published_at": "2026-08-21T17:40:07+00:00"
     },
     {
@@ -2770,7 +2792,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.71,
+      "final_score": 5.7,
       "published_at": "2026-08-31T10:11:39+00:00"
     },
     {
@@ -2836,7 +2858,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.55,
+      "final_score": 5.54,
       "published_at": "2026-08-29T19:52:37+00:00"
     },
     {
@@ -2913,7 +2935,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.53,
+      "final_score": 5.52,
       "published_at": "2026-08-19T15:11:36+00:00"
     },
     {
@@ -2935,7 +2957,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.51,
+      "final_score": 5.5,
       "published_at": "2026-08-19T10:15:00+00:00"
     },
     {
@@ -2968,7 +2990,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.46,
+      "final_score": 5.45,
       "published_at": "2026-08-18T22:22:41+00:00"
     },
     {
@@ -2990,7 +3012,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.43,
+      "final_score": 5.42,
       "published_at": "2026-08-28T15:16:07+00:00"
     },
     {
@@ -3001,7 +3023,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.43,
+      "final_score": 5.42,
       "published_at": "2026-08-18T15:06:11+00:00"
     },
     {
@@ -3034,7 +3056,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.36,
+      "final_score": 5.35,
       "published_at": "2026-08-27T22:24:31+00:00"
     },
     {
@@ -3056,7 +3078,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.34,
+      "final_score": 5.33,
       "published_at": "2026-08-17T17:39:02+00:00"
     },
     {
@@ -3111,7 +3133,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.25,
+      "final_score": 5.24,
       "published_at": "2026-08-26T19:45:59+00:00"
     },
     {
@@ -3133,7 +3155,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.23,
+      "final_score": 5.22,
       "published_at": "2026-08-26T15:07:44+00:00"
     },
     {
@@ -3144,7 +3166,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.16,
+      "final_score": 5.15,
       "published_at": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -3232,7 +3254,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.04,
+      "final_score": 5.03,
       "published_at": "2026-08-24T17:21:20+00:00"
     },
     {
@@ -3254,7 +3276,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-08-24T14:57:45+00:00"
     },
     {
@@ -3276,7 +3298,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.94,
+      "final_score": 4.93,
       "published_at": "2026-08-13T17:23:22+00:00"
     },
     {
@@ -3289,17 +3311,6 @@
       "score": 5,
       "final_score": 4.93,
       "published_at": "2026-09-02T16:14:52+00:00"
-    },
-    {
-      "id": "16aa4320e3dd052d",
-      "title": "Show HN: PDF to Markdown with a side-by-side check so you can see what broke",
-      "summary_nl": "Nooit meer blind vertrouwen op een conversietool: deze webapp zet PDF's om naar Markdown en toont daarbij direct het origineel naast het resultaat, zodat je in één oogopslag ziet waar de opmaak, tabellen of tekstvolgorde de mist ingaan. Het idee is simpel maar precies wat vaak ontbreekt bij dit soort tools: geen losse controlestap nodig, je ziet meteen wat er \"brak\" tijdens de conversie. Inspirerend omdat dit een klein maar praktisch ontwerpprobleem oplost dat veel mensen met documentation-, notitie- of RAG-workflows herkennen. Wat je nodig hebt: een PDF om te testen, een browser, en verder geen technische kennis of installatie, dit is direct te proberen via https://pdfmarkdown.app/.",
-      "url": "https://pdfmarkdown.app/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 4.92,
-      "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
       "id": "0d4cf45aafbbfaab",
@@ -3333,6 +3344,17 @@
       "score": 5,
       "final_score": 4.92,
       "published_at": "2026-09-02T14:07:20+00:00"
+    },
+    {
+      "id": "16aa4320e3dd052d",
+      "title": "Show HN: PDF to Markdown with a side-by-side check so you can see what broke",
+      "summary_nl": "Nooit meer blind vertrouwen op een conversietool: deze webapp zet PDF's om naar Markdown en toont daarbij direct het origineel naast het resultaat, zodat je in één oogopslag ziet waar de opmaak, tabellen of tekstvolgorde de mist ingaan. Het idee is simpel maar precies wat vaak ontbreekt bij dit soort tools: geen losse controlestap nodig, je ziet meteen wat er \"brak\" tijdens de conversie. Inspirerend omdat dit een klein maar praktisch ontwerpprobleem oplost dat veel mensen met documentation-, notitie- of RAG-workflows herkennen. Wat je nodig hebt: een PDF om te testen, een browser, en verder geen technische kennis of installatie, dit is direct te proberen via https://pdfmarkdown.app/.",
+      "url": "https://pdfmarkdown.app/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 4.91,
+      "published_at": "2026-07-14T12:27:01+00:00"
     },
     {
       "id": "1f9340956b333ac3",
@@ -3386,7 +3408,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.86,
+      "final_score": 4.85,
       "published_at": "2026-08-22T22:14:27+00:00"
     },
     {
@@ -3507,7 +3529,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.72,
+      "final_score": 4.71,
       "published_at": "2026-08-21T12:52:25+00:00"
     },
     {
@@ -3551,7 +3573,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 6,
-      "final_score": 4.7,
+      "final_score": 4.69,
       "published_at": "2026-08-21T08:00:00+00:00"
     },
     {
@@ -3562,7 +3584,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.68,
+      "final_score": 4.67,
       "published_at": "2026-08-31T03:19:42+00:00"
     },
     {
@@ -3628,7 +3650,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.57,
+      "final_score": 4.56,
       "published_at": "2026-08-30T00:33:35+00:00"
     },
     {
@@ -3716,7 +3738,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.42,
+      "final_score": 4.41,
       "published_at": "2026-08-28T12:29:05+00:00"
     },
     {
@@ -3782,7 +3804,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.24,
+      "final_score": 4.23,
       "published_at": "2026-08-26T17:20:12+00:00"
     },
     {
@@ -3804,7 +3826,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.21,
+      "final_score": 4.2,
       "published_at": "2026-08-26T10:15:00+00:00"
     },
     {
@@ -3815,7 +3837,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.17,
+      "final_score": 4.16,
       "published_at": "2026-08-16T00:38:44+00:00"
     },
     {
@@ -3947,7 +3969,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.95,
+      "final_score": 3.94,
       "published_at": "2026-08-23T19:39:29+00:00"
     },
     {
@@ -4068,7 +4090,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 5,
-      "final_score": 3.63,
+      "final_score": 3.62,
       "published_at": "2026-08-20T15:00:00+00:00"
     },
     {
@@ -4112,7 +4134,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.61,
+      "final_score": 3.6,
       "published_at": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -4266,7 +4288,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.08,
+      "final_score": 3.07,
       "published_at": "2026-08-15T02:58:54+00:00"
     },
     {
