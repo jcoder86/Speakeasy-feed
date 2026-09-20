@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:11:54.029566+00:00",
+  "generated_at": "2026-09-20T09:32:42.780307+00:00",
   "items": [
     {
       "id": "f4d4083196277415",
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 10.99,
+      "final_score": 10.98,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.85,
+      "final_score": 9.84,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.84,
+      "final_score": 9.83,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.68,
+      "final_score": 9.67,
       "published_at": "2026-09-17T03:12:05+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 9.28,
+      "final_score": 9.27,
       "published_at": "2026-09-13T03:21:59+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.78,
+      "final_score": 8.77,
       "published_at": "2026-09-08T03:19:52+00:00"
     },
     {
@@ -647,7 +647,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.53,
+      "final_score": 8.52,
       "published_at": "2026-09-15T15:20:26+00:00"
     },
     {
@@ -724,7 +724,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.44,
+      "final_score": 8.43,
       "published_at": "2026-09-14T17:46:01+00:00"
     },
     {
@@ -746,7 +746,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.42,
+      "final_score": 8.41,
       "published_at": "2026-09-14T13:00:46+00:00"
     },
     {
@@ -757,7 +757,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 8.42,
+      "final_score": 8.41,
       "published_at": "2026-09-14T12:58:32+00:00"
     },
     {
@@ -823,7 +823,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.31,
+      "final_score": 8.3,
       "published_at": "2026-09-03T10:34:30+00:00"
     },
     {
@@ -889,7 +889,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 8.16,
+      "final_score": 8.15,
       "published_at": "2026-09-01T22:30:52+00:00"
     },
     {
@@ -1208,7 +1208,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 7.86,
+      "final_score": 7.85,
       "published_at": "2026-08-29T22:31:56+00:00"
     },
     {
@@ -1219,7 +1219,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.85,
+      "final_score": 7.84,
       "published_at": "2026-09-08T20:07:55+00:00"
     },
     {
@@ -1263,7 +1263,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.82,
+      "final_score": 7.81,
       "published_at": "2026-09-08T13:01:23+00:00"
     },
     {
@@ -1366,17 +1366,6 @@
       "published_at": "2026-09-07T17:22:54+00:00"
     },
     {
-      "id": "9e15a96924774a76",
-      "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "summary_nl": "Lokale AI zonder cloud-rekening: wat een Mac Studio écht aankan met Qwen 3.8 27B. De auteur deelt concrete benchmarks van het draaien van dit grote taalmodel op eigen hardware, met tokens-per-seconde en geheugengebruik in plaats van marketingpraatjes. Inspirerend omdat het laat zien dat je met de juiste Apple Silicon-hardware serieuze modellen thuis kunt laten draaien, zonder afhankelijkheid van externe API's of doorlopende kosten. Wat je nodig heb je: een Mac Studio met voldoende unified memory (denk aan 64GB of meer), basiskennis van het installeren van tools zoals Ollama of LM Studio, en een avond om te experimenteren met instellingen en quantization-opties. Bron: https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 7.73,
-      "published_at": "2026-08-28T15:24:44+00:00"
-    },
-    {
       "id": "6a46bc06d9a1fe35",
       "title": "Show HN: AutoBot – live voice control for long-running AI work",
       "summary_nl": "Praten tegen je AI-agent terwijl die aan het werk is: AutoBot maakt dat mogelijk. Het is een tool waarmee je via spraak live kunt bijsturen tijdens langdurige AI-taken, zodat je niet hoeft te wachten tot een proces klaar is om correcties of nieuwe instructies te geven. De slimme vondst is dat het de vaak stroeve wachttijd bij AI-agents omzet in een doorlopend gesprek, wat het werken met AI minder een kwestie van prompten-en-afwachten maakt en meer een samenwerking in realtime. Wat je nodig hebt: basiskennis van het werken met AI-agents of coding assistants, een microfoon, en de bereidheid om de GitHub-repository te installeren en te configureren, wat voor een technisch onderlegde gebruiker een avond werk is. Zie de broncode en uitleg op https://github.com/demeyer1/Autobot.",
@@ -1386,6 +1375,17 @@
       "score": 8,
       "final_score": 7.73,
       "published_at": "2026-09-17T16:54:57+00:00"
+    },
+    {
+      "id": "9e15a96924774a76",
+      "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+      "summary_nl": "Lokale AI zonder cloud-rekening: wat een Mac Studio écht aankan met Qwen 3.8 27B. De auteur deelt concrete benchmarks van het draaien van dit grote taalmodel op eigen hardware, met tokens-per-seconde en geheugengebruik in plaats van marketingpraatjes. Inspirerend omdat het laat zien dat je met de juiste Apple Silicon-hardware serieuze modellen thuis kunt laten draaien, zonder afhankelijkheid van externe API's of doorlopende kosten. Wat je nodig heb je: een Mac Studio met voldoende unified memory (denk aan 64GB of meer), basiskennis van het installeren van tools zoals Ollama of LM Studio, en een avond om te experimenteren met instellingen en quantization-opties. Bron: https://terminalbytes.com/run-qwen-3-8-27b-locally/",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 10,
+      "final_score": 7.72,
+      "published_at": "2026-08-28T15:24:44+00:00"
     },
     {
       "id": "14c8cb711086cbde",
@@ -1406,7 +1406,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 7.65,
+      "final_score": 7.64,
       "published_at": "2026-09-06T20:07:30+00:00"
     },
     {
@@ -1439,7 +1439,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-08-27T13:07:33+00:00"
     },
     {
@@ -1450,7 +1450,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.62,
+      "final_score": 7.61,
       "published_at": "2026-09-16T13:01:52+00:00"
     },
     {
@@ -1494,7 +1494,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.54,
+      "final_score": 7.53,
       "published_at": "2026-09-15T17:38:18+00:00"
     },
     {
@@ -1527,7 +1527,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.49,
+      "final_score": 7.48,
       "published_at": "2026-09-15T05:48:00+00:00"
     },
     {
@@ -1549,7 +1549,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 7.46,
+      "final_score": 7.45,
       "published_at": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -1615,7 +1615,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 7.43,
+      "final_score": 7.42,
       "published_at": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -1626,7 +1626,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 8,
-      "final_score": 7.43,
+      "final_score": 7.42,
       "published_at": "2026-09-14T15:15:00+00:00"
     },
     {
@@ -1725,7 +1725,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 7.33,
+      "final_score": 7.32,
       "published_at": "2026-08-14T15:22:02+00:00"
     },
     {
@@ -1736,7 +1736,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.33,
+      "final_score": 7.32,
       "published_at": "2026-09-13T15:24:05+00:00"
     },
     {
@@ -2033,7 +2033,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 8,
-      "final_score": 7.02,
+      "final_score": 7.01,
       "published_at": "2026-09-10T13:00:00+00:00"
     },
     {
@@ -2044,7 +2044,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 7.02,
+      "final_score": 7.01,
       "published_at": "2026-09-10T12:59:26+00:00"
     },
     {
@@ -2066,7 +2066,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.98,
+      "final_score": 6.97,
       "published_at": "2026-08-21T03:17:43+00:00"
     },
     {
@@ -2297,7 +2297,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.74,
+      "final_score": 6.73,
       "published_at": "2026-08-28T17:39:53+00:00"
     },
     {
@@ -2345,17 +2345,6 @@
       "published_at": "2026-08-28T15:38:33+00:00"
     },
     {
-      "id": "1d085ce5c0f6ce88",
-      "title": "GLM-5.3 is now open-weight",
-      "summary_nl": "Een nieuw groot taalmodel wordt zomaar gratis weggegeven, en dat is niet vanzelfsprekend. Zhipu AI (Z.ai) heeft aangekondigd dat GLM-5.3 nu open-weight beschikbaar is, wat betekent dat de modelgewichten publiek toegankelijk zijn om te downloaden, lokaal te draaien of aan te passen, in plaats van alleen via een betaalde API. Inspirerend omdat dit ontwikkelaars en onderzoekers de kans geeft om zonder vendor lock-in te experimenteren met een geavanceerd model, iets dat bij de grote Amerikaanse spelers vaak niet mogelijk is. Wat je nodig heb",
-      "url": "https://twitter.com/Zai_org/status/2093354097122455713",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 6.73,
-      "published_at": "2026-08-28T15:20:13+00:00"
-    },
-    {
       "id": "f15472b4e4896e26",
       "title": "Towards Self-Driving Codebases",
       "summary_nl": "Zelfrijdende code: waar houdt automatisering op? Dit stuk verkent het idee van codebases die zichzelf onderhouden, refactoren en zelfs uitbreiden met minimale menselijke tussenkomst, naar analogie van zelfrijdende auto's. De auteur beschrijft welke bouwstenen daarvoor nodig zijn, zoals AI-agents die met testsuites en type-checks controleren of hun eigen wijzigingen veilig zijn, en waar de grenzen van vertrouwen liggen. Inspirerend omdat het een concreet toekomstbeeld schetst van softwareontwikkeling waarin engineers meer curator dan typist worden. Wat je nodig hebt: ervaring met moderne AI-coding-tools (zoals Copilot-achtige agents), een codebase met goede testdekking om mee te experimenteren, en een dag of twee om de b",
@@ -2365,6 +2354,17 @@
       "score": 7,
       "final_score": 6.73,
       "published_at": "2026-09-17T16:58:31+00:00"
+    },
+    {
+      "id": "1d085ce5c0f6ce88",
+      "title": "GLM-5.3 is now open-weight",
+      "summary_nl": "Een nieuw groot taalmodel wordt zomaar gratis weggegeven, en dat is niet vanzelfsprekend. Zhipu AI (Z.ai) heeft aangekondigd dat GLM-5.3 nu open-weight beschikbaar is, wat betekent dat de modelgewichten publiek toegankelijk zijn om te downloaden, lokaal te draaien of aan te passen, in plaats van alleen via een betaalde API. Inspirerend omdat dit ontwikkelaars en onderzoekers de kans geeft om zonder vendor lock-in te experimenteren met een geavanceerd model, iets dat bij de grote Amerikaanse spelers vaak niet mogelijk is. Wat je nodig heb",
+      "url": "https://twitter.com/Zai_org/status/2093354097122455713",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 6.72,
+      "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
       "id": "f07f2504d54eeab2",
@@ -2506,7 +2506,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.62,
+      "final_score": 6.61,
       "published_at": "2026-09-06T13:01:28+00:00"
     },
     {
@@ -2528,7 +2528,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.56,
+      "final_score": 6.55,
       "published_at": "2026-08-26T22:42:48+00:00"
     },
     {
@@ -2550,7 +2550,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.54,
+      "final_score": 6.53,
       "published_at": "2026-08-26T17:42:22+00:00"
     },
     {
@@ -2583,7 +2583,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.53,
+      "final_score": 6.52,
       "published_at": "2026-09-15T15:28:23+00:00"
     },
     {
@@ -2605,7 +2605,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.52,
+      "final_score": 6.51,
       "published_at": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -2649,7 +2649,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.47,
+      "final_score": 6.46,
       "published_at": "2026-08-26T00:48:03+00:00"
     },
     {
@@ -2671,7 +2671,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.46,
+      "final_score": 6.45,
       "published_at": "2026-08-15T22:41:51+00:00"
     },
     {
@@ -2726,7 +2726,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.43,
+      "final_score": 6.42,
       "published_at": "2026-09-14T15:27:56+00:00"
     },
     {
@@ -2803,7 +2803,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.35,
+      "final_score": 6.34,
       "published_at": "2026-08-14T20:20:24+00:00"
     },
     {
@@ -2858,7 +2858,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 6.32,
+      "final_score": 6.31,
       "published_at": "2026-08-14T12:57:02+00:00"
     },
     {
@@ -2869,7 +2869,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.3,
+      "final_score": 6.29,
       "published_at": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -2979,7 +2979,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.23,
+      "final_score": 6.22,
       "published_at": "2026-09-02T15:12:40+00:00"
     },
     {
@@ -3023,7 +3023,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 6.19,
+      "final_score": 6.18,
       "published_at": "2026-08-23T05:38:43+00:00"
     },
     {
@@ -3111,7 +3111,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.09,
+      "final_score": 6.08,
       "published_at": "2026-09-01T05:53:57+00:00"
     },
     {
@@ -3155,7 +3155,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 6.03,
+      "final_score": 6.02,
       "published_at": "2026-09-10T15:29:47+00:00"
     },
     {
@@ -3188,7 +3188,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 6.0,
+      "final_score": 5.99,
       "published_at": "2026-08-31T08:09:45+00:00"
     },
     {
@@ -3210,7 +3210,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 5.98,
+      "final_score": 5.97,
       "published_at": "2026-08-31T03:20:33+00:00"
     },
     {
@@ -3254,7 +3254,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.93,
+      "final_score": 5.92,
       "published_at": "2026-08-20T15:26:02+00:00"
     },
     {
@@ -3375,7 +3375,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 6,
-      "final_score": 5.8,
+      "final_score": 5.79,
       "published_at": "2026-09-18T08:00:00+00:00"
     },
     {
@@ -3511,17 +3511,6 @@
       "published_at": "2026-08-18T16:26:42+00:00"
     },
     {
-      "id": "1fe17a71daf8307e",
-      "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
-      "summary_nl": "Oefenen zonder afhankelijk te zijn van een externe server: Openleetcode is een lokale runner voor LeetCode-achtige oefeningen, waarbij de testcases gewoon in de repository zelf staan in plaats van op een externe website te leven. Het idee is dat je opgaven en tests als gewone bestanden beheert, zodat je alles offline kunt draaien, aanpassen en zelfs eigen oefeningen kunt toevoegen zonder van een account of internetverbinding afhankelijk te zijn. Inspirerend omdat het laat zien hoe je leren en oefenen los kunt maken van gesloten platforms en weer in eigen beheer kunt nemen. Wat je nodig hebt: basiskennis van programmeren en git, en de bereidheid om een tool vanaf GitHub te clonen en lokaal te draaien; geen abonnement of account nodig. Bron: https://github.com/therepanic/openleetcode",
-      "url": "https://github.com/therepanic/openleetcode",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 5.73,
-      "published_at": "2026-08-18T15:30:40+00:00"
-    },
-    {
       "id": "c7e3edff3242b059",
       "title": "TianyuCodings/NanoJev",
       "summary_nl": "Een compacte doe-het-zelf-versie van een groter systeem genaamd Jev, gebouwd als leerzaam nano-project op GitHub. NanoJev draait om drie kernideeën: beslissingen die parallel genomen worden in plaats van na elkaar, een dynamische pool van kandidaten die tijdens het proces kan wijzigen, en een volledige end-to-end trainingspijplijn waarmee je het hele systeem van begin tot eind kunt trainen. Inspirerend",
@@ -3531,6 +3520,17 @@
       "score": 6,
       "final_score": 5.73,
       "published_at": "2026-09-17T16:08:30+00:00"
+    },
+    {
+      "id": "1fe17a71daf8307e",
+      "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
+      "summary_nl": "Oefenen zonder afhankelijk te zijn van een externe server: Openleetcode is een lokale runner voor LeetCode-achtige oefeningen, waarbij de testcases gewoon in de repository zelf staan in plaats van op een externe website te leven. Het idee is dat je opgaven en tests als gewone bestanden beheert, zodat je alles offline kunt draaien, aanpassen en zelfs eigen oefeningen kunt toevoegen zonder van een account of internetverbinding afhankelijk te zijn. Inspirerend omdat het laat zien hoe je leren en oefenen los kunt maken van gesloten platforms en weer in eigen beheer kunt nemen. Wat je nodig hebt: basiskennis van programmeren en git, en de bereidheid om een tool vanaf GitHub te clonen en lokaal te draaien; geen abonnement of account nodig. Bron: https://github.com/therepanic/openleetcode",
+      "url": "https://github.com/therepanic/openleetcode",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 9,
+      "final_score": 5.72,
+      "published_at": "2026-08-18T15:30:40+00:00"
     },
     {
       "id": "640915152d823c74",
@@ -3639,7 +3639,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 5.66,
+      "final_score": 5.65,
       "published_at": "2026-08-27T22:34:32+00:00"
     },
     {
@@ -3716,7 +3716,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.64,
+      "final_score": 5.63,
       "published_at": "2026-08-17T17:42:40+00:00"
     },
     {
@@ -3804,7 +3804,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.6,
+      "final_score": 5.59,
       "published_at": "2026-09-16T08:08:57+00:00"
     },
     {
@@ -3815,7 +3815,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.54,
+      "final_score": 5.53,
       "published_at": "2026-08-16T17:40:33+00:00"
     },
     {
@@ -3936,7 +3936,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.44,
+      "final_score": 5.43,
       "published_at": "2026-09-04T17:49:09+00:00"
     },
     {
@@ -3958,7 +3958,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 5.42,
+      "final_score": 5.41,
       "published_at": "2026-09-04T12:49:44+00:00"
     },
     {
@@ -4112,7 +4112,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.33,
+      "final_score": 5.32,
       "published_at": "2026-08-14T15:30:29+00:00"
     },
     {
@@ -4156,7 +4156,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.31,
+      "final_score": 5.3,
       "published_at": "2026-08-14T10:35:43+00:00"
     },
     {
@@ -4277,7 +4277,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 5.22,
+      "final_score": 5.21,
       "published_at": "2026-08-13T12:49:31+00:00"
     },
     {
@@ -4310,7 +4310,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.18,
+      "final_score": 5.17,
       "published_at": "2026-09-12T03:14:20+00:00"
     },
     {
@@ -4376,7 +4376,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 5.14,
+      "final_score": 5.13,
       "published_at": "2026-09-11T17:54:53+00:00"
     },
     {
@@ -4431,7 +4431,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 5.05,
+      "final_score": 5.04,
       "published_at": "2026-08-21T20:20:04+00:00"
     },
     {
@@ -4475,7 +4475,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 5.03,
+      "final_score": 5.02,
       "published_at": "2026-08-21T15:21:10+00:00"
     },
     {
@@ -4556,17 +4556,6 @@
       "published_at": "2026-08-20T22:47:52+00:00"
     },
     {
-      "id": "e473c81e6c9ccc42",
-      "title": "Measure internet censorship",
-      "summary_nl": "Meten of het internet ergens dichtgedraaid wordt: dat kan gewoon zelf\n\nOONI Probe is een open-source app waarmee je vanaf je eigen telefoon of laptop test of websites, apps en communicatiediensten geblokkeerd of vertraagd worden in jouw netwerk of land. De app draait een reeks technische testjes (denk aan het proberen te bereiken van bekende nieuwssites, messaging-apps of circumventietools) en stuurt de resultaten geanonimiseerd naar een openbare database die onderzoekers, journalisten en mensenrechtenorganisaties wereldwijd gebruiken om censuurpatronen in kaart te brengen. Inspirerend omdat je met een paar tikken op je scherm onderdeel wordt van een wereldwijd, crowdsourced meetnetwerk dat anders volledig zou afhangen van dure infrastructuur of overheidsdata. Wat je nodig hebt: een smartphone (Android/iOS) of computer, de gratis OONI Probe app of tool, en een paar minuten om een test te draaien; geen technische voorkennis vereist, al helpt begrip van netwerken om de resultaten te interpreteren. Bron: https://ooni.org/install",
-      "url": "https://ooni.org/install",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 5,
-      "final_score": 4.95,
-      "published_at": "2026-09-19T20:00:59+00:00"
-    },
-    {
       "id": "0d06790d5ac53c49",
       "title": "HellGates, custom CPU gate-level challenge",
       "summary_nl": "Wie ooit heeft willen weten hoe een processor er tot op het niveau van losse logische poorten uitziet, kan bij HellGates zijn gading vinden. Het project draait om een op maat gebouwde CPU die volledig op gate-niveau is ontworpen en als uitdaging wordt gepresenteerd, waarbij je de werking van de chip moet doorgronden of zelf logica moet bouwen om taken uit te voeren. De vondst zit in het compromisloze detailniveau: geen abstracte instructieset, maar de kale bouwstenen van transistors en poorten die samen rekenwerk verrichten. Inspirerend omdat het laat zien hoe complexe systemen ontstaan uit simpele, herhaalde logica, iets wat in de dagelijkse softwarepraktijk vaak verborgen blijft. Wat je nodig heb: gevorderde kennis van digitale logica en computerarchitectuur, geduld om gate-schema's te lezen, en al snel een paar avonden puzzelwerk; zie https://blog.xutaxkamay.com/posts/",
@@ -4576,6 +4565,17 @@
       "score": 5,
       "final_score": 4.95,
       "published_at": "2026-09-19T21:44:07+00:00"
+    },
+    {
+      "id": "e473c81e6c9ccc42",
+      "title": "Measure internet censorship",
+      "summary_nl": "Meten of het internet ergens dichtgedraaid wordt: dat kan gewoon zelf\n\nOONI Probe is een open-source app waarmee je vanaf je eigen telefoon of laptop test of websites, apps en communicatiediensten geblokkeerd of vertraagd worden in jouw netwerk of land. De app draait een reeks technische testjes (denk aan het proberen te bereiken van bekende nieuwssites, messaging-apps of circumventietools) en stuurt de resultaten geanonimiseerd naar een openbare database die onderzoekers, journalisten en mensenrechtenorganisaties wereldwijd gebruiken om censuurpatronen in kaart te brengen. Inspirerend omdat je met een paar tikken op je scherm onderdeel wordt van een wereldwijd, crowdsourced meetnetwerk dat anders volledig zou afhangen van dure infrastructuur of overheidsdata. Wat je nodig hebt: een smartphone (Android/iOS) of computer, de gratis OONI Probe app of tool, en een paar minuten om een test te draaien; geen technische voorkennis vereist, al helpt begrip van netwerken om de resultaten te interpreteren. Bron: https://ooni.org/install",
+      "url": "https://ooni.org/install",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 5,
+      "final_score": 4.94,
+      "published_at": "2026-09-19T20:00:59+00:00"
     },
     {
       "id": "84c8dc2977a78352",
@@ -4596,7 +4596,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.94,
+      "final_score": 4.93,
       "published_at": "2026-09-09T17:37:13+00:00"
     },
     {
@@ -4706,7 +4706,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.85,
+      "final_score": 4.84,
       "published_at": "2026-09-08T20:08:44+00:00"
     },
     {
@@ -4831,17 +4831,6 @@
       "published_at": "2026-08-28T15:42:04+00:00"
     },
     {
-      "id": "4424584ee706d4b4",
-      "title": "GLM-5.3 is now open-weight",
-      "summary_nl": "GLM-5.3 ligt nu open op tafel, en dat is nieuws voor iedereen die met open-weight taalmodellen experimenteert. Het model is via Hugging Face vrijgegeven door Zai (voorheen Zhipu AI), wat betekent dat de gewichten zelf te downloaden en lokaal te draaien zijn in plaats van enkel via een API. Inspirerend omdat dit de reeks sterke Chinese open-source modellen verder uitbreidt en de druk op gesloten aanbieders verhoogt om ook toegankelijker te worden. Wat je nodig hebt: voldoende GPU-geheugen of een cloud-instance om het model te draaien",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 7,
-      "final_score": 4.73,
-      "published_at": "2026-08-28T15:20:13+00:00"
-    },
-    {
       "id": "47f981b193e62d6e",
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
       "summary_nl": "Eén taal voor alle command-line tools: Aclif wil af van de chaos aan verschillende CLI-syntaxen per SaaS-dienst. Het framework definieert één grammatica met canonieke commandonamen, zodat AI-agents niet voor elke tool opnieuw hoeven te leren hoe een opdracht eruitziet. Inspirerend omdat het een concreet knelpunt aanpakt bij het bouwen van agents die met meerdere externe diensten moeten praten: minder maatwerk per integratie, meer herbruikbare logica. Wat je nodig hebt: ervaring met het bouwen of inzetten van AI-agents, basiskennis van CLI-ontwerp, en tijd om te testen of de aangeboden grammatica aansluit bij de SaaS-tools die",
@@ -4862,6 +4851,17 @@
       "score": 5,
       "final_score": 4.73,
       "published_at": "2026-09-17T15:36:50+00:00"
+    },
+    {
+      "id": "4424584ee706d4b4",
+      "title": "GLM-5.3 is now open-weight",
+      "summary_nl": "GLM-5.3 ligt nu open op tafel, en dat is nieuws voor iedereen die met open-weight taalmodellen experimenteert. Het model is via Hugging Face vrijgegeven door Zai (voorheen Zhipu AI), wat betekent dat de gewichten zelf te downloaden en lokaal te draaien zijn in plaats van enkel via een API. Inspirerend omdat dit de reeks sterke Chinese open-source modellen verder uitbreidt en de druk op gesloten aanbieders verhoogt om ook toegankelijker te worden. Wat je nodig hebt: voldoende GPU-geheugen of een cloud-instance om het model te draaien",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "hn",
+      "category": "ai_usecase",
+      "score": 7,
+      "final_score": 4.72,
+      "published_at": "2026-08-28T15:20:13+00:00"
     },
     {
       "id": "347346b87ae3b4e8",
@@ -4904,7 +4904,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.72,
+      "final_score": 4.71,
       "published_at": "2026-08-28T13:05:49+00:00"
     },
     {
@@ -4970,7 +4970,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.66,
+      "final_score": 4.65,
       "published_at": "2026-08-27T22:41:11+00:00"
     },
     {
@@ -5014,7 +5014,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.64,
+      "final_score": 4.63,
       "published_at": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -5135,7 +5135,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.6,
+      "final_score": 4.59,
       "published_at": "2026-09-16T08:00:00+00:00"
     },
     {
@@ -5311,7 +5311,7 @@
       "source": "rss:ecb_press",
       "category": "macro",
       "score": 5,
-      "final_score": 4.42,
+      "final_score": 4.41,
       "published_at": "2026-09-14T13:00:00+00:00"
     },
     {
@@ -5366,7 +5366,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 4.37,
+      "final_score": 4.36,
       "published_at": "2026-09-14T01:02:37+00:00"
     },
     {
@@ -5399,7 +5399,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.35,
+      "final_score": 4.34,
       "published_at": "2026-09-03T20:08:55+00:00"
     },
     {
@@ -5487,7 +5487,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 8,
-      "final_score": 4.28,
+      "final_score": 4.27,
       "published_at": "2026-08-14T03:14:33+00:00"
     },
     {
@@ -5619,7 +5619,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.14,
+      "final_score": 4.13,
       "published_at": "2026-08-22T17:56:02+00:00"
     },
     {
@@ -5630,7 +5630,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 4.14,
+      "final_score": 4.13,
       "published_at": "2026-09-01T17:50:00+00:00"
     },
     {
@@ -5729,7 +5729,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.04,
+      "final_score": 4.03,
       "published_at": "2026-08-21T17:40:07+00:00"
     },
     {
@@ -5740,7 +5740,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 4.01,
+      "final_score": 4.0,
       "published_at": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -5949,7 +5949,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.83,
+      "final_score": 3.82,
       "published_at": "2026-08-19T15:20:24+00:00"
     },
     {
@@ -6048,7 +6048,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 3.73,
+      "final_score": 3.72,
       "published_at": "2026-08-28T15:16:07+00:00"
     },
     {
@@ -6158,7 +6158,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 3.66,
+      "final_score": 3.65,
       "published_at": "2026-08-27T22:24:31+00:00"
     },
     {
@@ -6202,7 +6202,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.64,
+      "final_score": 3.63,
       "published_at": "2026-08-17T17:39:02+00:00"
     },
     {
@@ -6268,7 +6268,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 7,
-      "final_score": 3.57,
+      "final_score": 3.56,
       "published_at": "2026-08-17T00:58:35+00:00"
     },
     {
@@ -6466,7 +6466,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 3.33,
+      "final_score": 3.32,
       "published_at": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -6708,7 +6708,7 @@
       "source": "rss:fed_press",
       "category": "macro",
       "score": 4,
-      "final_score": 3.05,
+      "final_score": 3.04,
       "published_at": "2026-09-10T20:00:00+00:00"
     },
     {
@@ -6774,7 +6774,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 6,
-      "final_score": 3.02,
+      "final_score": 3.01,
       "published_at": "2026-08-21T12:52:25+00:00"
     },
     {
@@ -6796,7 +6796,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.01,
+      "final_score": 3.0,
       "published_at": "2026-08-31T10:36:43+00:00"
     },
     {
@@ -6807,19 +6807,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 5,
-      "final_score": 3.01,
-      "published_at": "2026-08-31T10:37:42+00:00"
-    },
-    {
-      "id": "157f8b145352e193",
-      "title": "ECB Consumer Expectations Survey results – July 2026",
-      "summary_nl": "Wat verwachten Europese consumenten van inflatie, banen en hun portemonnee dit jaar? De ECB publiceerde de resultaten van haar Consumer Expectations Survey over juli 2",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "source": "rss:ecb_press",
-      "category": "macro",
-      "score": 6,
       "final_score": 3.0,
-      "published_at": "2026-08-21T08:00:00+00:00"
+      "published_at": "2026-08-31T10:37:42+00:00"
     }
   ]
 }
