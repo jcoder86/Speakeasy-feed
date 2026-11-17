@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:15:46.402032+00:00",
+  "generated_at": "2026-11-17T12:59:15.105938+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.36,
+      "final_score": 6.27,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.24,
+      "final_score": 6.14,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.39,
+      "final_score": 5.29,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.27,
+      "final_score": 5.17,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.2,
+      "final_score": 5.1,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.1,
+      "final_score": 5.01,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.8,
+      "final_score": 4.7,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 4.76,
+      "final_score": 4.66,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.71,
+      "final_score": 4.61,
       "published_at": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.47,
+      "final_score": 4.38,
       "published_at": "2026-09-22T07:12:46+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.41,
+      "final_score": 4.31,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.4,
+      "final_score": 4.3,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.4,
+      "final_score": 4.3,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.16,
+      "final_score": 4.06,
       "published_at": "2026-09-19T02:32:36+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.13,
+      "final_score": 4.03,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.12,
+      "final_score": 4.02,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.11,
+      "final_score": 4.01,
       "published_at": "2026-09-18T14:40:45+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.01,
+      "final_score": 3.91,
       "published_at": "2026-09-17T16:25:37+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.97,
+      "final_score": 3.87,
       "published_at": "2026-09-17T05:57:20+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.96,
+      "final_score": 3.86,
       "published_at": "2026-09-07T04:18:28+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.96,
+      "final_score": 3.86,
       "published_at": "2026-09-17T03:12:05+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.95,
+      "final_score": 3.86,
       "published_at": "2026-09-07T02:11:40+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.93,
+      "final_score": 3.84,
       "published_at": "2026-09-16T21:28:40+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.84,
+      "final_score": 3.74,
       "published_at": "2026-09-05T22:15:52+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.73,
+      "final_score": 3.63,
       "published_at": "2026-09-14T19:56:20+00:00"
     },
     {
@@ -284,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.7,
+      "final_score": 3.6,
       "published_at": "2026-09-14T13:59:09+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.68,
+      "final_score": 3.58,
       "published_at": "2026-09-14T07:35:00+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.61,
+      "final_score": 3.51,
       "published_at": "2026-09-13T15:07:42+00:00"
     },
     {
@@ -317,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.56,
+      "final_score": 3.46,
       "published_at": "2026-09-13T03:21:59+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.49,
+      "final_score": 3.4,
       "published_at": "2026-09-02T11:53:05+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.45,
+      "final_score": 3.35,
       "published_at": "2026-09-12T00:16:10+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.43,
+      "final_score": 3.33,
       "published_at": "2026-09-01T19:28:47+00:00"
     },
     {
@@ -361,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.42,
+      "final_score": 3.32,
       "published_at": "2026-09-21T18:53:01+00:00"
     },
     {
@@ -372,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.42,
+      "final_score": 3.32,
       "published_at": "2026-09-01T18:39:04+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.4,
+      "final_score": 3.3,
       "published_at": "2026-09-21T14:10:49+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.39,
+      "final_score": 3.29,
       "published_at": "2026-09-21T11:12:53+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.39,
+      "final_score": 3.29,
       "published_at": "2026-09-21T10:57:44+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.35,
+      "final_score": 3.25,
       "published_at": "2026-09-21T00:46:42+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.33,
+      "final_score": 3.23,
       "published_at": "2026-09-10T19:20:24+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.31,
+      "final_score": 3.21,
       "published_at": "2026-09-20T15:43:32+00:00"
     },
     {
@@ -449,7 +449,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.27,
+      "final_score": 3.17,
       "published_at": "2026-09-20T05:05:12+00:00"
     },
     {
@@ -460,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.25,
+      "final_score": 3.15,
       "published_at": "2026-09-10T02:04:11+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.22,
+      "final_score": 3.12,
       "published_at": "2026-09-19T17:30:14+00:00"
     },
     {
@@ -482,7 +482,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.21,
+      "final_score": 3.11,
       "published_at": "2026-09-09T14:54:49+00:00"
     },
     {
@@ -493,7 +493,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.18,
+      "final_score": 3.09,
       "published_at": "2026-09-09T09:39:46+00:00"
     },
     {
@@ -504,7 +504,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.16,
+      "final_score": 3.06,
       "published_at": "2026-09-09T04:07:26+00:00"
     },
     {
@@ -515,7 +515,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.15,
+      "final_score": 3.05,
       "published_at": "2026-09-19T00:27:26+00:00"
     },
     {
@@ -526,7 +526,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.13,
+      "final_score": 3.03,
       "published_at": "2026-09-18T21:00:32+00:00"
     },
     {
@@ -537,85 +537,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.11,
+      "final_score": 3.01,
       "published_at": "2026-09-18T16:25:23+00:00"
-    },
-    {
-      "id": "74371d898e6f8e4b",
-      "title": "featherless-ai/simple-jev",
-      "summary_nl": "Van taalmodel naar classifier: featherless-ai laat zien hoe het moet. Simple-jev is een tool waarmee je elk open model (denk aan Llama, Mistral of vergelijkbare modellen) kunt ombouwen tot een classifier- of jev-endpoint, zonder dat je het model opnieuw hoeft te trainen. De slimme vondst is dat je zo de generatieve kracht van bestaande modellen hergebruikt voor classificatietaken, in plaats van een apart model te bouwen en trainen. Inspirerend omdat het een pragmatische brug slaat tussen twee werelden die vaak apart worden behandeld: tekstgeneratie en classificatie. Wat je nodig heb: basiskennis van het draaien van open modellen (lokaal of via een API), wat ervaring met Python, en een uur of wat om de repository te doorlopen en uit te proberen. Bron: https://github.com/featherless-ai/simple-jev",
-      "url": "https://github.com/featherless-ai/simple-jev",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.09,
-      "published_at": "2026-09-18T09:52:15+00:00"
-    },
-    {
-      "id": "0e0c2f96d63788b1",
-      "title": "unicodef1wn/grokbot-field-notes",
-      "summary_nl": "Wat een 72-uursmarathon leert over agentbouw: het xAI Grok Bot-team hield tijdens een live build een logboek bij van wat werkte en vooral wat niet, en dat is nu gebundeld in unicodef1wn/grokbot-field-notes. De repository bevat regels, playbooks, rolverdelingen voor verschillende bots en een failure log met concrete misstappen uit die sessie. Het bruikbare kernstuk is het AGENTS.md-bestand: dat plak je in je eigen repo, en je hebt direct een startpunt met afspraken en rolomschrijvingen voor je eigen bot-team. Wat je nodig hebt: een repo waarin je met meerdere AI-agenten werkt, basiskennis van markdown en git, en een kwartiertje om AGENTS.md door te nemen en aan te passen aan je eigen situatie. Bron: https://github.com/unicodef1wn/grokbot-field-notes",
-      "url": "https://github.com/unicodef1wn/grokbot-field-notes",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.08,
-      "published_at": "2026-09-18T09:15:24+00:00"
-    },
-    {
-      "id": "4357c5b7de1e3b44",
-      "title": "Show HN: Claude Style Patch – A dropin Claude.MD section for improving Claudish",
-      "summary_nl": "Herken je die typische AI-tekst met eindeloze opsommingen en zinnen als \"het is niet alleen X, het is Y\"? Deze Claude Style Patch is een kant-en-klaar stukje tekst dat je toevoegt aan je CLAUDE.md-bestand, zodat Claude vanzelf natuurlijker en minder \"Claudish\" gaat schrijven. Het idee is simpel: in plaats van zelf telkens te corrigeren, geef je de AI vooraf duidelijke stijlinstructies mee die de bekende tics wegfilteren. Wat je nodig hebt: een project waarin je Claude via Claude Code of vergelijkbare tooling gebruikt, en twee minuten om het patch-bestand te kopiëren naar je eigen CLAUDE.md (github.com/andrewroxby/claude-style-patch).",
-      "url": "https://github.com/andrewroxby/claude-style-patch",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.06,
-      "published_at": "2026-09-08T03:19:52+00:00"
-    },
-    {
-      "id": "1c46362736101b77",
-      "title": "Show HN: OJ – A drop-in replacement for Vite in Rust",
-      "summary_nl": "Snellere builds zonder je Vite-config weg te gooien: dat is de belofte van OJ. Het is een drop-in vervanger voor Vite, geschreven in Rust, die dezelfde workflow en plugins ondersteunt maar onder de motorkap draait op een snellere compiler-toolchain. De slimme vondst is dat je niet je hele build-pipeline hoeft te herschrijven om van de snelheidswinst te profiteren, je vervangt simpelweg de tool en behoudt je bestaande project-structuur. Wat je nodig hebt: een bestaand Vite-project, basiskennis van Node.js-tooling en Rust-binaries installeren, en ongeveer een uur om te testen of je specifieke plugins en configuratie compatibel zijn. Zie de broncode en documentatie op https://github.com/lovablelabs/oj.",
-      "url": "https://github.com/lovablelabs/oj",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.03,
-      "published_at": "2026-09-17T21:21:01+00:00"
-    },
-    {
-      "id": "620c54083067f312",
-      "title": "Flet 1.0 – Build cross-platform apps in Python",
-      "summary_nl": "Python schrijven, overal een app krijgen\n\nFlet 1.0 is uit, en daarmee kun je met alleen Python-code apps bouwen voor web, desktop en mobiel tegelijk. Het framework werkt onder de motorkap met Flutter, maar je hoeft geen Dart te kennen: je definieert de interface in Python en Flet vertaalt dat naar een echte, native-uitziende app. De vondst is dat je de complexiteit van cross-platform ontwikkeling wegneemt zonder dat je een nieuwe taal of een zwaar toolchain-circus erbij moet leren. Wat je nodig heb: basiskennis Python, een uurtje om de documentatie en voorbeelden door te lopen, en voor mobiele builds uiteindelijk ook wat vertrouwdheid met Flutter's build-tooling. Meer op https://flet.dev/.",
-      "url": "https://flet.dev/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.03,
-      "published_at": "2026-09-17T20:44:28+00:00"
-    },
-    {
-      "id": "f92db6ee77b8446a",
-      "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
-      "summary_nl": "Wg-admin: je WireGuard-server eindelijk beheren zonder gedoe in de command line. Deze tool is een lichte webinterface die bovenop een bestaande WireGuard-installatie draait, zodat je peers, configuraties en verbindingen via een browser beheert in plaats van via handmatig geknutsel met configbestanden en terminalcommando's. Inspirerend omdat het bewust geen nieuwe VPN-oplossing probeert te zijn, maar zich beperkt tot het overzichtelijker maken van wat je al hebt draaien, wat het onderhoud van een zelfgehost VPN aanzienlijk laagdrempeliger maakt. Wat je nodig heeft: een werkende WireGuard-host (bijvoorbeeld op een Linux-server of VPS), basiskennis van netwerken en Docker, en een uur of wat om de tool te installeren en te koppelen aan je bestaande setup. Bron: https://github.com/logimaxx/wg-adm",
-      "url": "https://github.com/logimaxx/wg-admin",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.01,
-      "published_at": "2026-09-07T16:43:37+00:00"
-    },
-    {
-      "id": "3af3dbfde98de28b",
-      "title": "LLM Classification Is Feature Engineering",
-      "summary_nl": "Slimme classificatie zonder eindeloos handmatig labelen: dat is de kern van dit artikel. De auteur betoogt dat je een LLM niet per se hoeft in te zetten als eindbeslisser bij classificatietaken, maar veel effectiever als generator van features, denk aan sentiment, thema's of intentie, die je vervolgens voedt aan een traditioneel, goedkoop en voorspelbaar machine-learning model. Inspirerend omdat je zo het beste van twee werelden combineert: de taalbegrip van een LLM en de snelheid, kosten-efficiëntie en uitlegbaarheid van klassieke modellen zoals logistic regression of een random forest. Wat je nodig heb: basiskennis van machine learning en Python, toegang tot een LLM (via API), en een dataset om mee te experimenteren; een middag prototypen volstaat om het idee te testen. Zie het volledige artikel via https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/.",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.01,
-      "published_at": "2026-09-17T15:40:17+00:00"
     }
   ]
 }
