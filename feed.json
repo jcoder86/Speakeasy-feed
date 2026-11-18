@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:00:47.561593+00:00",
+  "generated_at": "2026-11-18T12:52:56.658776+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.26,
+      "final_score": 6.17,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.14,
+      "final_score": 6.04,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.29,
+      "final_score": 5.19,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.17,
+      "final_score": 5.07,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.1,
+      "final_score": 5.0,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.0,
+      "final_score": 4.91,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.7,
+      "final_score": 4.6,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 4.66,
+      "final_score": 4.56,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.6,
+      "final_score": 4.51,
       "published_at": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.37,
+      "final_score": 4.28,
       "published_at": "2026-09-22T07:12:46+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.31,
+      "final_score": 4.21,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.3,
+      "final_score": 4.2,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.29,
+      "final_score": 4.2,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.05,
+      "final_score": 3.96,
       "published_at": "2026-09-19T02:32:36+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.03,
+      "final_score": 3.93,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.02,
+      "final_score": 3.92,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.0,
+      "final_score": 3.91,
       "published_at": "2026-09-18T14:40:45+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.91,
+      "final_score": 3.81,
       "published_at": "2026-09-17T16:25:37+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.87,
+      "final_score": 3.77,
       "published_at": "2026-09-17T05:57:20+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.86,
+      "final_score": 3.76,
       "published_at": "2026-09-07T04:18:28+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.85,
+      "final_score": 3.76,
       "published_at": "2026-09-17T03:12:05+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.85,
+      "final_score": 3.76,
       "published_at": "2026-09-07T02:11:40+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.83,
+      "final_score": 3.74,
       "published_at": "2026-09-16T21:28:40+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.73,
+      "final_score": 3.64,
       "published_at": "2026-09-05T22:15:52+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.62,
+      "final_score": 3.53,
       "published_at": "2026-09-14T19:56:20+00:00"
     },
     {
@@ -284,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.6,
+      "final_score": 3.5,
       "published_at": "2026-09-14T13:59:09+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.57,
+      "final_score": 3.48,
       "published_at": "2026-09-14T07:35:00+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.5,
+      "final_score": 3.41,
       "published_at": "2026-09-13T15:07:42+00:00"
     },
     {
@@ -317,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.46,
+      "final_score": 3.36,
       "published_at": "2026-09-13T03:21:59+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.39,
+      "final_score": 3.3,
       "published_at": "2026-09-02T11:53:05+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.34,
+      "final_score": 3.25,
       "published_at": "2026-09-12T00:16:10+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.32,
+      "final_score": 3.23,
       "published_at": "2026-09-01T19:28:47+00:00"
     },
     {
@@ -361,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.32,
+      "final_score": 3.23,
       "published_at": "2026-09-21T18:53:01+00:00"
     },
     {
@@ -372,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.32,
+      "final_score": 3.22,
       "published_at": "2026-09-01T18:39:04+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.3,
+      "final_score": 3.21,
       "published_at": "2026-09-21T14:10:49+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.29,
+      "final_score": 3.19,
       "published_at": "2026-09-21T11:12:53+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.29,
+      "final_score": 3.19,
       "published_at": "2026-09-21T10:57:44+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.24,
+      "final_score": 3.15,
       "published_at": "2026-09-21T00:46:42+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.22,
+      "final_score": 3.13,
       "published_at": "2026-09-10T19:20:24+00:00"
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.21,
+      "final_score": 3.11,
       "published_at": "2026-09-20T15:43:32+00:00"
     },
     {
@@ -449,7 +449,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.16,
+      "final_score": 3.07,
       "published_at": "2026-09-20T05:05:12+00:00"
     },
     {
@@ -460,7 +460,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.15,
+      "final_score": 3.05,
       "published_at": "2026-09-10T02:04:11+00:00"
     },
     {
@@ -471,7 +471,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.11,
+      "final_score": 3.02,
       "published_at": "2026-09-19T17:30:14+00:00"
     },
     {
@@ -482,63 +482,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.1,
-      "published_at": "2026-09-09T14:54:49+00:00"
-    },
-    {
-      "id": "19ae3e6cafcc0497",
-      "title": "Claude, change the “Add to Cart” button to blue",
-      "summary_nl": "Claude verandert je webshop – gewoon door het te vragen\n\nEen ontwikkelaar liet Claude via een simpele opdracht de \"Add to Cart\"-knop van kleur laten veranderen, zonder zelf een regel CSS aan te raken. Het idee erachter: een AI-model dat rechtstreeks met de front-end van een website kan praten, zodat wijzigingen in natuurlijke taal doorgevoerd worden in plaats van via handmatig gecodeerde aanpassingen. Inspirerend omdat het laat zien hoe dicht AI-assistenten inmiddels bij praktische, dagelijkse ontwikkelwerkzaamheden staan, ook voor mensen die niet diep in de code zitten. Wat je nodig hebt: toegang tot Claude (of een vergelijkbaar model met code-integratie), een basaal begrip van je eigen website-structuur, en een uurtje om te experimenteren met dit soort opdrachten. Bron: https://opusfived.dev/",
-      "url": "https://opusfived.dev/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.08,
-      "published_at": "2026-09-09T09:39:46+00:00"
-    },
-    {
-      "id": "e000ff326e7335f9",
-      "title": "Show HN: Self-host open-source LLMs on AWS with scale-to-zero",
-      "summary_nl": "Zelf een taalmodel draaien zonder dat de rekening blijft lopen: dat is de belofte van VeloxML Deploy, een open-source tool die op Show HN werd gedeeld om open-source LLM's op eigen AWS-infrastructuur te hosten. Het bijzondere zit in de scale-to-zero functionaliteit: zodra het model niet gebruikt wordt, schalen de onderliggende resources terug naar nul, waardoor je alleen betaalt voor daadwerkelijk gebruik in plaats van voor een altijd-actieve server. Inspirerend omdat het een drempel wegneemt die veel mensen tegenhoudt bij self-hosting: de angst voor onnodige AWS-kosten tijdens stilstand. Wat je nodig heeft: een AWS-account met de nodige rechten, enige ervaring met cloud-deployments en Infrastructure-as-Code, en tijd om de configuratie op je eigen model en gebruikspatroon af te stemmen. Zie de broncode en documentatie op https://github.com/paguasmar/veloxml-deploy.",
-      "url": "https://github.com/paguasmar/veloxml-deploy",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.06,
-      "published_at": "2026-09-09T04:07:26+00:00"
-    },
-    {
-      "id": "a43be14e395e420e",
-      "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
-      "summary_nl": "Wie bewaakt jouw Python-dependencies terwijl jij aan het coderen bent? Package Doctor is een open-source scanner die je requirements doorlicht op pakketten die niet meer onderhouden worden of waarvan bekend is dat ze actief misbruikt worden, zodat je niet per ongeluk een verwaarloosde of gecompromitteerde library binnenhaalt. De tool draait lokaal tegen je dependency-lijst en geeft per pakket een oordeel, in plaats van dat je zelf elke changelog en CVE-database moet afspeuren. Wat je nodig hebt: een Python-project met een requirements- of lockfile, en de bereidheid om de scanner als extra stap in je workflow of CI op te nemen, zoals te zien op https://github.com/binuka200/package-doctor.",
-      "url": "https://github.com/binuka200/package-doctor",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.04,
-      "published_at": "2026-09-19T00:27:26+00:00"
-    },
-    {
-      "id": "3d68ad8e1324eb33",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "summary_nl": "Claude Code kijkt voortaan ook naar AGENTS.md. Als in een project geen CLAUDE.md aanwezig is, valt Claude Code automatisch terug op het AGENTS.md-bestand voor instructies en context over hoe het met de codebase moet omgaan. Dat is een kleine maar praktische aanpassing, want AGENTS.md wint terrein als een soort universele standaard waarmee verschillende AI-coding-tools dezelfde projectinstructies kunnen delen, zodat je niet voor elke tool een apart configuratiebestand hoeft bij te houden. Wat je nodig hebt: Claude Code, en eventueel een bestaand AGENTS.md-bestand in je project; geen extra installatie of instelling vereist. Bron: https://code.claude.com/docs/en/changelog",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.03,
-      "published_at": "2026-09-18T21:00:32+00:00"
-    },
-    {
-      "id": "5e051ef34a6d6335",
-      "title": "We made Playwright 2x faster and 80% more token efficient",
-      "summary_nl": "Sneller browsen met AI, zonder de rekening te laten oplopen: Stagehand belooft Playwright-scripts twee keer zo snel te maken en tegelijk 80 procent minder tokens te verbruiken. Het idee is dat je browserautomatisering combineert met AI-aansturing, maar dan zo efficiënt dat je niet voor elke actie een dure taalmodel-aanroep hoeft te doen; Stagehand cachet en optimaliseert de interacties tussen je code en de AI-laag, zodat herhaalde taken goedkoper en rapper verlopen. Wat je nodig hebt: ervaring met Playwright of vergelijkbare browserautomatisering, basiskennis van werken met AI-API's (bijvoorbeeld OpenAI of Anthropic), en een avond om de bibliotheek in een bestaand project te integreren en te testen. Bron: https://github.com/browserbase/stagehand",
-      "url": "https://github.com/browserbase/stagehand",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
       "final_score": 3.01,
-      "published_at": "2026-09-18T16:25:23+00:00"
+      "published_at": "2026-09-09T14:54:49+00:00"
     }
   ]
 }
