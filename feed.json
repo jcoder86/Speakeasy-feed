@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:35:23.607293+00:00",
+  "generated_at": "2026-11-19T12:44:05.386275+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.16,
+      "final_score": 6.07,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 6.04,
+      "final_score": 5.94,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.19,
+      "final_score": 5.09,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.07,
+      "final_score": 4.97,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 5.0,
+      "final_score": 4.9,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.9,
+      "final_score": 4.81,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.6,
+      "final_score": 4.5,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 4.56,
+      "final_score": 4.46,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.5,
+      "final_score": 4.41,
       "published_at": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.27,
+      "final_score": 4.18,
       "published_at": "2026-09-22T07:12:46+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.21,
+      "final_score": 4.12,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.2,
+      "final_score": 4.1,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 4.2,
+      "final_score": 4.1,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.95,
+      "final_score": 3.86,
       "published_at": "2026-09-19T02:32:36+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.93,
+      "final_score": 3.83,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.92,
+      "final_score": 3.82,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.9,
+      "final_score": 3.81,
       "published_at": "2026-09-18T14:40:45+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.81,
+      "final_score": 3.72,
       "published_at": "2026-09-17T16:25:37+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.77,
+      "final_score": 3.67,
       "published_at": "2026-09-17T05:57:20+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.76,
+      "final_score": 3.66,
       "published_at": "2026-09-07T04:18:28+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.76,
+      "final_score": 3.66,
       "published_at": "2026-09-17T03:12:05+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.75,
+      "final_score": 3.66,
       "published_at": "2026-09-07T02:11:40+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.73,
+      "final_score": 3.64,
       "published_at": "2026-09-16T21:28:40+00:00"
     },
     {
@@ -262,7 +262,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.64,
+      "final_score": 3.54,
       "published_at": "2026-09-05T22:15:52+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.53,
+      "final_score": 3.43,
       "published_at": "2026-09-14T19:56:20+00:00"
     },
     {
@@ -284,7 +284,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.5,
+      "final_score": 3.41,
       "published_at": "2026-09-14T13:59:09+00:00"
     },
     {
@@ -295,7 +295,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.47,
+      "final_score": 3.38,
       "published_at": "2026-09-14T07:35:00+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.41,
+      "final_score": 3.31,
       "published_at": "2026-09-13T15:07:42+00:00"
     },
     {
@@ -317,7 +317,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.36,
+      "final_score": 3.26,
       "published_at": "2026-09-13T03:21:59+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.29,
+      "final_score": 3.2,
       "published_at": "2026-09-02T11:53:05+00:00"
     },
     {
@@ -339,7 +339,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.24,
+      "final_score": 3.15,
       "published_at": "2026-09-12T00:16:10+00:00"
     },
     {
@@ -350,7 +350,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.22,
+      "final_score": 3.13,
       "published_at": "2026-09-01T19:28:47+00:00"
     },
     {
@@ -361,7 +361,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.22,
+      "final_score": 3.13,
       "published_at": "2026-09-21T18:53:01+00:00"
     },
     {
@@ -372,7 +372,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.22,
+      "final_score": 3.12,
       "published_at": "2026-09-01T18:39:04+00:00"
     },
     {
@@ -383,7 +383,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.2,
+      "final_score": 3.11,
       "published_at": "2026-09-21T14:10:49+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.19,
+      "final_score": 3.09,
       "published_at": "2026-09-21T11:12:53+00:00"
     },
     {
@@ -405,7 +405,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.19,
+      "final_score": 3.09,
       "published_at": "2026-09-21T10:57:44+00:00"
     },
     {
@@ -416,7 +416,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.15,
+      "final_score": 3.05,
       "published_at": "2026-09-21T00:46:42+00:00"
     },
     {
@@ -427,7 +427,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.12,
+      "final_score": 3.03,
       "published_at": "2026-09-10T19:20:24+00:00"
     },
     {
@@ -438,52 +438,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 9,
-      "final_score": 3.11,
-      "published_at": "2026-09-20T15:43:32+00:00"
-    },
-    {
-      "id": "e2fee75a952adefc",
-      "title": "rmalde/minecraft-agent",
-      "summary_nl": "Een AI-agent die leert Minecraft spelen door zichzelf te zien spelen\n\nDit project combineert een Astra-planner met een JEV-controller om een Minecraft-agent aan te sturen die zelfstandig acties plant en uitvoert. Het slimme zit in de opzet: native recording legt gameplay vast, routes worden getest en elke run wordt achteraf geverifieerd, waardoor je precies kunt zien of de agent doet wat bedoeld was. Inspirerend omdat het laat zien hoe je AI-besturing van een complexe, dynamische omgeving stap voor stap controleerbaar en reproduceerbaar maakt in plaats van een black box te laten draaien. Wat je nodig hebt: ervaring met Python en agent-architecturen, een Minecraft-omgeving om mee te testen, en tijd om de planner- en controllercode door te nemen, al is de repo vooral interessant als voorbeeldmateriaal voor wie zelf met game-agents experimenteert. Bron: https://github.com/rmalde/minecraft-agent",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.06,
-      "published_at": "2026-09-20T05:05:12+00:00"
-    },
-    {
-      "id": "8324d57fee88899a",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary_nl": "Een taalmodel trainen voor de prijs van een tweedehands laptop\n\nHugo Vergnes beschrijft hoe hij een taalmodel van 3,8 miljard parameters trainde tot een CORE-score van 0,384, met een totaalkostenplaatje van slechts 998 dollar. Het draait om slimme keuzes in architectuur, data-selectie en trainingsefficiëntie, waardoor het budget dat normaal voor grote techbedrijven is weggelegd hier tot een fractie wordt teruggebracht. Inspirerend omdat het laat zien dat serieuze LLM-training niet langer alleen is voorbehouden aan partijen met miljoenenbudgetten, en dat een goed doordachte aanpak meer verschil maakt dan pure rekenkracht. Wat je nodig heeft: gevorderde kennis van machine learning en trainingsinfrastructuur, toegang tot GPU-rekenkracht (al is die hier beperkt gehouden), en de bereidheid om dagen tot weken te investeren in experimenteren en optimaliseren. Bron: https://hugovergnes.github.io/little-lm-3-8b/",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.05,
-      "published_at": "2026-09-10T02:04:11+00:00"
-    },
-    {
-      "id": "dda1129af060adeb",
-      "title": "Show HN: BreachScanner – Check if your email has been in data breaches",
-      "summary_nl": "Datalekken checken zonder je gegevens aan een derde partij toe te vertrouwen: dat is het idee achter BreachScanner, een open-source tool die op Hacker News werd gedeeld. In plaats van je e-mailadres naar een externe dienst te sturen, draai je de scan zelf, wat betekent dat je zelf controle houdt over welke gegevens waar terechtkomen. De maker deelt de code op GitHub, zodat je precies kunt zien hoe de tool werkt en wat er met je gegevens gebeurt. Inspirerend omdat het laat zien dat je voor iets basaal als een breach-check niet per se afhankelijk hoeft te zijn van een centrale, commerciële partij. Wat je nodig hebt: basale kennis van het draaien van een script of programma (afhankelijk van de gebruikte taal), een kwartiertje om het op te zetten, en toegang tot GitHub om de broncode te bekijken (https://github.com/Aaronmike481/BreachScanner).",
-      "url": "https://github.com/Aaronmike481/BreachScanner",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 9,
-      "final_score": 3.02,
-      "published_at": "2026-09-19T17:30:14+00:00"
-    },
-    {
-      "id": "0722c0ec3b54a1f0",
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "summary_nl": "Grip op je AI-agents: Geiger maakt zichtbaar wie er meekijkt\n\nGeiger is een open-source tool die in kaart brengt welke AI-agents er op je machine actief zijn en, belangrijker nog, tot welke bestanden, processen en systemen ze toegang hebben. De slimme vondst zit in de aanpak: in plaats van achteraf te ontdekken dat een agent ergens bij kon, krijg je vooraf en realtime inzicht in het \"bereik\" van elk actief AI-proces. Inspirerend omdat de wildgroei aan lokale AI-agents (denk aan coding assistants, automatiseringsscripts en autonome tools) vaak neerkomt op een blackbox qua rechten en toegang, terwijl je als gebruiker eigenlijk nooit precies weet wat je hebt toegestaan. Wat je nodig heb je: een systeem waar je AI-agents lokaal draait, wat affiniteit met command-line tools, en een half uurtje om de installatie en eerste scan te doorlopen. Zie de broncode en toelichting op https://github.com/Atomburstofficial/geiger.",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
       "final_score": 3.01,
-      "published_at": "2026-09-09T14:54:49+00:00"
+      "published_at": "2026-09-20T15:43:32+00:00"
     }
   ]
 }
