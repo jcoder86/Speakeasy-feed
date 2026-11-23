@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:17:46.504509+00:00",
+  "generated_at": "2026-11-23T15:33:50.841675+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.66,
+      "final_score": 5.65,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.54,
+      "final_score": 5.53,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.69,
+      "final_score": 4.68,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.5,
+      "final_score": 4.49,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.4,
+      "final_score": 4.39,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.1,
+      "final_score": 4.09,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 4.06,
+      "final_score": 4.05,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.71,
+      "final_score": 3.7,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.7,
+      "final_score": 3.69,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.31,
+      "final_score": 3.3,
       "published_at": "2026-09-17T16:25:37+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.27,
+      "final_score": 3.26,
       "published_at": "2026-09-17T05:57:20+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.26,
+      "final_score": 3.25,
       "published_at": "2026-09-07T04:18:28+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.25,
+      "final_score": 3.24,
       "published_at": "2026-09-07T02:11:40+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.23,
+      "final_score": 3.22,
       "published_at": "2026-09-16T21:28:40+00:00"
     },
     {
@@ -275,17 +275,6 @@
       "score": 10,
       "final_score": 3.02,
       "published_at": "2026-09-14T19:56:20+00:00"
-    },
-    {
-      "id": "80c2f34d29a9d3da",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "summary_nl": "Van Opus naar je eigen server: wat er stukgaat als je grip wilt houden op je AI-kosten\n\nWie een uitgebreide preprompt van 35kb heeft opgebouwd voor Claude Opus en die vervolgens wil verhuizen naar een zelf gehost model via Ollama, komt een reeks praktische valkuilen tegen die niet meteen zichtbaar zijn. De auteur documenteert concrete verschillen in hoe modellen omgaan met lange system prompts, context-vensters en formattering, zaken die bij Anthropic of OpenAI soepel verliepen maar bij self-hosted LLM's opeens tot rare output of gemiste instructies leiden. Inspirerend omdat het laat zien dat overstappen naar eigen infrastructuur niet alleen een kwestie van \"ander model aanroepen\" is, maar vraagt om herzien hoe je prompts structureert. Wat je nodig heb: ervaring met het bouwen en debuggen van prompts, een lokale Ollama-installatie, en tijd om iteratief te testen welke aanpassingen nodig zijn (reken op een paar dagen puzzelwerk per prompt). Bron: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.0,
-      "published_at": "2026-09-14T13:59:09+00:00"
     }
   ]
 }
