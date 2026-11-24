@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:33:50.841675+00:00",
+  "generated_at": "2026-11-24T14:42:02.590606+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.65,
+      "final_score": 5.56,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.53,
+      "final_score": 5.44,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.68,
+      "final_score": 4.59,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.56,
+      "final_score": 4.46,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.49,
+      "final_score": 4.4,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.39,
+      "final_score": 4.3,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.09,
+      "final_score": 4.0,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 4.05,
+      "final_score": 3.95,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.0,
+      "final_score": 3.9,
       "published_at": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.77,
+      "final_score": 3.67,
       "published_at": "2026-09-22T07:12:46+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.7,
+      "final_score": 3.61,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.69,
+      "final_score": 3.6,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.69,
+      "final_score": 3.59,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.45,
+      "final_score": 3.35,
       "published_at": "2026-09-19T02:32:36+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.42,
+      "final_score": 3.32,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.41,
+      "final_score": 3.31,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.4,
+      "final_score": 3.3,
       "published_at": "2026-09-18T14:40:45+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.3,
+      "final_score": 3.21,
       "published_at": "2026-09-17T16:25:37+00:00"
     },
     {
@@ -207,7 +207,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.26,
+      "final_score": 3.16,
       "published_at": "2026-09-17T05:57:20+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.25,
+      "final_score": 3.16,
       "published_at": "2026-09-07T04:18:28+00:00"
     },
     {
@@ -229,7 +229,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.25,
+      "final_score": 3.15,
       "published_at": "2026-09-17T03:12:05+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.24,
+      "final_score": 3.15,
       "published_at": "2026-09-07T02:11:40+00:00"
     },
     {
@@ -251,7 +251,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.22,
+      "final_score": 3.13,
       "published_at": "2026-09-16T21:28:40+00:00"
     },
     {
@@ -262,19 +262,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.13,
+      "final_score": 3.03,
       "published_at": "2026-09-05T22:15:52+00:00"
-    },
-    {
-      "id": "baf3658e1d9c87c8",
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary_nl": "Goedkoop model, serieuze concurrentie: GPT-5.6 Luna neemt het op tegen GPT-6 Astra bij code review. De vergelijking draait om een praktische vraag: kan een model dat maar 1,20 dollar per taak kost, kwalitatief meekomen met een duurdere, geavanceerdere variant bij het beoordelen van code op bugs, stijl en logica? De slimme vondst zit in het testen op concrete, herkenbare code-reviewtaken in plaats van abstracte benchmarks, waardoor de resultaten direct bruikbaar zijn voor ontwikkelaars die moeten kiezen tussen kosten en kwaliteit. Inspirerend omdat het laat zien dat prijs niet automatisch gelijk staat aan prestatie, en dat goedkopere AI-modellen steeds vaker een serieus alternatief vormen voor dagelijkse ontwikkelwerkzaamheden. Wat je nodig hebt: geen speciale tools, alleen affiniteit met softwareontwikkeling en interesse in hoe AI-modellen zich onderling verhouden qua prijs-kwaliteit; de tekst zelf is in enkele minuten te lezen (bron: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.02,
-      "published_at": "2026-09-14T19:56:20+00:00"
     }
   ]
 }
