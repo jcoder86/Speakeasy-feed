@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:12:24.862575+00:00",
+  "generated_at": "2026-11-26T13:42:42.933481+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -9,7 +9,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.46,
+      "final_score": 5.36,
       "published_at": "2026-09-21T04:42:37+00:00"
     },
     {
@@ -20,7 +20,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 5.33,
+      "final_score": 5.24,
       "published_at": "2026-09-19T23:08:24+00:00"
     },
     {
@@ -31,7 +31,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.48,
+      "final_score": 4.39,
       "published_at": "2026-09-21T11:29:18+00:00"
     },
     {
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.36,
+      "final_score": 4.27,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.29,
+      "final_score": 4.2,
       "published_at": "2026-09-19T13:50:26+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.2,
+      "final_score": 4.1,
       "published_at": "2026-09-18T14:18:41+00:00"
     },
     {
@@ -75,7 +75,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.89,
+      "final_score": 3.8,
       "published_at": "2026-09-15T13:31:37+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 3.85,
+      "final_score": 3.76,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -97,7 +97,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 3.8,
+      "final_score": 3.7,
       "published_at": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "source": "devto",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.57,
+      "final_score": 3.47,
       "published_at": "2026-09-22T07:12:46+00:00"
     },
     {
@@ -119,7 +119,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.5,
+      "final_score": 3.41,
       "published_at": "2026-09-21T16:22:06+00:00"
     },
     {
@@ -130,7 +130,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.49,
+      "final_score": 3.4,
       "published_at": "2026-09-21T13:38:19+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.49,
+      "final_score": 3.39,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -152,7 +152,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.25,
+      "final_score": 3.15,
       "published_at": "2026-09-19T02:32:36+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.22,
+      "final_score": 3.13,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.21,
+      "final_score": 3.12,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
@@ -185,7 +185,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.2,
+      "final_score": 3.1,
       "published_at": "2026-09-18T14:40:45+00:00"
     },
     {
@@ -196,63 +196,8 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.11,
+      "final_score": 3.01,
       "published_at": "2026-09-17T16:25:37+00:00"
-    },
-    {
-      "id": "50c59a00840eee09",
-      "title": "tamaratran/fast-jev-compaction",
-      "summary_nl": "Slimmer opruimen in plaats van samenvatten: dat is het idee achter fast-jev-compaction van tamaratran. Deze Claude Code-plugin vervangt de standaard compactie-samenvatting door een systeem dat elke tool-aanroep en elk resultaat in één snelle aanroep laat beoordelen op relevantie, de \"Jev decisions\". Verouderde of onbelangrijke informatie wordt vervolgens weggegooid of ingekort, terwijl alles dat de moeite waard is woordelijk bewaard blijft in plaats van herschreven te worden tot een vage samenvatting. Inspirerend omdat het een concreet antwoord biedt op een bekend probleem bij lange AI-sessies: context die verlo",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "source": "github",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.06,
-      "published_at": "2026-09-17T05:57:20+00:00"
-    },
-    {
-      "id": "dade75e109c2e844",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "summary_nl": "Veilig experimenteren met AI-agents zonder je systeem op het spel te zetten\n\nCoop is een tool van Trail of Bits waarmee je Claude Code en Codex draait in geïsoleerde virtuele machines, in plaats van rechtstreeks op je eigen computer. De slimme vondst is dat je zo AI-agents vrij hun gang kunt laten gaan, bestanden aanpassen, commando's uitvoeren, pakketten installeren, zonder dat een fout of onverwachte actie je hoofdsysteem raakt. Inspirerend omdat het een praktisch antwoord geeft op een risico waar veel mensen die met AI-coding-agents werken nog te weinig bij stilstaan. Wat je nodig hebt: ervaring met de command line en basiskennis van virtualisatie, plus een systeem dat VM's kan draaien; installatie en configuratie kosten een uur of wat, afhankelijk van je vertrouwdheid met dit soort tooling. Meer details op https://github.com/trailofbits/coop.",
-      "url": "https://github.com/trailofbits/coop",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 11,
-      "final_score": 3.05,
-      "published_at": "2026-09-07T04:18:28+00:00"
-    },
-    {
-      "id": "1b8e35a5a0147eea",
-      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-      "summary_nl": "Snelheid als speerpunt: een browseragent die niet wacht tot je scrollt. Jev Ultrafast is een variant binnen het browser-use ecosysteem die webpagina's dynamisch indexeert, zodat een taalmodel acties (klikken, typen, scrollen) kan aansturen via genummerde referenties naar elementen op de pagina, in plaats van via trage, statische selectors. De slimme vondst is dat de actieruimte meebeweegt met de pagina-inhoud, wat de agent responsiever maakt bij complexe of veranderende interfaces. Wat je nodig hebt: basiskennis van Python en LLM-API's, ervaring met browser-automatiseringstools z",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.05,
-      "published_at": "2026-09-17T03:12:05+00:00"
-    },
-    {
-      "id": "ffcf44e1451348be",
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "summary_nl": "Ripwire: een plattegrond van je codebase, in plaats van eindeloos zoeken\n\nCoding agents zoals Claude of Copilot verspillen vaak tijd met het doorzoeken van bestanden om te begrijpen hoe een repository in elkaar zit. Ripwire pakt dit anders aan: het bouwt een navigeerbare kaart van de code, vergelijkbaar met wat ripgrep doet voor tekstzoekopdrachten, maar dan gericht op structuur en context. Het werkt zowel als command-line tool als via het Model Context Protocol (MCP), waardoor AI-assistenten direct de juiste context krijgen zonder zelf te hoeven graven. Wat je nodig hebt: een repository om te indexeren, basiskennis van CLI-tools of MCP-integraties, en een kwartiertje om het uit te proberen op een eigen project. Bron: https://github.com/redhat-et/ripwire",
-      "url": "https://github.com/redhat-et/ripwire",
-      "source": "hn",
-      "category": "ai_usecase",
-      "score": 11,
-      "final_score": 3.05,
-      "published_at": "2026-09-07T02:11:40+00:00"
-    },
-    {
-      "id": "81f63e7b0c17ce9d",
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "summary_nl": "Hoe praat een taalmodel eigenlijk met een API? Dit artikel legt tool calling uit vanaf de basis: het model roept zelf geen functies aan, maar herkent uit de conversatie dat een taak nodig is, formuleert een gestructureerd verzoek (meestal JSON) met de juiste functienaam en parameters, en de omliggende applicatie voert die aanroep vervolgens echt uit. De slimme vondst is dat het model dus geen code uitvoert, het beschrijft alleen wat er moet gebeuren, waarna jouw eigen systeem de brug slaat naar de daadwerkelijke API. Inspirerend omdat het de vaak mysterieuze \"AI doet dit zelf\" aanname doorprikt en laat zien dat je als ontwikkelaar volledige controle houdt over wat er werkelijk wordt uitgevoerd. Wat je nodig hebt: basiskennis van JSON en API's, een LLM met tool-calling ondersteuning (zoals via AWS Bedrock of vergelijkbare diensten), en een uur of wat om de voorbeelden door te nemen. Bron: https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "source": "devto",
-      "category": "ai_usecase",
-      "score": 10,
-      "final_score": 3.03,
-      "published_at": "2026-09-16T21:28:40+00:00"
     }
   ]
 }
