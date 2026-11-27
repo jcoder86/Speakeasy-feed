@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:39:53.851688+00:00",
+  "generated_at": "2026-11-27T14:31:55.130627+00:00",
   "items": [
     {
       "id": "3548d7f6cf97dad9",
@@ -42,7 +42,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 11,
-      "final_score": 4.17,
+      "final_score": 4.16,
       "published_at": "2026-09-20T05:46:19+00:00"
     },
     {
@@ -86,7 +86,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 12,
-      "final_score": 3.66,
+      "final_score": 3.65,
       "published_at": "2026-09-05T03:38:56+00:00"
     },
     {
@@ -141,7 +141,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.3,
+      "final_score": 3.29,
       "published_at": "2026-09-21T12:28:17+00:00"
     },
     {
@@ -163,7 +163,7 @@
       "source": "github",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.03,
+      "final_score": 3.02,
       "published_at": "2026-09-18T20:01:48+00:00"
     },
     {
@@ -174,7 +174,7 @@
       "source": "hn",
       "category": "ai_usecase",
       "score": 10,
-      "final_score": 3.02,
+      "final_score": 3.01,
       "published_at": "2026-09-18T17:46:21+00:00"
     },
     {
